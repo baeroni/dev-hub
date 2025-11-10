@@ -1,0 +1,12 @@
+Name                DisplayName                              State   StartMode
+----                -----------                              -----   ---------
+Dhcp                DHCP Client                              Running Auto
+Dnscache            DNS Client                               Running Auto
+DPS                 Diagnostic Policy Service                Running Auto
+EventLog            Windows Event Log                        Running Auto
+Netman              Network Connections                      Stopped Manual
+netprofm            Network List Service                     Running Auto
+NlaSvc              Network Location Awareness               Running Auto
+nsi                 Network Store Interface Service          Running Auto
+WinHttpAutoProxySvc WinHTTP Web Proxy Auto-Discovery Service Running Manual
+WlanSvc             WLAN AutoConfig                          Running Auto

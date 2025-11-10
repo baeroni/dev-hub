@@ -1,0 +1,8 @@
+[C:\Users\Roni] # Get-CimInstance -ClassName Win32_Service |
+>>   Where-Object { $svcNames -contains $_.Name } |
+>>   Select-Object @{n='Name';e={$_.Name}},
+>>                 @{n='DisplayName';e={$_.DisplayName}},
+>>                 @{n='State';e={$_.State}},
+>>                 @{n='StartMode';e={$_.StartMode}} |
+>>   Sort-Object Name |
+>>   Format-Table -AutoSize

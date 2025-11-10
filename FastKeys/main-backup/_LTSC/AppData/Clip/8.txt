@@ -1,0 +1,15 @@
+Name                     : Unidentified network                                                    ]
+InterfaceAlias           : vEthernet (Default Switch)                                              ]
+InterfaceIndex           : 19                                                                      ]
+NetworkCategory          : Public                                                                  ]
+DomainAuthenticationKind : None                                                                    ]
+IPv4Connectivity         : NoTraffic                                                               ]
+IPv6Connectivity         : NoTraffic                                                               ]
+                                                                                                   ]
+Name                     : Jonatas                                                                 ]
+InterfaceAlias           : Wi-Fi                                                                   ]
+InterfaceIndex           : 16
+NetworkCategory          : Private
+DomainAuthenticationKind : None
+IPv4Connectivity         : Internet
+IPv6Connectivity         : Internet

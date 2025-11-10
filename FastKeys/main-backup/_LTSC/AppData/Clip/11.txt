@@ -1,0 +1,6 @@
+# Reativar e iniciar os serviços de detecção de rede
+Set-Service -Name NlaSvc -StartupType Automatic
+Start-Service -Name NlaSvc
+
+Set-Service -Name netprofm -StartupType Automatic
+Start-Service -Name netprofm

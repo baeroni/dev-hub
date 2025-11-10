@@ -1,0 +1,2 @@
+Restart-Service: Cannot stop service 'Network List Service (netprofm)' because it has dependent services. It can only be stopped if the Force flag is set.
+Restart-Service: Cannot stop service 'Network Location Awareness (NlaSvc)' because it has dependent services. It can only be stopped if the Force flag is set.

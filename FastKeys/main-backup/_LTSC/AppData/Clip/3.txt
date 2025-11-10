@@ -1,0 +1,6 @@
+# Reinicia a pilha de rede e atualiza a detecção de status
+Stop-Process -Name explorer -Force
+Start-Process explorer.exe
+
+# Reinicia os serviços de rede para atualização do ícone e status
+Restart-Service -Name NlaSvc, netprofm, WlanSvc

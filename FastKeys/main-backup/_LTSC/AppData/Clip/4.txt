@@ -1,0 +1,21 @@
+There is 1 interface on the system:                                                                ]
+                                                                                                   ]
+    Name                   : Wi-Fi                                                                 ]
+    Description            : Realtek RTL8187B Wireless 802.11b/g 54Mbps USB 2.0 Network Adapter    ]
+    GUID                   : cb6f67b8-bd0d-443c-9f46-306ebfd6e511                                  ]
+    Physical address       : 00:25:d3:4c:dd:e1                                                     ]
+    State                  : connected                                                             ]
+    SSID                   : Jonatas                                                               ]
+    BSSID                  : 10:a7:93:36:ed:ff                                                     ]
+    Network type           : Infrastructure                                                        ]
+    Radio type             : 802.11g
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 6
+    Receive rate (Mbps)    : 54
+    Transmit rate (Mbps)   : 48
+    Signal                 : 74%
+    Profile                : Jonatas
+
+    Hosted network status  : Not available
