@@ -1,0 +1,4 @@
+https://chatgpt.com/c/690e356a-36c8-832b-9c4f-c1aba0083081
+
+@echo off
+xcopy "%~dp0fk38" "%ALLUSERSPROFILE%\FastKeys\" /H /Y
