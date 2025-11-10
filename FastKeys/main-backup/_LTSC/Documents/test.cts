@@ -1,0 +1,183 @@
+﻿Menu 1|Menu 2
+‼
+1•Google••Run•http://www.google.com•1•0••0
+1•YouTube••Run•www.youtube.com•1•0••0
+1•G-Roni Account••Run•https://mail.google.com/mail/u/0/#inbox•1•0••0
+0•FastKeys Forum••Run•http://www.fastkeysautomation.com/forum•1•0••0
+1•--------•••••0••0
+0•My Documents••Run•explorer.exe shell:::{450d8fba-ad25-11d0-98a8-0800361b1103}•1•0••0
+0•Desktop Example••Run•http://money.cnn.com/¶calc¶notepad•1•0••0
+0•Show/Hide Clock••Command•if WinExist("Clock") {¶ Gui, 24:Destroy¶ SetTimer, UC, Off¶}¶else { ¶Gui, 24:+ToolWindow +AlwaysOnTop -sysmenu ;-caption¶Gui, 24:Color, black¶Gui, 24:Font, s16 cwhite¶Gui, 24:Add, Text, W100 H20 +Center vText¶SetTimer, UC, 1000¶Gosub, UC¶h:=A_ScreenWidth-300¶Gui, 24:Show, x%h% y50, Clock¶}¶Return¶UC:¶GuiControl,24:, Text, %A_Hour%:%A_Min%:%A_Sec%¶Return•1•0••0
+1•C:\ Disk••Run•C:\•5•0••0
+0•My Phrases•Signature•Send•Ronaldo Obem¶Av. João Pessoa,1203/717¶Porto Alegre, RS, 90040001¶roni.obem@gmail.com¶Phone¶5196522985•1•0••0
+0•My Phrases•Thank you phrase•Send•Thank you for your mail. I will get back to you as soon as possible.¶¶Kind regards, John•1•0••0
+0•My Phrases•Closing phrase•Send•In the case you have any questions, please do not hesitate to contact us.¶¶Best regards, John•1•0••0
+1•--------•••••0••0
+0•Microsoft Office•Word•Run•winword•1•0••0
+0•Microsoft Office•Excel•Run•excel.exe•1•0••0
+0•Microsoft Office•Outlook•Run•Outlook.exe•1•0••0
+0•Microsoft Office•PowerPoint•Run•Powerpnt.exe•1•0••0
+1•System•Control Panel•Run•control•1•0••0
+0•System•Devices and Printers•Run•explorer.exe shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}•1•0••0
+1•System•Task Manager•Run•taskmgr.exe•1•0••0
+1•System•System•Run•explorer.exe shell:::{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}•1•0••0
+1•System•Device Manager•Run•devmgmt.msc•1•0••0
+1•System•Run•Run•cmd•1•0••0
+1•Applications•Notepad•Run•notepad.exe•1•0••0
+1•Applications•Paint•Run•mspaint•1•0••0
+1•Applications•Calculator•Run•Calc.exe•1•0••0
+1•Power•Logoff•Run•shutdown.exe /l•1•0••0
+1•Power•Shutdown•Run•shutdown.exe /s /t 5•1•0••0
+1•Power•Restart•Run•shutdown.exe /r /t 5•1•0••0
+1•Power•Lock•Run•rundll32.exe user32.dll,LockWorkStation•1•0••0
+→
+0•Signature••Send•My FirstName LastName¶Street ¶City, State, Zip¶Email Address¶Phone¶Cell Phone•1•0••0
+0•Thank you phrase••Send•Thank you for your mail. I will get back to you as soon as possible.¶¶Kind regards, John•1•0••0
+0•Mail response••Send•Dear %Cursor%,¶¶thank you for your message. I will get back to you as soon as possible.¶¶Kind regards,¶John•1•0••
+0•Documents••Run•explorer.exe shell:::{450d8fba-ad25-11d0-98a8-0800361b1103}•1•0••0
+0•Chrome••Run•C:\Program Files (x86)\Google\Chrome\Application\chrome.exe•1•0••0
+∟
+Default|New Tab|New Tab|New Tab
+‼
+1•^CapsLock•Ctrl + CapsLock•Change Caps Text Utility•Command•Menu Case, Add¶Menu Case, DeleteAll¶Menu Case, Add, &UPPERCASE, CCase¶Menu Case, Add, &lowercase, CCase¶Menu Case, Add, &Title Case, CCase¶Menu Case, Add, &Sentence case, CCase¶Menu Case, Add¶Menu Case, Add, &Fix Linebreaks, CCase¶Menu Case, Add, &Reverse, CCase¶Menu Case, Add¶Menu Case, Add, &Remove Spaces, CCase¶¶GetText(Txt)¶If NOT ERRORLEVEL¶  Menu Case, Show¶Return¶¶CCase:¶p:=A_ThisMenuItemPos¶If (p=1)¶  StringUpper, Txt, Txt¶Else If (p=2)¶  StringLower, Txt, Txt¶Else If (p=3)¶  StringLower, Txt, Txt, T¶Else If (p=4)¶{¶  StringLower, Txt, Txt¶  Txt := RegExReplace(Txt, "((?:^|[.!?]\s+)[a-z])", "$u1")¶}¶Else If (p=6)¶{¶  Txt := RegExReplace(Txt, "\R", "`r`n")¶}¶Else If (p=7)¶{¶  Temp2 =¶  StringReplace, Txt, Txt, `r`n, % Chr(29), All¶  Loop Parse, Txt¶    Temp2 := A_LoopField . Temp2¶  StringReplace, Txt, Temp2, % Chr(29), `r`n, All¶}¶Else If (p=9)¶{¶  Loop ¶  { ¶  StringReplace, Txt, Txt, %A_Space%%A_Space%, %A_Space%, UseErrorLevel ¶  if ErrorLevel = 0  ¶    break ¶  }¶}¶PutText(Txt)¶Return¶¶GetText(ByRef MyText = "")¶{¶SavedClip := ClipboardAll¶Clipboard =¶Send ^{vk43} ;Ctrl C¶ClipWait 0.5¶If ERRORLEVEL¶{¶  Clipboard := SavedClip¶  MyText =¶  Return¶}¶MyText := Clipboard¶Clipboard := SavedClip¶Return MyText¶}¶¶PutText(MyText)¶{¶SavedClip := ClipboardAll ¶Clipboard =¶Sleep 20¶Clipboard := MyText¶Send ^{vk56} ;Ctrl V¶Sleep 100¶Clipboard := SavedClip¶Return¶}••^CapsLock•0
+1•~Escape•Escape•Double-click Esc Close Window/Tab•Command•WinGetClass Class, A¶If (A_ThisHotKey = A_PriorHotkey && A_TimeSincePriorHotkey < 350)¶ If Class in MozillaWindowClass,IEFrame¶  Send ^{vk57} ;Ctrl w¶ Else¶  Send !{F4}•••0
+1•!Insert•Alt + Insert•Window Always on Top +•Command•Winset,AlwaysOnTop,,A¶WinGetTitle, Name, A¶If (SubStr(Name, 1, 1) = "+")¶ Name:=Name := SubStr(Name, 3)¶else¶ Name:="+ " . Name ;chr(134)¶WinSetTitle, A, , %Name%•••0
+1•!G•Alt + G•Google Search Text•Command•Send, ^{vk43} ;Ctrl C¶Sleep 50¶Run, http://www.google.com/search?q=%clipboard%•••0
+0•^3•Ctrl + 3•Search Text in Word Dictionary•Command•SaveClip := ClipboardAll¶Clipboard := ""¶Send ^{vk43} ;Ctrl C¶ClipWait 1¶Word := RegExReplace(Clipboard, "[^\w\s]")¶Clipboard := SaveClip¶SaveClip := ""¶Run, http://dictionary.reference.com/browse/%Word%?s=t•••0
+1•!H•Alt + H•Hide Other Windows•Command•SetWinDelay,0¶If WinNotExist,ahk_id %id%¶  WinRestore,A¶WinGet,id,ID,A¶WinGet,style,Style,ahk_id %id%¶If (style & 0x20000)¶{¶  WinGet,winid_,List,,,Program Manager¶  Loop,%winid_% ¶  {¶    StringTrimRight,winid,winid_%A_Index%,0¶    If id=%winid%¶      Continue¶    WinGet,style,Style,ahk_id %winid%¶    If (style & 0x20000)¶    {¶     WinGet,state,MinMax,ahk_id %winid%,¶     If state=-1¶	Continue¶     WinGetClass,class,ahk_id %winid%¶     If class=Shell_TrayWnd¶	Continue¶     IfWinExist,ahk_id %winid%¶	WinMinimize,ahk_id %winid%¶    }¶  }¶}•••0
+0•!W•Alt + W•StopWatch Timer•Command•if WinExist("Timer") {¶ Gui, 12:Destroy¶ SetTimer, 12Count, Off¶}¶else {¶12DateTimeStamp=20061203000000¶Gui, 12:  +AlwaysOnTop¶Gui, 12:Font, s14¶Gui, 12:Add, Text,, Start Time:¶Gui, 12:Add, Text, xp+100 h20 yp  v12Beg , 00:00:00¶Gui, 12:Add, Text, xm, Duration:¶Gui, 12:Add, Text, xp+100 h20 yp  v12Time, 00:00:00¶Gui, 12:Add, Text, xm, Stop Time:¶Gui, 12:Add, Text, xp+100 h20 yp  v12End , 00:00:00¶Gui, 12:Font¶Gui, 12:Add, Button, xm-2 y+15 w55 h23 v12StartStop g12StartStop, Start¶Gui, 12:Add, Button, x+2 wp hp v12PauseResume g12PauseResume, Pause¶Gui, 12:Add, Button, x+2 wp hp v12Reset g12Reset, Reset¶Gui, 12:Show, x200 y200, Timer¶}¶return¶¶12StartStop:¶GuiControlGet, 12StartStop¶If ( 12StartStop = "Start" ) ¶{¶ GuiControl, 12:, 12StartStop, Stop¶ 12Beg:=A_Hour . ":" . A_Min . ":" . A_Sec¶ GuiControl, 12:, 12Beg, %12Beg%¶ GuiControl, 12:, 12End, 00:00:00¶ SetTimer, 12Count,990¶}¶Else¶{¶ GuiControl, 12:, 12StartStop, Start¶ 12End:=A_Hour . ":" . A_Min . ":" . A_Sec¶ GuiControl, 12:, 12End, %12End%¶ SetTimer, 12Count, Off¶ GuiControl, 12:, 12PauseResume, Pause¶ 12DateTimeStamp = 20061203000000¶} ¶Return¶ ¶12PauseResume:¶GuiControlGet, 12StartStop¶If ( 12StartStop = "Start" )¶  Return¶GuiControlGet, 12PauseResume¶If ( 12PauseResume = "Pause" ) ¶{¶ GuiControl, 12:, 12PauseResume, Resume¶ SetTimer, 12Count, OFF¶}¶Else¶{¶ GuiControl, 12:, 12PauseResume, Pause¶ SetTimer, 12Count, 990¶} ¶Return¶¶12Reset:¶GuiControl, 12:, 12Time, 00:00:00¶12Beg:=A_Hour . ":" . A_Min . ":" . A_Sec¶GuiControl, 12:, 12Beg, %12Beg%¶12DateTimeStamp = 20061203000000¶GuiControl, 12:, 12End, 00:00:00¶Return¶¶12Count:¶12DateTimeStamp += 1, Seconds¶FormatTime, nTime, %12DateTimeStamp%, HH:mm:ss¶GuiControlGet, 12Time¶If ( 12Time <> nTime )            ¶  GuiControl, 12:, 12Time, %nTime% ¶Return¶¶12GuiClose:¶Gui, 12:Destroy¶SetTimer, 12Count, Off¶return••!VK57•0
+0•+!q•Shift + Alt + Q•Make Window Transparent•Command•togg34:=!togg34¶if togg34¶ WinSet, Transparent, 200 , A   ;transparency¶else¶ WinSet, Transparent, OFF , A••+!VK51•0
+0•^PrintScreen•Ctrl + PrintScreen•Window Screen to Paint•Command•clipsave=%clipboard%¶Send, !{PRINTSCREEN}¶ClipWait 1¶Run, mspaint.exe¶WinWaitActive ahk_class MSPaintApp¶Send, ^{vk56} ;Ctrl V¶ClipWait 1¶clipboard=%clipsave%••^PrintScreen•0
+1•!Q•Alt + Q•Recent Files/Folders Menu•Command•if A_OSVersion in WIN_98,WIN_ME,WIN_XP ¶{¶  EnvGet, Path, UserProfile¶  fd = %Path%\Recent¶}¶else¶  fd=%A_AppData%\Microsoft\Windows\Recent¶Menu, RM, UseErrorLevel¶Menu, RM, DeleteAll¶Menu, RM, Delete¶FileList =¶Loop, %fd%\*.*, 0, 0¶    FileList = %FileList%%A_LoopFileTimeModified%`t%A_LoopFileFullPath%`n¶Sort, FileList, R¶Loop, parse, FileList, `n¶{¶   if (A_index=16)¶      break¶   if A_LoopField =¶      continue¶   StringSplit, FileItem, A_LoopField, %A_Tab%¶   OutTarget= %FileItem2%¶   Splitpath, OutTarget,name,,Ext¶   FileGetShortcut, %OutTarget%, FileTo¶   FileGetAttrib, Attributes, %FileTo%¶   SplitPath, FileTo,name,,Ext¶   If InStr(Attributes, "D" )¶   {¶      IconFile:="C:\Windows\system32\imageres.dll"¶      icc:=4¶   }¶   else¶   {¶      IconFile:=AssocQueryApp(Ext)¶      icc:=2¶   }¶   Menu, RM, Add, %name%, LabelR¶   Menu, RM, Icon, %name%, %IconFile%, %icc%, 16¶   if errorlevel¶      Menu, RM, Icon, %name%, %IconFile%, 1, 16¶   if errorlevel¶      Menu, RM, Icon, %name%, C:\Windows\system32\imageres.dll, 12, 16¶}¶Menu, RM, show¶Return¶¶LabelR:¶run, %fd%\%A_ThisMenuItem%.lnk,,useerrorlevel¶return¶¶AssocQueryApp(ext) {¶	RegRead, type, HKCU, Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.%Ext%, Application¶	If !ErrorLevel {¶		RegRead, act, HKCU, Software\Classes\Applications\%type%\shell¶		If ErrorLevel¶			act = open¶		RegRead, cmd, HKCU, Software\Classes\Applications\%type%\shell\%act%\command¶    }¶	Else {¶		RegRead, type, HKCR, .%Ext%¶		RegRead, act , HKCR, %type%\shell¶		If ErrorLevel¶			act = open¶        RegRead, cmd , HKCR, %type%\shell\%act%\command¶        EXEPosition := InStr(cmd,".exe",false,0,1)¶        exepath := Trim(SubStr(cmd,1,EXEPosition+3),"""")¶    }¶    Return, exepath¶}•••0
+0•!V•Alt + V•Paste Without Formatting•Command•clipboard=%clipboard%¶sleep 100¶Send, ^{vk56} ;Ctrl V•••0
+0•!4•Alt + 4•Change Default Audio Device•Command•toggle32:=!toggle32¶Run, mmsys.cpl¶WinWaitActive,Sound¶if toggle32¶ ControlSend,SysListView321,{Down}¶else¶ ControlSend,SysListView321,{Down 3}¶Sleep, 50¶ControlClick,Button2¶ControlClick,OK•••0
+1•#P•Win + P•Get File Properties•Command•Send, ^c¶Sleep 150¶properties:=""¶filepath := clipboard¶SplitPath, filepath, FileName, DirPath,¶¶objShell := ComObjCreate("Shell.Application")¶objFolder := objShell.NameSpace(DirPath)¶objFolderItem := objFolder.ParseName(FileName)¶¶Gui, prop:Destroy¶Gui, prop:Font, s11¶Gui, prop:Add, ListView, r30 w400 vMyList, Name|Property¶Gui, prop:Default¶¶LV_ModifyCol(1, "120")¶LV_ModifyCol(2, "250")¶¶Loop 283¶  if propertyitem := objFolder.GetDetailsOf(objFolderItem, A_Index)¶    LV_Add(, objFolder.GetDetailsOf(objFolder.Items, A_Index), propertyitem)¶¶Gui, prop:Show¶Return••#VK50•0
+0•#NumpadMult•Win + NumpadMult•PowerShell•Run•pwsh••#NumpadMult•0
+0•Browser_Search•Browser_Search•Google Search Text•Command•Send, ^{vk43} ;Ctrl C¶Sleep 50¶Run, http://www.google.com/search?q=%clipboard%••Browser_Search•0
+1•!Browser_Refresh•Alt + Browser_Refresh•Translate Webpage•Command•Send !{vk44} ;!d¶Sleep 100¶SavedClip := ClipboardAll¶Clipboard =¶Send ^{vk43} ;Ctrl C¶ClipWait 1¶Run, https://translate.google.com/translate?sl=auto&tl=sl&u=%Clipboard%//0A&op=translate¶Clipboard := SavedClip••!Browser_Refresh•0
+1•!1•Alt + 1•Abre o Pendrive do Leandro•Send•%RUN_LEUSB▬4▬L:\▬▬1▬▬▬▬▬▬0%••!VK31•0
+0•^!l•Ctrl + Alt + L•oi.txt•Run•L:\••^!VK4c•0
+1•!a•Alt + A•Irfan View Clean Mode (C-M-T-S).•Send•{Alt Down}{Shift Down}C¶{Alt Down}{Shift Down}M¶{Alt Down}{Shift Down}T¶{Alt Down}{Shift Down}S••!VK41•0
+0•!\•Alt + \•{Ctrl Down}, {Ctrl Down}.•Send•{Ctrl Down},{Ctrl Down}.••!VKe2•0
+1•!\•Alt + \•{Alt Down}, {Alt Down}.•Send•{Alt Down},{Alt Down}.•everything - Everything (1.5a) 1.5.0.1391a (x64) [Administrator]•!VKe2•0
+1•^t•Ctrl + T•INFO Window - ALL Content (auto-select)•Send•{Ctrl Down}a{Alt Down}{Enter}••^VK54•0
+1•^J•Ctrl + J•Paste from Clipboard•Command•Send !{Enter}¶clipboard=%clipboard%¶sleep 100¶Send, ^{vk56} ;Ctrl V••^VK4a•0
+1•#Home•Win + Home•Restart Computer•Run•shutdown /r /d p:0:0 /t 0••#Home•0
+1•#End•Win + End•Shutdown Computer•Run•shutdown /s /d p:0:0 /t 0••#End•0
+1•^#Delete•Ctrl + Win + Delete•Empty Trash•Command•FileRecycleEmpty••^#Delete•0
+→
+
+→
+
+→
+
+∟
+Default|Phrase files
+‼
+0•kr•kind regards•1•0•0•0•0•1•0••Kind regards•Send•0•0•0
+0•sig•John Smith¶Global Support Inc.¶30 Lake Rd¶New York, NY 10060¶{+}1 123-345-5600•1•0•0•0•0•1•0••Signature•Send•0•0•0
+0•,op•Thank you for your letter regarding ¶/I am writing to you in response to your ¶/As discussed, please find ¶/With reference to your letter •0•0•0•0•0•1•0••Opening phrases•Send•0•0•0
+0•,th•Thank you for your letter.¶/Thanks for the prompt response.¶/Thank you for your kind comments.¶/Thank you very much for your answer.¶/Thank you for the e-mail. We appreciate your feedback and will get back to you as soon as possible.•0•0•0•0•0•1•0••Thank you phrases•Send•0•0•0
+0•,cl•I look forward to your reply.¶/I look forward to hearing from you.¶/Please let me know if you need any more information.¶/If you have any questions, please don't hesitate to contact me.¶/Please contact me again if you have any questions.•0•0•0•0•0•1•0••Closing phrases•Send•0•0•0
+1•ddt•timedate.cpl•0•0•0•0•0•1•0••Date and Time Properties•Run•0•0•0
+1•,dd•%A_ShortDate%¶/Current time: %A_Time%¶/Today is %A_DDDD%¶/%A_DDDD%, %A_MMMM% %A_DD%, %A_YYYY%¶/%A_DD%/%A_MM%/%A_YYYY%¶¶%FILE_T:\02_ICONS\folderico-web_icon.ico%•0•0•0•0•0•1•0••Date and time•Send•0•0•0
+0•thm•Dear %Cursor%,¶¶thank you for your message. I will get back to you as soon as possible.¶¶Kind regards,¶John•1•1•0•0•0•1•0••Mail Response Example•Send•0•0•0
+0•cme•Dear %INPUT_Customer▬▬▬0▬0▬1▬▬1%,¶¶thank you for contacting us. The Price is $%INPUT_Price▬▬▬0▬0▬1▬▬1%. Let's meet next %INPUT_Day▬▬▬0▬0▬1▬▬1%.¶¶Thanks and best regards,¶John¶¶%A_ShortDate%•1•0•0•0•0•1•0••Customer Mail Example•Send•0•0•0
+0•ame•Dear %INPUT_Name▬▬▬0▬0▬1▬0▬0%,¶¶%SELECT_Opening▬Opening phrase▬2▬Thank you for your letter regarding↓I am writing to you in response to your↓As discussed, please find↓With reference to your letter▬▬▬0▬0▬% %Cursor%¶¶Thanks and best regards,¶John¶¶%INSERT_sig%¶¶%SELECT_RandomQuotes▬▬9▬"The only thing worse than being talked about is not being talked about." -Oscar Wilde↓"The more things are forbidden, the more popular they become." -Mark Twain↓"Don’t cry because it’s over, smile because it happened." -Dr. Seuss↓"Everything happens to everybody sooner or later if there is time enough." -George Bernard Shaw▬▬▬▬0▬%•1•0•0•0•0•1•0••Advanced Mail Example•Send•0•0•0
+0•med•HPI¶¶%INPUT_Name▬▬▬▬▬▬▬% is a %INPUT_Age▬▬▬▬▬▬▬%-year old %TABLE_Gender▬1▬_\Gender.table▬;▬▬▬1▬4▬ ▬0▬▬0▬0▬▬0▬▬% who came to our clinic with a %SELECT_History▬History (days)▬8▬1-7/2▬▬▬▬0▬%-day history of %INPUT_Complaint▬▬▬0▬0▬1▬▬%.¶ ¶%TABLE_GenderA▬1▬_\Gender.table▬;▬▬▬2▬2▬ ▬0▬▬0▬0▬▬0▬▬% complains of %SELECT_Symptoms▬Select Symptoms▬5▬fever↓malaise↓headache↓earache↓congestion↓cough▬, ▬ and ▬0▬0▬%. ¶¶%TABLE_GenderB▬1▬_\Gender.table▬;▬▬▬4▬2▬ ▬0▬▬0▬0▬▬0▬▬% blood pressure is %SELECT_BloodPressure▬▬3▬normal▬▬▬0▬▬%.¶¶dr. John Smith¶%A_ShortDate%•1•0•0•0•0•1•0••Medical HPI Example•Send•0•0•0
+1•mds•me diz uma coisa¶•0•0•0•0•0•1•0••me diz uma coisa•Send•0•0•0
+1•pp•OpaOpa Blza!¶de Buenas Parceiro?¶¶•0•0•0•0•0•1•0••OpaOpa Blza! de Buenas Parceiro?•Send•0•0•0
+1•-20•-2025•0•0•0•0•0•1•0••-2025•Send•0•0•0
+1•ssc•scripts•0•0•0•0•0•1•0••scripts•Send•0•0•0
+1•[w•-[win-app]•0•0•0•0•0•1•0••-[win-app]•Send•0•0•0
+1•jj-•-[win-app]-2025•0•0•0•0•0•1•0••-[win-app]-2025•Send•0•0•0
+1•lts•( latest )•0•0•0•0•0•1•0••( latest )•Send•0•0•0
+1•prd•Dear %INPUT_ContactName▬▬▬0▬0▬1▬▬%,¶¶Here are the details on the requested product:¶Product name: %TABLE_ProductName▬1▬_\Products.table▬;▬▬▬1▬2▬ ▬0▬▬0▬0▬▬0▬▬%¶Product code: %TABLE_ProductCode▬1▬_\Products.table▬;▬▬▬2▬2▬ ▬0▬▬0▬0▬▬0▬▬%¶Price: $%TABLE_ProductPrice▬1▬_\Products.table▬;▬▬▬3▬2▬ ▬0▬▬0▬0▬▬0▬▬%¶Availability: %TABLE_ProductAvailabilty▬1▬_\Products.table▬;▬▬▬4▬2▬ ▬0▬▬0▬0▬▬0▬▬%¶Quantity: %INPUT_Quantity▬▬▬0▬0▬1▬▬%¶Total price: $%CALC_Price▬TABLE_ProductPrice*INPUT_Quantity▬2▬1▬0%¶¶Best regards,¶John•1•0•0•0•0•1•0••Product Table Example•Send•0•0•0
+1•rtn•Please {let me know|{do not hesitate to|feel free to} contact me} if you need any {support|assistance}.¶Thanks and {kind|best} regards.•1•0•0•0•0•1•0••Randomized Text Example•Send•0•0•0
+0•ys/sy/yf/fy•yours sincerely¶/sincerely yours¶/yours faithfuly¶/faithfuly yours•1•0•0•0•0•1•0••Multiple Substitutes Example•Send•0•0•0
+1•ct•Current time is %A_Hour%:%A_Min%:%A_Sec%¶Today is %A_DDDD%, %A_ShortDate%•1•0•0•0•0•1•0••Current time•Send•0•0•0
+1•pf•C:\Program Files•0•0•0•0•0•1•0••Open folder - Program Files•Run•0•0•0
+1•ccc•calc•0•0•1•0•0•0•0••Calculator•Run•0•0•0
+1•hre•<a href="%Clipboard%"></a>{left 6}•0•1•0•0•0•1•0••Clipboard example <a href></a>•Send•0•0•0
+1•rte•{\rtf1\ansi\ansicpg1250\deff0\nouicompat\deflang1060{\fonttbl{\f0\fnil\fcharset238 Arial CE;}{\f1\fnil\fcharset0 Segoe Script;}{\f2\fnil Arial;}}¶{\colortbl ;\red0\green0\blue0;\red128\green0\blue0;}¶{\*\generator Riched20 10.0.19041}\viewkind4\uc1 ¶\pard\sl240\slmult1\f0\fs20 Kind regards,\fs18\par¶\par¶\cf1\f1\fs36 John Smith\cf0\f0\fs18\par¶\fs20 John Smith\par¶\cf2\b\i Global Support Inc.\par¶\cf0\b0\i0\f2\fs18\par¶}¶♥Kind regards,¶¶John Smith¶John Smith¶Global Support Inc.¶•1•0•0•0•0•1•0••Rich Text Example•Send•0•2•0
+1•htm•The HTML formatted text can be <b>bold</b>, <i>italic</i> or <u>underlined</u>. ¶¶Check this <a href="http://www.w3schools.com/html/html_formatting.asp" >HTML tutorial</a> ¶ for many other possibilities.•1•0•0•0•0•1•0••HTML Example•Send•0•1•0
+1•wds•windows 10•0•0•0•0•0•1•0••windows 10•Send•0•0•0
+1•tmo•Tamo na ativa? 🫡¶•0•0•0•0•0•1•0••Tamo na ativa? 🫡•Send•0•0•0
+1•mmh•_M-HUB•0•0•0•0•0•1•0••_M-HUB•Send•0•0•0
+1•bbk•_BK•0•0•0•0•0•1•0••_BK•Send•0•0•0
+1•hhk•_HK•0•0•0•0•0•1•0••_HK•Send•0•0•0
+1•ast•assets•0•0•0•0•0•1•0••assets•Send•0•0•0
+1•cts•custom •0•0•0•0•0•1•0••custom•Send•0•0•0
+1•grs•%SystemRoot%\System32\imageres.dll•0•0•0•0•0•1•0••add imageres dll path•Send•0•0•0
+1•ggr•roni.obem@gmail.com•0•0•0•0•0•1•0••roni.obem@gmail.com•Send•0•0•0
+1•ggb•baeroni@gmail.com•0•0•0•0•0•1•0••roni.obem@gmail.com•Send•0•0•0
+1•pggr•¶¶¶bjornPass00!¶meuWalter[8go]!¶FH-[gr8]AV!¶meuPadrao[29]!¶%INSERT_lts%•0•0•0•0•0•1•0••meu alter ego passe•Send•0•0•0
+1•ass•SavedClip := ClipboardAll¶Clipboard =¶Send ^{vk43} ;Ctrl C¶ClipWait 1¶TempText:=Clipboard¶Loop ¶{ ¶ StringReplace, TempText, TempText, %A_Space%%A_Space%, %A_Space%, UseErrorLevel¶ if ErrorLevel = 0¶   break¶}¶Clipboard =¶Sleep 20¶Clipboard := TempText¶Send ^{vk56} ;Ctrl V¶Sleep 100¶Clipboard := SavedClip•0•0•0•0•0•1•0••Remove Unnecessary Spaces•Command•0•0•0
+→
+0••%dir%\Auto Correct English.fkp•1•0•0•0•0•1•0••Auto Correct English•Phrase File•0•0•0
+0••%dir%\My Abbreviations.fkp•1•0•0•0•0•1•0••My Abbreviations•Phrase File•0•0•0
+0••%dir%\Common Abbreviations.fkp•1•0•0•0•0•1•0••Common Abbreviations•Phrase File•0•0•0
+0••%dir%\Html Coding Abbreviations.fkp•1•0•0•0•0•1•0•Notepad++ •Html Coding Abbreviations•Phrase File•0•0•0
+0••%dir%\Fractions.fkp•1•0•0•0•0•1•0••Fractions•Phrase File•0•0•0
+0••%dir%\Medical Abbreviations.fkp•1•0•0•0•0•1•0••Medical Abbreviations•Phrase File•0•0•0
+0••%dir%\Auto Correct German.fkp•1•0•0•0•0•1•0••Auto Correct German•Phrase File•0•0•0
+0••%dir%\Auto Correct French.fkp•1•0•0•0•0•1•0••Auto Correct French•Phrase File•0•0•0
+0••%dir%\Auto Correct Spanish.fkp•1•0•0•0•0•1•0••Auto Correct Spanish•Phrase File•0•0•0
+0••%dir%\Auto Correct Portuguese.fkp•1•0•0•0•0•1•0••Auto Correct Portuguese•Phrase File•0•0•0
+0••%dir%\Auto Correct Italian.fkp•1•0•0•0•0•1•0••Auto Correct Italian•Phrase File•0•0•0
+0••%dir%\Auto Correct Dutch.fkp•1•0•0•0•0•1•0••Auto Correct Dutch•Phrase File•0•0•0
+1••%dir%\Unicode Languages Demo.fkp•0•0•0•0•0•1•0••Unicode Languages Demo•Phrase File•0•0•0
+∟
+Default|Wordlists
+‼
+0••English Common Words•Wordlist File•%dir%\English Common Words.txt•0•
+0••Learned•Wordlist File•%dir%\Learned.txt•0•
+0•Signature•My FirstName LastName Street City, State, Zip Emai•Send•My FirstName LastName¶Street¶City, State, Zip¶Email Address¶Phone¶Cell Phone•0•
+1•Notepad•Notepad•Run•Notepad•0•
+1•Google•http://www.google.com•Run•http://www.google.com•0•
+1•Recent•Recent Files/Folders Menu•Command•fd=%A_AppData%\Microsoft\Windows\Recent¶Menu, RM, UseErrorLevel¶Menu, RM, DeleteAll¶Menu, RM, Delete¶FileList =¶Loop, %fd%\*.*, 0, 0¶    FileList = %FileList%%A_LoopFileTimeModified%`t%A_LoopFileFullPath%`n¶Sort, FileList, R¶Loop, parse, FileList, `n¶{¶   if (A_index=16)¶      break¶   if A_LoopField =¶      continue¶   StringSplit, FileItem, A_LoopField, %A_Tab%¶   OutTarget= %FileItem2%¶   Splitpath, OutTarget,name,,Ext¶   FileGetShortcut, %OutTarget%, FileTo¶   FileGetAttrib, Attributes, %FileTo%¶   SplitPath, FileTo,name,,Ext¶   If InStr(Attributes, "D" )¶   {¶      IconFile:="C:\Windows\system32\imageres.dll"¶      icc:=4¶   }¶   else¶   {¶      IconFile:=AssocQueryApp(Ext)¶      icc:=2¶   }¶   Menu, RM, Add, %name%, LabelR¶   Menu, RM, Icon, %name%, %IconFile%, %icc%, 16¶   if errorlevel¶      Menu, RM, Icon, %name%, %IconFile%, 1, 16¶   if errorlevel¶      Menu, RM, Icon, %name%, C:\Windows\system32\imageres.dll, 12, 16¶}¶Menu, RM, show¶Return¶¶LabelR:¶run, %fd%\%A_ThisMenuItem%.lnk,,useerrorlevel¶return¶¶AssocQueryApp(ext) {¶	RegRead, type, HKCU, Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.%Ext%, Application¶	If !ErrorLevel {¶		RegRead, act, HKCU, Software\Classes\Applications\%type%\shell¶		If ErrorLevel¶			act = open¶		RegRead, cmd, HKCU, Software\Classes\Applications\%type%\shell\%act%\command¶    }¶	Else {¶		RegRead, type, HKCR, .%Ext%¶		RegRead, act , HKCR, %type%\shell¶		If ErrorLevel¶			act = open¶        RegRead, cmd , HKCR, %type%\shell\%act%\command¶        EXEPosition := InStr(cmd,".exe",false,0,1)¶        exepath := Trim(SubStr(cmd,1,EXEPosition+3),"""")¶    }¶    Return, exepath¶}•0•
+0•Calculator•Advanced Calculator.ahk•Run•%dir%\Advanced Calculator.ahk•0•
+→
+0••My Phrases•Wordlist File•%dir%\My Phrases.txt•0•
+0••Common Business E-mail Phrases•Wordlist File•%dir%\Common Business E-mail Phrases.txt•0•
+0••Medical Terms•Wordlist File•%dir%\Medical Terms.txt•0•
+0••Drug Names•Wordlist File•%dir%\Drug Names.txt•0•
+0••German Common Words•Wordlist File•%dir%\German Common Words.txt•0•
+0••French Common Words•Wordlist File•%dir%\French Common Words.txt•0•
+0••Russian Common Words•Wordlist File•%dir%\Russian Common Words.txt•0•
+0••Spanish Common Words•Wordlist File•%dir%\Spanish Common Words.txt•0•
+∟
+Default|Browsers|Media
+‼
+0•^D•Minimize All Windows•Command•WinMinimizeAll••0
+1•D•Minimize Active Window•Command•WinGet, Sty, Style, A¶if (Sty & 0x20000)¶  WInMinimize, A••0
+0•U•Boss Key Simple•Command•Send {Volume_Down 100}¶Send {Media_Play_Pause}¶tmm:=A_TitleMatchMode¶SetTitleMatchMode, 2¶WinMinimize, A¶WinActivate, Outlook¶SetTitleMatchMode, %tmm%••0
+0•R_L•Mute/Unmute the Master Volume•Send•{Volume_Mute}••0
+1•L_U•Go One Level Up in Explorer•Command•Send !{Up}••0
+1•U_D_R_U•Notepad•Run•notepad••0
+0•L_D_R•Calculator•Run•calc••0
+0•U_D_U_D•Google Mail•Run•http://mail.google.com••0
+0•D_U_D_U•Microsoft Word•Run•winword••0
+0•U_R_D_L•Microsoft PowerPoint•Run•powerpnt••0
+0•R_L_R_L•Countdown Timer Big•Command•if WinExist("MyCountdown") {¶ Gui, 19:Destroy¶ SetTimer, ShowTimerCD, Off¶}¶else {¶¶InputBox, secsLeft , Countdown, Countdown Seconds:,,160,123,,,,15¶If ErrorLevel¶ Return¶Gui 19:+LastFound +AlwaysOnTop -Caption +ToolWindow¶Gui 19:Color, EEAA99¶Gui 19:Font, s228¶Gui 19:Margin, 0, 0¶Gui 19:Add, Text, w335 h290 yp-50 Vdisp Cred Right¶WinSet TransColor, EEAA99¶Gui 19:Show, NoActivate, MyCountdown¶¶SetTimer, ShowTimerCD, 1000¶Gosub ShowTimerCD¶Return¶}¶¶ShowTimerCD:¶secsLeft--¶IfEqual, secsLeft, 0¶{¶  Loop 4¶  {¶  GuiControl, 19:Text, disp, 0¶  Sleep 400  ¶  GuiControl, 19:Text, disp,¶  Sleep 400¶  }¶  SetTimer ShowTimerCD, Off¶  ;Sleep 3000¶  Gui, 19:Destroy¶}¶Else¶  GuiControl, 19:Text, disp, %secsLeft%¶Return••0
+1•L_R•Toggle Last Two Windows•Command•Send !{Tab}••0
+1•U•Hide/Show Taskbar•Command•If (TaskbarHide := !TaskbarHide)¶  WinHide ahk_class Shell_TrayWnd¶Else¶  WinShow ahk_class Shell_TrayWnd••0
+0•U_R_L•Window to Left Half of the Screen•Command•w:=A_ScreenWidth/2¶h:=A_ScreenHeight-40¶WinMove,A,,0,0,%w%,%h%••0
+0•U_L_R•Window to Right Half of the Screen•Command•w:=A_ScreenWidth/2¶h:=A_ScreenHeight-40¶WinMove,A,,%w%,0,%w%,%h%••0
+0•U_L_R*•Resize Window To•Command•Width:=515¶Height:=600¶WinGetPos,X,Y,W,H,A¶If %Width% = 0¶ Width := W¶If %Height% = 0¶ Height := H¶WinMove,A,,%X%,%Y%,%Width%,%Height%••0
+0•U•WinMove,A,,%505%,%0%,%526%,%745%•Command•WinMove,A,,%505%,%0%,%526%,%745%••0
+1•U_R_L•Window to Left Half of the Screen TEST•Command•w:=526¶h:=745¶WinMove,A,,-7,0,%w%,%h%••0
+1•U_L_R•Window to Right Half of the Screen TEST•Command•w:=526¶h:=745¶WinMove,A,,505,0,%w%,%h%••0
+→
+1•L•Browser back•Send•{Browser_Back}••0
+1•R•Browser forward•Send•{Browser_Forward}••0
+1•U_D_U_R_L•Browser favorites•Send•{Browser_Favorites}•Firefox, Chrome, Explorer, Opera, Surfing•0
+1•D_U•Browser refresh•Send•{Browser_Refresh}•Firefox, Chrome, Explorer, Opera, Surfing, Web Viewer•0
+1•R_U_L_D_R•Browser home page•Send•{Browser_Home}•Firefox, Chrome, Explorer, Opera, Surfing•0
+1•U_D_U•Browser New Tab•Send•^t•Firefox, Chrome, Explorer•0
+→
+0•U_R•Select next track in media player•Send•{Media_Next}••0
+1•U_L•Select previous track in media player•Send•{Media_Prev}••0
+0•U_D•Play/pause media player•Send•{Media_Play_Pause}••0
+0•U_L_R•Stop media player•Send•{Media_Stop}••0
+∟
