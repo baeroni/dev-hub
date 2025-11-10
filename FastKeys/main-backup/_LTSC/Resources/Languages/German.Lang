@@ -1,0 +1,798 @@
+﻿; English; German
+; Deutch
+; Translation by Jürgen Feldmann, Patrick Eder, Markus Jungwirth
+
+[Gui]
+g_Lang01; Start Menu; Start-Menü
+g_Lang02; Shortcuts; Tastenkürzel
+g_Lang03; Text Expander; Textersetzung
+g_Lang04; Auto Complete; Autom. Ergänzung
+g_Lang05; Gestures; Gesten
+g_Lang06
+g_Lang11; New; Neu
+g_Lang12; Edit; Bearbeiten
+g_Lang13; Delete; Löschen
+g_Lang14; Run; Starten
+g_Lang15; Active; Aktiv
+g_Lang16; Menu; Menü
+g_Lang17; Submenu; Untermenü
+g_Lang18; Type; Typ
+g_Lang19; Command; Kommando
+g_Lang20; Run Type; Run Type
+g_Lang21; Key; Taste
+g_Lang22; Shortcut; Tastenkürzel
+g_Lang23; Description; Beschreibung
+g_Lang24; Window; Fenster
+g_Lang25; String; Kürzel
+g_Lang26; Substitute; Ersetzung
+g_Lang27; Gesture; Geste
+g_Lang28
+g_Lang31; Paused; Angehalten
+g_Lang32; Active; Aktiv
+g_Lang33; Untitled; Unbenannt
+g_Lang40
+g_Lang41; Separator; Trennzeichen
+g_Lang42; Undo; Rückgängig
+g_Lang43; Redo; Wiederholen
+g_Lang44; Move Up; Nach oben
+g_Lang45; Move Down; Nach unten
+g_Lang46; Are you sure to remove; Möchten Sie die markierten
+g_Lang47; selected items; Einträge wirklich entfernen
+g_Lang50
+g_Lang51; Preferences; Einstellungen
+g_Lang52; Support Forum; Support Forum
+g_Lang53; Help; Hilfe
+g_Lang54; Select a file or folder; Wählen Sie eine Datei oder einen Ordner
+g_Lang55; Edit command in Editor; Befehl im Editor bearbeiten
+g_Lang56; Select a preset command; Wähle einen Standard-Befehl
+g_Lang60
+g_Lang61; Registered to; Registriert für
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; DIE TESTVERSION IST ABGELAUFEN.
+g_Lang63; TRIAL PERIOD.; TESTPHASE.
+g_Lang64
+g_Lang71; Do you want to save changes?; Möchten Sie die Änderungen speichern?
+g_Lang72; Save file as...; Datei speichern als...
+g_Lang73; Do you want to save changes to; Möchten Sie die Änderungen speichern unter
+g_Lang74; Please select FastKeys data file.; Bitte wählen Sie eine FastKeys-Datendatei aus.
+g_Lang75; Not a valid FastKeys file.; Keine gültige FastKeys-Datei.
+g_Lang76; Save FastKeys data file as…; FastKeys-Datendatei speichern als…
+g_Lang78; Are you sure to overwrite existing data?; Möchten Sie die vorhandenden Daten wirklich überschreiben?
+g_Lang79; Select folder:; Ordner auswählen:
+g_Lang80; Duplicate entry, please correct.; Doppelter Eintrag, bitte korrigieren.
+g_Lang81; File does not exist.; Datei exisitiert nicht.
+g_Lang82; Please select a Phrase file.; Bitte Phrasen-Datei auswählen.
+g_Lang83; Please select a Wordlist file.; Bitte Wortlisten-Datei auswählen.
+g_Lang84; Too many menu entries.; Zu viele Menü-Einträge.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; Direkt auslösen
+g1_Lang03; Delete ending char; Endezeichen löschen
+g1_Lang04; Don't delete string; Auslösezeichen erhalten
+g1_Lang05; Case sensitive; Groß-/Kleinschreibung unterscheiden
+g1_Lang06; Trigger inside word; Innerhalb von Wörtern auslösen
+g1_Lang07; Send raw text; Reinen Text senden
+g1_Lang08; Manual confirmation; Manuelle Bestätigung
+g1_Lang09
+g1_Lang11; None; Keine
+g1_Lang12; Auto Run; Auto-Start
+g1_Lang13; Run on Startup; Beim Start ausführen
+g1_Lang14; Include Files; Dateien inkludieren
+g1_Lang15; Include Subfolders; Unterverzeichnisse inkludieren
+g1_Lang16; Include Files and Subfolders; Dateien und Unterverzeichnisse inkludieren
+g1_Lang17
+g1_Lang21; Record; Aufnahme
+g1_Lang22; Record a New Gesture ; Aufzeichnung einer neuen Geste
+g1_Lang23; Right Mouse Button; Rechte Maus-Taste
+g1_Lang24; key; Taste
+g1_Lang25; Hold; halten
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; und irgendwo auf dem Monitor eine Geste zeichnen. Drücken Sie die Enter- oder OK-Taste zum Beenden.
+g1_Lang28
+g1_Lang31; Abbreviation; Abkürzung
+g1_Lang32; Phrase; Phrase
+g1_Lang33; Word; Wort
+g1_Lang34; Phrase file; Phrasen-Datei
+g1_Lang35; Wordlist file; Wortlisten-Datei
+g1_Lang36
+g1_Lang41; Line; Zeile
+g1_Lang42; Column; Spalte
+g1_Lang43
+g1_Lang51; Advanced shortcut; Erweitertes Tastenkürzel
+g1_Lang52; Modifier; Modifizierer
+g1_Lang53; Optional Attributes; Optionale Eigenschaften
+g1_Lang54; Native; Nativ
+g1_Lang55; Wildcard; Platzhalter
+g1_Lang56; Hook; Haken
+g1_Lang57; L/R only; nur L/R
+g1_Lang58; Keys; Tasten
+g1_Lang59; Standard; Standard
+g1_Lang60; Function keys; Funktionstasten
+g1_Lang61; Numpad; Nummernfeld
+g1_Lang62; Mouse; Maus
+g1_Lang63; Multimedia; Multimedia
+g1_Lang64; Special; Spezial
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &Datei
+m_Lang02; &Edit; &Bearbeiten
+m_Lang03; &Insert; &Einfügen
+m_Lang04; &Tools; &Werkzeuge
+m_Lang05; &Help; &Hilfe
+m_Lang06; &Register; &Registrieren
+m_Lang07
+m_Lang11; &New; &Neu
+m_Lang12; &Open; &Öffnen
+m_Lang13; &Save; &Speichern
+m_Lang14; Save &As; Speichern &als
+m_Lang15; E&xit; Be&enden
+m_Lang16
+m_Lang21; &Edit; &Bearbeiten
+m_Lang22; &Delete; &Löschen
+m_Lang23; Re&load; Neu&laden
+m_Lang24; &Pause; &Pause
+m_Lang25
+m_Lang31; &Preferences; &Einstellungen
+m_Lang32; &Module Activation; &Module aktivieren
+m_Lang33; &Auto Learn Settings; &Auto-Lernen-Einstellungen
+m_Lang34; &Check for Updates; &Nach neuer Version suchen
+m_Lang35; &Update Menu Icons; Menü-Icons akt&ualisieren
+m_Lang36
+m_Lang41; &Help; &Hilfe
+m_Lang42; &Support Forum; &Support Forum
+m_Lang43; &View Quick Tips; &Quick-Tipps zeigen
+m_Lang44; &About; &Über
+m_Lang45
+m_Lang51; Open from &Library; Aus &Sammlung öffnen
+m_Lang52; Cut; Ausschneiden
+m_Lang53; Copy; Kopieren
+m_Lang54; Paste; Einfügen
+m_Lang55; Select All; Alles markieren
+m_Lang56; Read Only; Nur Lesen
+m_Lang57; Zoom in; Heranzoomen
+m_Lang58; Zoom out; Verkleinern
+m_Lang59; Default Zoom; Zoom-Voreinstellung
+m_Lang60; Zoom; Zoom
+m_Lang61; Always On Top; Immer im Vordergrund
+m_Lang62; Line Wrap; Zeilenumbruch
+m_Lang63; View; Ansicht
+m_Lang64; Open Script; Skript öffnen
+
+[FastKeys]
+f_Lang01; Loading FastKeys; Lade FastKeys
+f_Lang02; Settings; Einstellungen
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; FEHLER. Einige Befehle wurden abgebrochen.¶¶Bitte prüfen Sie die zuletzt geänderten Befehle und korrigeren Sie mögliche Duplikate oder Syntaxfehler.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; Es gab ein Problem beim Abrufen von Icons aus dem Internet. Prüfen Sie bitte ihre Firewall-Einstellungen.¶¶Automatische Downloads wurden abgestellt, um schnellere Ladezeiten zu ermöglichen. Sie können den automatischen Icon-Download im Einstellungs-Menü reaktivieren.
+f_Lang14; Save settings before continuing?; Einstellungen vor dem Fortsetzen speichern?
+f_Lang15; Add to; Hinzufügen zu
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Danke dass Sie die Probe-Version von FastKeys nutzen. Ihnen wird eine Lizenz eingeräumt, diese Anwendung für Testzwecke zu nutzen. In der registrierten Version entfällt diese Information.
+f_Lang22; Press "Continue" to continue using trial version.; Drücken Sie "Fortsetzen", um die Probe-Version weiter zu nutzen.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Als registrierter Nutzer geben Sie bitte unten Ihre Registrierungs- und Lizenz-Informationen ein, um die entsprechende Version von FastKeys zu aktivieren. Tippen oder fügen Sie den Registrierungsschlüssel ein und klicken Sie auf "Registrieren".¶¶Klicken Sie "Kaufen", um einen Registrierungsschlüssel zu kaufen oder klicken Sie "Abbrechen", um die Probe-Version weiter zu testen.
+f_Lang36
+f_Lang41; Name/Company:; Name/Firma:
+f_Lang42; Registration key:; Schlüssel:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Falscher Registrierungsschlüssel. Bitte versuchen Sie es erneut.
+f_Lang46; Congratulations, you have registered FastKeys!; Glückwunsch, Sie haben FastKeys registriert!
+f_Lang47
+f_Lang51; Open Menu; Menü öffnen
+f_Lang52; Reload; Neu laden
+f_Lang53; Pause; Pause
+f_Lang54; Exit FastKeys; FastKeys beenden
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; OK
+b_Lang02; Cancel; Abbrechen
+b_Lang03; Save; Speichern
+b_Lang06; Select; Auswählen
+b_Lang07; Defaults; Standardwerte
+b_Lang08; Register; Registrieren
+b_Lang11; Purchase; Kaufen
+b_Lang12; Continue; Fortsetzen
+b_Lang14; Test; Test
+b_Lang17; Open; Öffnen
+b_Lang18; Edit; Bearbeiten
+b_Lang19; Library; Sammlung
+b_Lang22; Edit File; Datei ändern
+
+[Library]
+l_Lang01; Utility; Hilfsmittel
+l_Lang02
+l_Lang03; Scripts; Skripte
+l_Lang04; Audio; Audio
+l_Lang05; Games; Spiele
+l_Lang06
+l_Lang11; Control Panel; Systemsteuerung
+l_Lang12; System Folders; Systemordner
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; System
+l_Lang15; Utilities; Werkzeuge
+l_Lang16; Windows; Windows
+l_Lang17; Shell; Shell
+l_Lang18
+l_Lang21; Keys; Tasten
+l_Lang22; Cursor Position; Cursor-Position
+l_Lang23; Mouse and Media; Maus und Media
+l_Lang24; Date and Time; Datum und Zeit
+
+[Preferences]
+s_Lang01; General; Allgemeines
+s_Lang02; Appearance; Aussehen
+s_Lang03; Functions; Funktionen
+s_Lang04; Folders; Ordner
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08; Autom. Ergänzung
+s_Lang09; Auto Learning; Auto-Lernen
+s_Lang10
+s_Lang11; Internet; Internet
+s_Lang12; Module Activation; Module aktivieren
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Drücken Sie OK/Speichern, um die Icons zu aktualisieren.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Möchten Sie die FastKeys-Webseite für einige Tipps zur Nutzung des Programms besuchen?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; Es gab Probleme beim Update-Check. Bitte erneut versuchen, oder besuchen Sie die FastKeys-Webseite zur Prüfung und manuellem Download.¶¶Automatische Prüfungen wurden für schnelleres Laden abgeschaltet.
+s_Lang25; You are using the latest version of; Sie nutzen die aktuellste Version von
+s_Lang26; A new version of FastKeys; Eine neue Version von FastKeys
+s_Lang27; is available.; ist verfügbar.
+s_Lang28; Would you like to install it now?; Möchten Sie sie jetzt installieren?
+s_Lang29; Downloading FastKeys, Version; Download von FastKeys, Version
+s_Lang30; Please wait ...; Bitte warten ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; Es gab ein Problem mit dem Download. Bitte erneut versuchen, oder besuchen Sie die FastKeys-Webseite für maunellen Download.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; Schnell-Hinzufügen
+s1_Lang02; Quick add to ; Schnell-Hinzufügen zu
+s1_Lang03; Ask; Fragen
+s1_Lang04; Learn Wordlist File; Wortlisten-Datei lernen
+s1_Lang05; Pause shortcut; Pause-Tastenkürzel
+s1_Lang06; General options; Allgemeine Optionen
+s1_Lang07; Run FastKeys on startup; FastKeys mit Windows starten
+s1_Lang08; Show tray icon; Zeige Tray-Icon
+s1_Lang09; Clicking tray icon shows Start Menu; Klick auf Tray-Icon zeigt Start-Menü
+s1_Lang10; Auto check for software updates; Automatisch nach Updates suchen
+s1_Lang11; Language; Sprache
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Zeige Gitter
+s2_Lang03; Show stripes; Zeige Linien
+s2_Lang04; Show loading progress; Zeige Lade-Fortschritt
+s2_Lang05; Display Apply, Edit, Delete buttons; Anwenden-, Bearbeiten-, Entfernen-Schaltflächen anzeigen
+s2_Lang06; Transparency (%); Transparenz (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Lautstärke
+s3_Lang02; Control with mouse wheel on right screen edge; Mit dem Mausrad am rechten Rand steuern
+s3_Lang03; Volume sensitivity; Lautstärke-Empfindlichkeit
+s3_Lang04; Auto-correct; Auto-Korrektur
+s3_Lang05; Correct sentence capitals; Korrigiere Satz-Großbuchstaben
+s3_Lang06; Correct DOuble CApitals; Korrigiere doppelte GRoß-BUchstaben
+s3_Lang07; Disable CapsLock key; Deaktiviere CapsLock-Taste
+s3_Lang08; Memory; Speicher
+s3_Lang09; Optimize memory; Optimiere Speicher
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Skripte-Ordner
+s4_Lang02; Phrase files folder; Phrasen-Ordner
+s4_Lang03; Wordlist files folder; Wortlisten-Ordner
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Menü-Tastenkürzel
+s5_Lang02; Show menu on; Zeige Menü an
+s5_Lang03; Top edge; Oberer Rand
+s5_Lang04; Right edge; Rechter Rand
+s5_Lang05; Left edge; Linker Rand
+s5_Lang06; Bottom edge; Unterer Rand
+s5_Lang07; Menu options; Menü-Optionen
+s5_Lang08; Show menu icons; Zeige Menü-Icons
+s5_Lang09; Auto download website icons; Auto-Download Webseiten-Icons
+s5_Lang10; Larger icons; Größere Icons
+s5_Lang11; Disable menu in full screen applications; Menü in Vollbild-Anwendungen ausblenden
+s5_Lang12; Add settings to Start Menu; Füge dem Start-Menü "Einstellungen" hinzu
+s5_Lang13; Menu delay (ms); Menü-Verzögerung (ms)
+s5_Lang14; Show recent items; Zeige neueste Einträge
+s5_Lang15; Files; Dateien
+s5_Lang16; Folders; Verzeichnisse
+s5_Lang17; Files and folders; Dateien u. Verzeichnisse
+s5_Lang18; Show in submenu; Zeige in Untermenüs
+
+[Preferences 6]
+s6_Lang01; Only active in; Nur aktiv in
+s6_Lang02; Not active in; Nicht aktiv in
+
+[Preferences 7]
+s7_Lang01; Default prefix; Standard-Vorzeichen
+s7_Lang02; Ending characters; Abschließende Zeichen
+s7_Lang03; Space; Leertaste
+s7_Lang04; Tab; Tabulator
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; Trennzeichen
+s7_Lang07; Clipboard; Zwischenablage
+s7_Lang08; Use clipboard if text length exceeds (char); Nutze Zwischenablage bei Textlänge ab (Zeichen)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; Korrigiere Fall des vorgeschlagenen Wortes
+s8_Lang03; Minimum word length to show suggestion; Minimale Wortlänge für Vorschläge
+s8_Lang04; Word suggestion list height; Zeilenhöhe Wortvorschläge
+s8_Lang05; Special characters; Sonderzeichen
+s8_Lang06; (list of special alphabet characters to be recognized; (Liste der alphabetischen Sonderzeichen, die als Teil eines
+s8_Lang07; as a part of a word); Wortes erkannt werden)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Auto-Lernen
+s9_Lang02; Turn on automatic word learning; Automatisches Wörterlernen aktivieren
+s9_Lang03; Learn wordlist file; Datei für gelernte Worte
+s9_Lang04; Learning options; Lern-Optionen
+s9_Lang05; Minimum length of learned words; Mindestlänge von zu lernenden Wörtern
+s9_Lang06; Number of occurences to learn a word; Anzahl der Ereignisse bis Wort gelernt wird
+s9_Lang07; Save learned words as lowercase; Speichere gelernte Wörter in Kleinbuchstaben
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Gesten-Tastenkürzel
+s10_Lang02; Options; Optionen
+s10_Lang03; Show mouse trail; Zeige Maus-Spur
+s10_Lang04; Play sound for no match; Spiele Ton wenn kein Treffer
+s10_Lang05; Recognize 8 zones (advanced); Erkenne acht Bereiche (fortgeschritten)
+s10_Lang06; Advanced; Fortgeschritten
+s10_Lang07; Interval (ms); Intervall (ms)
+s10_Lang08; Threshold (px); Grenzwert (px)
+s10_Lang09; Timeout (ms); Zeitüberschreitung (ms)
+s10_Lang10; Initial timeout (ms); Initiale Zeitüberschreitung (ms)
+s10_Lang11; Tolerance (%); Toleranz (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Auf neue Version von FastKeys prüfen
+s11_Lang02; Update; Update
+s11_Lang03; Update Start menu icons from internet; Start-Menü-Icons per Internet aktualisieren
+s11_Lang04; Update icons; Icons aktualisieren
+s11_Lang05; View quick tips for using FastKeys; Zeige Quick-Tipps zur Nutzung von FastKeys
+s11_Lang06; View quick tips; Zeige Quick-Tipps
+
+[Preferences 12]
+s12_Lang01; Active modules; Aktive Module
+s12_Lang03; Hide disabled modules; Verstecke deaktivierte Module
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Zwischenablage-Manager
+v211_Lang01; Clipboard shortcut; Zwischenablage-Tastenkürzel
+v211_Lang02; History size; Größe der Historie
+v211_Lang03; Capture images and formatting; Bilder erfassen und formatieren
+v211_Lang04; Hold Ctrl key to paste without formatting; STRG-Taste halten zum Einfügen ohne Formatierung
+v211_Lang05; Clipboard font; Schriftart Zwischenablage
+v211_Lang06; Popups; Mitteilungsfenster
+v211_Lang07; Maximum popup width; Maximale Popup-Breite
+v211_Lang08; Show shortcut numbers; Zeige Tastenkürzelnummerierung
+v211_Lang09; New File; Neue Datei
+v211_Lang10; New Empty File; Neue leere Datei
+v211_Lang11; Backup files folder; Backup-Ordner
+v211_Lang12; Number of saved backups; Anzahl gespeicherter Backups
+
+[Version 2.14]
+v214_Lang00; Duplicate; Duplizieren
+v214_Lang01; Macro Recorder; Makro-Rekorder
+v214_Lang02; Record shortcut; Aufnahme-Tastenkürzel
+v214_Lang03; Play shortcut; Abspiel-Tastenkürzel
+v214_Lang04; Recording options; Aufnahme-Optionen
+v214_Lang05; Keyboard actions; Tastatur-Aktionen
+v214_Lang06; Mouse clicks; Maus-Klicks
+v214_Lang07; Time intervals; Zeit-Intervalle
+v214_Lang08; Window actions; Window-Aktionen
+v214_Lang09; Show virtual key names; Zeige virtuelle Tastennamen
+v214_Lang10; Show save dialog after recording; Zeige Speichern-Dialog nach Aufnahmen
+v214_Lang20; Press; Drücken
+v214_Lang21; or "Record" button to start recording; oder "Aufnahme"-Schaltfläche um Aufnahme zu starten
+v214_Lang22; to finish; zu beenden
+v214_Lang23; Recording macro; Makro aufnehmen
+v214_Lang24; Recording completed; Aufnahme abgeschlossen
+v214_Lang25; Recorded Macro; Aufgenommenes Makro
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Kürzel aus Phrasendateien aktivieren
+v217_Lang02; New Tab; Neuer Reiter
+v217_Lang03; Rename; Umbenennen
+v217_Lang04; Move Left; Nach links bewegen
+v217_Lang05; Move Right; Nach rechts bewegen
+v217_Lang06; tab; Reiter
+v217_Lang07; Tab Name; Reiter-Name
+
+[Version 2.19]
+v219_Lang01; More; Mehr
+v219_Lang02; Settings shortcut; Einstellungen-Tastenkürzel
+v219_Lang04; Popups font and color; Popups: Schriftart und Farbe
+v219_Lang05; Color and style; Farbe und Stil
+v219_Lang06; Sort; Sortierung
+v219_Lang07; Alphabetically; Alphabetisch
+v219_Lang08; Include similar words (smart search); Gleiche Wörter einschließen (intelligente Suche)
+v219_Lang09; Don't learn strings; Nicht lernen
+v219_Lang10; Trail width and color; Spur-Breite und -Farbe
+v219_Lang11; Run as administrator; Als Administrator starten
+v219_Lang12; Formatting; Formatiere
+v219_Lang13; Normal; Normal
+v219_Lang14; No Icons; Keine Icons
+v219_Lang15; Small; Klein
+v219_Lang16; Apply; Anwenden
+
+[Version 2.20]
+v220_Lang02; Icon size; Icon-Größe
+v220_Lang04; Break menu at separator; Menü beim Trenner unterbrechen
+v220_Lang05; Increase line spacing; Zeilenabstand erhöhen
+v220_Lang06; Selection color; Auswahlfarbe
+v220_Lang07; Invert selection text color; Textauswahlfarbe invertieren
+v220_Lang08; Show clipboard items; Zeige Zwischenablageneinträge
+
+[Version 2.22]
+v222_Lang01; Selection keys; Auswahl-Tasten
+v222_Lang02; Number; Nummer
+v222_Lang03; Insert mode; Einfüge-Modus
+v222_Lang04; Show line numbers; Zeige Zeilennummern
+v222_Lang05
+v222_Lang06; More options; Mehr Optionen
+v222_Lang07; Fewer options; Weniger Optionen
+v222_Lang08; Always show more options; Immer alle Optionen zeigen
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Unterhalb eines Menüs bewegen
+v300_Lang02; System Variables; Systemvariablen
+v300_Lang03; Macros; Makros
+v300_Lang04; Manual Text Input; Manuelles Texteingabefeld
+v300_Lang05; File Contents; Dateiinhalt
+v300_Lang06; Name; Name
+v300_Lang07; Paragraph Options; Absatzoptionen
+v300_Lang08; Spacing; Abstand
+v300_Lang09; Before; Vorher
+v300_Lang10; After; Nachher
+v300_Lang11; Line spacing; Zeilenabstand
+v300_Lang12; Reload shortcut; Neuladen-Tastenkürzel
+v300_Lang13; Paste delay (ms); Einfügeverzögerung (ms)
+v300_Lang14; No formatting; Keine Formatierung
+v300_Lang15; Rich Text; RichText
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Umschalten-Taste halten zum Einfügen ohne Schließen
+v300_Lang18; Window Information; Fenster-Informationen
+v300_Lang19; Insert Another Item; Weiteren Eintrag einfügen
+v300_Lang20; Filter; Filter
+v300_Lang21; Selection Form; Eingabeauswahl-Dialog
+v300_Lang22; Selections; Auswahl
+v300_Lang23; Preview; Vorschau
+v304_Lang01; Title; Titel
+v304_Lang02; Class; Klasse
+v304_Lang03; Process; Prozess
+v304_Lang04; Position (x, y); Position (x, y)
+v304_Lang05; Size (w, h); Größe (B, H)
+v304_Lang06; Control; Steuerung
+v304_Lang07; Text; Text
+v304_Lang08; Mouse Position; Mausposition
+v304_Lang09; Color; Farbe
+v304_Lang10; Insert Image; Bild einfügen
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Vorschläge beim Tippen zeigen (Einstellungen Autom. Ergänzungen)
+v304_Lang12; Shift; Umschalt
+v304_Lang13; Include words containing the string; Worte hinzufügen, die den String enthalten
+v304_Lang14; Enable column sorting; Spaltensortierung zulassen
+v304_Lang15; Description separator; Beschreibungstrennzeichen
+v304_Lang16; Copy to Start Menu; Zum Start-Menü kopieren
+v304_Lang17; Key delay (ms); Tastenverzögerung (ms)
+v304_Lang18; Key delays only active in; Tastenverzögerung nur in
+v304_Lang19; Display options; Ansichtsoptionen
+v304_Lang20; New from Library; Neu aus Sammlung
+v304_Lang21; Variable name contains illegal characters:; Variablenname enthält unzulässige Zeichen:
+v304_Lang22; User Variables; Benutzervariablen
+v304_Lang23; Usage Statistics; Benutzerstatistiken
+v304_Lang24; Times executed; Anzahl Ausführungen
+v304_Lang25; Keystrokes saved; Tastenanschläge gespart
+v304_Lang26; Time savings; Zeit gespart
+v304_Lang27; Session; Sitzung
+v304_Lang28; Track usage statistics; Benutzerstatistik aufzeichnen
+v304_Lang29; Typing speed (wpm); Tippgeschwindigkeit (wpm)
+v304_Lang30; Hourly wage; Stundenlohn
+v304_Lang31; Insert Command Code; AutoHotkey-Code einfügen
+v304_Lang32; Command Name; Kommandoname
+v304_Lang33; Enable; Einschalten
+v304_Lang34; Disable; Ausschalten
+v304_Lang35; Enable random text generation syntax (Spintax); Zufällige Texterzeugungsschreibweise einschalten (Spintax)
+v304_Lang36; Font; Zeichensatz (Font)
+v304_Lang37; Adjust to typed case; Beim Ersetzen getippte Schreibweise "Gross/klein" anwenden
+v304_Lang38; Condition; Bedingung
+v304_Lang39; Condition Name; Bedingungsname
+v304_Lang40; Allow duplicates; Duplikate zulassen
+v304_Lang42; Append; Hinzufügen
+v304_Lang43; Include descriptions; Beschreibungen hinzufügen
+v304_Lang44; Delimited Text File; Trennzeichen-getrennte Datei
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; AutoHotkey v1 Script
+v304_Lang47; Import ; Importieren
+v304_Lang48; Import to; Importieren nach
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Trennzeichen (letztes)
+v400_Lang02; Format; Format
+v400_Lang03; Sounds; Töne
+v400_Lang04; Show title bar; Zeige Titelzeile
+v400_Lang05; Break into columns; Zu Spalten aufteilen
+v400_Lang06; Clipboard capture; Zwischenablage erfassen
+v400_Lang07; Macro record/play; Makro aufnehm./abspiel.
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Nutze Zwischenablage für RichText (erfordert Nachbearbeitung)
+v400_Lang09; Module; Module
+v400_Lang10; Restore Backup; Sicherung wiederherstellen
+v400_Lang11; Backup file; Sicherungsdatei
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Sind Sie sicher, dass Sie die vorherige Version der Daten wiederherstellen wollen?¶¶Dies wird alle aktuellen Einstellungen überschreiben.
+v400_Lang13; Shadow type; Schattenart
+v400_Lang14; Save history; Speichere Verlauf
+v400_Lang15; Control Click
+v400_Lang16; Key delays; Tastenverzögerung
+v400_Lang17; Key press duration (ms); Dauer Tastendruck (ms)
+v400_Lang18; Dialog delay (ms); Dialogverzögerung (ms)
+v400_Lang19; Focus change delay (ms); Verzögerung Fokus-Wechsel
+v400_Lang20; Force window focus; Erzwinge Fensterfokussierung
+v400_Lang21; Current Tab; Aktueller Reiter
+v400_Lang22; Top edge zone (L-R %); Oberer Kantenbereich
+v400_Lang23; Mode; Modus
+v400_Lang24; Click; Klicken
+v400_Lang25; Calculate math expressions; Berechne mathematische Ausdrücke
+v400_Lang26; Continuous calculation (instead of pressing =); Laufende Berechnung (anstelle des Drückens von =)
+v400_Lang27; Show thousands separator; Zeige Tausendertrennzeichen
+v400_Lang28; Round (decimals); Runden (Dezimal)
+v400_Lang29; File path; Dateipfad
+v400_Lang30; Result; Ergebnis
+v400_Lang31; Find; Suchen
+v400_Lang32; Find Next; Weitersuchen
+v400_Lang33; Search description; Suche Beschreibung
+v400_Lang34; Restrictions; Einschränkungen
+v400_Lang35; Backup; Sicherung
+v400_Lang36; Encrypt with password; Mit Passwort verschlüsseln
+v400_Lang37; Password; Passwort
+v400_Lang38; Verify; Prüfen
+v400_Lang39; Data Protection; Datenschutz
+v400_Lang40; Encrypt file; Datei verschlüsseln
+v400_Lang41; Remember on this computer; Auf diesem Computer merken
+v400_Lang42; Protect backups; Sicherungen verschlüsseln
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; WICHTIG:¶Wenn Sie das Passwort vergessen, haben Sie keine Möglichkeit mehr, auf die Daten zu zugreifen. Sicherungsdateien von vor der Aktivierung sind nicht geschützt. Phrasen- und Wortlisten-Dateien sind nicht geschützt.
+v400_Lang44; Support Mail; Support-Mail
+v400_Lang45; The password is incorrect, please try again.; Das Passwort ist falsch, bitte erneut versuchen.
+v400_Lang46; Quick find; Schnellsuche
+v400_Lang48; Search current typed word; Aktuell getipptes Wort suchen
+v400_Lang49; Calculator; Rechner
+v400_Lang50; Show suggestion; Vorschläge anzeigen
+v400_Lang51; Special characters; Sonderzeichen
+v400_Lang52; Online Documentation; Online-Hilfe
+v400_Lang53; Print; Drucken
+v400_Lang54; Automatic spacing; Automatischer Zeichenabstand
+v400_Lang55; Remove text margin; Rand entfernen
+v400_Lang56; Menu icon; Menu-Icon
+v400_Lang57; Remove vertical lines; Vertikale Linien entfernen
+v400_Lang58; Enable modifiers (!+^#); Modifizierer aktivieren (!+^#)
+v400_Lang59; Position above the caret; Über der Einfügemarke
+v400_Lang60; Properties; Eigenschaften
+v400_Lang61; Round time to; Zeit runden
+v400_Lang62; days; Tage
+v400_Lang63; business days; Arbeitstage
+v400_Lang64; hours; Stunden
+v400_Lang65; minutes; Minuten
+v400_Lang66; months; Monate
+v400_Lang67; years; Jahre
+v400_Lang70; Update order on paste; Reihenfolge nach Einfügen aktualisieren
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; Sind Sie sicher, dass Sie eine neue Datendatei anlegen möchten?¶¶Ihre aktuellen Daten werden nicht gelöscht - öffnen Sie Ihre Datendatei über Datei/Öffnen erneut.
+v400_Lang72; Position; Position
+v400_Lang73; Below the caret; Unter der Einfügemarke
+v400_Lang74; Above the caret; Über der Einfügemarke
+v400_Lang75; Alternative position; Alternative Position
+v400_Lang76; Mouse cursor; Mauszeiger
+v400_Lang77; Centered; Zentriert
+v400_Lang78; Tray; Tray
+v400_Lang89; Upgrade to Professional; Auf Professional-Version upgraden
+v400_Lang90; Shared settings; Team-Einstellungen
+v400_Lang91; Team; Team
+v400_Lang92; Shared file; Freigegebene Datei
+v400_Lang93; Edit shared file; Datei bearbeiten
+v400_Lang94; Shared file editing.; Gemeinsame Dateibearbeitung
+v400_Lang95; Shared file saved, returning to normal mode.; Freigegebene Datei gesichert, zurück in Normalmodus
+v400_Lang96; Information; Information
+v400_Lang97; SHARED; FREIGEGEBEN
+v400_Lang98; Remember popup position; Popup-Position merken
+v400_Lang99; Prefixes; Präfixe
+v426_Lang01; Default suffix; Standard-Suffix
+v426_Lang02; Exclusions; Ausschlüsse
+
+[Version 5.00]
+v5_Lang01; Default text; Standardtext
+v5_Lang02; No output; Keine Ausgabe
+v5_Lang03; Open Web Page; Webseite öffnen
+v5_Lang04; Run Program; Programm starten
+v5_Lang05; Open File; Datei öffnen
+v5_Lang06; Open Folder; Ordner öffnen
+v5_Lang07; Create Mail; Mail erstellen
+v5_Lang08; Activate Window; Fenster aktivieren
+v5_Lang09; To; An
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; Betreff
+v5_Lang13; Attachments; Anhänge
+v5_Lang14; Message body; Nachrichtentext
+v5_Lang15; Send automatically; Automatisch senden
+v5_Lang16; Default; Standard
+v5_Lang17; Address (URL); Adresse (URL)
+v5_Lang18; Folder; Ordner
+v5_Lang19; Custom; Benutzerdefiniert
+v5_Lang20; Browser path; Browserpfad
+v5_Lang21; Working directory; Arbeitsverzeichnis
+v5_Lang22; Maximized; Maximiert
+v5_Lang23; Minimized; Minimiert
+v5_Lang24; Wait until program closes; Warten bis Programm geschlossen
+v5_Lang25; Browser; Browser
+v5_Lang26; Table Selection; Auswahltabelle
+v5_Lang27; Text File Lookup; Textdatei-Nachschlagefunktion
+v5_Lang28; Excel File Lookup; Exceldatei-Nachschlagefunktion
+v5_Lang29; Lookup; Nachschlagefunktion
+v5_Lang30; Table; Tabelle
+v5_Lang31; Return column(s); Rückgabespalte(n)
+v5_Lang32; Table file; Tabellendatei
+v5_Lang33; Sheet; Blatt
+v5_Lang34; Cell range; Zellbereich
+v5_Lang35; Column no.; Spaltennr.
+v5_Lang36; Equals; Entspricht
+v5_Lang37; User Input; Benutzereingabe
+v5_Lang38
+v5_Lang39; Output separator; Ausgabetrennzeichen
+v5_Lang40; Force query; Abfrage erzwingen
+v5_Lang41; Insert column; Spalte einfügen
+v5_Lang42; Delete column; Spalte löschen
+v5_Lang43; Excel Data Range; Excel-Datenbereich
+v5_Lang44; Insert Data; Daten einfügen
+v5_Lang45; Input; Eingabe
+v5_Lang46; Automation; Automatisierung
+v5_Lang47; Customize Menus; Menüs anpassen
+v5_Lang48; Show icons; Icons anzeigen
+v5_Lang49; Favourite macros; Beliebte Makros
+v5_Lang50; Toolbar; Toolbar
+v5_Lang51; More settings; Weitere Einstellungen
+v5_Lang52; Tiles; Kacheln
+v5_Lang53; Icon and text below; Icon und Text unten
+v5_Lang54; Icon and text right; Icon und Text rechts
+v5_Lang55; Icon; Icon
+v5_Lang56; Tile size (W/H px); Kachelgröße (B/H px)
+v5_Lang57; Padding (px); Auffüllen (px)
+v5_Lang58; Grid; Raster
+v5_Lang59; Grid size (Rows/Columns); Rastergröße (Zeilen/Spalten)
+v5_Lang60; Order; Reihenfolge
+v5_Lang61; Outside margin (px); Äußerer Rand (px)
+v5_Lang62; Background color; Hintergrundfarbe
+v5_Lang63; Vertical; Vertikal
+v5_Lang64; Horizontal; Horizontal
+v5_Lang65; Display Edit, Delete buttons; Schaltflächen "Bearbeiten", "Löschen" anzeigen
+v5_Lang66; Theme; Thema
+v5_Lang67; Calculation; Berechnung
+v5_Lang68; Save table as; Speichere Tabelle als
+v5_Lang69; Insert Another Field; Anderes Feld eingeben
+v5_Lang70; Macro; Makro
+v5_Lang71; Column width; Spaltenbreite
+v5_Lang72; Popup width (px); Popup-Breite (px)
+v5_Lang73; Edit shared file; Datei bearbeiten
+v5_Lang74; Recent changes; Letzte Änderungen
+v5_Lang75; Yes; Ja
+v5_Lang76; No; Nein
+v5_Lang77; Bold; Fett
+v5_Lang78; Italic; Kursiv
+v5_Lang79; Underline; Unterstrichen
+v5_Lang80; Align Left; Linksbündig
+v5_Lang81; Center; Zentriert
+v5_Lang82; Align Right; Rechtsbündig
+v5_Lang83; Justify; Blocksatz
+v5_Lang84; Increase Font Size; Schriftgröße erhöhen
+v5_Lang85; Decrease Font Size; Schriftgröße verringern
+v5_Lang86; Bullets; Aufzählungszeichen
+v5_Lang87; Numbering; Nummerierung
+v5_Lang88; Decrease Indent; Einzug verkleinern
+v5_Lang89; Increase Indent; Einzug vergrößern
+v5_Lang90; Date; Datum
+v5_Lang91; Time; Zeit
+v5_Lang92; User; Benutzer
+v5_Lang93; Changes; Änderungen
+v5_Lang94; Include spaces; Leerzeichen einbeziehen
+v5_Lang95; Number of items; Anzahl Einträge anzeigen
+v5_Lang96; Output format; Ausgabeformat
+v5_Lang97; Output if empty; Ausgabe wenn leer
+v5_Lang98; Trim spaces; Leerzeichen trimmen
+v5_Lang99; All; Alle
+v5_Lang100; Adapt case; Schreibweise anpassen
+v5_Lang101; Uppercase; Großschreibung
+v5_Lang102; Lowercase; Kleinschreibung
+v5_Lang103; Find and replace; Suchen und Ersetzen
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; Möchten Sie die Einstellungen auf dieser Seite auf ihre ursprünglichen Werte zurücksetzen?
+v5_Lang105; Reset ALL preferences; ALLE Einstellungen zurücksetzen
+v5_Lang106; Multi line; Mehrzeilig
+v5_Lang107; Tables folder; Tabellenordner
+v5_Lang108; Input Format; Eingabeformat
+v5_Lang109; Digits; Ziffern
+v5_Lang110; All matches; Alle Treffer
+v5_Lang111; Neutral color icon; Neutrales Farbsymbol
+v5_Lang112; Auto save; Einstellungen automatisch sichern
+v5_Lang113; Video tutorials; Schulungsvideos
+v5_Lang114; Message Box
+v5_Lang115; Buttons; Schaltflächen
+v5_Lang116; Stop; Stop
+v5_Lang117; Any key; Beliebige Taste
+v5_Lang118; Relative to window; Relativ zum Window
+v5_Lang119; Keyboard; Tastatur
+v5_Lang120; Open Shared File; Freigegebene Datei öffnen
+v5_Lang121; Share; Zusammenarbeit
+v5_Lang122; Export; Exportieren
+v5_Lang123; Send Link; Verknüpfung senden
+v5_Lang124; If item exists; Falls der Eintrag existiert
+v5_Lang125; Skip; Überspringen
+v5_Lang126; Replace; Ersetzen
+v5_Lang127; Select tabs; Karteikarte wählen
+v5_Lang130; File already exists.; Datei existiert bereits.
+v5_Lang131; Are you sure?; Sind Sie sicher?
+v5_Lang132; item(s) will be shared.; Einträge werden geteilt.
+v5_Lang133; duplicate(s) found; Duplikate gefunden
+v5_Lang134; will be skipped.; wird ausgelassen.
+v5_Lang135; will be replaced.; wird ersetzt.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; Fügen Sie den Pfad ein, der Ihnen von Ihrem Administrator mitgeteilt wurde oder wählen Sie die Datei aus.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; Ausgwählten Inhalt mit anderen Benutzern teilen. Reiter auswählen oder neuen Reiter-Namen eingeben.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; Einstellungen in die Cloud oder ein Netzwerk-Laufwerk exportieren, wo es von anderen Benutzern benutzt werden kann.
+v5_Lang139; Search command; Such-Befehl
+v5_Lang140; Remember last input; Letzte Eingabe merken
+v5_Lang141; Startup script; Skript beim Programmstart ausführen
+v5_Lang142
+v5_Lang143; Grid Selection; Rasterauswahl
+v5_Lang144; Set columns; Spalten festlegen
+v5_Lang145; Selection type; Auswahl
+v5_Lang146; Optional Section; Optionaler Abschnitt
+v5_Lang147; Select "Command" mode to enable more options.; Kommando-Modus wählen, um mehr Optionen zu aktivieren.
+v5_Lang148; Use clipboard; Zwischenablage verwenden
+v5_Lang149; Loop; Schleife
+v5_Lang150; Loop count; Schleifenanzahl
+v5_Lang151; Default button; Standard-Schaltfläche
+v5_Lang152; Timeout (s); Timeout (s)
+v5_Lang153; Required; Benötigt
+v5_Lang154; Letters; Buchstaben
+v5_Lang155; Numbers; Ziffern
+v5_Lang156; Email; E-Mail
+v5_Lang157; Align elements horizontally; Horizontal ausrichten
+v5_Lang158; Comment; Kommentar
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; ist aktiv.¶Um das Einstellungen-Fenster erneut zu öffnen, klicken Sie auf das FastKeys Tray icon oder drücken Sie F8.
+v5_Lang160; Alternative backspace method; Alternative Rücktaste-Methode
+v5_Lang161; If they fit in one row; Wenn sie in eine Reihe passen
+v5_Lang162; Preview not available; Vorschau nicht verfügbar
+v5_Lang163; Switch View; Ansicht wechseln
+v5_Lang164; Not supported:; Nicht unterstützt:
+v5_Lang165; Selected items were saved to; Ausgewählte Elemente wurden gespeichert unter
+v5_Lang166; Save Selected As; Ausgewählte speichern als
+v5_Lang167; First Letter; Erster Buchstabe
+v5_Lang168; Copy to Clipboard; In Zwischenablage kopieren
+
+[Version 6.00]
+v6_Lang01; Grid Check; Rasterprüfung
+v6_Lang02; Single; Einzel
+v6_Lang03; Multi; Multi
+v6_Lang04; Delimiters; Trennzeichen
+v6_Lang05; Checked; Ausgewählt
+v6_Lang06; Unchecked; Abgewählt
+v6_Lang07; Output; Ausgabe
+v6_Lang08; Group output; Gruppenausgabe
+v6_Lang09; Repeat last command; Letzten Befehl wiederholen
+v6_Lang10; Double press; Doppelter Tastendruck
+v6_Lang11; Long press; Langer Tastendruck
+v6_Lang12; Wait time (s); Wartezeit (s)
+v6_Lang13; Recognize items; Elemente erkennen
+v6_Lang14; Voice Recognition; Spracherkennung
+v6_Lang15; Base value; Basiswert
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday; Sonntag|Montag|Dienstag|Mittwoch|Donnerstag|Freitag
+v6_Lang17; Date/Time Calculation; Datum/Zeit-Berechnung
+v6_Lang18; Auto restore hook (min); Key-Hook Auto-Restore (min)
+v6_Lang19; Auto reload (min); Automatisches Neuladen (min)
+v6_Lang20; If condition; If-Bedingung
+v6_Lang21; Else; Else
+v6_Lang22; Case If Conditions; Case-If-Bedingungen
+v6_Lang23; Are you sure you want to change the options for the

@@ -1,0 +1,798 @@
+﻿; English; Dutch
+; Nederlands
+; Translation by Mintaz.Aksoy@gmail.com
+
+[Gui]
+g_Lang01; Start Menu; Startmenu
+g_Lang02; Shortcuts; Sneltoetsen
+g_Lang03; Text Expander; TekstExpander
+g_Lang04; Auto Complete; Auto Compleet
+g_Lang05; Gestures; Beweging
+g_Lang06
+g_Lang11; New; Nieuw
+g_Lang12; Edit; Bewerken
+g_Lang13; Delete; Verwijderen
+g_Lang14; Run; Uitvoeren
+g_Lang15; Active; Actief
+g_Lang16; Menu; Menu
+g_Lang17; Submenu; Submenu
+g_Lang18; Type; Type
+g_Lang19; Command; Command
+g_Lang20; Run Type; Type Uitvoeren
+g_Lang21; Key; Toets
+g_Lang22; Shortcut; Sneltoets
+g_Lang23; Description; Omschrijving
+g_Lang24; Window; Scherm
+g_Lang25; String; String
+g_Lang26; Substitute; Vervangen
+g_Lang27; Gesture; Beweging
+g_Lang28
+g_Lang31; Paused; Gepauzeerd
+g_Lang32; Active; Actief
+g_Lang33; Untitled; Naamloos
+g_Lang40
+g_Lang41; Separator; Scheidingsteken
+g_Lang42; Undo; Ongedaan maken
+g_Lang43; Redo; Opnieuw uitvoeren
+g_Lang44; Move Up; Omhoog
+g_Lang45; Move Down; Omlaag
+g_Lang46; Are you sure to remove; Verwijderen, weet u het zeker?
+g_Lang47; selected items; Geselecteerde items
+g_Lang50
+g_Lang51; Preferences; Voorkeuren
+g_Lang52; Support Forum; Support Forum
+g_Lang53; Help; Help
+g_Lang54; Select a file or folder; Selecteer een bestand of map
+g_Lang55; Edit command in Editor; Opdracht bewerken in Editor
+g_Lang56; Select a preset command; Selecteer een vooraf ingestelde opdracht
+g_Lang60
+g_Lang61; Registered to; Geregistreerd:
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; DE PROEFVERSIE IS VERLOPEN.
+g_Lang63; TRIAL PERIOD.; PROEFPERIODE.
+g_Lang64
+g_Lang71; Do you want to save changes?; Wilt u de wijzigingen opslaan?
+g_Lang72; Save file as...; Bestand opslaan als....
+g_Lang73; Do you want to save changes to; Wilt u de wijzigingen opslaan in
+g_Lang74; Please select FastKeys data file.; Selecteer Fastkeys gegevensbestand.
+g_Lang75; Not a valid FastKeys file.; Geen geldig FastKeys bestand.
+g_Lang76; Save FastKeys data file as…; Sla FastKeys gegevensbestand op als...
+g_Lang78; Are you sure to overwrite existing data?; Weet u zeker dat u de bestaande gegevens wilt overschrijven?
+g_Lang79; Select folder:; Selecteer mappen:
+g_Lang80; Duplicate entry, please correct.; Dubbele invoer, corrigeer aub.
+g_Lang81; File does not exist.; Het Bestand bestaat niet.
+g_Lang82; Please select a Phrase file.; Selecteer een zinsdeel bestand.
+g_Lang83; Please select a Wordlist file.; Selecteer een Woordenlijst bestand.
+g_Lang84; Too many menu entries.; Te veel menu-items.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; Direct activeren
+g1_Lang03; Delete ending char; Laatste teken verwijderen
+g1_Lang04; Don't delete string; Tekenreeks niet verwijderen
+g1_Lang05; Case sensitive; Hoofdlettergevoelig
+g1_Lang06; Trigger inside word; Binnen een woord activeren
+g1_Lang07; Send raw text; Stuur ruwe tekst
+g1_Lang08; Manual confirmation; Handmatige bevestiging
+g1_Lang09
+g1_Lang11; None; Geen
+g1_Lang12; Auto Run; Auto Uitvoeren
+g1_Lang13; Run on Startup; Tijdens opstarten uitvoeren
+g1_Lang14; Include Files; Bestanden Toevoegen
+g1_Lang15; Include Subfolders; Submappen Toevoegen
+g1_Lang16; Include Files and Subfolders; Bestanden en submappen toevoegen
+g1_Lang17
+g1_Lang21; Record; Opnemen
+g1_Lang22; Record a New Gesture ; Nieuwe Beweging opnemen
+g1_Lang23; Right Mouse Button; Rechter muisknop
+g1_Lang24; key; Toets
+g1_Lang25; Hold; Vasthouden
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; om een penbeweging op het scherm te maken. Druk op Enter of de knop OK om te voltooien.
+g1_Lang28
+g1_Lang31; Abbreviation; Afkorting
+g1_Lang32; Phrase; Uitdrukking
+g1_Lang33; Word; Woord
+g1_Lang34; Phrase file; Uitdrukkingen bestand
+g1_Lang35; Wordlist file; Woordenlijst bestand
+g1_Lang36
+g1_Lang41; Line; Lijn
+g1_Lang42; Column; Kolom
+g1_Lang43
+g1_Lang51; Advanced shortcut; Geavanceerde snelkoppeling
+g1_Lang52; Modifier; Aanpassing
+g1_Lang53; Optional Attributes; Optionele kenmerken
+g1_Lang54; Native; Oorspronkelijk
+g1_Lang55; Wildcard; Wildcard
+g1_Lang56; Hook; Haak
+g1_Lang57; L/R only; Alleen L/R
+g1_Lang58; Keys; Toetsen
+g1_Lang59; Standard; Standaard
+g1_Lang60; Function keys; Functietoetsen
+g1_Lang61; Numpad; Numpad
+g1_Lang62; Mouse; Muis
+g1_Lang63; Multimedia; Multimedia
+g1_Lang64; Special; Speciaal
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &Bestand
+m_Lang02; &Edit; &Bewerken
+m_Lang03; &Insert; &Invoeren
+m_Lang04; &Tools; &Opties
+m_Lang05; &Help; &Help
+m_Lang06; &Register; &Register
+m_Lang07
+m_Lang11; &New; &Nieuw
+m_Lang12; &Open; &Open
+m_Lang13; &Save; &Opslaan
+m_Lang14; Save &As; Opslaan &Als
+m_Lang15; E&xit; A&fsluiten
+m_Lang16
+m_Lang21; &Edit; &Bewerken
+m_Lang22; &Delete; &Verwijderen
+m_Lang23; Re&load; Opnieuw& laden
+m_Lang24; &Pause; &Pauze
+m_Lang25
+m_Lang31; &Preferences; &Voorkeuren
+m_Lang32; &Module Activation; &Module activering
+m_Lang33; &Auto Learn Settings; &Automatisch Instellingen Leren
+m_Lang34; &Check for Updates; &Controleren op Updates
+m_Lang35; &Update Menu Icons; &Menu Pictogrammen updaten
+m_Lang36
+m_Lang41; &Help; &Help
+m_Lang42; &Support Forum; &Ondersteuningsforum
+m_Lang43; &View Quick Tips; &Bekijk snelle Tips
+m_Lang44; &About; &Over
+m_Lang45
+m_Lang51; Open from &Library; Openen vanuit &bibliotheek
+m_Lang52; Cut; Knippen
+m_Lang53; Copy; Kopiëren
+m_Lang54; Paste; Plakken
+m_Lang55; Select All; Selecteer alles
+m_Lang56; Read Only; Alleen-lezen
+m_Lang57; Zoom in; Zoom in
+m_Lang58; Zoom out; Uitzoomen
+m_Lang59; Default Zoom; Standaard Zoom
+m_Lang60; Zoom; Zoom
+m_Lang61; Always On Top; Altijd op de voorgrond
+m_Lang62; Line Wrap; Lijn Wrap
+m_Lang63; View; Weergave
+m_Lang64; Open Script; Open Script
+
+[FastKeys]
+f_Lang01; Loading FastKeys; FastKeys Laden
+f_Lang02; Settings; Instellingen
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; FOUT. Sommige opdrachten werden tegengehouden.¶¶Controleer de laatste bewerkte opdrachten en corrigeer waar mogelijk duplicaten of syntaxisfouten.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; Er is een probleem opgetreden bij het ophalen van de menupictogrammen van het net. Controleer uw internet- of firewall-instellingen.¶¶Automatische downloads zijn uitgeschakeld zodat u sneller kunt laden. U kunt automatische pictogram downloaden in het Instellingen menu inschakelen.
+f_Lang14; Save settings before continuing?; Instellingen opslaan voordat u doorgaat?
+f_Lang15; Add to; Toevoegen
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Dank u voor het gebruik van de evaluatieversie van FastKeys. U hebt een licentie voor het gebruik van deze toepassing die alleen voor evaluatie is verleend. De geregistreerde versie toont deze mededeling niet.
+f_Lang22; Press "Continue" to continue using trial version.; Druk op "Doorgaan" om de proefversie te blijven gebruiken.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Geregistreerde gebruikers Geef uw registratie en licentie informatie hieronder om de volledige versie van de FastKeys te activeren. Kopieer of type de sleutel van de registratie in het invoerveld en klik op "Registreren".¶¶Klik op "Aankoop" voor het kopen van een registratiesleutel of klikt u op "Annuleren" om door te gaan met deze proefversie.
+f_Lang36
+f_Lang41; Name/Company:; Naam:
+f_Lang42; Registration key:; Registratiesleutel
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Verkeerde registratie sleutel. Probeer het opnieuw.
+f_Lang46; Congratulations, you have registered FastKeys!; Gefeliciteerd, U heeeft FastKeys geregistreerd!
+f_Lang47
+f_Lang51; Open Menu; Menu openen
+f_Lang52; Reload; Herladen
+f_Lang53; Pause; Pauze
+f_Lang54; Exit FastKeys; FastKeys Afsluiten
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; OK
+b_Lang02; Cancel; Annuleren
+b_Lang03; Save; Opslaan
+b_Lang06; Select; Selecteer
+b_Lang07; Defaults; Standaard Instellingen
+b_Lang08; Register; Registreren
+b_Lang11; Purchase; Aanschaffen
+b_Lang12; Continue; Doorgaan
+b_Lang14; Test; Test
+b_Lang17; Open; Open
+b_Lang18; Edit; Bewerken.
+b_Lang19; Library; Bibliotheek
+b_Lang22; Edit File; Bestand bewerken
+
+[Library]
+l_Lang01; Utility; Hulpprogramma
+l_Lang02
+l_Lang03; Scripts; Scripts
+l_Lang04; Audio; Audio
+l_Lang05; Games; Spelletjes
+l_Lang06
+l_Lang11; Control Panel; Controle Paneel
+l_Lang12; System Folders; Systeemmappen
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; Systeem
+l_Lang15; Utilities; Hulp Programma's
+l_Lang16; Windows; Windows
+l_Lang17; Shell; Shell
+l_Lang18
+l_Lang21; Keys; Toetsaanslagen
+l_Lang22; Cursor Position; Cursorpositie
+l_Lang23; Mouse and Media; Muis&Media
+l_Lang24; Date and Time; Datum&Tijd
+
+[Preferences]
+s_Lang01; General; Algemeen
+s_Lang02; Appearance; Uiterlijk
+s_Lang03; Functions; Functies
+s_Lang04; Folders; Mappen
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; Automatisch leren
+s_Lang10
+s_Lang11; Internet; Internet
+s_Lang12; Module Activation; Module activering
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Selecteer OK/Opslaan voor pictogrammen bijwerken
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Wilt u de FastKeys webpagina voor enkele snelle tips over het gebruik van het programma bezoeken?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; Er was een probleem tijdens de updates controle.Probeer het opnieuw, of bezoek de FastKeys website voor controle en deze handmatig te downloaden.¶¶Automatische update controles zijn uitgeschakeld voor sneller laden.
+s_Lang25; You are using the latest version of; U gebruikt de nieuwste versie van
+s_Lang26; A new version of FastKeys; Een nieuwe versie van FastKeys
+s_Lang27; is available.; is beschikbaar.
+s_Lang28; Would you like to install it now?; Wilt u deze nu installeren?
+s_Lang29; Downloading FastKeys, Version; Downloaden FastKeys, Versie
+s_Lang30; Please wait ...; Een ogenblik geduld...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; Er is een probleem met de download. Probeer het opnieuw of bezoek de FastKeys website voor handmatige downloads.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; Snel toevoegen
+s1_Lang02; Quick add to ; Snel toevoegen aan
+s1_Lang03; Ask; Vragen
+s1_Lang04; Learn Wordlist File; Woordenlijst bestand leren
+s1_Lang05; Pause shortcut; Pauze sneltoets
+s1_Lang06; General options; Algemene opties
+s1_Lang07; Run FastKeys on startup; Bij het opstarten FastKeys uitvoeren
+s1_Lang08; Show tray icon; Pictogram in het systeemvak weergeven
+s1_Lang09; Clicking tray icon shows Start Menu; Klik op het Systeemvak pictogram voor weergave van het Start-Menu
+s1_Lang10; Auto check for software updates; Automatisch controleren op software-updates
+s1_Lang11; Language; Taal
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Rasters weergeven
+s2_Lang03; Show stripes; Toon strepen
+s2_Lang04; Show loading progress; Toon voortgang tijdens laden
+s2_Lang05; Display Apply, Edit, Delete buttons; Toepassen, bewerken, verwijderen knoppen weergeven
+s2_Lang06; Transparency (%); Transparantie (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Volume
+s3_Lang02; Control with mouse wheel on right screen edge; Controle met muiswiel op juiste schermrand
+s3_Lang03; Volume sensitivity; Volume gevoeligheid
+s3_Lang04; Auto-correct; Auto-correctie
+s3_Lang05; Correct sentence capitals; Correcte zin hoofdletters
+s3_Lang06; Correct DOuble CApitals; Correcte Dubbele hoofdletters
+s3_Lang07; Disable CapsLock key; CapsLock toets uitschakelen
+s3_Lang08; Memory; Geheugen
+s3_Lang09; Optimize memory; Geheugen optimaliseren
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Scripts map
+s4_Lang02; Phrase files folder; Uitdrukkings bestanden map
+s4_Lang03; Wordlist files folder; Woordenlijst bestanden map
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Menu sneltoets
+s5_Lang02; Show menu on; Toon menu op
+s5_Lang03; Top edge; Bovenrand
+s5_Lang04; Right edge; Rechterrand
+s5_Lang05; Left edge; Linkerrand
+s5_Lang06; Bottom edge; Onderkant
+s5_Lang07; Menu options; Menu-opties
+s5_Lang08; Show menu icons; Menupictogrammen weergeven
+s5_Lang09; Auto download website icons; Website pictogrammen automatich downloaden
+s5_Lang10; Larger icons; Grotere pictogrammen
+s5_Lang11; Disable menu in full screen applications; Menu in fullscreen toepassingen uitschakelen
+s5_Lang12; Add settings to Start Menu; Instellingen toevoegen aan Menu Start
+s5_Lang13; Menu delay (ms); Menu vertraging (ms)
+s5_Lang14; Show recent items; Recente items weergeven
+s5_Lang15; Files; Bestanden
+s5_Lang16; Folders; Mappen
+s5_Lang17; Files and folders; Bestanden en mappen
+s5_Lang18; Show in submenu; Weergeven in het vervolgmenu
+
+[Preferences 6]
+s6_Lang01; Only active in; Alleen actief in
+s6_Lang02; Not active in; Niet actief in
+
+[Preferences 7]
+s7_Lang01; Default prefix; Standaardvoorvoegsel
+s7_Lang02; Ending characters; Einde tekens
+s7_Lang03; Space; Spatie
+s7_Lang04; Tab; Tab
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; Scheidingstekens
+s7_Lang07; Clipboard; Klembord
+s7_Lang08; Use clipboard if text length exceeds (char); Klembord gebruiken bij overschrijding textlengte(char)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; Correcte geval van het voorgestelde woord
+s8_Lang03; Minimum word length to show suggestion; Minimale woordlengte voor suggestie tonen
+s8_Lang04; Word suggestion list height; Woord suggestie lijst hoogte
+s8_Lang05; Special characters; Speciale tekens
+s8_Lang06; (list of special alphabet characters to be recognized; (lijst van speciale alfabet tekens om te worden herkend
+s8_Lang07; as a part of a word); als een deel van een woord)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Auto leren
+s9_Lang02; Turn on automatic word learning; Automatisch woorden leren inschakelen
+s9_Lang03; Learn wordlist file; Leren van woordenlijst bestand
+s9_Lang04; Learning options; Opties leren
+s9_Lang05; Minimum length of learned words; Minimale lengte van de geleerde woorden
+s9_Lang06; Number of occurences to learn a word; Aantal keren om een woord te leren
+s9_Lang07; Save learned words as lowercase; Opslaan van de geleerde woorden als kleine letters
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Toetsbeweging
+s10_Lang02; Options; Opties
+s10_Lang03; Show mouse trail; Muis spoor weergeven
+s10_Lang04; Play sound for no match; Geluid afspelen voor niet gevonden
+s10_Lang05; Recognize 8 zones (advanced); Herkennen van 8 zones (Geavanceerd)
+s10_Lang06; Advanced; Geavanceerd
+s10_Lang07; Interval (ms); Interval (ms)
+s10_Lang08; Threshold (px); Drempel px)
+s10_Lang09; Timeout (ms); Timeout (ms)
+s10_Lang10; Initial timeout (ms); Init. timeout (ms)
+s10_Lang11; Tolerance (%); Tolerantie (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Controleren op nieuwe versies van FastKeys
+s11_Lang02; Update; Update
+s11_Lang03; Update Start menu icons from internet; Start menu iconen via het internet bijwerken
+s11_Lang04; Update icons; Pictogrammen bijwerken
+s11_Lang05; View quick tips for using FastKeys; Bekijk snelle tips voor het gebruik van FastKeys
+s11_Lang06; View quick tips; Bekijk snelle tips
+
+[Preferences 12]
+s12_Lang01; Active modules; Actieve modules
+s12_Lang03; Hide disabled modules; Verberg uitgeschakelde modules
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Klembord Manager
+v211_Lang01; Clipboard shortcut; Klembord sneltoets
+v211_Lang02; History size; Geschiedenis formaat
+v211_Lang03; Capture images and formatting; Vastleggen van afbeeldingen en opmaak
+v211_Lang04; Hold Ctrl key to paste without formatting; Houd Ctrl ingedrukt voor plakken zonder opmaak
+v211_Lang05; Clipboard font; Klembord lettertype
+v211_Lang06; Popups; Popups
+v211_Lang07; Maximum popup width; Maximale popup breedte
+v211_Lang08; Show shortcut numbers; Toon sneltoets nummers
+v211_Lang09; New File; Nieuw bestand
+v211_Lang10; New Empty File; Nieuw leeg bestand
+v211_Lang11; Backup files folder; Back-up bestanden map
+v211_Lang12; Number of saved backups; Aantal van de opgeslagen back-ups
+
+[Version 2.14]
+v214_Lang00; Duplicate; Dupliceren
+v214_Lang01; Macro Recorder; Macrorecorder
+v214_Lang02; Record shortcut; Opname sneltoets
+v214_Lang03; Play shortcut; Afspeel sneltoets
+v214_Lang04; Recording options; Opname-opties
+v214_Lang05; Keyboard actions; Toetsenbord opties
+v214_Lang06; Mouse clicks; Muisklikken
+v214_Lang07; Time intervals; Tijdsintervallen
+v214_Lang08; Window actions; Scherm acties
+v214_Lang09; Show virtual key names; Toon virtuele toets namen
+v214_Lang10; Show save dialog after recording; Toon dialoogvenster opslaan na de opname
+v214_Lang20; Press; Druk op
+v214_Lang21; or "Record" button to start recording; of "Opnemen" knop om de opname te beginnen
+v214_Lang22; to finish; om te voltooien
+v214_Lang23; Recording macro; Macro opnemen
+v214_Lang24; Recording completed; Opnemen afgerond
+v214_Lang25; Recorded Macro; Opgenomen macro
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Zet regel afkorting aan
+v217_Lang02; New Tab; Nieuwe Tab
+v217_Lang03; Rename; Hernoem
+v217_Lang04; Move Left; Verplaats Links
+v217_Lang05; Move Right; Verplaats Rechts
+v217_Lang06; tab; Tab
+v217_Lang07; Tab Name; Tab Naam
+
+[Version 2.19]
+v219_Lang01; More; Meer
+v219_Lang02; Settings shortcut; Instellingen Sneltoets
+v219_Lang04; Popups font and color; Popup Lettertype en Kleur
+v219_Lang05; Color and style; Kleur en Style
+v219_Lang06; Sort; Sorteren
+v219_Lang07; Alphabetically; Alphabetisch
+v219_Lang08; Include similar words (smart search); Inclusief Gelijke Woorden(slim zoeken)
+v219_Lang09; Don't learn strings; Tekenreeks niet leren
+v219_Lang10; Trail width and color; Spoor breedte en kleur
+v219_Lang11; Run as administrator; Uitvoeren als administrator
+v219_Lang12; Formatting; Formaat
+v219_Lang13; Normal; Normaal
+v219_Lang14; No Icons; Geen Iconen
+v219_Lang15; Small; Klein
+v219_Lang16; Apply; Toepassen
+
+[Version 2.20]
+v220_Lang02; Icon size; Icon Formaat
+v220_Lang04; Break menu at separator; Menu afbreken bij scheiding
+v220_Lang05; Increase line spacing; Vergroot lijn ruimte
+v220_Lang06; Selection color; Selecteer Kleur
+v220_Lang07; Invert selection text color; Text kleur aanpassen
+v220_Lang08; Show clipboard items; Inhoud van het klembord weergeven
+
+[Version 2.22]
+v222_Lang01; Selection keys; Selectietoetsen
+v222_Lang02; Number; Nummer:
+v222_Lang03; Insert mode; Invoegmodus
+v222_Lang04; Show line numbers; Regelnummers weergeven
+v222_Lang05
+v222_Lang06; More options; Meer opties
+v222_Lang07; Fewer options; Minder opties
+v222_Lang08; Always show more options; Meer opties altijd weergeven
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Onder een Menu verplaatsen
+v300_Lang02; System Variables; Systeemvariabelen
+v300_Lang03; Macros; Macro 's
+v300_Lang04; Manual Text Input; Handmatige Tekstinvoerveld
+v300_Lang05; File Contents; Bestandsinhoud
+v300_Lang06; Name; Naam
+v300_Lang07; Paragraph Options; Paragraaf Opties
+v300_Lang08; Spacing; Afstand
+v300_Lang09; Before; Voor
+v300_Lang10; After; Na
+v300_Lang11; Line spacing; Regelafstand
+v300_Lang12; Reload shortcut; Snelkoppeling herladen
+v300_Lang13; Paste delay (ms); Vertraging van Plakken (ms)
+v300_Lang14; No formatting; Geen opmaak
+v300_Lang15; Rich Text; Rich Text-indeling
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Shift-toets gebruiken om te plakken zonder sluiten
+v300_Lang18; Window Information; Scherm Informatie
+v300_Lang19; Insert Another Item; Een andere opdracht invoegen
+v300_Lang20; Filter; Filter
+v300_Lang21; Selection Form; Invoerselectie formulier
+v300_Lang22; Selections; Selecties
+v300_Lang23; Preview; Voorbeeld
+v304_Lang01; Title; Titel
+v304_Lang02; Class; Class
+v304_Lang03; Process; Proces
+v304_Lang04; Position (x, y); Positie (x, y)
+v304_Lang05; Size (w, h); Grootte (w, h)
+v304_Lang06; Control; Controle
+v304_Lang07; Text; Tekst
+v304_Lang08; Mouse Position; Muispositie
+v304_Lang09; Color; Kleur
+v304_Lang10; Insert Image; Afbeelding invoegen
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Suggesties worden weergegeven terwijl u typt (Auto Complete instellingen)
+v304_Lang12; Shift; Shift
+v304_Lang13; Include words containing the string; Neem ook woorden op die de tekenreeks bevaten
+v304_Lang14; Enable column sorting; Kolom Sorteren Inschakelen
+v304_Lang15; Description separator; Beschrijving scheidingsteken
+v304_Lang16; Copy to Start Menu; Kopiëren naar het Menu Start
+v304_Lang17; Key delay (ms); Toetsvertraging (ms)
+v304_Lang18; Key delays only active in; Toetsvertraging alleen actief in
+v304_Lang19; Display options; Weergaveopties
+v304_Lang20; New from Library; Nieuw in Bibliotheek
+v304_Lang21; Variable name contains illegal characters:; De naam van de variabele bevat ongeldige tekens:
+v304_Lang22; User Variables; Gebruikersvariabelen
+v304_Lang23; Usage Statistics; Gebruiksstatistieken
+v304_Lang24; Times executed; Maal uitgevoerd
+v304_Lang25; Keystrokes saved; Toetsaanslagen opgeslagen
+v304_Lang26; Time savings; Tijdwinst
+v304_Lang27; Session; Sessie
+v304_Lang28; Track usage statistics; Bijhouden van gebruiksstatistieken
+v304_Lang29; Typing speed (wpm); Typesnelheid
+v304_Lang30; Hourly wage; Uurloon
+v304_Lang31; Insert Command Code; Opdrachtcode invoegen
+v304_Lang32; Command Name; Opdrachtnaam
+v304_Lang33; Enable; Inschakelen
+v304_Lang34; Disable; Uitschakelen
+v304_Lang35; Enable random text generation syntax (Spintax)
+v304_Lang36; Font; Lettertype
+v304_Lang37; Adjust to typed case
+v304_Lang38; Condition; Voorwaarde
+v304_Lang39; Condition Name; Voorwaardenaam op
+v304_Lang40; Allow duplicates; Duplicaten toegestaan
+v304_Lang42; Append; Toevoegen
+v304_Lang43; Include descriptions; Voeg beschrijvingen toe
+v304_Lang44; Delimited Text File; Tekstbestand met scheidingstekens
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; AutoHotkey v1 Script
+v304_Lang47; Import ; Importeren
+v304_Lang48; Import to; Importeren in
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Scheidingsteken (laatste)
+v400_Lang02; Format; Formaat
+v400_Lang03; Sounds; Geluiden
+v400_Lang04; Show title bar; Toon titlebar
+v400_Lang05; Break into columns; Breek naar kolommen
+v400_Lang06; Clipboard capture; Klembordopname
+v400_Lang07; Macro record/play; Macro opnemen/afspelen
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Klembord gebruiken voor Rich Text (vereist opnieuw bewerken)
+v400_Lang09; Module; Module
+v400_Lang10; Restore Backup; Herstellen
+v400_Lang11; Backup file; Backup bestand
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Weet u zeker dat u de vorige versie van de gegevens wilt herstellen? ¶¶Dit zal alle huidige instellingen overschrijven.
+v400_Lang13; Shadow type; Schaduw type
+v400_Lang14; Save history; Sla geschiedenis op
+v400_Lang15; Control Click; Controle Klik
+v400_Lang16; Key delays; Belangrijke vertragingen
+v400_Lang17; Key press duration (ms); Duur van het indrukken van een toets (ms)
+v400_Lang18; Dialog delay (ms); Dialoogvenster vertraging (ms)
+v400_Lang19; Focus change delay (ms); Focus gewijzigd vertraging (ms)
+v400_Lang20; Force window focus; Forceer window focus
+v400_Lang21; Current Tab; Huidige tabblad
+v400_Lang22; Top edge zone (L-R %); Bovenzijde zone
+v400_Lang23; Mode; Mode
+v400_Lang24; Click; Klik op
+v400_Lang25; Calculate math expressions; Bereken wiskunde
+v400_Lang26; Continuous calculation (instead of pressing =); Continue berekening (in plaats van te drukken =)
+v400_Lang27; Show thousands separator; Toon het scheidingsteken voor duizendtallen
+v400_Lang28; Round (decimals); Afronden (decimalen)
+v400_Lang29; File path; Bestandspad
+v400_Lang30; Result; Uitkomst
+v400_Lang31; Find; Zoeken
+v400_Lang32; Find Next; Volgende zoeken
+v400_Lang33; Search description; Zoek beschrijving
+v400_Lang34; Restrictions; Restrictie
+v400_Lang35; Backup; Backup
+v400_Lang36; Encrypt with password; Versleutel met wachtwoord
+v400_Lang37; Password; Wachtwoord
+v400_Lang38; Verify; Verifiëren
+v400_Lang39; Data Protection; Gegevensbescherming
+v400_Lang40; Encrypt file; Versleutel bestand
+v400_Lang41; Remember on this computer; Onthoud op deze computer
+v400_Lang42; Protect backups; Back-ups beveiligen
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; BELANGRIJK:¶ Als u het wachtwoord bent vergeten, hebt u geen toegang tot de gegevens. Back-upbestanden die zijn gemaakt voordat de activering niet is beveiligd. Phrase-en woordenlijst-bestanden zijn niet beveiligd.
+v400_Lang44; Support Mail; Ondersteuning mail
+v400_Lang45; The password is incorrect, please try again.; Het wachtwoord is onjuist, probeer het opnieuw.
+v400_Lang46; Quick find; Snel zoeken
+v400_Lang48; Search current typed word; Zoek het huidige getypte woord
+v400_Lang49; Calculator
+v400_Lang50; Show suggestion
+v400_Lang51; Special characters
+v400_Lang52; Online Documentation
+v400_Lang53; Print
+v400_Lang54; Automatic spacing
+v400_Lang55; Remove text margin
+v400_Lang56; Menu icon
+v400_Lang57; Remove vertical lines
+v400_Lang58; Enable modifiers (!+^#)
+v400_Lang59; Position above the caret
+v400_Lang60; Properties
+v400_Lang61; Round time to
+v400_Lang62; days
+v400_Lang63; business days
+v400_Lang64; hours
+v400_Lang65; minutes
+v400_Lang66; months
+v400_Lang67; years
+v400_Lang70; Update order on paste
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.
+v400_Lang72; Position
+v400_Lang73; Below the caret
+v400_Lang74; Above the caret
+v400_Lang75; Alternative position
+v400_Lang76; Mouse cursor
+v400_Lang77; Centered
+v400_Lang78; Tray
+v400_Lang89; Upgrade to Professional
+v400_Lang90; Shared settings
+v400_Lang91; Team
+v400_Lang92; Shared file
+v400_Lang93; Edit shared file
+v400_Lang94; Shared file editing.
+v400_Lang95; Shared file saved, returning to normal mode.
+v400_Lang96; Information
+v400_Lang97; SHARED
+v400_Lang98; Remember popup position
+v400_Lang99; Prefixes
+v426_Lang01; Default suffix
+v426_Lang02; Exclusions
+
+[Version 5.00]
+v5_Lang01; Default text
+v5_Lang02; No output
+v5_Lang03; Open Web Page
+v5_Lang04; Run Program
+v5_Lang05; Open File
+v5_Lang06; Open Folder
+v5_Lang07; Create Mail
+v5_Lang08; Activate Window
+v5_Lang09; To
+v5_Lang10; CC
+v5_Lang11; BCC
+v5_Lang12; Subject
+v5_Lang13; Attachments
+v5_Lang14; Message body
+v5_Lang15; Send automatically
+v5_Lang16; Default
+v5_Lang17; Address (URL)
+v5_Lang18; Folder
+v5_Lang19; Custom
+v5_Lang20; Browser path
+v5_Lang21; Working directory
+v5_Lang22; Maximized
+v5_Lang23; Minimized
+v5_Lang24; Wait until program closes
+v5_Lang25; Browser
+v5_Lang26; Table Selection
+v5_Lang27; Text File Lookup
+v5_Lang28; Excel File Lookup
+v5_Lang29; Lookup
+v5_Lang30; Table
+v5_Lang31; Return column(s)
+v5_Lang32; Table file
+v5_Lang33; Sheet
+v5_Lang34; Cell range
+v5_Lang35; Column no.
+v5_Lang36; Equals
+v5_Lang37; User Input
+v5_Lang38
+v5_Lang39; Output separator
+v5_Lang40; Force query
+v5_Lang41; Insert column
+v5_Lang42; Delete column
+v5_Lang43; Excel Data Range
+v5_Lang44; Insert Data
+v5_Lang45; Input
+v5_Lang46; Automation
+v5_Lang47; Customize Menus
+v5_Lang48; Show icons
+v5_Lang49; Favourite macros
+v5_Lang50; Toolbar
+v5_Lang51; More settings
+v5_Lang52; Tiles
+v5_Lang53; Icon and text below
+v5_Lang54; Icon and text right
+v5_Lang55; Icon
+v5_Lang56; Tile size (W/H px)
+v5_Lang57; Padding (px)
+v5_Lang58; Grid
+v5_Lang59; Grid size (Rows/Columns)
+v5_Lang60; Order
+v5_Lang61; Outside margin (px)
+v5_Lang62; Background color
+v5_Lang63; Vertical
+v5_Lang64; Horizontal
+v5_Lang65; Display Edit, Delete buttons
+v5_Lang66; Theme
+v5_Lang67; Calculation
+v5_Lang68; Save table as
+v5_Lang69; Insert Another Field
+v5_Lang70; Macro
+v5_Lang71; Column width
+v5_Lang72; Popup width (px)
+v5_Lang73; Edit shared file
+v5_Lang74; Recent changes
+v5_Lang75; Yes
+v5_Lang76; No
+v5_Lang77; Bold
+v5_Lang78; Italic
+v5_Lang79; Underline
+v5_Lang80; Align Left
+v5_Lang81; Center
+v5_Lang82; Align Right
+v5_Lang83; Justify
+v5_Lang84; Increase Font Size
+v5_Lang85; Decrease Font Size
+v5_Lang86; Bullets
+v5_Lang87; Numbering
+v5_Lang88; Decrease Indent
+v5_Lang89; Increase Indent
+v5_Lang90; Date
+v5_Lang91; Time
+v5_Lang92; User
+v5_Lang93; Changes
+v5_Lang94; Include spaces
+v5_Lang95; Number of items
+v5_Lang96; Output format
+v5_Lang97; Output if empty
+v5_Lang98; Trim spaces
+v5_Lang99; All
+v5_Lang100; Adapt case
+v5_Lang101; Uppercase
+v5_Lang102; Lowercase
+v5_Lang103; Find and replace
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?
+v5_Lang105; Reset ALL preferences
+v5_Lang106; Multi line
+v5_Lang107; Tables folder
+v5_Lang108; Input Format
+v5_Lang109; Digits
+v5_Lang110; All matches
+v5_Lang111; Neutral color icon
+v5_Lang112; Auto save
+v5_Lang113; Video tutorials
+v5_Lang114; Message Box
+v5_Lang115; Buttons
+v5_Lang116; Stop
+v5_Lang117; Any key
+v5_Lang118; Relative to window
+v5_Lang119; Keyboard
+v5_Lang120; Open Shared File
+v5_Lang121; Share
+v5_Lang122; Export
+v5_Lang123; Send Link
+v5_Lang124; If item exists
+v5_Lang125; Skip
+v5_Lang126; Replace
+v5_Lang127; Select tabs
+v5_Lang130; File already exists.
+v5_Lang131; Are you sure?
+v5_Lang132; item(s) will be shared.
+v5_Lang133; duplicate(s) found
+v5_Lang134; will be skipped.
+v5_Lang135; will be replaced.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.
+v5_Lang139; Search command
+v5_Lang140; Remember last input
+v5_Lang141; Startup script
+v5_Lang142
+v5_Lang143; Grid Selection
+v5_Lang144; Set columns
+v5_Lang145; Selection type
+v5_Lang146; Optional Section
+v5_Lang147; Select "Command" mode to enable more options.
+v5_Lang148; Use clipboard
+v5_Lang149; Loop
+v5_Lang150; Loop count
+v5_Lang151; Default button
+v5_Lang152; Timeout (s)
+v5_Lang153; Required
+v5_Lang154; Letters
+v5_Lang155; Numbers
+v5_Lang156; Email
+v5_Lang157; Align elements horizontally
+v5_Lang158; Comment
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.
+v5_Lang160; Alternative backspace method
+v5_Lang161; If they fit in one row
+v5_Lang162; Preview not available
+v5_Lang163; Switch View
+v5_Lang164; Not supported:
+v5_Lang165; Selected items were saved to
+v5_Lang166; Save Selected As
+v5_Lang167; First Letter
+v5_Lang168; Copy to Clipboard
+
+[Version 6.00]
+v6_Lang01; Grid Check
+v6_Lang02; Single
+v6_Lang03; Multi
+v6_Lang04; Delimiters
+v6_Lang05; Checked
+v6_Lang06; Unchecked
+v6_Lang07; Output
+v6_Lang08; Group output
+v6_Lang09; Repeat last command
+v6_Lang10; Double press
+v6_Lang11; Long press
+v6_Lang12; Wait time (s)
+v6_Lang13; Recognize items
+v6_Lang14; Voice Recognition
+v6_Lang15; Base value
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday
+v6_Lang17; Date/Time Calculation
+v6_Lang18; Auto restore hook (min)
+v6_Lang19; Auto reload (min)
+v6_Lang20; If condition
+v6_Lang21; Else
+v6_Lang22; Case If Conditions
+v6_Lang23; Are you sure you want to change the options for the

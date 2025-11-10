@@ -1,0 +1,798 @@
+﻿; English; Indonesian
+; Bahasa Indonesia
+; Translation by Wawan Kuncoro
+
+[Gui]
+g_Lang01; Start Menu; Menu Mulai
+g_Lang02; Shortcuts; Pintasan
+g_Lang03; Text Expander; Perluasan Teks
+g_Lang04; Auto Complete; Lengkapi Otomatis
+g_Lang05; Gestures; Gerakan
+g_Lang06
+g_Lang11; New; Baru
+g_Lang12; Edit; Edit
+g_Lang13; Delete; Hapus
+g_Lang14; Run; Jalankan
+g_Lang15; Active; Aktif
+g_Lang16; Menu; Menu
+g_Lang17; Submenu; Submenu
+g_Lang18; Type; Tipe
+g_Lang19; Command; Perintah
+g_Lang20; Run Type; Tipe Mulai
+g_Lang21; Key; Kunci
+g_Lang22; Shortcut; Pintasan
+g_Lang23; Description; Deskripsi
+g_Lang24; Window; Jendela
+g_Lang25; String; Rangkaian
+g_Lang26; Substitute; Pengganti
+g_Lang27; Gesture; Gerakan
+g_Lang28
+g_Lang31; Paused; Terjeda
+g_Lang32; Active; Aktif
+g_Lang33; Untitled; Tanpa judul
+g_Lang40
+g_Lang41; Separator; Pemisah
+g_Lang42; Undo; Undo
+g_Lang43; Redo; Redo
+g_Lang44; Move Up; Ke Atas
+g_Lang45; Move Down; Ke Bawah
+g_Lang46; Are you sure to remove; Apakah Anda yakin untuk menghapus
+g_Lang47; selected items; item terpilih
+g_Lang50
+g_Lang51; Preferences; Preferensi
+g_Lang52; Support Forum; Forum Dukungan
+g_Lang53; Help; Bantuan
+g_Lang54; Select a file or folder; Pilih file atau folder
+g_Lang55; Edit command in Editor; Edit perintah di Editor
+g_Lang56; Select a preset command; Pilih perintah preset
+g_Lang60
+g_Lang61; Registered to; Terdaftar ke
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; VERSI UJI COBA TELAH BERAKHIR.
+g_Lang63; TRIAL PERIOD.; PERIODE PERCOBAAN.
+g_Lang64
+g_Lang71; Do you want to save changes?; Apakah Anda ingin menyimpan perubahan?
+g_Lang72; Save file as...; Simpan file sebagai...
+g_Lang73; Do you want to save changes to; Apakah Anda ingin menyimpan perubahan ke
+g_Lang74; Please select FastKeys data file.; Silakan pilih file data FastKeys.
+g_Lang75; Not a valid FastKeys file.; Bukan file FastKeys yang valid.
+g_Lang76; Save FastKeys data file as…; Simpan file data FastKeys sebagaiâ€¦
+g_Lang78; Are you sure to overwrite existing data?; Apakah Anda yakin akan menimpa data yang sudah ada?
+g_Lang79; Select folder:; Pilih folder:
+g_Lang80; Duplicate entry, please correct.; Entri duplikasi, mohon dikoreksi.
+g_Lang81; File does not exist.; File tidak ada.
+g_Lang82; Please select a Phrase file.; Silakan pilih file Frase.
+g_Lang83; Please select a Wordlist file.; Silakan pilih file Daftar Kata.
+g_Lang84; Too many menu entries.; Terlalu banyak entri menu.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; Segera picu
+g1_Lang03; Delete ending char; Hapus karakter akhir
+g1_Lang04; Don't delete string; Jangan hapus string
+g1_Lang05; Case sensitive; Sangat sensitif
+g1_Lang06; Trigger inside word; Memicu dalam kata
+g1_Lang07; Send raw text; Kirim teks mentah
+g1_Lang08; Manual confirmation; Konfirmasi manual
+g1_Lang09
+g1_Lang11; None; Tidak ada
+g1_Lang12; Auto Run; Mulai Otomatis
+g1_Lang13; Run on Startup; Mulai di Startup
+g1_Lang14; Include Files; Sertakan File
+g1_Lang15; Include Subfolders; Sertakan Subfolder
+g1_Lang16; Include Files and Subfolders; Sertakan File dan Subfolder
+g1_Lang17
+g1_Lang21; Record; Catatan
+g1_Lang22; Record a New Gesture ; Rekam Gerakan Baru
+g1_Lang23; Right Mouse Button; Tombol kanan mouse
+g1_Lang24; key; kunci
+g1_Lang25; Hold; Tahan
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; dan Gambar isyarat di mana saja pada layar. Tekan tombol Enter atau OK untuk menyelesaikan.
+g1_Lang28
+g1_Lang31; Abbreviation; Singkatan
+g1_Lang32; Phrase; Frasa
+g1_Lang33; Word; Kata
+g1_Lang34; Phrase file; File frasa
+g1_Lang35; Wordlist file; File daftar kata
+g1_Lang36
+g1_Lang41; Line; Baris
+g1_Lang42; Column; Kolom
+g1_Lang43
+g1_Lang51; Advanced shortcut; Pintasan lanjutan
+g1_Lang52; Modifier; Pengubah
+g1_Lang53; Optional Attributes; Atribut Opsional
+g1_Lang54; Native; Warga asli
+g1_Lang55; Wildcard; karakter pengganti
+g1_Lang56; Hook; Kait
+g1_Lang57; L/R only; Kiri/Kanan saja
+g1_Lang58; Keys; Kunci
+g1_Lang59; Standard; Standar
+g1_Lang60; Function keys; Tombol fungsi
+g1_Lang61; Numpad; Papan Angka
+g1_Lang62; Mouse; Mouse
+g1_Lang63; Multimedia; Multimedia
+g1_Lang64; Special; Spesial
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &File
+m_Lang02; &Edit; &Edit
+m_Lang03; &Insert; &Sisip
+m_Lang04; &Tools; &Alat
+m_Lang05; &Help; &Bantuan
+m_Lang06; &Register; &Daftar
+m_Lang07
+m_Lang11; &New; &Baru
+m_Lang12; &Open; B&uka
+m_Lang13; &Save; &Simpan
+m_Lang14; Save &As; Simpan Seb&agai
+m_Lang15; E&xit; &Keluar
+m_Lang16
+m_Lang21; &Edit; &Edit
+m_Lang22; &Delete; &Hapus
+m_Lang23; Re&load; &Muat ulang
+m_Lang24; &Pause; &Jeda
+m_Lang25
+m_Lang31; &Preferences; &Preferensi
+m_Lang32; &Module Activation; Aktivasi &Modul
+m_Lang33; &Auto Learn Settings; &Pengaturan Belajar Otomatis
+m_Lang34; &Check for Updates; Periksa Pem&baruan
+m_Lang35; &Update Menu Icons; &Perbar&ui Ikon Menu
+m_Lang36
+m_Lang41; &Help; &Bantuan
+m_Lang42; &Support Forum; &Forum Dukungan
+m_Lang43; &View Quick Tips; Tampilkan Tips &Cepat
+m_Lang44; &About; &Tentang
+m_Lang45
+m_Lang51; Open from &Library; Buka dari &Librari
+m_Lang52; Cut; Potong
+m_Lang53; Copy; Salin
+m_Lang54; Paste; Tempel
+m_Lang55; Select All; Pilih Semua
+m_Lang56; Read Only; Hanya Baca
+m_Lang57; Zoom in; Perbesar
+m_Lang58; Zoom out; Perkecil
+m_Lang59; Default Zoom; Standar Perbesaran
+m_Lang60; Zoom; Perbesaran
+m_Lang61; Always On Top; Selalu di Atas
+m_Lang62; Line Wrap; Bungkus Garis
+m_Lang63; View; Tampilan
+m_Lang64; Open Script; Buka Skrip
+
+[FastKeys]
+f_Lang01; Loading FastKeys; Memuat FastKeys
+f_Lang02; Settings; Pengaturan
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; KESALAHAN. Beberapa Perintah dihentikan.Â¶Â¶Silakan periksa perintah terbaru yang diedit dan perbaiki kemungkinan duplikat atau kesalahan sintaksis.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; Ada masalah saat mengambil ikon menu dari internet. Silakan periksa pengaturan internet atau firewall Anda.Â¶Â¶Pengunduhan otomatis telah dinonaktifkan untuk memungkinkan pemuatan lebih cepat. Anda dapat mengaktifkan pengunduhan ikon otomatis dari menu Preferensi.
+f_Lang14; Save settings before continuing?; Simpan pengaturan sebelum melanjutkan?
+f_Lang15; Add to; Tambahkan
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Terima kasih telah menggunakan FastKeys edisi uji coba. Anda telah diberikan lisensi untuk menggunakan aplikasi ini hanya untuk evaluasi. Versi terdaftar tidak menampilkan pemberitahuan ini.
+f_Lang22; Press "Continue" to continue using trial version.; Tekan "Lanjut" untuk terus menggunakan versi uji coba.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Pengguna terdaftar harap berikan informasi pendaftaran dan lisensi Anda di bawah ini untuk mengaktifkan versi lengkap FastKeys. Salin atau ketik kunci registrasi ke kolom input dan klik "Daftar".Â¶Â¶Klik "Beli" untuk membeli kunci registrasi atau klik "Batal" untuk terus menggunakan versi uji coba.
+f_Lang36
+f_Lang41; Name/Company:; Nama/Perusahaan:
+f_Lang42; Registration key:; Kunci registrasi:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Kunci pendaftaran salah. Silakan coba lagi.
+f_Lang46; Congratulations, you have registered FastKeys!; Selamat, Anda telah mendaftarkan FastKeys!
+f_Lang47
+f_Lang51; Open Menu; Buka Menu
+f_Lang52; Reload; Muat ulang
+f_Lang53; Pause; Berhenti sebentar
+f_Lang54; Exit FastKeys; Keluar dari FastKeys
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; OK
+b_Lang02; Cancel; Batal
+b_Lang03; Save; Simpan
+b_Lang06; Select; Pilih
+b_Lang07; Defaults; Standar
+b_Lang08; Register; Daftar
+b_Lang11; Purchase; Beli
+b_Lang12; Continue; Lanjut
+b_Lang14; Test; Tes
+b_Lang17; Open; Buka
+b_Lang18; Edit; Edit
+b_Lang19; Library; Librari
+b_Lang22; Edit File; Edit File
+
+[Library]
+l_Lang01; Utility; Utilitas
+l_Lang02
+l_Lang03; Scripts; Skrip
+l_Lang04; Audio; Suara
+l_Lang05; Games; Permainan
+l_Lang06
+l_Lang11; Control Panel; Panel Kontrol
+l_Lang12; System Folders; Folder Sistem
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; Sistem
+l_Lang15; Utilities; Utilitias
+l_Lang16; Windows; Jendela
+l_Lang17; Shell; Shell
+l_Lang18
+l_Lang21; Keys; Kunci
+l_Lang22; Cursor Position; Posisi Kursor
+l_Lang23; Mouse and Media; Mouse dan Media
+l_Lang24; Date and Time; Tanggal dan Waktu
+
+[Preferences]
+s_Lang01; General; Umum
+s_Lang02; Appearance; Penampilan
+s_Lang03; Functions; Fungsi
+s_Lang04; Folders; Folder
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; Belajar Otomatis
+s_Lang10
+s_Lang11; Internet; Internet
+s_Lang12; Module Activation; Modul Aktivasi
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Pilih OK/Simpan untuk memperbarui ikon.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Apakah Anda ingin mengunjungi halaman web FastKeys untuk mendapatkan beberapa tip cepat dalam menggunakan program ini?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; Ada masalah saat memeriksa pembaruan. Silakan coba lagi, atau kunjungi situs web FastKeys untuk memeriksa dan mengunduh secara manual.Â¶Â¶Pemeriksaan otomatis telah dinonaktifkan untuk memungkinkan pemuatan lebih cepat.
+s_Lang25; You are using the latest version of; Anda menggunakan versi terbaru
+s_Lang26; A new version of FastKeys; Versi baru FastKeys
+s_Lang27; is available.; tersedia.
+s_Lang28; Would you like to install it now?; Apakah Anda ingin menginstalnya sekarang?
+s_Lang29; Downloading FastKeys, Version; Mengunduh FastKeys, Versi
+s_Lang30; Please wait ...; Harap tunggu ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; Ada masalah saat mengunduh. Silakan coba lagi atau kunjungi situs web FastKeys untuk mengunduh secara manual.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; Tambahkan-cepat
+s1_Lang02; Quick add to ; Tambahkan cepat ke
+s1_Lang03; Ask; Bertanya
+s1_Lang04; Learn Wordlist File; Pelajari File Daftar Kata
+s1_Lang05; Pause shortcut; Jeda pintasan
+s1_Lang06; General options; Pilihan umum
+s1_Lang07; Run FastKeys on startup; Jalankan FastKeys saat startup
+s1_Lang08; Show tray icon; Tampilkan ikon baki
+s1_Lang09; Clicking tray icon shows Start Menu; Mengklik ikon baki menampilkan Menu Mulai
+s1_Lang10; Auto check for software updates; Periksa otomatis pembaruan perangkat lunak
+s1_Lang11; Language; Bahasa
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Tampilkan grid
+s2_Lang03; Show stripes; Tampilkan garis-garis
+s2_Lang04; Show loading progress; Tampilkan kemajuan pemuatan
+s2_Lang05; Display Apply, Edit, Delete buttons; Tampilkan tombol Terapkan, Edit, Hapus
+s2_Lang06; Transparency (%); Transparansi (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Volume
+s3_Lang02; Control with mouse wheel on right screen edge; Kontrol dengan roda mouse di tepi kanan layar
+s3_Lang03; Volume sensitivity; Sensitivitas volume
+s3_Lang04; Auto-correct; Koreksi otomatis
+s3_Lang05; Correct sentence capitals; Koreksi kalimat huruf besar
+s3_Lang06; Correct DOuble CApitals; Koreksi huruf besar ganda
+s3_Lang07; Disable CapsLock key; Nonaktifkan tombol CapsLock
+s3_Lang08; Memory; Memori
+s3_Lang09; Optimize memory; Optimalkan memori
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Folder skrip
+s4_Lang02; Phrase files folder; Folder file frase
+s4_Lang03; Wordlist files folder; Folder file daftar kata
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Pintasan menu
+s5_Lang02; Show menu on; Tampilkan menu aktif
+s5_Lang03; Top edge; Tepi atas
+s5_Lang04; Right edge; Tepi kanan
+s5_Lang05; Left edge; Tepi kiri
+s5_Lang06; Bottom edge; Tepi bawah
+s5_Lang07; Menu options; Opsi menu
+s5_Lang08; Show menu icons; Tampilkan ikon menu
+s5_Lang09; Auto download website icons; Unduh otomatis ikon situs web
+s5_Lang10; Larger icons; Ikon yang lebih besar
+s5_Lang11; Disable menu in full screen applications; Nonaktifkan menu di aplikasi layar penuh
+s5_Lang12; Add settings to Start Menu; Tambahkan pengaturan ke Menu Mulai
+s5_Lang13; Menu delay (ms); Penundaan menu (md)
+s5_Lang14; Show recent items; Tampilkan item terbaru
+s5_Lang15; Files; File
+s5_Lang16; Folders; Folder
+s5_Lang17; Files and folders; File dan folder
+s5_Lang18; Show in submenu; Tampilkan di submenu
+
+[Preferences 6]
+s6_Lang01; Only active in; Hanya aktif di
+s6_Lang02; Not active in; Tidak aktif di
+
+[Preferences 7]
+s7_Lang01; Default prefix; Awalan bawaan
+s7_Lang02; Ending characters; Akhiran karakter
+s7_Lang03; Space; Spasi
+s7_Lang04; Tab; Tab
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; Pemisah
+s7_Lang07; Clipboard; Klipboard
+s7_Lang08; Use clipboard if text length exceeds (char); Gunakan klipboard jika teks melebihi (karakter)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; Koreksi kata yang disarankan
+s8_Lang03; Minimum word length to show suggestion; Panjang kata minimum untuk menampilkan saran
+s8_Lang04; Word suggestion list height; Tinggi daftar saran kata
+s8_Lang05; Special characters; Karakter spesial
+s8_Lang06; (list of special alphabet characters to be recognized; (daftar karakter alfabet khusus yang akan dikenali
+s8_Lang07; as a part of a word); sebagai bagian dari sebuah kata)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Belajar otomatis
+s9_Lang02; Turn on automatic word learning; Aktifkan pembelajaran kata otomatis
+s9_Lang03; Learn wordlist file; Pelajari file daftar kata
+s9_Lang04; Learning options; Opsi pembelajaran
+s9_Lang05; Minimum length of learned words; Panjang minimum kata yang dipelajari
+s9_Lang06; Number of occurences to learn a word; Jumlah kemunculan untuk mempelajari kata
+s9_Lang07; Save learned words as lowercase; Simpan kata yang dipelajari sebagai huruf kecil
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Tombol Gerakan
+s10_Lang02; Options; Opsi
+s10_Lang03; Show mouse trail; Tunjukkan jejak mouse
+s10_Lang04; Play sound for no match; Mainkan suara tanpa kecocokan
+s10_Lang05; Recognize 8 zones (advanced); Kenali 8 zona (lanjutan)
+s10_Lang06; Advanced; Lanjutan
+s10_Lang07; Interval (ms); Interval (md)
+s10_Lang08; Threshold (px); Ambang Batas (px)
+s10_Lang09; Timeout (ms); Batas waktu (md)
+s10_Lang10; Initial timeout (ms); Batas waktu awal (md)
+s10_Lang11; Tolerance (%); Toleransi (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Periksa FastKeys versi baru
+s11_Lang02; Update; Perbarui
+s11_Lang03; Update Start menu icons from internet; Perbarui ikon menu Mulai dari internet
+s11_Lang04; Update icons; Perbarui ikon
+s11_Lang05; View quick tips for using FastKeys; Lihat tip cepat untuk menggunakan FastKeys
+s11_Lang06; View quick tips; Lihat tip cepat
+
+[Preferences 12]
+s12_Lang01; Active modules; Modul aktif
+s12_Lang03; Hide disabled modules; Sembunyikan modul tidak aktif
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Kelola Klipboard
+v211_Lang01; Clipboard shortcut; Pintasan klipboard
+v211_Lang02; History size; Ukuran riwayat
+v211_Lang03; Capture images and formatting; Ambil gambar dan format
+v211_Lang04; Hold Ctrl key to paste without formatting; Tahan tombol Ctrl untuk menempelkan tanpa memformat
+v211_Lang05; Clipboard font; Font klipboard
+v211_Lang06; Popups; Menu Muncul
+v211_Lang07; Maximum popup width; Lebar pop-up maksimum
+v211_Lang08; Show shortcut numbers; Tampilkan nomor pintasan
+v211_Lang09; New File; File baru
+v211_Lang10; New Empty File; File Kosong Baru
+v211_Lang11; Backup files folder; Folder file cadangan
+v211_Lang12; Number of saved backups; Jumlah cadangan disimpan
+
+[Version 2.14]
+v214_Lang00; Duplicate; Duplikat
+v214_Lang01; Macro Recorder; Perekam Makro
+v214_Lang02; Record shortcut; Rekam pintasan
+v214_Lang03; Play shortcut; Mainkan pintasan
+v214_Lang04; Recording options; Opsi perekaman
+v214_Lang05; Keyboard actions; Tindakan papan ketik
+v214_Lang06; Mouse clicks; Klik mouse
+v214_Lang07; Time intervals; Interval waktu
+v214_Lang08; Window actions; Tindakan jendela
+v214_Lang09; Show virtual key names; Tampilkan nama kunci virtual
+v214_Lang10; Show save dialog after recording; Tampilkan dialog simpan setelah merekam
+v214_Lang20; Press; Tekan
+v214_Lang21; or "Record" button to start recording; atau tombol "Rekam" untuk mulai merekam
+v214_Lang22; to finish; menyelesaikan
+v214_Lang23; Recording macro; Merekam makro
+v214_Lang24; Recording completed; Perekaman selesai
+v214_Lang25; Recorded Macro; Makro yang Direkam
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Aktifkan string singkatan file Frase
+v217_Lang02; New Tab; Tab baru
+v217_Lang03; Rename; Ganti nama
+v217_Lang04; Move Left; Pindah ke Kiri
+v217_Lang05; Move Right; Bergerak ke kanan
+v217_Lang06; tab; tab
+v217_Lang07; Tab Name; Nama Tab
+
+[Version 2.19]
+v219_Lang01; More; Lainnya
+v219_Lang02; Settings shortcut; Pengaturan pintasan
+v219_Lang04; Popups font and color; Font dan warna popup
+v219_Lang05; Color and style; Warna dan gaya
+v219_Lang06; Sort; Sortir
+v219_Lang07; Alphabetically; Berdasarkan abjad
+v219_Lang08; Include similar words (smart search); Sertakan kata serupa (pencarian cerdas)
+v219_Lang09; Don't learn strings; Jangan belajar string
+v219_Lang10; Trail width and color; Lebar dan warna lintasan
+v219_Lang11; Run as administrator; Jalankan sebagai administrator
+v219_Lang12; Formatting; Pemformatan
+v219_Lang13; Normal; Normal
+v219_Lang14; No Icons; Tidak Ada Ikon
+v219_Lang15; Small; Kecil
+v219_Lang16; Apply; Menerapkan
+
+[Version 2.20]
+v220_Lang02; Icon size; Ukuran ikon
+v220_Lang04; Break menu at separator; Pecah menu di pemisah
+v220_Lang05; Increase line spacing; Tingkatkan spasi baris
+v220_Lang06; Selection color; Warna pilihan
+v220_Lang07; Invert selection text color; Balikkan warna teks pilihan
+v220_Lang08; Show clipboard items; Tampilkan item papan klip
+
+[Version 2.22]
+v222_Lang01; Selection keys; Tombol pilihan
+v222_Lang02; Number; Angka
+v222_Lang03; Insert mode; Modus sisip
+v222_Lang04; Show line numbers; Tampilkan baris angka
+v222_Lang05
+v222_Lang06; More options; Opsi lain
+v222_Lang07; Fewer options; Lebih sedikit opsi
+v222_Lang08; Always show more options; Selalu tampilkan lebih banyak opsi
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Pindah ke Bawah Menu
+v300_Lang02; System Variables; Variabel Sistem
+v300_Lang03; Macros; Makro
+v300_Lang04; Manual Text Input; Masukan Teks Manual
+v300_Lang05; File Contents; Isi Berkas
+v300_Lang06; Name; Nama
+v300_Lang07; Paragraph Options; Opsi Paragraf
+v300_Lang08; Spacing; Jarak
+v300_Lang09; Before; Sebelum
+v300_Lang10; After; Setelah
+v300_Lang11; Line spacing; Spasi baris
+v300_Lang12; Reload shortcut; Muat ulang pintasan
+v300_Lang13; Paste delay (ms); Penundaan tempel (md)
+v300_Lang14; No formatting; Tidak ada pemformatan
+v300_Lang15; Rich Text; Teks yang kaya
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Tahan tombol Shift untuk menempel tanpa menutup
+v300_Lang18; Window Information; Jendela Informasi
+v300_Lang19; Insert Another Item; Masukkan Item Lain
+v300_Lang20; Filter; Saring
+v300_Lang21; Selection Form; Formulir Seleksi
+v300_Lang22; Selections; Pilihan
+v300_Lang23; Preview; Pratinjau
+v304_Lang01; Title; Judul
+v304_Lang02; Class; Kelas
+v304_Lang03; Process; Proses
+v304_Lang04; Position (x, y); Posisi (x, y)
+v304_Lang05; Size (w, h); Ukuran (l, t)
+v304_Lang06; Control; Kontrol
+v304_Lang07; Text; Teks
+v304_Lang08; Mouse Position; Posisi Mouse
+v304_Lang09; Color; Warna
+v304_Lang10; Insert Image; Sisipkan Gambar
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Tampilkan saran saat Anda mengetik (Pengaturan Lengkapi Otomatis)
+v304_Lang12; Shift; Shift
+v304_Lang13; Include words containing the string; Sertakan kata-kata yang mengandung string
+v304_Lang14; Enable column sorting; Aktifkan penyortiran kolom
+v304_Lang15; Description separator; Pemisah deskripsi
+v304_Lang16; Copy to Start Menu; Salin ke Menu Mulai
+v304_Lang17; Key delay (ms); Penundaan kunci (md)
+v304_Lang18; Key delays only active in; Penundaan kunci aktif di
+v304_Lang19; Display options; pilihan tampilan
+v304_Lang20; New from Library; Baru dari Perpustakaan
+v304_Lang21; Variable name contains illegal characters:; Nama variabel mengandung karakter ilegal:
+v304_Lang22; User Variables; Variabel Pengguna
+v304_Lang23; Usage Statistics; Statistik Penggunaan
+v304_Lang24; Times executed; Perintah dieksekusi
+v304_Lang25; Keystrokes saved; Tekan tombol disimpan
+v304_Lang26; Time savings; Penghematan waktu
+v304_Lang27; Session; Sesi
+v304_Lang28; Track usage statistics; Lacak statistik penggunaan
+v304_Lang29; Typing speed (wpm); Kecepatan mengetik (wpm)
+v304_Lang30; Hourly wage; Upah per jam
+v304_Lang31; Insert Command Code; Masukkan Kode Perintah
+v304_Lang32; Command Name; Nama Perintah
+v304_Lang33; Enable; Aktif
+v304_Lang34; Disable; Non aktif
+v304_Lang35; Enable random text generation syntax (Spintax); Aktifkan sintaks pembuatan teks acak (Spintax)
+v304_Lang36; Font; Huruf
+v304_Lang37; Adjust to typed case; Sesuaikan dengan huruf besar/kecil
+v304_Lang38; Condition; Kondisi
+v304_Lang39; Condition Name; Nama Kondisi
+v304_Lang40; Allow duplicates; Izinkan duplikat
+v304_Lang42; Append; Lampirkan
+v304_Lang43; Include descriptions; Sertakan deskripsi
+v304_Lang44; Delimited Text File; File Teks Dibatasi
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; Skrip AutoHotkey v1
+v304_Lang47; Import ; Impor
+v304_Lang48; Import to; Impor ke
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Pembatas (Terakhir)
+v400_Lang02; Format; Format
+v400_Lang03; Sounds; Suara
+v400_Lang04; Show title bar; Tampilkan bilah judul
+v400_Lang05; Break into columns; Pecah menjadi kolom
+v400_Lang06; Clipboard capture; Pengambilan klipboard
+v400_Lang07; Macro record/play; Rekam/putar makro
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Gunakan papan klip untuk Rich Text (perlu editan ulang)
+v400_Lang09; Module; Modul
+v400_Lang10; Restore Backup; Pulihkan Cadangan
+v400_Lang11; Backup file; Berkas cadangan
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Apakah Anda yakin ingin memulihkan data versi sebelumnya?Â¶Â¶Ini akan menimpa semua pengaturan saat ini.
+v400_Lang13; Shadow type; Tipe bayangan
+v400_Lang14; Save history; Simpan riwayat
+v400_Lang15; Control Click; Kontrol Klik
+v400_Lang16; Key delays; Penundaan utama
+v400_Lang17; Key press duration (ms); Durasi penekanan tombol (md)
+v400_Lang18; Dialog delay (ms); Penundaan dialog (md)
+v400_Lang19; Focus change delay (ms); Penundaan perubahan fokus (md)
+v400_Lang20; Force window focus; Paksa fokus jendela
+v400_Lang21; Current Tab; Tab Saat Ini
+v400_Lang22; Top edge zone (L-R %); Zona tepi atas (Kiri-Kanan %)
+v400_Lang23; Mode; Mode
+v400_Lang24; Click; Klik
+v400_Lang25; Calculate math expressions; Hitung ekspresi matematika
+v400_Lang26; Continuous calculation (instead of pressing =); Perhitungan terus menerus (tanpa menekan =)
+v400_Lang27; Show thousands separator; Tampilkan pemisah ribuan
+v400_Lang28; Round (decimals); Pembulatan (desimal)
+v400_Lang29; File path; Lokasi berkas
+v400_Lang30; Result; Hasil
+v400_Lang31; Find; Temukan
+v400_Lang32; Find Next; Temukan Berikutnya
+v400_Lang33; Search description; Deskripsi pencarian
+v400_Lang34; Restrictions; Pembatasan
+v400_Lang35; Backup; Cadangan
+v400_Lang36; Encrypt with password; Enkripsi dengan kata sandi
+v400_Lang37; Password; Kata sandi
+v400_Lang38; Verify; Verifikasi
+v400_Lang39; Data Protection; Perlindungan data
+v400_Lang40; Encrypt file; Enkripsi berkas
+v400_Lang41; Remember on this computer; Ingat di komputer ini
+v400_Lang42; Protect backups; Lindungi cadangan
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; PENTING:Â¶Jika Anda lupa kata sandi, Anda tidak akan dapat mengakses data. File cadangan yang dibuat sebelum aktivasi tidak terlindungi. File Frase dan Daftar Kata tidak dilindungi.
+v400_Lang44; Support Mail; Surel Dukungan
+v400_Lang45; The password is incorrect, please try again.; Kata sandi salah, silakan coba lagi.
+v400_Lang46; Quick find; Temukan cepat
+v400_Lang48; Search current typed word; Cari kata yang diketik saat ini
+v400_Lang49; Calculator; Kalkulator
+v400_Lang50; Show suggestion; Tampilkan saran
+v400_Lang51; Special characters; Karakter spesial
+v400_Lang52; Online Documentation; Dokumentasi Online
+v400_Lang53; Print; Cetak
+v400_Lang54; Automatic spacing; Jarak otomatis
+v400_Lang55; Remove text margin; Hapus margin teks
+v400_Lang56; Menu icon; Ikon menu
+v400_Lang57; Remove vertical lines; Hapus garis vertikal
+v400_Lang58; Enable modifiers (!+^#); Aktifkan pengubah (!+^#)
+v400_Lang59; Position above the caret; Posisikan di atas tanda sisipan
+v400_Lang60; Properties; Properti
+v400_Lang61; Round time to; Bulatkan waktu ke
+v400_Lang62; days; hari
+v400_Lang63; business days; hari kerja
+v400_Lang64; hours; jam
+v400_Lang65; minutes; menit
+v400_Lang66; months; bulan
+v400_Lang67; years; tahun
+v400_Lang70; Update order on paste; Perbarui pesanan saat ditempel
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; Apakah Anda yakin ingin membuat file pengaturan baru?Â¶Â¶Pengaturan Anda saat ini tidak akan dihapus - gunakan File/Buka untuk membuka kembali file pengaturan Anda.
+v400_Lang72; Position; Posisi
+v400_Lang73; Below the caret; Di bawah tanda sisipan
+v400_Lang74; Above the caret; Di atas tanda sisipan
+v400_Lang75; Alternative position; Posisi alternatif
+v400_Lang76; Mouse cursor; Kursor mouse
+v400_Lang77; Centered; Ditengah-tengah
+v400_Lang78; Tray; Tray
+v400_Lang89; Upgrade to Professional; Tingkatkan ke Profesional
+v400_Lang90; Shared settings; Pengaturan bersama
+v400_Lang91; Team; Tim
+v400_Lang92; Shared file; File bersama
+v400_Lang93; Edit shared file; Edit file yang dibagikan
+v400_Lang94; Shared file editing.; Pengeditan file bersama.
+v400_Lang95; Shared file saved, returning to normal mode.; File bersama disimpan, kembali ke mode normal.
+v400_Lang96; Information; Informasi
+v400_Lang97; SHARED; BERSAMA
+v400_Lang98; Remember popup position; Ingat posisi popup
+v400_Lang99; Prefixes; Awalan
+v426_Lang01; Default suffix; Akhiran bawaan
+v426_Lang02; Exclusions; Pengecualian
+
+[Version 5.00]
+v5_Lang01; Default text; Teks bawaan
+v5_Lang02; No output; Tidak ada keluaran
+v5_Lang03; Open Web Page; Buka Halaman Web
+v5_Lang04; Run Program; Jalankan program
+v5_Lang05; Open File; Buka file
+v5_Lang06; Open Folder; Folder terbuka
+v5_Lang07; Create Mail; Buat Surat
+v5_Lang08; Activate Window; Aktifkan Jendela
+v5_Lang09; To; Ke
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; Subjek
+v5_Lang13; Attachments; Lampiran
+v5_Lang14; Message body; Badan Pesan
+v5_Lang15; Send automatically; Kirim secara otomatis
+v5_Lang16; Default; Bawaan
+v5_Lang17; Address (URL); Alamat (URL)
+v5_Lang18; Folder; Map
+v5_Lang19; Custom; Kebiasaan
+v5_Lang20; Browser path; Jalur peramban
+v5_Lang21; Working directory; Direktori kerja
+v5_Lang22; Maximized; Besarkan
+v5_Lang23; Minimized; Kecilkan
+v5_Lang24; Wait until program closes; Tunggu hingga program ditutup
+v5_Lang25; Browser; Peramban
+v5_Lang26; Table Selection; Tabel Seleksi
+v5_Lang27; Text File Lookup; Pencarian File Teks
+v5_Lang28; Excel File Lookup; Pencarian File Excel
+v5_Lang29; Lookup; Lihatlah
+v5_Lang30; Table; Tabel
+v5_Lang31; Return column(s); Kolom kembali
+v5_Lang32; Table file; Berkas tabel
+v5_Lang33; Sheet; Lembaran
+v5_Lang34; Cell range; Rentang sel
+v5_Lang35; Column no.; Kolom no.
+v5_Lang36; Equals; Setara
+v5_Lang37; User Input; Masukan Pengguna
+v5_Lang38
+v5_Lang39; Output separator; Pemisah keluaran
+v5_Lang40; Force query; Paksa kueri
+v5_Lang41; Insert column; Sisipkan kolom
+v5_Lang42; Delete column; Hapus kolom
+v5_Lang43; Excel Data Range; Rentang Data Excel
+v5_Lang44; Insert Data; Masukkan Data
+v5_Lang45; Input; Masukkan
+v5_Lang46; Automation; Otomatisasi
+v5_Lang47; Customize Menus; Sesuaikan Menu
+v5_Lang48; Show icons; Tampilkan ikon
+v5_Lang49; Favourite macros; Makro favorit
+v5_Lang50; Toolbar; Bilah Alat
+v5_Lang51; More settings; Pengaturan lainnya
+v5_Lang52; Tiles; Ubin
+v5_Lang53; Icon and text below; Ikon dan teks di bawah
+v5_Lang54; Icon and text right; Ikon dan teks di kanan
+v5_Lang55; Icon; Ikon
+v5_Lang56; Tile size (W/H px); Ukuran ubin (L/T piksel)
+v5_Lang57; Padding (px); Bantalan (px)
+v5_Lang58; Grid; Grid
+v5_Lang59; Grid size (Rows/Columns); Ukuran kisi (Baris/Kolom)
+v5_Lang60; Order; Pesan
+v5_Lang61; Outside margin (px); Margin luar (px)
+v5_Lang62; Background color; Warna latar belakang
+v5_Lang63; Vertical; Vertikal
+v5_Lang64; Horizontal; Horisontal
+v5_Lang65; Display Edit, Delete buttons; Tampilkan tombol Edit, Hapus
+v5_Lang66; Theme; Tema
+v5_Lang67; Calculation; Perhitungan
+v5_Lang68; Save table as; Simpan tabel sebagai
+v5_Lang69; Insert Another Field; Sisipkan Bidang Lain
+v5_Lang70; Macro; Makro
+v5_Lang71; Column width; Lebar kolom
+v5_Lang72; Popup width (px); Lebar popup (px)
+v5_Lang73; Edit shared file; Edit file yang dibagikan
+v5_Lang74; Recent changes; Perubahan terbaru
+v5_Lang75; Yes; Ya
+v5_Lang76; No; Tidak
+v5_Lang77; Bold; Tebal
+v5_Lang78; Italic; Miring
+v5_Lang79; Underline; Garis bawah
+v5_Lang80; Align Left; Rata kiri
+v5_Lang81; Center; Tengah
+v5_Lang82; Align Right; Rata kanan
+v5_Lang83; Justify; Rata kiri kanan
+v5_Lang84; Increase Font Size; Tingkatkan Ukuran Font
+v5_Lang85; Decrease Font Size; Kurangi Ukuran Font
+v5_Lang86; Bullets; Bullet
+v5_Lang87; Numbering; Penomoran
+v5_Lang88; Decrease Indent; Kurangi Indentasi
+v5_Lang89; Increase Indent; Tingkatkan Indentasi
+v5_Lang90; Date; Tanggal
+v5_Lang91; Time; Waktu
+v5_Lang92; User; Pengguna
+v5_Lang93; Changes; Perubahan
+v5_Lang94; Include spaces; Sertakan spasi
+v5_Lang95; Number of items; Jumlah item
+v5_Lang96; Output format; Format output
+v5_Lang97; Output if empty; Keluaran jika kosong
+v5_Lang98; Trim spaces; Pangkas spasi
+v5_Lang99; All; Semua
+v5_Lang100; Adapt case; Sesuaikan kasus
+v5_Lang101; Uppercase; Huruf besar
+v5_Lang102; Lowercase; Huruf kecil
+v5_Lang103; Find and replace; Temukan dan ganti
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; Apakah Anda ingin menyetel ulang preferensi pada tab ini ke nilai standarnya?
+v5_Lang105; Reset ALL preferences; Setel ulang SEMUA preferensi
+v5_Lang106; Multi line; Multi baris
+v5_Lang107; Tables folder; Folder tabel
+v5_Lang108; Input Format; Masukkan format
+v5_Lang109; Digits; Angka
+v5_Lang110; All matches; Semua kecocokan
+v5_Lang111; Neutral color icon; Ikon warna netral
+v5_Lang112; Auto save; Penyimpanan otomatis
+v5_Lang113; Video tutorials; Video tutorial
+v5_Lang114; Message Box; Kotak pesan
+v5_Lang115; Buttons; Tombol
+v5_Lang116; Stop; Berhenti
+v5_Lang117; Any key; Semua kunci
+v5_Lang118; Relative to window; Relatif terhadap jendela
+v5_Lang119; Keyboard; Papan ketik
+v5_Lang120; Open Shared File; Buka File Bersama
+v5_Lang121; Share; Bagikan
+v5_Lang122; Export; Ekspor
+v5_Lang123; Send Link; Kirim Tautan
+v5_Lang124; If item exists; Jika item ada
+v5_Lang125; Skip; Lewati
+v5_Lang126; Replace; Gantikan
+v5_Lang127; Select tabs; Pilih tab
+v5_Lang130; File already exists.; Berkas sudah ada.
+v5_Lang131; Are you sure?; Apa kamu yakin?
+v5_Lang132; item(s) will be shared.; item akan dibagikan.
+v5_Lang133; duplicate(s) found; duplikat ditemukan
+v5_Lang134; will be skipped.; akan dilewati.
+v5_Lang135; will be replaced.; akan diganti.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; Tempel jalur yang diterima dari administrator Anda ke kolom di bawah atau pilih file.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; Bagikan konten yang dipilih dengan pengguna lain. Pilih tab yang ada atau masukkan nama tab baru.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; Ekspor pengaturan ke cloud atau lokasi jaringan yang dapat diakses oleh pengguna lain.
+v5_Lang139; Search command; Perintah pencarian
+v5_Lang140; Remember last input; Ingat masukan terakhir
+v5_Lang141; Startup script; Skrip permulaan
+v5_Lang142
+v5_Lang143; Grid Selection; Pemilihan grid
+v5_Lang144; Set columns; Atur kolom
+v5_Lang145; Selection type; Tipe seleksi
+v5_Lang146; Optional Section; Bagian Opsional
+v5_Lang147; Select "Command" mode to enable more options.; Pilih mode "Perintah" untuk mengaktifkan lebih banyak opsi.
+v5_Lang148; Use clipboard; Gunakan papan klip
+v5_Lang149; Loop; Putaran
+v5_Lang150; Loop count; Jumlah putaran
+v5_Lang151; Default button; Tombol bawaan
+v5_Lang152; Timeout (s); Batas waktu
+v5_Lang153; Required; Diperlukan
+v5_Lang154; Letters; Surat
+v5_Lang155; Numbers; Angka
+v5_Lang156; Email; Surel
+v5_Lang157; Align elements horizontally; Sejajarkan elemen secara horizontal
+v5_Lang158; Comment; Komentar
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; aktif.Â¶Untuk membuka kembali jendela Pengaturan, klik ikon Tray FastKeys, atau tekan F8.
+v5_Lang160; Alternative backspace method; Metode backspace alternatif
+v5_Lang161; If they fit in one row; Jika muat dalam satu baris
+v5_Lang162; Preview not available; Pratinjau tidak tersedia
+v5_Lang163; Switch View; Beralih Tampilan
+v5_Lang164; Not supported:; Tidak didukung:
+v5_Lang165; Selected items were saved to; Item yang dipilih disimpan ke
+v5_Lang166; Save Selected As; Simpan terpilih Sebagai
+v5_Lang167; First Letter; Huruf pertama
+v5_Lang168; Copy to Clipboard; Salin ke Klipboard
+
+[Version 6.00]
+v6_Lang01; Grid Check; Periksa Grid
+v6_Lang02; Single; Tunggal
+v6_Lang03; Multi; Banyak
+v6_Lang04; Delimiters; Pembatas
+v6_Lang05; Checked; Dicentang
+v6_Lang06; Unchecked; Tanpa Centang
+v6_Lang07; Output; Keluaran
+v6_Lang08; Group output; Grup keluaran
+v6_Lang09; Repeat last command; Ulangi perintah terakhir
+v6_Lang10; Double press; Tekan dua kali
+v6_Lang11; Long press; Tekan lama
+v6_Lang12; Wait time (s); Waktu tunggu (dtk)
+v6_Lang13; Recognize items; Kenali item
+v6_Lang14; Voice Recognition; Pengenalan suara
+v6_Lang15; Base value; Nilai dasar
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday; Minggu|Senin|Selasa|Rabu|Kamis|Jumat
+v6_Lang17; Date/Time Calculation; Kalkulasi Tanggal/Waktu
+v6_Lang18; Auto restore hook (min); Pengait pemulihan otomatis (mnt)
+v6_Lang19; Auto reload (min); MUat otomatis (mnt)
+v6_Lang20; If condition; Kondisi Jika
+v6_Lang21; Else; Lain
+v6_Lang22; Case If Conditions; Kasus Kondisi Jika
+v6_Lang23; Are you sure you want to change the options for the

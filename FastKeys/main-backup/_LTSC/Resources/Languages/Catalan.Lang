@@ -1,0 +1,798 @@
+﻿; English; Catalan
+; Català
+; Translation by Daniel Portella
+
+[Gui]
+g_Lang01; Start Menu; Menú d'inici
+g_Lang02; Shortcuts; Accessos directes
+g_Lang03; Text Expander; Expansor de text
+g_Lang04; Auto Complete; Autocompletar
+g_Lang05; Gestures; Gestos
+g_Lang06
+g_Lang11; New; Nou
+g_Lang12; Edit; Editar
+g_Lang13; Delete; Esborrar
+g_Lang14; Run; Executar
+g_Lang15; Active; Actiu
+g_Lang16; Menu; Menú
+g_Lang17; Submenu; Submenú
+g_Lang18; Type; Tipus
+g_Lang19; Command; Ordre
+g_Lang20; Run Type; Tipus d'execució
+g_Lang21; Key; Tecla
+g_Lang22; Shortcut; Accés directe
+g_Lang23; Description; Descripció
+g_Lang24; Window; Finestra
+g_Lang25; String; Seqüència
+g_Lang26; Substitute; Sustitueix
+g_Lang27; Gesture; Gest
+g_Lang28
+g_Lang31; Paused; Pausat
+g_Lang32; Active; Actiu
+g_Lang33; Untitled; Sense títol
+g_Lang40
+g_Lang41; Separator; Separador
+g_Lang42; Undo; Desfer
+g_Lang43; Redo; Refer
+g_Lang44; Move Up; Mou Amunt
+g_Lang45; Move Down; Mou Avall
+g_Lang46; Are you sure to remove; Esteu segur de suprimir
+g_Lang47; selected items; Ítems seleccionats
+g_Lang50
+g_Lang51; Preferences; Preferències
+g_Lang52; Support Forum; Fòrum d'ajuda tècnica
+g_Lang53; Help; Ajuda
+g_Lang54; Select a file or folder; Selecciona un archiu o una carpeta
+g_Lang55; Edit command in Editor; Editar l'ordre a l'Editor
+g_Lang56; Select a preset command; Selecciona una ordre predeterminada
+g_Lang60
+g_Lang61; Registered to; Registrat per a
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; LA VERSIÓ DE PROVA HA CADUCAT.
+g_Lang63; TRIAL PERIOD.; PERIODE DE PROVA
+g_Lang64
+g_Lang71; Do you want to save changes?; ¿Vols guardar els canvis?
+g_Lang72; Save file as...; Guarda l'arxiu com a...
+g_Lang73; Do you want to save changes to; Vols guardar els canvis com a
+g_Lang74; Please select FastKeys data file.; Si us plau, escull l'arxiu de dades de FastKeys.
+g_Lang75; Not a valid FastKeys file.; No es un arxiu de FastKeys vàlid.
+g_Lang76; Save FastKeys data file as…; Guarda l'arxiu de dades de FastKeys com a ...
+g_Lang78; Are you sure to overwrite existing data?; Esteu segur de sobreescriure les dades existents?
+g_Lang79; Select folder:; Tria una carpeta:
+g_Lang80; Duplicate entry, please correct.; Entrada duplicada, si us plau, corregeix-ho.
+g_Lang81; File does not exist.; L'arxiu no existeix.
+g_Lang82; Please select a Phrase file.; Si us plau, tria un arxiu de frases.
+g_Lang83; Please select a Wordlist file.; Si us plau, tria un Arxiu de llistat de paraules.
+g_Lang84; Too many menu entries.; Masses entradas al menú.
+
+[Gui Options]
+g1_Lang01; Opcions
+g1_Lang02; Trigger immediately; Activa'l immediatament
+g1_Lang03; Delete ending char; Esborra l'ultim caracter
+g1_Lang04; Don't delete string; No esborris la seqüència
+g1_Lang05; Case sensitive; Distingeix majúscules i minúscules
+g1_Lang06; Trigger inside word; Actíva'l dins d'una paraula
+g1_Lang07; Send raw text; Envia text en brut
+g1_Lang08; Manual confirmation; Cofirmació manual
+g1_Lang09
+g1_Lang11; None; Cap
+g1_Lang12; Auto Run; Autoexecutar
+g1_Lang13; Run on Startup; Executa a l'inici
+g1_Lang14; Include Files; Inclou els arxius
+g1_Lang15; Include Subfolders; Inclou les subcarpetes
+g1_Lang16; Include Files and Subfolders; Inclou arxius i subcarpetes
+g1_Lang17
+g1_Lang21; Record; Grava
+g1_Lang22; Record a New Gesture ; Grava un Nou Gest
+g1_Lang23; Right Mouse Button; Botón dret del Ratolí
+g1_Lang24; key; tecla
+g1_Lang25; Hold; Prem
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; i dibuixa un gest en qualsevol part de la pantalla. Prem Intro o el botó D'Acord per finalitzar.
+g1_Lang28
+g1_Lang31; Abbreviation; Abreviatura
+g1_Lang32; Phrase; Frase
+g1_Lang33; Word; Paraula
+g1_Lang34; Phrase file; Arxiu de frases
+g1_Lang35; Wordlist file; Arxiu de llistat de paraules
+g1_Lang36
+g1_Lang41; Line; Línia
+g1_Lang42; Column; Columna
+g1_Lang43
+g1_Lang51; Advanced shortcut; Accés directe avançat
+g1_Lang52; Modifier; Modificador
+g1_Lang53; Optional Attributes; Atributs opcionals
+g1_Lang54; Native; Nadiu
+g1_Lang55; Wildcard; Comodí
+g1_Lang56; Hook; Ganxo
+g1_Lang57; L/R only; només D/E
+g1_Lang58; Keys; Tecles
+g1_Lang59; Standard; Estandard
+g1_Lang60; Function keys; Tecles de funció
+g1_Lang61; Numpad; Teclat numèric
+g1_Lang62; Mouse; Ratolí
+g1_Lang63; Multimedia; Multimèdia
+g1_Lang64; Special; Especial
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &Arxiu
+m_Lang02; &Edit; &Editar
+m_Lang03; &Insert; &Insertar
+m_Lang04; &Tools; Ei&nes
+m_Lang05; &Help; A&juda
+m_Lang06; &Register; &Registrar
+m_Lang07
+m_Lang11; &New; &Nou
+m_Lang12; &Open; &Obrir
+m_Lang13; &Save; &Guardar
+m_Lang14; Save &As; Guardar &Com
+m_Lang15; E&xit; &Sortir
+m_Lang16
+m_Lang21; &Edit; &Editar
+m_Lang22; &Delete; Es&borrar
+m_Lang23; Re&load; &Recarregar
+m_Lang24; &Pause; &Pausar
+m_Lang25
+m_Lang31; &Preferences; &Preferències
+m_Lang32; &Module Activation; &Activació de mòduls
+m_Lang33; &Auto Learn Settings; &Autoaprenentatge d'ajustaments
+m_Lang34; &Check for Updates; &Comprovar actualitzacions
+m_Lang35; &Update Menu Icons; &Actualitzar les icones dels menús
+m_Lang36
+m_Lang41; &Help; &Ajuda
+m_Lang42; &Support Forum; &Fòrum de suport tècnic
+m_Lang43; &View Quick Tips; &Consells ràpids
+m_Lang44; &About; &Quant a FastKeys
+m_Lang45
+m_Lang51; Open from &Library; Obrir des de la &Llibrería
+m_Lang52; Cut; Tallar
+m_Lang53; Copy; Copiar
+m_Lang54; Paste; Enganxar
+m_Lang55; Select All; Seleccionar tot
+m_Lang56; Read Only; sols lectura
+m_Lang57; Zoom in; Engrandir zoom
+m_Lang58; Zoom out; Reduïr zoom
+m_Lang59; Default Zoom; Zoom per defecte
+m_Lang60; Zoom; Zoom
+m_Lang61; Always On Top; Siempre a sobre
+m_Lang62; Line Wrap; Línia envolvent
+m_Lang63; View; Vista
+m_Lang64; Open Script; Obrir secuencia d'ordres
+
+[FastKeys]
+f_Lang01; Loading FastKeys; Carregant FastKeys
+f_Lang02; Settings; Configuració
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; ERROR. Algunes ordres s'han aturat.¶¶Si us plau, comprova les darreres ordres editadies i corregeix les possibles duplicats o errors de sintaxi.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; Hi ha hagut un problema recuperant les icones dels menús des de la xarxa. Si us plau, comprova la configuració d'Internet o el tallafocs¶¶Les descàrregues automàtiques s'han inhabilitat per permetre una recàrrega més ràpida. Pots activar la descàrrega automàtica d'icones des del menú de preferències.
+f_Lang14; Save settings before continuing?; Vols guardar els canvis abans de continuar?
+f_Lang15; Add to; Afegir a
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Moltes gràcies per utilitzar la versió de prova de FastKeys. La llicencia que has obtingut és només per a evaluar l'aplicació. La versió regristrada no mostra aquest avis.
+f_Lang22; Press "Continue" to continue using trial version.; Prem "Continuar" per seguir utilitzat la versió de prova.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Si t'has registrat, si us plau, introdueix a sota el teu codi de registre i la informació de la llicència per tal d'activar la versió completa de FastKeys. Còpia o escriu la clau de registre al camp d'entrada i fes clic a "Registrar".¶¶Fes clic a "Comprar" per comprar una clau de registre o fes clic a "Cancel·lar" per seguir utilitzant la versió de prova.
+f_Lang36
+f_Lang41; Name/Company:; Nom:
+f_Lang42; Registration key:; Clau de registre:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Clau de registre errònia. Inténta-ho de nou.
+f_Lang46; Congratulations, you have registered FastKeys!; Felicitats, has registrat FastKeys!
+f_Lang47
+f_Lang51; Open Menu; Obrir Menú
+f_Lang52; Reload; Recarregar
+f_Lang53; Pause; Pausa
+f_Lang54; Exit FastKeys; Sortir de FastKeys
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; D'Acord
+b_Lang02; Cancel; Cancel·lar
+b_Lang03; Save; Guardar
+b_Lang06; Select; Seleccionar
+b_Lang07; Defaults; Per defecte
+b_Lang08; Register; Registrar
+b_Lang11; Purchase; Comprar
+b_Lang12; Continue; Continuar
+b_Lang14; Test; Prova
+b_Lang17; Open; Obrir
+b_Lang18; Edit; Editar
+b_Lang19; Library; Llibreria
+b_Lang22; Edit File; Editar arxiu
+
+[Library]
+l_Lang01; Utility; Útils
+l_Lang02
+l_Lang03; Scripts; Seqüència d'Ordres
+l_Lang04; Audio; Àudio
+l_Lang05; Games; Jocs
+l_Lang06
+l_Lang11; Control Panel; Tauler de Control
+l_Lang12; System Folders; Carpetes de Sistema
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; Sistema
+l_Lang15; Utilities; Utilitats
+l_Lang16; Windows; Finestres
+l_Lang17; Shell; Entorn
+l_Lang18
+l_Lang21; Keys; Tecles
+l_Lang22; Cursor Position; Posició del Cursor
+l_Lang23; Mouse and Media; Ratolí i Multimèdia
+l_Lang24; Date and Time; Data i Hora
+
+[Preferences]
+s_Lang01; General; General
+s_Lang02; Appearance; Aparença
+s_Lang03; Functions; Funcions
+s_Lang04; Folders; Carpetes
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; Autoaprenentatge
+s_Lang10; Gestos
+s_Lang11; Internet; Internet
+s_Lang12; Module Activation; Activació de mòduls
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Selecciona D'acord/Guardar per actulitzar les icones.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Vols visitar la pàgina Web de FastKeys per veure uns consells ràpids sobre l'ús del programa?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; Hi ha hagut un problema buscant actualitzacions. Si us plau, prva-ho de nou, o visita la pàgina web de FastKeys per comprovar i descarregar manualment.¶¶Les comprovacions d'actualitzacions automàtiques s'han inhabilitat per permetre una càrrega més ràpida.
+s_Lang25; You are using the latest version of; Estas fent servir la darrera versió de
+s_Lang26; A new version of FastKeys; Una nova versió de FastKeys
+s_Lang27; is available.; està disponible
+s_Lang28; Would you like to install it now?; La vols instal·lar ara?
+s_Lang29; Downloading FastKeys, Version; Descarregant Fastkeys, Versió
+s_Lang30; Please wait ...; Si us plau, espera ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; Hi ha hagut un problema amb la descàrrega. Si us plau, prova de nou o visita la pàgina web de FastKeys per a descarregar-la manualment.
+s_Lang32; Preferències
+
+[Preferences 1]
+s1_Lang01; Quick-add; Afegir ràpidament
+s1_Lang02; Quick add to ; Añadir rapidamente a
+s1_Lang03; Ask; Pregunta
+s1_Lang04; Learn Wordlist File; Arxiu de Llista de Paraules Apreses.
+s1_Lang05; Pause shortcut; Accés directe a Pausa
+s1_Lang06; General options; Opcions generals
+s1_Lang07; Run FastKeys on startup; Executar FastKeys a l'iniciar el sistema
+s1_Lang08; Show tray icon; Mostrar la icona a la safata del sistema
+s1_Lang09; Clicking tray icon shows Start Menu; Prement la icona de la safata del sistema es mostrarà el menú d'inici
+s1_Lang10; Auto check for software updates; Autocomprobació d'actualizaciones del programari
+s1_Lang11; Language; Idioma
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Mostrar graelles
+s2_Lang03; Show stripes; Mostrar línies
+s2_Lang04; Show loading progress; Mostrar el progrés de carrega
+s2_Lang05; Display Apply, Edit, Delete buttons; Mostrar els botons Editar i Esborrar
+s2_Lang06; Transparency (%); Transparència (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Volum
+s3_Lang02; Control with mouse wheel on right screen edge; Controla amb la rodeta del ratolí a l'extrem de la dreta de la pantalla.
+s3_Lang03; Volume sensitivity; Sensibilitat del volum
+s3_Lang04; Auto-correct; Autocorreció
+s3_Lang05; Correct sentence capitals; Corregir les majúscules de la frase
+s3_Lang06; Correct DOuble CApitals; Corregir les MAjúscules DUplicades
+s3_Lang07; Disable CapsLock key; Deshabilitar la tecla de bloqueig de majúscules
+s3_Lang08; Memory; Memòria
+s3_Lang09; Optimize memory; Optimitzar la memòria
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Carpeta de seqûències d'ordres
+s4_Lang02; Phrase files folder; Carpeta d'arxius de frases
+s4_Lang03; Wordlist files folder; Carpeta d'arxius de paraules
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Accés directe al Menú
+s5_Lang02; Show menu on; Mostrar el menú a
+s5_Lang03; Top edge; Vora superior
+s5_Lang04; Right edge; Vora dreta
+s5_Lang05; Left edge; Vora esquerra
+s5_Lang06; Bottom edge; Vora inferior
+s5_Lang07; Menu options; Opcions de menú
+s5_Lang08; Show menu icons; Mostrar el menú d'icones
+s5_Lang09; Auto download website icons; Autodescarregar les icones dels llocs web
+s5_Lang10; Larger icons; Icones més grans
+s5_Lang11; Disable menu in full screen applications; Desactivar el menú en aplicacions de pantalla completa
+s5_Lang12; Add settings to Start Menu; Afegir ajustaments al Menú d'Inici
+s5_Lang13; Menu delay (ms); Retard menú (ms)
+s5_Lang14; Show recent items; Mostrar elements recents
+s5_Lang15; Files; Arxius
+s5_Lang16; Folders; Carpetes
+s5_Lang17; Files and folders; Arxius i carpetes
+s5_Lang18; Show in submenu; Mostrar a submenú
+
+[Preferences 6]
+s6_Lang01; Only active in; Només actiu a
+s6_Lang02; Not active in; Inactiu a
+
+[Preferences 7]
+s7_Lang01; Default prefix; Prefix per defecte
+s7_Lang02; Ending characters; Caracters finals
+s7_Lang03; Space; Espai
+s7_Lang04; Tab; Tabulador
+s7_Lang05; Enter; Retorn
+s7_Lang06; Separator; Separador
+s7_Lang07; Clipboard; Porta-retalls
+s7_Lang08; Use clipboard if text length exceeds (char); Utilitzar porta-retalls si el text excedeix de (caract)
+
+[Preferences 8]
+s8_Lang01; Autocompletar
+s8_Lang02; Correct case of suggested word; Corregir majúscules de la palabra suggerida
+s8_Lang03; Minimum word length to show suggestion; long. mínima paraula per mostrar suggeriment
+s8_Lang04; Word suggestion list height; Quantes paraules es poden suggerir
+s8_Lang05; Special characters; Caracters especials
+s8_Lang06; (list of special alphabet characters to be recognized; (llista de caràcters especials de l'abecedari que s'han de reconèixer
+s8_Lang07; as a part of a word); como a part d'una paraula)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Autoaprenentatge
+s9_Lang02; Turn on automatic word learning; Activa l'aprenentatge automàtic de paraules
+s9_Lang03; Learn wordlist file; Arxiu paraules apreses
+s9_Lang04; Learning options; Opcions d'aprenentatge
+s9_Lang05; Minimum length of learned words; Longitud mínima de paraules apreses
+s9_Lang06; Number of occurences to learn a word; Número d'ocurrències per apendre una paraula
+s9_Lang07; Save learned words as lowercase; Guarda les paraules apreses en minúscules
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Tecla de gestos
+s10_Lang02; Options; Opcions
+s10_Lang03; Show mouse trail; Mostrar el camí del ratolí
+s10_Lang04; Play sound for no match; Emetre un so quan no coincideixi
+s10_Lang05; Recognize 8 zones (advanced); Reconèixer 8 zones (avançat)
+s10_Lang06; Advanced; Avançat
+s10_Lang07; Interval (ms); Intèrval (ms)
+s10_Lang08; Threshold (px); llindar (px)
+s10_Lang09; Timeout (ms); Durada (ms)
+s10_Lang10; Initial timeout (ms); Pausa inicial (ms)
+s10_Lang11; Tolerance (%); Tolerància (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Comprova si hi ha noves versions de FastKeys
+s11_Lang02; Update; Actualitzar
+s11_Lang03; Update Start menu icons from internet; Actualitzar icones del Menú d'Inici des d'Internet
+s11_Lang04; Update icons; Actualitzar icones
+s11_Lang05; View quick tips for using FastKeys; Veure consells ràpids sobre la utilització de FastKeys
+s11_Lang06; View quick tips; Veure consells ràpids
+
+[Preferences 12]
+s12_Lang01; Active modules; Activar mòduls
+s12_Lang03; Hide disabled modules; Amagar els mòduls inactius
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Editor del Porta-retalls
+v211_Lang01; Clipboard shortcut; Accés directe al porta-retalls
+v211_Lang02; History size; Mida de l'històric
+v211_Lang03; Capture images and formatting; Capturar imatges i formatar
+v211_Lang04; Hold Ctrl key to paste without formatting; Prem la tecla Ctrl para enganxar sense formatar
+v211_Lang05; Clipboard font; Font del porta-retalls
+v211_Lang06; Popups; Finestres emergents
+v211_Lang07; Maximum popup width; Amplada màxima Fin. Emerg.
+v211_Lang08; Show shortcut numbers; Mostrar el número d'accessos directes
+v211_Lang09; New File; Nou Arxiu
+v211_Lang10; New Empty File; Nou Arxiu Buit
+v211_Lang11; Backup files folder; Carpeta copies de seguretat
+v211_Lang12; Number of saved backups; Nüm. de còpies de seguretat
+
+[Version 2.14]
+v214_Lang00; Duplicate; Duplicar
+v214_Lang01; Macro Recorder; Enregistrador de macros
+v214_Lang02; Record shortcut; Accés a grabació
+v214_Lang03; Play shortcut; Accés a execució
+v214_Lang04; Recording options; Opcions de gravació
+v214_Lang05; Keyboard actions; Accinss de teclat
+v214_Lang06; Mouse clicks; clics del ratolí
+v214_Lang07; Time intervals; Intèrvals de temps
+v214_Lang08; Window actions; Accions de finestres
+v214_Lang09; Show virtual key names; Mostrar els noms de les tecles virtuals
+v214_Lang10; Show save dialog after recording; Mostrar el diàleg de guardar després de gravar
+v214_Lang20; Press; Prem
+v214_Lang21; or "Record" button to start recording; o el botó "Grava" per a inicar la gravació
+v214_Lang22; to finish; per a finalitzar
+v214_Lang23; Recording macro; Gravant macro
+v214_Lang24; Recording completed; Gravació completada
+v214_Lang25; Recorded Macro; Macro gravada
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Activa la seqüència abreujdad de l'arxiu de frases
+v217_Lang02; New Tab; Nova pestanya
+v217_Lang03; Rename; Reanomena
+v217_Lang04; Move Left; Mou a l'esquerra
+v217_Lang05; Move Right; Mou a la dreta
+v217_Lang06; tab; Pestanya
+v217_Lang07; Tab Name; Nom de la pestanya
+
+[Version 2.19]
+v219_Lang01; More; Més
+v219_Lang02; Settings shortcut; Accés directe als ajutstaments
+v219_Lang04; Popups font and color; Color i font per a les finestres emergents
+v219_Lang05; Color and style; Color i estil
+v219_Lang06; Sort; Ordenar
+v219_Lang07; Alphabetically; Alfabeticament
+v219_Lang08; Include similar words (smart search); Inclou paraules similars (Recerca intel·ligent)
+v219_Lang09; Don't learn strings; No apendre seqüències
+v219_Lang10; Trail width and color; Amplada i color del camí
+v219_Lang11; Run as administrator; Executar com a administrador
+v219_Lang12; Formatting; Formatejant
+v219_Lang13; Normal; Normal
+v219_Lang14; No Icons; Sense icones
+v219_Lang15; Small; Petit
+v219_Lang16; Apply; Aplicar
+
+[Version 2.20]
+v220_Lang02; Icon size; Mida de les icones
+v220_Lang04; Break menu at separator; Partir el menú al separador
+v220_Lang05; Increase line spacing; Incrementar l'espaciat de línia
+v220_Lang06; Selection color; Seleccionar color
+v220_Lang07; Invert selection text color; Invertir la selecció del color de texte
+v220_Lang08; Show clipboard items; Mostrar els elements del porta-retalls
+
+[Version 2.22]
+v222_Lang01; Selection keys; Tecles de selecció
+v222_Lang02; Number; Número
+v222_Lang03; Insert mode; Mode d'inserció
+v222_Lang04; Show line numbers; Mostrar els números de línia
+v222_Lang05
+v222_Lang06; More options; Més opcions
+v222_Lang07; Fewer options; Menys opcions
+v222_Lang08; Always show more options; Mostrar sempre més opcions
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Mou sota d'un menú
+v300_Lang02; System Variables; Variables de sistema
+v300_Lang03; Macros; Macros
+v300_Lang04; Manual Text Input; Campo d'entrada manual de text
+v300_Lang05; File Contents; Continguts de l'arxiu
+v300_Lang06; Name; Nom
+v300_Lang07; Paragraph Options; Opcions de paràgraf
+v300_Lang08; Spacing; Espaiat
+v300_Lang09; Before; Abans
+v300_Lang10; After; Després
+v300_Lang11; Line spacing; Espaiat de línia
+v300_Lang12; Reload shortcut; Recarrega els accessos directes
+v300_Lang13; Paste delay (ms); Retard enganxar (ms)
+v300_Lang14; No formatting; Sense format
+v300_Lang15; Rich Text; Text eriquit
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Prem la tecla Shift per enganxar sense tancar
+v300_Lang18; Window Information; Finestra d'informació
+v300_Lang19; Insert Another Item; Insertar un altre element
+v300_Lang20; Filter; Filtre
+v300_Lang21; Selection Form; Formulari de selecció
+v300_Lang22; Selections; Seleccions
+v300_Lang23; Preview; Vista prèvia
+v304_Lang01; Title; Títol
+v304_Lang02; Class; Classe
+v304_Lang03; Process; Procés
+v304_Lang04; Position (x, y); Posició (x, y)
+v304_Lang05; Size (w, h); Mida (amp, alt)
+v304_Lang06; Control; Control
+v304_Lang07; Text; Text
+v304_Lang08; Mouse Position; Posició del ratolí
+v304_Lang09; Color; Color
+v304_Lang10; Insert Image; Insertar imatge
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Mostrar opcions al escriure ( ajustaments Autocompletar)
+v304_Lang12; Shift; Majúscules
+v304_Lang13; Include words containing the string; Inclou paraules que continguin la seqüència
+v304_Lang14; Enable column sorting; Activar ordenació de columnes
+v304_Lang15; Description separator; Separador de descripció
+v304_Lang16; Copy to Start Menu; Copiar al Menú dÌnici
+v304_Lang17; Key delay (ms); Retard tecla (ms)
+v304_Lang18; Key delays only active in; Retard tecles només actius a
+v304_Lang19; Display options; Opcions de pantalla
+v304_Lang20; New from Library; Nou a partir de la llibreria
+v304_Lang21; Variable name contains illegal characters:; El nom de la variable conté caracters no permesos:
+v304_Lang22; User Variables; Variables d'usuari
+v304_Lang23; Usage Statistics; Estadístiques d'ús
+v304_Lang24; Times executed; Número de cops executat
+v304_Lang25; Keystrokes saved; Pulsacions guardades
+v304_Lang26; Time savings; Estalvi de temps
+v304_Lang27; Session; Sessió
+v304_Lang28; Track usage statistics; Seguiment de les estadístiques d'ús
+v304_Lang29; Typing speed (wpm); Velocitat d'escriptura (ppm)
+v304_Lang30; Hourly wage; Preu per hora
+v304_Lang31; Insert Command Code; Insertar codi de l'ordre
+v304_Lang32; Command Name; Nombre de l'ordre
+v304_Lang33; Enable; Activar
+v304_Lang34; Disable; Desactivar
+v304_Lang35; Enable random text generation syntax (Spintax); Activa la sintaxi de generació de text aleatòria (Spintax)
+v304_Lang36; Font; Font
+v304_Lang37; Adjust to typed case; Ajusta a l'estat de majúscules
+v304_Lang38; Condition; Condició
+v304_Lang39; Condition Name; Nom de condició
+v304_Lang40; Allow duplicates; Permet duplicats
+v304_Lang42; Append; Afegir
+v304_Lang43; Include descriptions; Inclou descripcions
+v304_Lang44; Delimited Text File; Arxiu delimitat de text
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; Script d'Autohotkey v1
+v304_Lang47; Import ; Importar
+v304_Lang48; Import to; Importar a
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Separador (Darrer)
+v400_Lang02; Format; Format
+v400_Lang03; Sounds; Sons
+v400_Lang04; Show title bar; Mostra la barra de títol
+v400_Lang05; Break into columns; Divideix en columnes
+v400_Lang06; Clipboard capture; Captura del porta-retalls
+v400_Lang07; Macro record/play; Macro gravar/executar
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Utiliza el porta-retalls per a Text Enriquit (requereix re-edició)
+v400_Lang09; Module; Mòdul
+v400_Lang10; Restore Backup; Restaurar còpia de seguretat
+v400_Lang11; Backup file; Arxiu de còpia de seguretat
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Estàs segur que vols restaurar la versió prèvia de les dades?¶¶Això sobreescriurà totes les configuracions actuals.
+v400_Lang13; Shadow type; Tipus d'ombra
+v400_Lang14; Save history; Guardar l'historial
+v400_Lang15; Control Click; Pulsació de control
+v400_Lang16; Key delays; Retards de tecla
+v400_Lang17; Key press duration (ms); Durada de la pulscació (ms)
+v400_Lang18; Dialog delay (ms); Retard del diàleg (ms)
+v400_Lang19; Focus change delay (ms); Retard del canvi de selecció (ms)
+v400_Lang20; Force window focus; Força activació finestra
+v400_Lang21; Current Tab; Pestanya actual
+v400_Lang22; Top edge zone (L-R %); Vora superior (Esq-Dre %)
+v400_Lang23; Mode; Mode
+v400_Lang24; Click; Clic
+v400_Lang25; Calculate math expressions; Calcula expresions matemàtiques
+v400_Lang26; Continuous calculation (instead of pressing =); Càlcul continu (en lloc de prémer =)
+v400_Lang27; Show thousands separator; Mostra el separador de milers
+v400_Lang28; Round (decimals); Arrodoneix (decimals)
+v400_Lang29; File path; Ruta de l'arxiu
+v400_Lang30; Result; Resultat
+v400_Lang31; Find; Buscar
+v400_Lang32; Find Next; Buscar següent
+v400_Lang33; Search description; Buscar descripció
+v400_Lang34; Restrictions; Restriccions
+v400_Lang35; Backup; Còpia de seguretat
+v400_Lang36; Encrypt with password; Encripta amb clau
+v400_Lang37; Password; Clau
+v400_Lang38; Verify; Verificar
+v400_Lang39; Data Protection; Protecció de dades
+v400_Lang40; Encrypt file; Encriptar arxiu
+v400_Lang41; Remember on this computer; Recordar en aquest ordinador
+v400_Lang42; Protect backups; Protegir les còpies de seguretat
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; IMPORTANT¶Si oblides la clau, no podràs accedir a les dades. Les còpies de seguretat creades abans de l'activació no estan protegides. Els arxius de llistes de frases i paraules no estan protegits.
+v400_Lang44; Support Mail; Correo de suport tècnic
+v400_Lang45; The password is incorrect, please try again.; La clau és incorrecte, si us plau torna a intentar-ho.
+v400_Lang46; Quick find; Recerca ràpida
+v400_Lang48; Search current typed word; Busca la paraula actualment escrita
+v400_Lang49; Calculator; Calculadora
+v400_Lang50; Show suggestion; Mostra suggeriment
+v400_Lang51; Special characters; Caràcters especials
+v400_Lang52; Online Documentation; Documentació en línia
+v400_Lang53; Print; Imprimir
+v400_Lang54; Automatic spacing; Espaiat automàtic
+v400_Lang55; Remove text margin; Treu els marges de text
+v400_Lang56; Menu icon; Menú d'icones
+v400_Lang57; Remove vertical lines; Treu les línies verticals
+v400_Lang58; Enable modifiers (!+^#); Activa modificadors (!+^#)
+v400_Lang59; Position above the caret; posició per sobre del cursor
+v400_Lang60; Properties; Propietats
+v400_Lang61; Round time to; Arrodoneix el temps a
+v400_Lang62; days; dies
+v400_Lang63; business days; dies laborables
+v400_Lang64; hours; hores
+v400_Lang65; minutes; minuts
+v400_Lang66; months; mesos
+v400_Lang67; years; anys
+v400_Lang70; Update order on paste; actualitza l'ordre en enganxar
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.
+v400_Lang72; Position; Posició
+v400_Lang73; Below the caret; Per sota el cursor
+v400_Lang74; Above the caret; Per sobre el cursor
+v400_Lang75; Alternative position; Posició alternativa
+v400_Lang76; Mouse cursor; Punter del ratolí
+v400_Lang77; Centered; Centrat
+v400_Lang78; Tray; Safata
+v400_Lang89; Upgrade to Professional; Actualitza a Professional
+v400_Lang90; Shared settings; Configuracions compartides
+v400_Lang91; Team; Equip
+v400_Lang92; Shared file; Arxiu compartit
+v400_Lang93; Edit shared file; Edita l'arxiu compartit
+v400_Lang94; Shared file editing.; Edició d'arxius compartits
+v400_Lang95; Shared file saved, returning to normal mode.; Arxiu compartit guardat, retornant al mode normal.
+v400_Lang96; Information; Informació
+v400_Lang97; SHARED; COMPARTIT
+v400_Lang98; Remember popup position; Recorda la posició de les finestres emergents
+v400_Lang99; Prefixes; Prefixos
+v426_Lang01; Default suffix; Sufix per defecte
+v426_Lang02; Exclusions; Exclusions
+
+[Version 5.00]
+v5_Lang01; Default text; Text per defecte
+v5_Lang02; No output; Sense sortida
+v5_Lang03; Open Web Page; Obre Pàgina Web
+v5_Lang04; Run Program; Executa Programa
+v5_Lang05; Open File; Obre Arxiu
+v5_Lang06; Open Folder; Obre Carpeta
+v5_Lang07; Create Mail; Crea Correu-E
+v5_Lang08; Activate Window; Activa Finestra
+v5_Lang09; To; A
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; Tema
+v5_Lang13; Attachments; Adjunts
+v5_Lang14; Message body; Cos del missatge
+v5_Lang15; Send automatically; Envia automàticament
+v5_Lang16; Default; Per defecte
+v5_Lang17; Address (URL); Adreça (URL)
+v5_Lang18; Folder; Carpeta
+v5_Lang19; Custom; Personalitzat
+v5_Lang20; Browser path; Ruta al navegador
+v5_Lang21; Working directory; Directori de treball
+v5_Lang22; Maximized; Maximitzat
+v5_Lang23; Minimized; Minimitzat
+v5_Lang24; Wait until program closes; Espera a que el programa acabi
+v5_Lang25; Browser; Navegador
+v5_Lang26; Table Selection; Taula de sel·lecció
+v5_Lang27; Text File Lookup; Recerca en arxiu de text
+v5_Lang28; Excel File Lookup; Recerca en arxiu Excel
+v5_Lang29; Lookup; Recerca
+v5_Lang30; Table; Taula
+v5_Lang31; Return column(s); Retorna columna(es)
+v5_Lang32; Table file; Arxiu de taula
+v5_Lang33; Sheet; Pestanya
+v5_Lang34; Cell range; Rang de cel·les
+v5_Lang35; Column no.; Num. Columna
+v5_Lang36; Equals; Equival
+v5_Lang37; User Input; Entrada d'usuari
+v5_Lang38; Retorna columna(es)
+v5_Lang39; Output separator; Separador de sortida
+v5_Lang40; Force query; Força la recerca
+v5_Lang41; Insert column; Inserta columna
+v5_Lang42; Delete column; Esborra columna
+v5_Lang43; Excel Data Range; Rang de dades d'Excel
+v5_Lang44; Insert Data; Insereix dades
+v5_Lang45; Input; Entrada
+v5_Lang46; Automation; Automatització
+v5_Lang47; Customize Menus; Personalitza Menus
+v5_Lang48; Show icons; Mostra Icones
+v5_Lang49; Favourite macros; Macros Favorites
+v5_Lang50; Toolbar; Barra d'Èines
+v5_Lang51; More settings; Mes configuracions
+v5_Lang52; Tiles; Separadors
+v5_Lang53; Icon and text below; Icones i text a sota
+v5_Lang54; Icon and text right; Icones i text a la dreta
+v5_Lang55; Icon; Icona
+v5_Lang56; Tile size (W/H px); Mida del Títol (Amp/Alt px)
+v5_Lang57; Padding (px); Farcit (px)
+v5_Lang58; Grid; Graella
+v5_Lang59; Grid size (Rows/Columns); Mida Graella (Files/Cols.)
+v5_Lang60; Order; Sentit
+v5_Lang61; Outside margin (px); Marge exterior (px)
+v5_Lang62; Background color; Color de fons
+v5_Lang63; Vertical; Vertical
+v5_Lang64; Horizontal; Horitzontal
+v5_Lang65; Display Edit, Delete buttons; Mostra els botons Editar i Esborrar
+v5_Lang66; Theme; Tema
+v5_Lang67; Calculation; Càlcul
+v5_Lang68; Save table as; Guarda la taula com a
+v5_Lang69; Insert Another Field; Inserta un altre camnp
+v5_Lang70; Macro; Macro
+v5_Lang71; Column width; Ample de columna
+v5_Lang72; Popup width (px); Amplada Finestra Emergent (px)
+v5_Lang73; Edit shared file; Edita arxiu compartit
+v5_Lang74; Recent changes; Canvis recents
+v5_Lang75; Yes; Sí
+v5_Lang76; No; No
+v5_Lang77; Bold; Negreta
+v5_Lang78; Italic; Itàliques
+v5_Lang79; Underline; Subratllat
+v5_Lang80; Align Left; Alinea a l'esquerra
+v5_Lang81; Center; Centrat
+v5_Lang82; Align Right; Alinea a la dreta
+v5_Lang83; Justify; Justifica
+v5_Lang84; Increase Font Size; Augmenta la Mida de la Font
+v5_Lang85; Decrease Font Size; Disminueix la Mida de la Font
+v5_Lang86; Bullets; Pics
+v5_Lang87; Numbering; Numeració
+v5_Lang88; Decrease Indent; Disminueix Indentació
+v5_Lang89; Increase Indent; Inrementa Indentació
+v5_Lang90; Date; Data
+v5_Lang91; Time; Hora
+v5_Lang92; User; Usuari
+v5_Lang93; Changes; Canvis
+v5_Lang94; Include spaces; Inclou espais
+v5_Lang95; Number of items; Número d'Ítems
+v5_Lang96; Output format; Format de sortida
+v5_Lang97; Output if empty; Sortida si està buit
+v5_Lang98; Trim spaces; Elimina espais
+v5_Lang99; All; Tot
+v5_Lang100; Adapt case; Adapta majúscules
+v5_Lang101; Uppercase; Majúscules
+v5_Lang102; Lowercase; Minúscules
+v5_Lang103; Find and replace; Cerca i substitueix
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; Vols reiniciar les preferències en aquesta pestanya als seus valors per defecte?
+v5_Lang105; Reset ALL preferences; Reinicialitza TOTES les preferències
+v5_Lang106; Multi line; Multilínia
+v5_Lang107; Tables folder; Carpeta de taules
+v5_Lang108; Input Format; Format d'entrada
+v5_Lang109; Digits; Digits
+v5_Lang110; All matches; Totes les coincidències
+v5_Lang111; Neutral color icon; Icona de color neutre
+v5_Lang112; Auto save; Auto guarda
+v5_Lang113; Video tutorials; Tutorials de vídeo
+v5_Lang114; Message Box; Caixa de missatge
+v5_Lang115; Buttons; Botons
+v5_Lang116; Stop; Para
+v5_Lang117; Any key; Qualsevol tecla
+v5_Lang118; Relative to window; Relatiu a la finestra
+v5_Lang119; Keyboard; Teclat
+v5_Lang120; Open Shared File; Obre Arxiu COMPARTIT
+v5_Lang121; Share; Comparteix
+v5_Lang122; Export; Exporta
+v5_Lang123; Send Link; Envia enllaç
+v5_Lang124; If item exists; Si l'ítem existents
+v5_Lang125; Skip; Salta
+v5_Lang126; Replace; Reemplaça
+v5_Lang127; Select tabs; Selecciona pestanyes
+v5_Lang130; File already exists.; L'arxiu ja existeix.
+v5_Lang131; Are you sure?; N'estas segur?
+v5_Lang132; item(s) will be shared.; Els ítems es compartiran.
+v5_Lang133; duplicate(s) found; Hi ha duplicat(s)
+v5_Lang134; will be skipped.; Serà saltat.
+v5_Lang135; will be replaced.; Serà reemplaçat.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; Enganxa la ruta que t'ha fet arribar el teu administrador al camp de sota o tria un arxiu.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; Comparteix el contingut seleccionat amb altres usuaris. Selecciona una pestanya existent o entra un nom nou de pestanya.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; Exporta la configuració al núvol o una ubicació de xarxa on els altres usuaris hi puguin accedir.
+v5_Lang139; Search command; Ordre de cerca
+v5_Lang140; Remember last input; Recorda la darrera entrada
+v5_Lang141; Startup script; script d'inici
+v5_Lang142
+v5_Lang143; Grid Selection; Selecció de graella
+v5_Lang144; Set columns; Ajusta columnes
+v5_Lang145; Selection type; Selecciona tipus
+v5_Lang146; Optional Section; Selecció opcional
+v5_Lang147; Select "Command" mode to enable more options.
+v5_Lang148; Use clipboard; Utilitza el porta-retalls
+v5_Lang149; Loop; bucle
+v5_Lang150; Loop count; nombre de bucles
+v5_Lang151; Default button; butó per defecte
+v5_Lang152; Timeout (s); Temps d'espera (s)
+v5_Lang153; Required; Requerit
+v5_Lang154; Letters; Lletres
+v5_Lang155; Numbers; números
+v5_Lang156; Email; Correu-e
+v5_Lang157; Align elements horizontally; Alinea elements horitzontalment
+v5_Lang158; Comment; Comentari
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; es actiu.¶ Per obrir la finestra d'ajustaments de nou clica la icona de FastKeys a la safata del sistema o bé prem F8.
+v5_Lang160; Alternative backspace method; Mètode alternatiu de retrocés
+v5_Lang161; If they fit in one row; Si caben en una fila
+v5_Lang162; Preview not available; Vista prèvia no disponible
+v5_Lang163; Switch View; Canvia la vista
+v5_Lang164; Not supported:
+v5_Lang165; Selected items were saved to
+v5_Lang166; Save Selected As
+v5_Lang167; First Letter
+v5_Lang168; Copy to Clipboard
+
+[Version 6.00]
+v6_Lang01; Grid Check
+v6_Lang02; Single
+v6_Lang03; Multi
+v6_Lang04; Delimiters
+v6_Lang05; Checked
+v6_Lang06; Unchecked
+v6_Lang07; Output
+v6_Lang08; Group output
+v6_Lang09; Repeat last command
+v6_Lang10; Double press
+v6_Lang11; Long press
+v6_Lang12; Wait time (s)
+v6_Lang13; Recognize items
+v6_Lang14; Voice Recognition
+v6_Lang15; Base value
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday
+v6_Lang17; Date/Time Calculation
+v6_Lang18; Auto restore hook (min)
+v6_Lang19; Auto reload (min)
+v6_Lang20; If condition
+v6_Lang21; Else
+v6_Lang22; Case If Conditions
+v6_Lang23; Are you sure you want to change the options for the

@@ -1,0 +1,798 @@
+﻿; English; Arabic
+; Arabic
+; Translation by m7md.abdalazez@gmail.com, lalalogitech@hotmail.com
+
+[Gui]
+g_Lang01; Start Menu; قائمة إبدأ
+g_Lang02; Shortcuts; الإختصارات
+g_Lang03; Text Expander; اختصارات النص
+g_Lang04; Auto Complete; إكمال تلقائي
+g_Lang05; Gestures; اٍشارات الماوس
+g_Lang06
+g_Lang11; New; جديد
+g_Lang12; Edit; تحرير
+g_Lang13; Delete; حذف
+g_Lang14; Run; تشغيل
+g_Lang15; Active; نشط
+g_Lang16; Menu; القائمة
+g_Lang17; Submenu; القائمة الفرعية
+g_Lang18; Type; النوع
+g_Lang19; Command; الأمر
+g_Lang20; Run Type; نوع التشغيل
+g_Lang21; Key; المفتاح
+g_Lang22; Shortcut; الاختصار
+g_Lang23; Description; الوصف
+g_Lang24; Window; النافذة
+g_Lang25; String; السلسلة
+g_Lang26; Substitute; البديل
+g_Lang27; Gesture; الاٍشارة
+g_Lang28
+g_Lang31; Paused; إيقاف مؤقت
+g_Lang32; Active; نشط
+g_Lang33; Untitled; بدون عنوان
+g_Lang40
+g_Lang41; Separator; فاصل
+g_Lang42; Undo; تراجع
+g_Lang43; Redo; اعادة
+g_Lang44; Move Up; تحريك للأعلى
+g_Lang45; Move Down; تحريك للأسفل
+g_Lang46; Are you sure to remove; هل تريد بالتأكيد حذف
+g_Lang47; selected items; العناصر المحددة
+g_Lang50
+g_Lang51; Preferences; التفضيلات
+g_Lang52; Support Forum; منتدى الدعم
+g_Lang53; Help; التعليمات
+g_Lang54; Select a file or folder; تحديد ملف أو مجلد
+g_Lang55; Edit command in Editor; تحرير الأمر في المحرر
+g_Lang56; Select a preset command; تحديد أمر معين مسبقاً
+g_Lang60
+g_Lang61; Registered to; مسجل باسم
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; انتهت مدة صلاحية النسخة التجريبة.
+g_Lang63; TRIAL PERIOD.; فترة تجريبية.
+g_Lang64
+g_Lang71; Do you want to save changes?; هل تريد حفظ التغييرات؟
+g_Lang72; Save file as...; حفظ الملف باسم...
+g_Lang73; Do you want to save changes to; هل تريد حفظ التغييرات ل
+g_Lang74; Please select FastKeys data file.; FastKeys يرجي تحديد ملف بيانات.
+g_Lang75; Not a valid FastKeys file.; صالح FastKeys ليس ملف.
+g_Lang76; Save FastKeys data file as…; ك FastKeys حفظ ملف بيانات…
+g_Lang78; Are you sure to overwrite existing data?; هل تريد بالتأكيد الكتابة فوق البيانات الموجودة؟
+g_Lang79; Select folder:; تحديد مجلد:
+g_Lang80; Duplicate entry, please correct.; إدخال مكرر، يرجى التصحيح.
+g_Lang81; File does not exist.; الملف غير موجود.
+g_Lang82; Please select a Phrase file.; يرجى تحديد ملف العبارة.
+g_Lang83; Please select a Wordlist file.; يرجى تحديد ملف قائمة الكلمات.
+g_Lang84; Too many menu entries.; عدد كبير جداً من إدخالات القائمة.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; مشغل فورا
+g1_Lang03; Delete ending char; حذف الحرف الختامي
+g1_Lang04; Don't delete string; لا تقم بحذف السلسلة
+g1_Lang05; Case sensitive; تحسس حالة الأحرف
+g1_Lang06; Trigger inside word; مشغل داخل الكلمة
+g1_Lang07; Send raw text; إرسال النص الخام
+g1_Lang08; Manual confirmation; تأكيد يدوي
+g1_Lang09
+g1_Lang11; None; بدون
+g1_Lang12; Auto Run; تشغيل تلقائي
+g1_Lang13; Run on Startup; تشغيل عند بدء التشغيل
+g1_Lang14; Include Files; تضمين الملفات
+g1_Lang15; Include Subfolders; تضمين المجلدات الفرعية
+g1_Lang16; Include Files and Subfolders; تضمين الملفات والمجلدات الفرعية
+g1_Lang17
+g1_Lang21; Record; تسجيل
+g1_Lang22; Record a New Gesture ; تسجيل إشارة جديدة
+g1_Lang23; Right Mouse Button; الزر الأيمن للماوس
+g1_Lang24; key; المفتاح
+g1_Lang25; Hold; تعليق
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; ورسم إشارة في أي مكان على الشاشة. ثم اضغط مفتاح الإدخال أو الزر موافق للانتهاء.
+g1_Lang28
+g1_Lang31; Abbreviation; الاختصار
+g1_Lang32; Phrase; العبارة
+g1_Lang33; Word; الكلمة
+g1_Lang34; Phrase file; ملف العبارة
+g1_Lang35; Wordlist file; ملف قائمة الكلمات
+g1_Lang36
+g1_Lang41; Line; السطر
+g1_Lang42; Column; العمود
+g1_Lang43
+g1_Lang51; Advanced shortcut; خيارات الاختصار المتقدمة
+g1_Lang52; Modifier; المعدل
+g1_Lang53; Optional Attributes; السمات الاختيارية
+g1_Lang54; Native; محلي
+g1_Lang55; Wildcard; أحرف البدل
+g1_Lang56; Hook; خطاف
+g1_Lang57; L/R only; يسار/يمين فقط
+g1_Lang58; Keys; المفاتيح
+g1_Lang59; Standard; قياسي
+g1_Lang60; Function keys; مفاتيح الوظائف
+g1_Lang61; Numpad; اللوحة الرقمية
+g1_Lang62; Mouse; الماوس
+g1_Lang63; Multimedia; الوسائط المتعددة
+g1_Lang64; Special; خاص
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; ملف
+m_Lang02; &Edit; تحرير
+m_Lang03; &Insert; إدراج
+m_Lang04; &Tools; أدوات
+m_Lang05; &Help; التعليمات
+m_Lang06; &Register; تسجيل
+m_Lang07
+m_Lang11; &New; جديد
+m_Lang12; &Open; فتح
+m_Lang13; &Save; حفظ
+m_Lang14; Save &As; حفظ باسم
+m_Lang15; E&xit; خروج
+m_Lang16
+m_Lang21; &Edit; تحرير
+m_Lang22; &Delete; حذف
+m_Lang23; Re&load; إعادة تحميل
+m_Lang24; &Pause; إيقاف مؤقت
+m_Lang25
+m_Lang31; &Preferences; التفضيلات
+m_Lang32; &Module Activation; تنشيط الوحدة النمطية
+m_Lang33; &Auto Learn Settings; اٍعدادات التعلم التلقائي
+m_Lang34; &Check for Updates; التدقيق بحثا عن تحديث
+m_Lang35; &Update Menu Icons; تحديث قائمة الأيقونات
+m_Lang36
+m_Lang41; &Help; التعليمات
+m_Lang42; &Support Forum; منتدى الدعم
+m_Lang43; &View Quick Tips; عرض تلميحات سريعة
+m_Lang44; &About; حول البرنامج - تعريب محمد عبد العزيز
+m_Lang45
+m_Lang51; Open from &Library; فتح من المكتبة
+m_Lang52; Cut; قص
+m_Lang53; Copy; نسخ
+m_Lang54; Paste; لصق
+m_Lang55; Select All; تحديد الكل
+m_Lang56; Read Only; للقراءة فقط
+m_Lang57; Zoom in; تكبير
+m_Lang58; Zoom out; تصغير
+m_Lang59; Default Zoom; التكبير الافتراضي
+m_Lang60; Zoom; تكبير/تصغير
+m_Lang61; Always On Top; دائما بالمقدمة
+m_Lang62; Line Wrap; التفاف الأسطر
+m_Lang63; View; عرض
+m_Lang64; Open Script; فتح البرنامج النصي
+
+[FastKeys]
+f_Lang01; Loading FastKeys; FastKeys تحميل
+f_Lang02; Settings; الإعدادات
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; خطأ توقفت بعض الأوامر.¶¶يرجي مراجعه الاوامر التي تم تحريرها مؤخراً وتصحيح الوظائف المتكررة.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; حدثت مشكلة أثناء استرداد قائمة الأيقونات من الاٍنترنت. يرجي التحقق من إعدادات الإنترنت أو جدار الحماية الخاص بك.¶¶تم تعطيل التحميل التلقائي للسماح بتحميل أسرع. يمكنك تمكين التحميل التلقائي للأيقونات من قائمة التفضيلات.
+f_Lang14; Save settings before continuing?; حفظ الإعدادات قبل المتابعة؟
+f_Lang15; Add to; إضافة إلى
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; شكرا لك على استخدام النسخة التجريبية من البرنامج. لقد تم منحك ترخيص لاستخدام هذا التطبيق للتقييم فقط. لا تعرض النسخة المسجلة هذا الإشعار.
+f_Lang22; Press "Continue" to continue using trial version.; اضغط على "استمرار" للاستمرار في استخدام النسخة التجريبية.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; المستخدمين المسجلين : يرجى تقديم معلومات التسجيل الخاصة بك أدناه لتفعيل النسخة الكاملة للبرنامج. قم بنسخ أو كتابة مفتاح التسجيل في حقل الإدخال وانقر على زر (تسجيل).¶¶انقر فوق "شراء" لشراء مفتاح التسجيل أو انقر فوق "إلغاء الأمر" للمتابعة باستخدام النسخة التجريبية.
+f_Lang36
+f_Lang41; Name/Company:; الاسم:
+f_Lang42; Registration key:; مفتاح التسجيل:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; مفتاح التسجيل غير صحيح.
+f_Lang46; Congratulations, you have registered FastKeys!; تهانينا، تم تسجيل البرنامج!
+f_Lang47
+f_Lang51; Open Menu; فتح القائمة
+f_Lang52; Reload; إعادة تحميل
+f_Lang53; Pause; إيقاف مؤقت
+f_Lang54; Exit FastKeys; FastKeys إنهاء
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; موافق
+b_Lang02; Cancel; إلغاء الأمر
+b_Lang03; Save; حفظ
+b_Lang06; Select; تحديد
+b_Lang07; Defaults; الإفتراضيات
+b_Lang08; Register; تسجيل
+b_Lang11; Purchase; شراء
+b_Lang12; Continue; استمرار
+b_Lang14; Test; تجربة
+b_Lang17; Open; فتح
+b_Lang18; Edit; تحرير
+b_Lang19; Library; المكتبة
+b_Lang22; Edit File; تحرير الملف
+
+[Library]
+l_Lang01; Utility; الأداة المساعدة
+l_Lang02
+l_Lang03; Scripts; البرامج النصية
+l_Lang04; Audio; مقطع صوتي
+l_Lang05; Games; الألعاب
+l_Lang06
+l_Lang11; Control Panel; لوحة التحكم
+l_Lang12; System Folders; مجلدات النظام
+l_Lang13; Internet Explorer; إنترنت إكسبلورر
+l_Lang14; System; النظام
+l_Lang15; Utilities; الأدوات المساعدة
+l_Lang16; Windows; النوافذ
+l_Lang17; Shell; شل
+l_Lang18
+l_Lang21; Keys; المفاتيح
+l_Lang22; Cursor Position; موضع المؤشر
+l_Lang23; Mouse and Media; الماوس ووسائط الإعلام
+l_Lang24; Date and Time; التاريخ والوقت
+
+[Preferences]
+s_Lang01; General; عام
+s_Lang02; Appearance; المظهر
+s_Lang03; Functions; الوظائف
+s_Lang04; Folders; المجلدات
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; التعلم التلقائي
+s_Lang10
+s_Lang11; Internet; الإنترنت
+s_Lang12; Module Activation; تنشيط الوحدة النمطية
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; تحديد حفظ/موافق لتحديث الاٍيقونات.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; هل ترغب في زيارة موقع البرنامج للحصول على نصائح سريعة علي استخدام البرنامج؟
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; توجد مشكلة في التحقق من وجود تحديثات. الرجاء المحاولة مرة أخرى، أو قم بزيارة موقع البرنامج للتحقق والتحميل يدوياً.¶¶تم تعطيل التحقق التلقائي للسماح بتحميل أسرع.
+s_Lang25; You are using the latest version of; لديك أحدث نسخة من
+s_Lang26; A new version of FastKeys; FastKeys نسخة جديدة من
+s_Lang27; is available.; متاح.
+s_Lang28; Would you like to install it now?; هل ترغب في تثبيتها الآن؟
+s_Lang29; Downloading FastKeys, Version; النسخة FastKeys جاري تحميل
+s_Lang30; Please wait ...; يرجى الانتظار ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; هناك مشكلة في التحميل. يرجي المحاولة مرة أخرى أو قم بزيارة موقع البرنامج لتحميل يدوياً.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; إضافة  سريع
+s1_Lang02; Quick add to ; أضافة سريعة ل
+s1_Lang03; Ask; اسأل
+s1_Lang04; Learn Wordlist File; ملف قائمة كلمات التعليم
+s1_Lang05; Pause shortcut; إيقاف تشغيل الاختصار مؤقتا
+s1_Lang06; General options; خيارات عامة
+s1_Lang07; Run FastKeys on startup; عند بدء التشغيل FastKeys تشغيل
+s1_Lang08; Show tray icon; عرض بجوار الساعة
+s1_Lang09; Clicking tray icon shows Start Menu; النقر فوق أيقونة البرنامج بجوار الساعة لعرض (القائمة ابدأ)
+s1_Lang10; Auto check for software updates; الاختيار التلقائي لتحديثات البرامج
+s1_Lang11; Language; اللغة
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; إظهار الشبكات
+s2_Lang03; Show stripes; إظهار الخطوط
+s2_Lang04; Show loading progress; إظهار تقدم التحميل
+s2_Lang05; Display Apply, Edit, Delete buttons; عرض تطبيق ، تحرير ، حذف الأزرار
+s2_Lang06; Transparency (%); الشفافية (%)
+
+[Preferences 3]
+s3_Lang01; Volume; مستوى الصوت
+s3_Lang02; Control with mouse wheel on right screen edge; التحكم باستخدام عجلة الماوس على الحافة اليمنى من الشاشة
+s3_Lang03; Volume sensitivity; حساسية مستوي الصوت
+s3_Lang04; Auto-correct; تصحيح تلقائي
+s3_Lang05; Correct sentence capitals; تصحيح الحروف الاٍستهلالية للجمل
+s3_Lang06; Correct DOuble CApitals; تصحيح الحروف الاٍستهلالية المزدوجة
+s3_Lang07; Disable CapsLock key; تعطيل مفتاح كابسلوك
+s3_Lang08; Memory; الذاكرة
+s3_Lang09; Optimize memory; تحسين الذاكرة
+
+[Preferences 4]
+s4_Lang01; Scripts folder; مجلد البرامج النصية
+s4_Lang02; Phrase files folder; مجلد ملف العبارة
+s4_Lang03; Wordlist files folder; مجلد ملف قائمة الكلمات
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; اختصار القائمة
+s5_Lang02; Show menu on; إظهار القائمة على
+s5_Lang03; Top edge; الحافة العلوية
+s5_Lang04; Right edge; الحافة اليمنى
+s5_Lang05; Left edge; الحافة اليسرى
+s5_Lang06; Bottom edge; الحافة السفلية
+s5_Lang07; Menu options; خيارات القائمة
+s5_Lang08; Show menu icons; إظهار أيقونات القائمة
+s5_Lang09; Auto download website icons; تحميل أيقونات الموقع تلقائياً
+s5_Lang10; Larger icons; أيقونات كبيرة
+s5_Lang11; Disable menu in full screen applications; تعطيل القائمة في تطبيقات ملء الشاشة
+s5_Lang12; Add settings to Start Menu; إضافة الاٍعدادات إلى قائمة ابدأ
+s5_Lang13; Menu delay (ms); تأخير القائمة (مللي ثانية)
+s5_Lang14; Show recent items; إظهار العناصر الأخيرة
+s5_Lang15; Files; الملفات
+s5_Lang16; Folders; المجلدات
+s5_Lang17; Files and folders; الملفات و المجلدات
+s5_Lang18; Show in submenu; إظهار في القائمة الفرعية
+
+[Preferences 6]
+s6_Lang01; Only active in; النشطة فقط في
+s6_Lang02; Not active in; غير نشطة في
+
+[Preferences 7]
+s7_Lang01; Default prefix; البادئة الافتراضية
+s7_Lang02; Ending characters; الحروف الختامية
+s7_Lang03; Space; مسافة
+s7_Lang04; Tab; تاب
+s7_Lang05; Enter; ادخال
+s7_Lang06; Separator; فاصل
+s7_Lang07; Clipboard; الحافظة
+s7_Lang08; Use clipboard if text length exceeds (char); استخدام الحافظة إذا تجاوز طول النص (حرف)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; تصحيح الحالة للكلمة المقترحة
+s8_Lang03; Minimum word length to show suggestion; الحد الأدنى لطول الكلمة لإظهار اقتراح
+s8_Lang04; Word suggestion list height; ارتفاع قائمة الكلمة المقترحة
+s8_Lang05; Special characters; أحرف خاصة
+s8_Lang06; (list of special alphabet characters to be recognized; قائمة الأحرف الأبجدية الخاصة ليتم الاعتراف بها (باعتبارها
+s8_Lang07; as a part of a word); (جزء من الكلمة
+
+[Preferences 9]
+s9_Lang01; Auto learn; التعلم التلقائي
+s9_Lang02; Turn on automatic word learning; تشغيل تعلم الكلمات تلقائياً
+s9_Lang03; Learn wordlist file; ملف قائمة كلمات التعلم
+s9_Lang04; Learning options; خيارات التعلم
+s9_Lang05; Minimum length of learned words; الحد الأدنى لطول كلمات التعلم
+s9_Lang06; Number of occurences to learn a word; عدد الأحداث لتعلم الكلمة
+s9_Lang07; Save learned words as lowercase; حفظ كلمات التعلم كأحرف صغيرة
+
+[Preferences 10]
+s10_Lang01; Gesture Key; مفتاح الإشارة
+s10_Lang02; Options; خيارات
+s10_Lang03; Show mouse trail; إظهار ذيل الماوس
+s10_Lang04; Play sound for no match; تشغيل صوت عند عدم التطابق
+s10_Lang05; Recognize 8 zones (advanced); التعرف على 8 مناطق (خيارات متقدمة)
+s10_Lang06; Advanced; خيارات متقدمة
+s10_Lang07; Interval (ms); الفاصل الزمني (مللي ثانية)
+s10_Lang08; Threshold (px); العتبة (بكسل)
+s10_Lang09; Timeout (ms); المهلة (مللي ثانية)
+s10_Lang10; Initial timeout (ms); المهلة الأولية (مللي ثانية)
+s10_Lang11; Tolerance (%); (%) السماح
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; FastKeys التحقق من وجود إصدارات جديدة من
+s11_Lang02; Update; تحديث
+s11_Lang03; Update Start menu icons from internet; تحديث أيقونات قائمة ابدأ من الإنترنت
+s11_Lang04; Update icons; تحديث الأيقونات
+s11_Lang05; View quick tips for using FastKeys; FastKeys عرض تلميحات سريعة لاستخدام
+s11_Lang06; View quick tips; عرض تلميحات سريعة
+
+[Preferences 12]
+s12_Lang01; Active modules; الوحدات النمطية النشطة
+s12_Lang03; Hide disabled modules; إخفاء الوحدات النمطية المعطلة
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; مدير الحافظة
+v211_Lang01; Clipboard shortcut; اختصار الحافظة
+v211_Lang02; History size; حجم التاريخ
+v211_Lang03; Capture images and formatting; التقاط الصور والتنسيقات
+v211_Lang04; Hold Ctrl key to paste without formatting; اضغط على مفتاح التحكم للصق بدون تنسيق
+v211_Lang05; Clipboard font; حافظة الخط
+v211_Lang06; Popups; النوافذ المنبثقة
+v211_Lang07; Maximum popup width; الحد الأقصى لعرض النافذة المنبثقة
+v211_Lang08; Show shortcut numbers; عرض أرقام الاختصار
+v211_Lang09; New File; ‏‏ملف جديد
+v211_Lang10; New Empty File; ملف فارغ جديد
+v211_Lang11; Backup files folder; النسخ الاحتياطي لمجلد الملفات
+v211_Lang12; Number of saved backups; عدد النسخ الاحتياطية المحفوظة
+
+[Version 2.14]
+v214_Lang00; Duplicate; نسخة أخرى
+v214_Lang01; Macro Recorder; مسجل الماكرو
+v214_Lang02; Record shortcut; اختصار التسجيل
+v214_Lang03; Play shortcut; تشغيل الاختصار
+v214_Lang04; Recording options; خيارات التسجيل
+v214_Lang05; Keyboard actions; إجراءات لوحة المفاتيح
+v214_Lang06; Mouse clicks; نقرات الماوس
+v214_Lang07; Time intervals; الفواصل الزمنية
+v214_Lang08; Window actions; إجراءات النافذة
+v214_Lang09; Show virtual key names; إظهار أسماء المفاتيح الظاهرية
+v214_Lang10; Show save dialog after recording; إظهار المربع الحواري حفظ بعد التسجيل
+v214_Lang20; Press; إضغط
+v214_Lang21; or "Record" button to start recording; أو زر "تسجيل" لبدء التسجيل
+v214_Lang22; to finish; للأنتهاء
+v214_Lang23; Recording macro; تسجيل الماكرو
+v214_Lang24; Recording completed; إكتمل التسجيل
+v214_Lang25; Recorded Macro; الماكرو المسجلة
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; تمكين اختصار سلسلة ملف العبارة
+v217_Lang02; New Tab; تبويب جديد
+v217_Lang03; Rename; إعادة تسمية
+v217_Lang04; Move Left; تحريك لليسار
+v217_Lang05; Move Right; تحريك لليمين
+v217_Lang06; tab; تبويب
+v217_Lang07; Tab Name; اسم التبويب
+
+[Version 2.19]
+v219_Lang01; More; المزيد
+v219_Lang02; Settings shortcut; إعدادات الاختصار
+v219_Lang04; Popups font and color; اللون والخط بالنوافذ المنبثقة
+v219_Lang05; Color and style; اللون والنمط
+v219_Lang06; Sort; ترتيب
+v219_Lang07; Alphabetically; أبجدياً
+v219_Lang08; Include similar words (smart search); تتضمن الكلمات المماثلة (البحث الذكي)
+v219_Lang09; Don't learn strings; لا تتعلم السلاسل
+v219_Lang10; Trail width and color; لون وعرض الذيل
+v219_Lang11; Run as administrator; تشغيل كمسؤول
+v219_Lang12; Formatting; التنسيق
+v219_Lang13; Normal; عادي
+v219_Lang14; No Icons; بدون أيقونات
+v219_Lang15; Small; صغير
+v219_Lang16; Apply; تطبيق
+
+[Version 2.20]
+v220_Lang02; Icon size; حجم الأيقونة
+v220_Lang04; Break menu at separator; فصل القائمة في فواصل
+v220_Lang05; Increase line spacing; زيادة تباعد الأسطر
+v220_Lang06; Selection color; اختيار اللون
+v220_Lang07; Invert selection text color; عكس لون النص المحدد
+v220_Lang08; Show clipboard items; إظهار عناصر الحافظة
+
+[Version 2.22]
+v222_Lang01; Selection keys; مفاتيح الاختيار
+v222_Lang02; Number; رقم
+v222_Lang03; Insert mode; وضع الإدراج
+v222_Lang04; Show line numbers; إظهار أرقام الأسطر
+v222_Lang05
+v222_Lang06; More options; خيارات أكثر
+v222_Lang07; Fewer options; خيارات أقل
+v222_Lang08; Always show more options; دائما اعرض المزيد من الخيارات
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; التنقل ضمن قائمة
+v300_Lang02; System Variables; متغيرات النظام
+v300_Lang03; Macros; وحدات الماكرو
+v300_Lang04; Manual Text Input; حقل إدخال النص يدوياً
+v300_Lang05; File Contents; محتويات الملف
+v300_Lang06; Name; اسم المتغير
+v300_Lang07; Paragraph Options; خيارات الفقرة
+v300_Lang08; Spacing; التباعد
+v300_Lang09; Before; قبل
+v300_Lang10; After; بعد
+v300_Lang11; Line spacing; تباعد الأسطر
+v300_Lang12; Reload shortcut; إعادة تحميل الاختصار
+v300_Lang13; Paste delay (ms); تأخير اللصق (مللي ثانية)
+v300_Lang14; No formatting; بدون تنسيق
+v300_Lang15; Rich Text; النص الغني
+v300_Lang16; HTML; لغة البرمجة
+v300_Lang17; Hold Shift key to paste without closing; اضغط مع الاستمرار على مفتاح تحويل للصقه دون اغلاق
+v300_Lang18; Window Information; معلومات النافذة
+v300_Lang19; Insert Another Item; ادخل عنصرا آخر
+v300_Lang20; Filter; فلتر
+v300_Lang21; Selection Form; نموذج الاختيار
+v300_Lang22; Selections; التحديدات
+v300_Lang23; Preview; معاينة
+v304_Lang01; Title; العنوان
+v304_Lang02; Class; فصل
+v304_Lang03; Process; عملية
+v304_Lang04; Position (x, y); (x, y) الموقع
+v304_Lang05; Size (w, h); (w, h) الحجم
+v304_Lang06; Control; التحكم
+v304_Lang07; Text; نص
+v304_Lang08; Mouse Position; موقع الفارة
+v304_Lang09; Color; لون
+v304_Lang10; Insert Image; ادراج صورة
+v304_Lang11; Display suggestions as you type (Auto Complete settings); عرض الاقتراحات اثناء الكتابة (اعدادات الاكمال التلقائي)
+v304_Lang12; Shift; تحويل
+v304_Lang13; Include words containing the string; قم بتضمين الكلمات التي تحتوي على السلسلة
+v304_Lang14; Enable column sorting; تمكين فرز العمود
+v304_Lang15; Description separator; فاصل الوصف
+v304_Lang16; Copy to Start Menu; نسخ الى قائمة ابدا
+v304_Lang17; Key delay (ms); تاخير المفتاح (مللي ثانية)
+v304_Lang18; Key delays only active in; تاخيرات المفتاح نشطة فقط في
+v304_Lang19; Display options; خيارات العرض
+v304_Lang20; New from Library; جديد من المكتبة
+v304_Lang21; Variable name contains illegal characters:; يحتوي اسم المتغير على احرف غير صالحة:
+v304_Lang22; User Variables; متغيرات المستخدم
+v304_Lang23; Usage Statistics; احصائيات الاستخدام
+v304_Lang24; Times executed; مرات التنفيذ
+v304_Lang25; Keystrokes saved; تم حفظ ضغطات المفاتيح
+v304_Lang26; Time savings; توفير الوقت
+v304_Lang27; Session; الجلسة
+v304_Lang28; Track usage statistics; تتبع احصائيات الاستخدام
+v304_Lang29; Typing speed (wpm); (wpm) سرعة الطباعة
+v304_Lang30; Hourly wage; الاجر بالساعة
+v304_Lang31; Insert Command Code; ادخل كود الامر
+v304_Lang32; Command Name; اسم الامر
+v304_Lang33; Enable; تمكين
+v304_Lang34; Disable; تعطيل
+v304_Lang35; Enable random text generation syntax (Spintax); (Spintax) تفعيل بناء جملة توليد النص العشوائي
+v304_Lang36; Font; الخط
+v304_Lang37; Adjust to typed case; ضبط الى الحالة المكتوبة
+v304_Lang38; Condition; الشرط
+v304_Lang39; Condition Name; اسم الشرط
+v304_Lang40; Allow duplicates; السماح بالتكرارات
+v304_Lang42; Append; الحاق
+v304_Lang43; Include descriptions; قم بتضمين الاوصاف
+v304_Lang44; Delimited Text File; ملف نصي محدد
+v304_Lang45; Microsoft Excel; مايكروسوفت اكسل
+v304_Lang46; AutoHotkey v1 Script; نص مفتاح التشغيل السريع التلقائي
+v304_Lang47; Import ; استيراد
+v304_Lang48; Import to; استيراد الى
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); المحدد (الاخير)
+v400_Lang02; Format; شكل
+v400_Lang03; Sounds; اصوات
+v400_Lang04; Show title bar; اظهار شريط العنوان
+v400_Lang05; Break into columns; اقتحام الاعمدة
+v400_Lang06; Clipboard capture; التقاط الحافظة
+v400_Lang07; Macro record/play; تسجيل الماكرو / اللعب
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); استخدم الحافظة للنص المنسق (يتطلب اعادة التحرير)
+v400_Lang09; Module; وحدة
+v400_Lang10; Restore Backup; استعادة النسخ الاحتياطي
+v400_Lang11; Backup file; ملف النسخ الاحتياطي
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; هل انت متاكد من رغبتك في استعادة الاصدار السابق من البيانات؟¶¶سيؤدي هذا الى الكتابة فوق جميع الاعدادات الحالية.
+v400_Lang13; Shadow type; نوع الظل
+v400_Lang14; Save history; حفظ التاريخ
+v400_Lang15; Control Click; التحكم في النقر
+v400_Lang16; Key delays; التاخيرات اليومية
+v400_Lang17; Key press duration (ms); مدة الضغط على المفتاح (مللي ثانية)
+v400_Lang18; Dialog delay (ms); تاخير الحوار (مللي ثانية)
+v400_Lang19; Focus change delay (ms); اخير تغيير التركيز (مللي ثانية)
+v400_Lang20; Force window focus; فرض تركيز النافذة
+v400_Lang21; Current Tab; علامة التبويب الحالية
+v400_Lang22; Top edge zone (L-R %); (L-R %) منطقة الحافة العلوية
+v400_Lang23; Mode; طريقة
+v400_Lang24; Click; نقر
+v400_Lang25; Calculate math expressions; حساب التعبيرات الرياضية
+v400_Lang26; Continuous calculation (instead of pressing =); الحساب المستمر (بدلا من الضغط =)
+v400_Lang27; Show thousands separator; اظهار فاصل الآلاف
+v400_Lang28; Round (decimals); دائري (كسور عشرية)
+v400_Lang29; File path; مسار الملف
+v400_Lang30; Result; النتيجه
+v400_Lang31; Find; بحث
+v400_Lang32; Find Next; البحث التالي
+v400_Lang33; Search description; وصف البحث
+v400_Lang34; Restrictions; قيود
+v400_Lang35; Backup; نسخ احتياطي
+v400_Lang36; Encrypt with password; تشفير بكلمة سر
+v400_Lang37; Password; كلمة السر
+v400_Lang38; Verify; التحقق
+v400_Lang39; Data Protection; حماية البيانات
+v400_Lang40; Encrypt file; تشفير الملف
+v400_Lang41; Remember on this computer; تذكر على هذا الحاسوب
+v400_Lang42; Protect backups; حماية النسخ الاحتياطية
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; هام:¶اذا نسيت كلمة السر، فلن تتمكن من الوصول الى البيانات. ملفات النسخ الاحتياطي التي تم انشاؤها قبل التنشيط غير محمية. ملفات العبارات وقائمة الكلمات غير محمية.
+v400_Lang44; Support Mail; بريد الدعم
+v400_Lang45; The password is incorrect, please try again.; كلمة السر غير صحيحة، يرجى المحاولة مرة اخرى.
+v400_Lang46; Quick find; بحث سريع
+v400_Lang48; Search current typed word; البحث عن الكلمة المكتوبة الحالية
+v400_Lang49; Calculator; البحث عن الكلمة المكتوبة الحالية
+v400_Lang50; Show suggestion; عرض الاقتراح
+v400_Lang51; Special characters; احرف خاصة
+v400_Lang52; Online Documentation; التوثيق عبر الانترنت
+v400_Lang53; Print; طباعة
+v400_Lang54; Automatic spacing; تباعد تلقائي
+v400_Lang55; Remove text margin; ازالة هامش النص
+v400_Lang56; Menu icon; ايقونة القائمة
+v400_Lang57; Remove vertical lines; ازالة الخطوط العمودية
+v400_Lang58; Enable modifiers (!+^#); (!+^#) تمكين المعدلات
+v400_Lang59; Position above the caret; موقع فوق علامة الاقحام
+v400_Lang60; Properties; الخصائص
+v400_Lang61; Round time to; وقت التقريب الى
+v400_Lang62; days; ايام
+v400_Lang63; business days; ايام العمل
+v400_Lang64; hours; الساعات
+v400_Lang65; minutes; الدقائق
+v400_Lang66; months; الثواني
+v400_Lang67; years; السنوات
+v400_Lang70; Update order on paste; حديث الطلب عند اللصق
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; هل انت متاكد من رغبتك في انشاء ملف اعدادات جديد؟¶¶ لن يتم حذف اعداداتك الحالية - استخدم ملف/فتح لفتح ملف الاعدادات مرة اخرى.
+v400_Lang72; Position; موقع
+v400_Lang73; Below the caret; تحت علامة الاقحام
+v400_Lang74; Above the caret; فوق علامة الاقحام
+v400_Lang75; Alternative position; موقع بديل
+v400_Lang76; Mouse cursor; مؤشر الماوس
+v400_Lang77; Centered; متمركز
+v400_Lang78; Tray; علبه
+v400_Lang89; Upgrade to Professional; ترقية الى المحترفين
+v400_Lang90; Shared settings; الاعدادات المشتركة
+v400_Lang91; Team; فريق
+v400_Lang92; Shared file; ملف مشترك
+v400_Lang93; Edit shared file; تحرير ملف مشترك
+v400_Lang94; Shared file editing.; تحرير الملفات المشتركة.
+v400_Lang95; Shared file saved, returning to normal mode.; تم حفظ الملف المشترك ، والعودة الى الوضع العادي.
+v400_Lang96; Information; معلومة
+v400_Lang97; SHARED; مشترك
+v400_Lang98; Remember popup position; تذكر الموقع المنبثق
+v400_Lang99; Prefixes; البادئات
+v426_Lang01; Default suffix; لاحقة افتراضية
+v426_Lang02; Exclusions; الاستثناءات
+
+[Version 5.00]
+v5_Lang01; Default text; النص الافتراضي
+v5_Lang02; No output; لا يوجد ناتج
+v5_Lang03; Open Web Page; افتح صفحة الويب
+v5_Lang04; Run Program; شغل البرنامج
+v5_Lang05; Open File; افتح الملف
+v5_Lang06; Open Folder; افتح المجلد
+v5_Lang07; Create Mail; انشاء بريد
+v5_Lang08; Activate Window; تنشيط النافذة
+v5_Lang09; To; الى
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; الموضوع
+v5_Lang13; Attachments; المرفقات
+v5_Lang14; Message body; نص الرسالة
+v5_Lang15; Send automatically; ارسل تلقائيًا
+v5_Lang16; Default; افتراضي
+v5_Lang17; Address (URL); عنوان (الرابط)
+v5_Lang18; Folder; مجلد
+v5_Lang19; Custom; مخصص
+v5_Lang20; Browser path; مسار المتصفح
+v5_Lang21; Working directory; عمل اخراجي
+v5_Lang22; Maximized; مكبرة
+v5_Lang23; Minimized; مصغر
+v5_Lang24; Wait until program closes; انتظر حتى يتم اغلاق البرنامج
+v5_Lang25; Browser; المستعرض
+v5_Lang26; Table Selection; جدول الاختيار
+v5_Lang27; Text File Lookup; بحث ملف نصي
+v5_Lang28; Excel File Lookup; بحث ملف اكسل
+v5_Lang29; Lookup; البحث
+v5_Lang30; Table; جدول
+v5_Lang31; Return column(s); عودة الاعمدة
+v5_Lang32; Table file; ملف الجدول
+v5_Lang33; Sheet; ملزمة
+v5_Lang34; Cell range; نطاق الخلايا
+v5_Lang35; Column no.; العمود لا.
+v5_Lang36; Equals; يساوي
+v5_Lang37; User Input; ادخال المستخدم
+v5_Lang38
+v5_Lang39; Output separator; فاصل الناتج
+v5_Lang40; Force query; فرض الاستعلام
+v5_Lang41; Insert column; ادراج عمود
+v5_Lang42; Delete column; حذف عمود
+v5_Lang43; Excel Data Range; نطاق بيانات اكسل
+v5_Lang44; Insert Data; ادخل البيانات
+v5_Lang45; Input; ادخال
+v5_Lang46; Automation; تشغيل الي
+v5_Lang47; Customize Menus; تخصيص القوائم
+v5_Lang48; Show icons; اظهار الايقونات
+v5_Lang49; Favourite macros; وحدات الماكرو المفضلة
+v5_Lang50; Toolbar; شريط الادوات
+v5_Lang51; More settings; المزيد من الاعدادات
+v5_Lang52; Tiles; التجانبات
+v5_Lang53; Icon and text below; الايقونة والنص ادناه
+v5_Lang54; Icon and text right; الايقونة والنص يمين
+v5_Lang55; Icon; ايقونة
+v5_Lang56; Tile size (W/H px); (W/H px) حجم التجانب
+v5_Lang57; Padding (px); (px) حشوة
+v5_Lang58; Grid; شبكة
+v5_Lang59; Grid size (Rows/Columns); حجم الشبكة (الصفوف/الاعمدة)
+v5_Lang60; Order; ترتيب
+v5_Lang61; Outside margin (px); (px) الهامش الخارجي
+v5_Lang62; Background color; لون الخلفية
+v5_Lang63; Vertical; عمودي
+v5_Lang64; Horizontal; افقي
+v5_Lang65; Display Edit, Delete buttons; عرض ازرار التحرير والحذف
+v5_Lang66; Theme; سمة
+v5_Lang67; Calculation; عملية حسابية
+v5_Lang68; Save table as; حفظ الجدول باسم
+v5_Lang69; Insert Another Field; ادخل حقل آخر
+v5_Lang70; Macro; دقيق
+v5_Lang71; Column width; عرض العمود
+v5_Lang72; Popup width (px); (px) عرض منبثق
+v5_Lang73; Edit shared file; تحرير ملف مشترك
+v5_Lang74; Recent changes; التغييرات الاخيرة
+v5_Lang75; Yes; نعم
+v5_Lang76; No; لا
+v5_Lang77; Bold; غامق
+v5_Lang78; Italic; مائل
+v5_Lang79; Underline; مسطر
+v5_Lang80; Align Left; محاذاة لليسار
+v5_Lang81; Center; مركز
+v5_Lang82; Align Right; محاذاة لليمين
+v5_Lang83; Justify; ملا السطر
+v5_Lang84; Increase Font Size; زيادة حجم الخط
+v5_Lang85; Decrease Font Size; تقليل حجم الخط
+v5_Lang86; Bullets; تعداد نقطي
+v5_Lang87; Numbering; ترقيم
+v5_Lang88; Decrease Indent; تقليل المسافة البادئة
+v5_Lang89; Increase Indent; زيادة المسافة البادئة
+v5_Lang90; Date; التاريخ
+v5_Lang91; Time; الوقت
+v5_Lang92; User; المستخدم
+v5_Lang93; Changes; التغييرات
+v5_Lang94; Include spaces; تضمين مسافات
+v5_Lang95; Number of items; عدد العناصر
+v5_Lang96; Output format; تنسيق الناتج
+v5_Lang97; Output if empty; الناتج اذا كان فارغ
+v5_Lang98; Trim spaces; مساحات القطع
+v5_Lang99; All; الكل
+v5_Lang100; Adapt case; تكييف الحالة
+v5_Lang101; Uppercase; الاحرف الكبيرة
+v5_Lang102; Lowercase; احرف صغيرة
+v5_Lang103; Find and replace; البحث والاستبدال
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; هل ترغب في اعادة تعيين التفضيلات في علامة التبويب هذه الى قيمها الافتراضية؟
+v5_Lang105; Reset ALL preferences; اعادة تعيين كافة التفضيلات
+v5_Lang106; Multi line; متعدد الخطوط
+v5_Lang107; Tables folder; مجلد الجداول
+v5_Lang108; Input Format; تنسيق الادخال
+v5_Lang109; Digits; ارقام فقط
+v5_Lang110; All matches; كل المتطابقات
+v5_Lang111; Neutral color icon; ايقونة اللون المحايد
+v5_Lang112; Auto save; حفظ تلقائي
+v5_Lang113; Video tutorials; دروس الفيديو
+v5_Lang114; Message Box; صندوق الرسائل
+v5_Lang115; Buttons; ازرار
+v5_Lang116; Stop; قف
+v5_Lang117; Any key; اي مفتاح
+v5_Lang118; Relative to window; نسبة الى النافذ
+v5_Lang119; Keyboard; لوحة مفاتيح
+v5_Lang120; Open Shared File; فتح الملف المشترك
+v5_Lang121; Share; مشاركه
+v5_Lang122; Export; تصدير
+v5_Lang123; Send Link; ارسل الرابط
+v5_Lang124; If item exists; اذا كان العنصر موجودا
+v5_Lang125; Skip; تخطي
+v5_Lang126; Replace; استبدل
+v5_Lang127; Select tabs; تحديد علامات التبويب
+v5_Lang130; File already exists.; الملف موجود بالفعل.
+v5_Lang131; Are you sure?; هل انت متاكد؟
+v5_Lang132; item(s) will be shared.; سيتم مشاركة العناصر.
+v5_Lang133; duplicate(s) found; التكرارات الموجودة
+v5_Lang134; will be skipped.; سيتم تخطيها.
+v5_Lang135; will be replaced.; سيتم استبدالها.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; الصق المسار المستلم من المسؤول في الحقل ادناه او حدد الملف.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; مشاركة المحتوى المحدد مع مستخدمين آخرين. حدد علامة التبويب الحالية او ادخل اسم علامة تبويب جديدة.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; تصدير الاعدادات الى موقع سحابة او شبكة حيث يمكن الوصول اليها من قبل مستخدمين آخرين
+v5_Lang139; Search command; امر البحث
+v5_Lang140; Remember last input; تذكر آخر ادخال
+v5_Lang141; Startup script; تشغيل المخطوطة
+v5_Lang142
+v5_Lang143; Grid Selection; اختيار الشبك
+v5_Lang144; Set columns; تعيين الاعمدة
+v5_Lang145; Selection type; نوع الاختيار
+v5_Lang146; Optional Section; قسم اختياري
+v5_Lang147; Select "Command" mode to enable more options.; حدد وضع "الاوامر" لتمكين المزيد من الخيارات.
+v5_Lang148; Use clipboard; استخدام الحافظة
+v5_Lang149; Loop; حلقه
+v5_Lang150; Loop count; عدد الحلقات
+v5_Lang151; Default button
+v5_Lang152; Timeout (s)
+v5_Lang153; Required
+v5_Lang154; Letters
+v5_Lang155; Numbers
+v5_Lang156; Email
+v5_Lang157; Align elements horizontally
+v5_Lang158; Comment
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.
+v5_Lang160; Alternative backspace method
+v5_Lang161; If they fit in one row
+v5_Lang162; Preview not available
+v5_Lang163; Switch View
+v5_Lang164; Not supported:
+v5_Lang165; Selected items were saved to
+v5_Lang166; Save Selected As
+v5_Lang167; First Letter
+v5_Lang168; Copy to Clipboard
+
+[Version 6.00]
+v6_Lang01; Grid Check
+v6_Lang02; Single
+v6_Lang03; Multi
+v6_Lang04; Delimiters
+v6_Lang05; Checked
+v6_Lang06; Unchecked
+v6_Lang07; Output
+v6_Lang08; Group output
+v6_Lang09; Repeat last command
+v6_Lang10; Double press
+v6_Lang11; Long press
+v6_Lang12; Wait time (s)
+v6_Lang13; Recognize items
+v6_Lang14; Voice Recognition
+v6_Lang15; Base value
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday
+v6_Lang17; Date/Time Calculation
+v6_Lang18; Auto restore hook (min)
+v6_Lang19; Auto reload (min)
+v6_Lang20; If condition
+v6_Lang21; Else
+v6_Lang22; Case If Conditions
+v6_Lang23; Are you sure you want to change the options for the

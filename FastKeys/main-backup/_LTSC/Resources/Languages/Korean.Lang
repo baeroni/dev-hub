@@ -1,0 +1,798 @@
+﻿; English; Korean
+; 한국어‫
+;  Translation by @kkd887
+
+[Gui]
+g_Lang01; Start Menu; 시작메뉴
+g_Lang02; Shortcuts; 단축키
+g_Lang03; Text Expander; 상용구
+g_Lang04; Auto Complete; 자동 완성 기능
+g_Lang05; Gestures; 제스처
+g_Lang06
+g_Lang11; New; 신규
+g_Lang12; Edit; 편집
+g_Lang13; Delete; 삭제
+g_Lang14; Run; 실행
+g_Lang15; Active; 실행 중
+g_Lang16; Menu; 메뉴
+g_Lang17; Submenu; 서브메뉴
+g_Lang18; Type; 유형
+g_Lang19; Command; 명령
+g_Lang20; Run Type; 실행 유형
+g_Lang21; Key; 키
+g_Lang22; Shortcut; 단축키
+g_Lang23; Description; 설명
+g_Lang24; Window; 윈도우/창
+g_Lang25; String; 핫스트링
+g_Lang26; Substitute; 대체 문자열
+g_Lang27; Gesture; 제스처
+g_Lang28
+g_Lang31; Paused; 정지 중
+g_Lang32; Active; 실행 중
+g_Lang33; Untitled; 이름 없음
+g_Lang40
+g_Lang41; Separator; 구별자
+g_Lang42; Undo; 실행 취소
+g_Lang43; Redo; 다시 실행
+g_Lang44; Move Up; 위로 이동
+g_Lang45; Move Down; 아래로 이동
+g_Lang46; Are you sure to remove; 삭제하시겠습니까?
+g_Lang47; selected items; 항목을 삭제하려고합니다.
+g_Lang50
+g_Lang51; Preferences; 환경 설정
+g_Lang52; Support Forum; 지원 포럼
+g_Lang53; Help; 도움말
+g_Lang54; Select a file or folder; 파일 또는 폴더 선택
+g_Lang55; Edit command in Editor; 명령을 편집기에서 편집
+g_Lang56; Select a preset command; 프리셋 명령 선택
+g_Lang60
+g_Lang61; Registered to; 라이센스 등 :
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; 평가판은 만료되었습니다.
+g_Lang63; TRIAL PERIOD.; 평가판 기간.
+g_Lang64
+g_Lang71; Do you want to save changes?; 저장하시겠습니까?
+g_Lang72; Save file as...; 다른 이름으로 저장
+g_Lang73; Do you want to save changes to; 변경사항 저장
+g_Lang74; Please select FastKeys data file.; FastKeys 의 데이터 파일을 선택해 주세요.
+g_Lang75; Not a valid FastKeys file.; 유효한 FastKeys 파일이 아닙니다.
+g_Lang76; Save FastKeys data file as…; FastKeys의 데이터 파일에 이름을 붙여 저장
+g_Lang78; Are you sure to overwrite existing data?; 정말 덮어쓸까요?
+g_Lang79; Select folder:; 폴더 선택:
+g_Lang80; Duplicate entry, please correct.; 항목이 중복됩니다. 수정해 주세요.
+g_Lang81; File does not exist.; 파일을 찾을 수 없습니다.
+g_Lang82; Please select a Phrase file.; Phrase 파일을 선택하세요.
+g_Lang83; Please select a Wordlist file.; Wordlist 파일을 선택하세요.
+g_Lang84; Too many menu entries.; 메뉴 항목이 너무 많습니다.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; 즉시 변환
+g1_Lang03; Delete ending char; 종료 기호 삭제
+g1_Lang04; Don't delete string; 문자열 삭제 안 함
+g1_Lang05; Case sensitive; 대소문자 구별
+g1_Lang06; Trigger inside word; 단어 포함 시 즉시 변환
+g1_Lang07; Send raw text; 치환 문자열을 문자 그대로 출력
+g1_Lang08; Manual confirmation; 치환 시 확인
+g1_Lang09
+g1_Lang11; None; 없음
+g1_Lang12; Auto Run; 자동 실행
+g1_Lang13; Run on Startup; 윈도우 시작시 실행
+g1_Lang14; Include Files; 파일 포함
+g1_Lang15; Include Subfolders; 서브폴더 포함
+g1_Lang16; Include Files and Subfolders; 파일 및 서브폴더 포함
+g1_Lang17
+g1_Lang21; Record; 기록
+g1_Lang22; Record a New Gesture ; 신규 제스처 기록
+g1_Lang23; Right Mouse Button; 마우스 오른쪽 버튼
+g1_Lang24; key; 키
+g1_Lang25; Hold; 화면 영역 어디에서나
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; 를 누른채 제스처를 기록합니다. 종료하려면 Enter 또는 OK 버튼을 입력하세요.
+g1_Lang28
+g1_Lang31; Abbreviation; 약어
+g1_Lang32; Phrase; 문구
+g1_Lang33; Word; 단어
+g1_Lang34; Phrase file; 문구 파일
+g1_Lang35; Wordlist file; 단어 목록 파일
+g1_Lang36
+g1_Lang41; Line; 라인
+g1_Lang42; Column; 컬럼
+g1_Lang43
+g1_Lang51; Advanced shortcut; 고급 단축키
+g1_Lang52; Modifier; 수식키
+g1_Lang53; Optional Attributes; 추가 속성
+g1_Lang54; Native
+g1_Lang55; Wildcard
+g1_Lang56; Hook
+g1_Lang57; L/R only
+g1_Lang58; Keys; 키항목
+g1_Lang59; Standard; 표준 키
+g1_Lang60; Function keys; Fn 키
+g1_Lang61; Numpad; 숫자 패드
+g1_Lang62; Mouse; 마우스
+g1_Lang63; Multimedia; 멀티미디어 키
+g1_Lang64; Special; 특수 키
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; 파일(&F)
+m_Lang02; &Edit; 편집(&E)
+m_Lang03; &Insert; 삽입(&I)
+m_Lang04; &Tools; 도구(&T)
+m_Lang05; &Help; 도움말(&H)
+m_Lang06; &Register; 라이선스 등록(&R)
+m_Lang07
+m_Lang11; &New; 신규(&N)
+m_Lang12; &Open; 데이터베이스 열기(&O)
+m_Lang13; &Save; 저장(&S)
+m_Lang14; Save &As; 다른 이름으로 저장(&A)
+m_Lang15; E&xit; 종료(&x)
+m_Lang16
+m_Lang21; &Edit; 편집(&E)
+m_Lang22; &Delete; 삭제(&D)
+m_Lang23; Re&load; 새로고침(&l)
+m_Lang24; &Pause; 일시정지(&P)
+m_Lang25
+m_Lang31; &Preferences; 환경설정(&P)
+m_Lang32; &Module Activation; 모듈 액티베이트(&M)
+m_Lang33; &Auto Learn Settings; 설정 자동학습(&A)
+m_Lang34; &Check for Updates; 업데이트 확인(&C)
+m_Lang35; &Update Menu Icons; 메뉴 아이콘 업데이트(&U)
+m_Lang36
+m_Lang41; &Help; 도움말(&H)
+m_Lang42; &Support Forum; 지원 포럼(&S)
+m_Lang43; &View Quick Tips; 편리 기능 확인(&V)
+m_Lang44; &About; 이 소프트웨어에 대해서(&A)
+m_Lang45
+m_Lang51; Open from &Library; 라이브러리에서 열기
+m_Lang52; Cut; 잘라내기
+m_Lang53; Copy; 복사
+m_Lang54; Paste; 붙여넣기
+m_Lang55; Select All; 모두 선택
+m_Lang56; Read Only; 읽기 전용 모드
+m_Lang57; Zoom in; 확대
+m_Lang58; Zoom out; 축소
+m_Lang59; Default Zoom; 디폴트로 되돌리기
+m_Lang60; Zoom; 확대
+m_Lang61; Always On Top; 항상 앞에 표시
+m_Lang62; Line Wrap; 줄바꿈
+m_Lang63; View; 뷰
+m_Lang64; Open Script; 스크립트 열기
+
+[FastKeys]
+f_Lang01; Loading FastKeys; FastKeys 를 기동하고 있습니다.
+f_Lang02; Settings; 설정
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; ERROR . 명령어가 정지되었습니다. 가장 최근에 편집한 명령어를 확인하고 중복여부를 확인하세요
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; 인터넷에서 메뉴아이콘 다운로드에 실패하였습니다. 인터넷이나 방화벽(fire wall)의 설정을 확인해 주세요. 빠른 실행처리를 위해 자동 다운로드 기능이 비활성화되었습니다.아이콘 자동 다운로드는 환경설정에서 다시 활성화 할 수 있습니다.
+f_Lang14; Save settings before continuing?; 계속하기 전에 설정을 저장하시겠습니까?
+f_Lang15; Add to; 추가:
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Fastkeys 평가판 이용에 감사드립니다.평가판 이용목적으로 본 애플리케이션을 이용할 수 있는 라이선스가 발급되었습니다.구매 및 등록 시 해당 팝업은 표시되지 않습니다.
+f_Lang22; Press "Continue" to continue using trial version.; "다음"을 클릭하여 시용 버전을 계속 이용하십시오.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; 아래에 라이센스 정보를 입력 후"등록"버튼을 클릭하여 FastKeys의 Full 버젼을 활성화합니다.구매를 클릭해서 라이선스를 구입하거나 "취소"를 클릭해서 평가판 버전을 계속 이용할 수도 있습니다.
+f_Lang36
+f_Lang41; Name/Company:; 이름
+f_Lang42; Registration key:; 라이센스
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; 라이선스에 오류입니다.평가판 버전을 사용합니다.
+f_Lang46; Congratulations, you have registered FastKeys!; 축하합니다! FastKeys가 등록되었습니다.
+f_Lang47
+f_Lang51; Open Menu; 메뉴 열기
+f_Lang52; Reload; 새로고침
+f_Lang53; Pause; 정지
+f_Lang54; Exit FastKeys; FastKeys 종료
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; OK
+b_Lang02; Cancel; 취소
+b_Lang03; Save; 저장
+b_Lang06; Select; 선택
+b_Lang07; Defaults; 초기설정
+b_Lang08; Register; 등록
+b_Lang11; Purchase; 구매
+b_Lang12; Continue; 다음
+b_Lang14; Test; 테스트
+b_Lang17; Open; 열기
+b_Lang18; Edit; 편집
+b_Lang19; Library; 라이브러리
+b_Lang22; Edit File; 파일 편집
+
+[Library]
+l_Lang01; Utility; 유틸리티
+l_Lang02
+l_Lang03; Scripts; 스크립트
+l_Lang04; Audio; 오디오
+l_Lang05; Games; 게임
+l_Lang06
+l_Lang11; Control Panel; 제어판
+l_Lang12; System Folders; 시스템 폴더
+l_Lang13; Internet Explorer
+l_Lang14; System; 시스템
+l_Lang15; Utilities; 유틸리티
+l_Lang16; Windows; 윈도우
+l_Lang17; Shell; 쉘
+l_Lang18
+l_Lang21; Keys; 키
+l_Lang22; Cursor Position; 커서 위치
+l_Lang23; Mouse and Media; 마우스와 미디어
+l_Lang24; Date and Time; 날짜/시간
+
+[Preferences]
+s_Lang01; General; 일반
+s_Lang02; Appearance; 모양
+s_Lang03; Functions; 기능
+s_Lang04; Folders; 폴더
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; 자동 학습
+s_Lang10
+s_Lang11; Internet; 인터넷
+s_Lang12; Module Activation; 모듈 활성화
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; OK/Save를 클릭하여 아이콘을 업데이트합니다.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; FastKeys 웹사이트에 가서 편리한 기능 등을 확인하시겠습니까?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; 업데이트 확인에 실패하였습니다. 다시 시도하거나 FastKeys 웹사이트에서 다운로드 하십시오.빠른 실행을 위해 업데이트 자동 확인은 비활성화되었습니다.
+s_Lang25; You are using the latest version of; 최신버전 입니다 -
+s_Lang26; A new version of FastKeys; 신규 버전의 FastKeys
+s_Lang27; is available.; 가 출시되어 있습니다.
+s_Lang28; Would you like to install it now?; 지금 설치할까요?
+s_Lang29; Downloading FastKeys, Version; FastKeys 다운로드 중. 버전
+s_Lang30; Please wait ...; 잠시만 기다려주세요.
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; 다운로드 중에 문제가 발생했습니다.한번 더 시도하시거나, FastKeys 웹사이트에서 다운로드를 부탁드립니다.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; 빠른 추가
+s1_Lang02; Quick add to ; 빠른 항목에 추가
+s1_Lang03; Ask; 확인
+s1_Lang04; Learn Wordlist File; 단어 목록 파일
+s1_Lang05; Pause shortcut; 일시정지 단축키
+s1_Lang06; General options; 일반 옵션
+s1_Lang07; Run FastKeys on startup; FastKeys 를 OS 부팅시 실행
+s1_Lang08; Show tray icon; 태스크트레이 아이콘을 표시
+s1_Lang09; Clicking tray icon shows Start Menu; 작업 트레이 아이콘 클릭으로 시작 메뉴 표시
+s1_Lang10; Auto check for software updates; 소프트웨어 업데이트를 자동으로 확인
+s1_Lang11; Language; 언어
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; 그리드 표시
+s2_Lang03; Show stripes; 스트라이프(행 단위 음영) 표시
+s2_Lang04; Show loading progress; 로딩 상태 표시
+s2_Lang05; Display Apply, Edit, Delete buttons; 신규, 편집, 삭제 버튼 표시
+s2_Lang06; Transparency (%); 투명도 (%)
+
+[Preferences 3]
+s3_Lang01; Volume; 볼륨
+s3_Lang02; Control with mouse wheel on right screen edge; 화면 오른쪽 가장자리에서 마우스 휠로 제어
+s3_Lang03; Volume sensitivity; 볼륨의 감도
+s3_Lang04; Auto-correct; 문장 자동 수정
+s3_Lang05; Correct sentence capitals; 문장 대문자 수정(알파벳의 경우)
+s3_Lang06; Correct DOuble CApitals; 문자 대문자 수정(알파벳의 경우 ex:DOuble CApitals)
+s3_Lang07; Disable CapsLock key; CapsLock 키 비활성화
+s3_Lang08; Memory; 메모리
+s3_Lang09; Optimize memory; 메모리 최적화
+
+[Preferences 4]
+s4_Lang01; Scripts folder; 스크립트 폴더
+s4_Lang02; Phrase files folder; 문구 폴더
+s4_Lang03; Wordlist files folder; 단어 목록 폴더
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; 메뉴 바로가기
+s5_Lang02; Show menu on; 메뉴판 표시위치
+s5_Lang03; Top edge; 화면 상단
+s5_Lang04; Right edge; 화면 우측
+s5_Lang05; Left edge; 화면 좌측
+s5_Lang06; Bottom edge; 화면 하단
+s5_Lang07; Menu options; Menu 옵션
+s5_Lang08; Show menu icons; 메뉴 아이콘 표시
+s5_Lang09; Auto download website icons; 웹 사이트 아이콘을 자동 다운로드
+s5_Lang10; Larger icons; 큰 아이콘
+s5_Lang11; Disable menu in full screen applications; 전체 스크린 앱에서 메뉴 비활성화
+s5_Lang12; Add settings to Start Menu; 설정을 시작 메뉴에 추가
+s5_Lang13; Menu delay (ms); 메뉴 지연 (ms)
+s5_Lang14; Show recent items; 최근 항목보기
+s5_Lang15; Files; 파일
+s5_Lang16; Folders; 폴더
+s5_Lang17; Files and folders; 파일과 폴더
+s5_Lang18; Show in submenu; 서브메뉴에 표시
+
+[Preferences 6]
+s6_Lang01; Only active in; 활성 윈도우/창 이름
+s6_Lang02; Not active in; 비활성 윈도우/창 이름
+
+[Preferences 7]
+s7_Lang01; Default prefix; 지정 접두어(Prefix)
+s7_Lang02; Ending characters; 종료 기호
+s7_Lang03; Space; 스페이스
+s7_Lang04; Tab; 탭
+s7_Lang05; Enter; 엔터
+s7_Lang06; Separator; 리스트 표시 구별자
+s7_Lang07; Clipboard; 클립보드
+s7_Lang08; Use clipboard if text length exceeds (char); 지정 문자수 초과시 클립보드 사용
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; 자동완성 단어의 대소문자 맞추기
+s8_Lang03; Minimum word length to show suggestion; 자동완성 단어를 표시하기까지 필요한 글자 수
+s8_Lang04; Word suggestion list height; 자동완성 단어 리스트(팝업) 크기
+s8_Lang05; Special characters; 특수 문자
+s8_Lang06; (list of special alphabet characters to be recognized; (영어 알파벳 이외에서 보완에 사용되는 특수 문자
+s8_Lang07; as a part of a word); 의 목록)
+
+[Preferences 9]
+s9_Lang01; Auto learn; 자동학습
+s9_Lang02; Turn on automatic word learning; 단어 자동학습 활성화하기
+s9_Lang03; Learn wordlist file; 단어 목록 파일
+s9_Lang04; Learning options; 자동학습 옵션
+s9_Lang05; Minimum length of learned words; 학습 단어의 최단 글자 수
+s9_Lang06; Number of occurences to learn a word; 학습까지 타자하는 횟수
+s9_Lang07; Save learned words as lowercase; 학습 문자는 소문자로 저장(알파벳의 경우)
+
+[Preferences 10]
+s10_Lang01; Gesture Key; 제스처 키
+s10_Lang02; Options; 옵션
+s10_Lang03; Show mouse trail; 마우스 궤적 표시
+s10_Lang04; Play sound for no match; 비일치시 사운드 재생
+s10_Lang05; Recognize 8 zones (advanced); 8개 영역으로 인식 (고급)
+s10_Lang06; Advanced; 고급
+s10_Lang07; Interval (ms); 간격 (ms)
+s10_Lang08; Threshold (px); 임계치 (px)
+s10_Lang09; Timeout (ms); 타임아웃 (ms)
+s10_Lang10; Initial timeout (ms); 초기 타임아웃 (ms)
+s10_Lang11; Tolerance (%); 허용 오차 (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; FastKeys 신규 버전 확인
+s11_Lang02; Update; 업데이트
+s11_Lang03; Update Start menu icons from internet; 시작 메뉴 아이콘을 업데이트
+s11_Lang04; Update icons; 아이콘 업데이트
+s11_Lang05; View quick tips for using FastKeys; FastKeys Tip 보기
+s11_Lang06; View quick tips; Tip 보기
+
+[Preferences 12]
+s12_Lang01; Active modules; 활성 모듈
+s12_Lang03; Hide disabled modules; 비활성 모듈 숨기기
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; 클립보드 매니저
+v211_Lang01; Clipboard shortcut; 바로가기
+v211_Lang02; History size; 클립보드 저장 건수
+v211_Lang03; Capture images and formatting; 이미지, 포맷도 함께 캡처
+v211_Lang04; Hold Ctrl key to paste without formatting; Ctrl 키를 눌러 포맷없이 붙여넣기
+v211_Lang05; Clipboard font; 클립보드 글꼴
+v211_Lang06; Popups; 팝업
+v211_Lang07; Maximum popup width; 팝업 최대 폭
+v211_Lang08; Show shortcut numbers; 바로가기 번호 표시
+v211_Lang09; New File; 신규 파일
+v211_Lang10; New Empty File; 신규 파일(빈문서)
+v211_Lang11; Backup files folder; 백업 폴더
+v211_Lang12; Number of saved backups; 백업 저장 수
+
+[Version 2.14]
+v214_Lang00; Duplicate; 복제
+v214_Lang01; Macro Recorder; 매크로 기록
+v214_Lang02; Record shortcut; 매크로 바로가기
+v214_Lang03; Play shortcut; 단축키 재생
+v214_Lang04; Recording options; 기록 옵션
+v214_Lang05; Keyboard actions; 키보드 액션
+v214_Lang06; Mouse clicks; 마우스 클릭
+v214_Lang07; Time intervals; 각 작업의 시간 간격(Intervals)
+v214_Lang08; Window actions; 윈도우/창 액션
+v214_Lang09; Show virtual key names; 가상 키 이름 표시
+v214_Lang10; Show save dialog after recording; 기록 종료 후 저장 대화상자 표시
+v214_Lang20; Press; 누르기
+v214_Lang21; or "Record" button to start recording; 또는 "기록" 버튼을 눌러 시작하세요
+v214_Lang22; to finish; 종료(참고:정상 동작되려면 재지정 필요/번역자)
+v214_Lang23; Recording macro; 매크로 기록 중
+v214_Lang24; Recording completed; 매크로 종료
+v214_Lang25; Recorded Macro; 기록된 매크로
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; 구문 파일에서 약어 활성
+v217_Lang02; New Tab; 신규 탭
+v217_Lang03; Rename; 변경
+v217_Lang04; Move Left; 이동(왼쪽)
+v217_Lang05; Move Right; 이동(오른쪽)
+v217_Lang06; tab; 탭
+v217_Lang07; Tab Name; 탭 이름
+
+[Version 2.19]
+v219_Lang01; More; 추가사항
+v219_Lang02; Settings shortcut; 설정 단축키
+v219_Lang04; Popups font and color; 팝업 폰트/색상
+v219_Lang05; Color and style; 색상/스타일
+v219_Lang06; Sort; 정렬기준
+v219_Lang07; Alphabetically; 알파벳순
+v219_Lang08; Include similar words (smart search); 유사단어 포함(스마트 검색)
+v219_Lang09; Don't learn strings; 학습 제외 단어
+v219_Lang10; Trail width and color; 궤적 폭/색상
+v219_Lang11; Run as administrator; 관리자로 실행
+v219_Lang12; Formatting
+v219_Lang13; Normal; 일반
+v219_Lang14; No Icons; 아이콘 없음
+v219_Lang15; Small
+v219_Lang16; Apply; 적용
+
+[Version 2.20]
+v220_Lang02; Icon size; 아이콘 크기
+v220_Lang04; Break menu at separator; 메뉴 분리
+v220_Lang05; Increase line spacing; 줄 간격 늘리기
+v220_Lang06; Selection color; 선택 영역 색상
+v220_Lang07; Invert selection text color; 선택 문자열 색상 반전
+v220_Lang08; Show clipboard items; 저장된 클립보드를 표시
+
+[Version 2.22]
+v222_Lang01; Selection keys; 선택키
+v222_Lang02; Number; 번호
+v222_Lang03; Insert mode; 삽입 모드
+v222_Lang04; Show line numbers; 줄 번호 표시
+v222_Lang05
+v222_Lang06; More options; 추가 옵션
+v222_Lang07; Fewer options; 간략한 옵션
+v222_Lang08; Always show more options; 항상 추가 옵션 표시
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; 메뉴 아래로 이동
+v300_Lang02; System Variables; 시스템(AHK) 변수
+v300_Lang03; Macros; 매크로
+v300_Lang04; Manual Text Input; 수동 텍스트 입력 필드
+v300_Lang05; File Contents; 파일 내용
+v300_Lang06; Name; 식별자
+v300_Lang07; Paragraph Options; 단락 옵션
+v300_Lang08; Spacing; 간격
+v300_Lang09; Before; 이전
+v300_Lang10; After; 이후
+v300_Lang11; Line spacing; 줄 간격
+v300_Lang12; Reload shortcut; 새로고침 단축키
+v300_Lang13; Paste delay (ms); 붙여넣기 지연 (ms)
+v300_Lang14; No formatting
+v300_Lang15; Rich Text
+v300_Lang16; HTML
+v300_Lang17; Hold Shift key to paste without closing; Shift 키를 눌러서 닫힘 없이 붙여넣기
+v300_Lang18; Window Information; 윈도우 정보
+v300_Lang19; Insert Another Item; 항목 추가
+v300_Lang20; Filter; 필터
+v300_Lang21; Selection Form; 리스트 형식
+v300_Lang22; Selections
+v300_Lang23; Preview; 미리보기
+v304_Lang01; Title
+v304_Lang02; Class
+v304_Lang03; Process
+v304_Lang04; Position (x, y); 위치 (x, y)
+v304_Lang05; Size (w, h); 크기 (w, h)
+v304_Lang06; Control; 컨트롤 영역
+v304_Lang07; Text; 텍스트
+v304_Lang08; Mouse Position; 마우스 위치
+v304_Lang09; Color; 색상
+v304_Lang10; Insert Image; 이미지 추가
+v304_Lang11; Display suggestions as you type (Auto Complete settings); 입력할 때 제안 표시(자동 완성 설정)
+v304_Lang12; Shift; 시프트
+v304_Lang13; Include words containing the string; 문자열이 포함된 단어 포함
+v304_Lang14; Enable column sorting; 컬럼 정렬 활성
+v304_Lang15; Description separator; 설명 구별키
+v304_Lang16; Copy to Start Menu; 시작 메뉴로 복사
+v304_Lang17; Key delay (ms); 키 입력 지연 (ms)
+v304_Lang18; Key delays only active in; 활성 창에서만 키 입력 지연
+v304_Lang19; Display options; 표시 옵션
+v304_Lang20; New from Library; Library에서 신규 작성
+v304_Lang21; Variable name contains illegal characters:; 변수 이름에 오류 문자가 포함됨
+v304_Lang22; User Variables; 사용자 변수
+v304_Lang23; Usage Statistics; 이용 통계
+v304_Lang24; Times executed; 실행 시간
+v304_Lang25; Keystrokes saved; 절약된 키 입력
+v304_Lang26; Time savings; 절약 시간
+v304_Lang27; Session; 세션
+v304_Lang28; Track usage statistics; 이용 통계
+v304_Lang29; Typing speed (wpm); 타이핑 속도(wpm)
+v304_Lang30; Hourly wage; 시급
+v304_Lang31; Insert Command Code; 명령어 추가
+v304_Lang32; Command Name; 명령어
+v304_Lang33; Enable; 활성
+v304_Lang34; Disable; 비활성
+v304_Lang35; Enable random text generation syntax (Spintax); 무작위 텍스트 생성 표기법(Spintax) 활성
+v304_Lang36; Font; 글꼴
+v304_Lang37; Adjust to typed case; 변경시 대/소문자 구분 적용
+v304_Lang38; Condition; 조건
+v304_Lang39; Condition Name
+v304_Lang40; Allow duplicates; 중복 허용
+v304_Lang42; Append; 추가
+v304_Lang43; Include descriptions; 설명 포함
+v304_Lang44; Delimited Text File
+v304_Lang45; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script
+v304_Lang47; Import ; 가져오기
+v304_Lang48; Import to; 다음에서 가져오기
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); 구분자 (최근)
+v400_Lang02; Format; 포맷
+v400_Lang03; Sounds; 사운드
+v400_Lang04; Show title bar; 타이틀 표시
+v400_Lang05; Break into columns; 컬럼 분리
+v400_Lang06; Clipboard capture; 클립보드 캡처
+v400_Lang07; Macro record/play; 매크로 기록/재생
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); 클립보드(Rict-Text) 사용(재편집 필요)
+v400_Lang09; Module; 모듈
+v400_Lang10; Restore Backup; 백업파일로 복원
+v400_Lang11; Backup file; 백업 파일
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; 이전 버전으로 복원하시겠습니까? 현재 설정값은 모두 이전 값으로 작성됩니다.
+v400_Lang13; Shadow type; 음영 타입
+v400_Lang14; Save history; 이력 저장
+v400_Lang15; Control Click; 대상 컨트롤 선택
+v400_Lang16; Key delays; 키입력 지연 (ms)
+v400_Lang17; Key press duration (ms); 키입력 지속시간 (ms)
+v400_Lang18; Dialog delay (ms); 대화창 지연 (ms)
+v400_Lang19; Focus change delay (ms); 포커스 변경 지연 (ms)
+v400_Lang20; Force window focus; 강제 윈도우/창 포커스
+v400_Lang21; Current Tab; 현재 탭(창)
+v400_Lang22; Top edge zone (L-R %); 상단 가장자리 영역 (L-R %)
+v400_Lang23; Mode; 실행 모드
+v400_Lang24; Click
+v400_Lang25; Calculate math expressions; 수학 표현식 계산
+v400_Lang26; Continuous calculation (instead of pressing =); 계산 실행(=누름 대체)
+v400_Lang27; Show thousands separator; 천단위로 표시
+v400_Lang28; Round (decimals); 반올림(자리수)
+v400_Lang29; File path; 파일 경로
+v400_Lang30; Result; 결과
+v400_Lang31; Find; 찾기
+v400_Lang32; Find Next; 다음 찾기
+v400_Lang33; Search description; 설명 검색 포함
+v400_Lang34; Restrictions; 제한 윈도우/창
+v400_Lang35; Backup; 백업
+v400_Lang36; Encrypt with password; 비밀번호로 암호화
+v400_Lang37; Password; 비밀번호
+v400_Lang38; Verify; 검증
+v400_Lang39; Data Protection; 데이터 보호
+v400_Lang40; Encrypt file; 파일 암호화
+v400_Lang41; Remember on this computer; 이 PC에 기억하기
+v400_Lang42; Protect backups; 백업 암호화
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; 주의¶암호 분실시 데이터 파일 복원이 불가합니다. 암호설정시 반드시 백업하세요.(문구 및 단어사전 파일 암호화 제외)
+v400_Lang44; Support Mail; 메일 지원
+v400_Lang45; The password is incorrect, please try again.; 암호 오류, 재입력해 주세요.
+v400_Lang46; Quick find; 빠른 찾기
+v400_Lang48; Search current typed word; 스마트 검색
+v400_Lang49; Calculator; 계산기
+v400_Lang50; Show suggestion; 자동완성 단어 표시
+v400_Lang51; Special characters; 특수 문자
+v400_Lang52; Online Documentation; 온라인 문서
+v400_Lang53; Print; 인쇄
+v400_Lang54; Automatic spacing; 자동 문자 간격
+v400_Lang55; Remove text margin; 여백 제거
+v400_Lang56; Menu icon; 메뉴 아이콘
+v400_Lang57; Remove vertical lines; 수직선 제거
+v400_Lang58; Enable modifiers (!+^#); 좌측 수식키도 활성화 (!+^#)
+v400_Lang59; Position above the caret; 캐럿 위에 위치
+v400_Lang60; Properties; 속성
+v400_Lang61; Round time to; 시간 반올림
+v400_Lang62; days; 일
+v400_Lang63; business days; 업무일
+v400_Lang64; hours; 시
+v400_Lang65; minutes; 분
+v400_Lang66; months; 월
+v400_Lang67; years; 년
+v400_Lang70; Update order on paste; 붙여넣기 후 순서 업데이트
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; 정말로 새 데이터 파일을 생성하시겠습니까?¶¶현재 데이터는 삭제되지 않습니다. 파일/열기를 사용하여 데이터 파일을 다시 엽니다.
+v400_Lang72; Position; 위치(Text Expander 기준)
+v400_Lang73; Below the caret; 캐럿 바로 아래
+v400_Lang74; Above the caret; 캐럿 바로 위
+v400_Lang75; Alternative position; 대체 위치
+v400_Lang76; Mouse cursor; 마우스 커서
+v400_Lang77; Centered; 중앙
+v400_Lang78; Tray; 트레이
+v400_Lang89; Upgrade to Professional; 프로 버전으로 업그레이드
+v400_Lang90; Shared settings; 설정정보 공유
+v400_Lang91; Team; 팀
+v400_Lang92; Shared file; 공유파일
+v400_Lang93; Edit shared file; 공유파일 편집
+v400_Lang94; Shared file editing.; 공유파일 수정
+v400_Lang95; Shared file saved, returning to normal mode.; 공유파일 저장완료, 일반 모드로 돌아가기.
+v400_Lang96; Information; 정보
+v400_Lang97; SHARED; 공유
+v400_Lang98; Remember popup position; 팝업 위치 기억
+v400_Lang99; Prefixes; 지정 접두어(Prefixes)
+v426_Lang01; Default suffix; 지정 접미어(suffix)
+v426_Lang02; Exclusions; 제외
+
+[Version 5.00]
+v5_Lang01; Default text
+v5_Lang02; No output; 출력 없음
+v5_Lang03; Open Web Page; 웹 페이지 열기
+v5_Lang04; Run Program; 프로그램 실행
+v5_Lang05; Open File; 파일 열기
+v5_Lang06; Open Folder; 폴더 열기
+v5_Lang07; Create Mail; 메일 작성하기
+v5_Lang08; Activate Window; 활성화 창
+v5_Lang09; To; 수신
+v5_Lang10; CC; 참조
+v5_Lang11; BCC; 숨은참조
+v5_Lang12; Subject; 제목
+v5_Lang13; Attachments; 첨부파일
+v5_Lang14; Message body; 메시지 본문
+v5_Lang15; Send automatically; 자동으로 보내기
+v5_Lang16; Default
+v5_Lang17; Address (URL); 주소(URL)
+v5_Lang18; Folder; 폴더
+v5_Lang19; Custom; 사용자화
+v5_Lang20; Browser path; 브라우저 경로
+v5_Lang21; Working directory; 작업 디렉토리
+v5_Lang22; Maximized; 최대
+v5_Lang23; Minimized; 최소
+v5_Lang24; Wait until program closes; 프로그램 종료시까지 대기합니다.
+v5_Lang25; Browser; 브라우저
+v5_Lang26; Table Selection; 선택-테이블
+v5_Lang27; Text File Lookup; 검색-파일
+v5_Lang28; Excel File Lookup; 검색-엑셀파일
+v5_Lang29; Lookup; 검색
+v5_Lang30; Table; 테이블
+v5_Lang31; Return column(s); 반환 컬럼(s)
+v5_Lang32; Table file; 테이블 파일
+v5_Lang33; Sheet; 시트
+v5_Lang34; Cell range; 범위(셀)
+v5_Lang35; Column no.; 컬럼(번호)
+v5_Lang36; Equals
+v5_Lang37; User Input; 사용자 입력
+v5_Lang38
+v5_Lang39; Output separator; 출력 구분
+v5_Lang40; Force query; 강제 쿼리
+v5_Lang41; Insert column; 컬럼 추가
+v5_Lang42; Delete column; 컬럼 삭제
+v5_Lang43; Excel Data Range; Excel 데이터 범위
+v5_Lang44; Insert Data; Data 추가
+v5_Lang45; Input; 입력
+v5_Lang46; Automation; 자동화
+v5_Lang47; Customize Menus; 사용자 메뉴
+v5_Lang48; Show icons; 아이콘 표시
+v5_Lang49; Favourite macros; 즐겨사용하는 매크로
+v5_Lang50; Toolbar; 툴바
+v5_Lang51; More settings; 추가 설정
+v5_Lang52; Tiles; 타일
+v5_Lang53; Icon and text below; 아이콘 아래
+v5_Lang54; Icon and text right; 아아콘 오른쪽
+v5_Lang55; Icon; 아이콘만
+v5_Lang56; Tile size (W/H px); 타일 크기 (W/H px)
+v5_Lang57; Padding (px); 채움/여백 (px)
+v5_Lang58; Grid; 그리드
+v5_Lang59; Grid size (Rows/Columns); 그리드 크기 (Rows/Columns)
+v5_Lang60; Order; 순서
+v5_Lang61; Outside margin (px); 외곽 여백
+v5_Lang62; Background color; 배경색
+v5_Lang63; Vertical; 수직
+v5_Lang64; Horizontal; 수평
+v5_Lang65; Display Edit, Delete buttons; 편집/삭제 버튼 표시
+v5_Lang66; Theme; 테마
+v5_Lang67; Calculation
+v5_Lang68; Save table as; 표(table)로 저장
+v5_Lang69; Insert Another Field; 다른 항목 추가
+v5_Lang70; Macro; 매크로
+v5_Lang71; Column width; 컬럼 폭
+v5_Lang72; Popup width (px); 팝업 폭(px)
+v5_Lang73; Edit shared file; 공유 파일 편집
+v5_Lang74; Recent changes; 최근 변경사항
+v5_Lang75; Yes; 예
+v5_Lang76; No; 아니오
+v5_Lang77; Bold; 굵게
+v5_Lang78; Italic; 이탤릭
+v5_Lang79; Underline; 언더라인
+v5_Lang80; Align Left; 왼쪽 맞춤
+v5_Lang81; Center; 가운데 맞춤
+v5_Lang82; Align Right; 오른쪽 맞춤
+v5_Lang83; Justify; 균등 맞춤
+v5_Lang84; Increase Font Size; 글꼴 크게
+v5_Lang85; Decrease Font Size; 글꼴 작게
+v5_Lang86; Bullets; (문단)글머리 기호
+v5_Lang87; Numbering; 번호 매김
+v5_Lang88; Decrease Indent; 들여쓰기(왼쪽)
+v5_Lang89; Increase Indent; 들여쓰기(오른쪽)
+v5_Lang90; Date; 일자
+v5_Lang91; Time; 시간
+v5_Lang92; User; 사용자
+v5_Lang93; Changes; 변경내용
+v5_Lang94; Include spaces; 공백 포함
+v5_Lang95; Number of items; 자동 완성 문자열 앞에 번호 표시
+v5_Lang96; Output format; 출력 포맷
+v5_Lang97; Output if empty; 출력
+v5_Lang98; Trim spaces; 공백 제거
+v5_Lang99; All; 전체
+v5_Lang100; Adapt case; 대/소문자 적용
+v5_Lang101; Uppercase; 대문자
+v5_Lang102; Lowercase; 소문자
+v5_Lang103; Find and replace; 찾기/변경
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; 현재 탭의 기본 설정정보를 복원하시겠습니까?
+v5_Lang105; Reset ALL preferences; 전체 설정정보 복원
+v5_Lang106; Multi line; 다중 라인
+v5_Lang107; Tables folder; 테이블 폴더
+v5_Lang108; Input Format; 입력 포맷
+v5_Lang109; Digits; 숫자
+v5_Lang110; All matches; 전체 일치
+v5_Lang111; Neutral color icon; 회색 아이콘 사용
+v5_Lang112; Auto save; 자동 저장
+v5_Lang113; Video tutorials; 동영상 학습
+v5_Lang114; Message Box
+v5_Lang115; Buttons
+v5_Lang116; Stop
+v5_Lang117; Any key
+v5_Lang118; Relative to window; 윈도우/창 상대위치
+v5_Lang119; Keyboard
+v5_Lang120; Open Shared File; 공유 파일 열기
+v5_Lang121; Share; 공유
+v5_Lang122; Export; 내보내기
+v5_Lang123; Send Link; 링크 보내기
+v5_Lang124; If item exists; 항목이 존재한 경우
+v5_Lang125; Skip; 건너띄기
+v5_Lang126; Replace; 변경
+v5_Lang127; Select tabs; 탭 선택
+v5_Lang130; File already exists.; 파일이 이미 존재합니다.
+v5_Lang131; Are you sure?; 진행하시겠습니까?
+v5_Lang132; item(s) will be shared.; 항목이 공유 됩니다.
+v5_Lang133; duplicate(s) found; 중복된 항목이 발견되면
+v5_Lang134; will be skipped.; 건너뜁니다.
+v5_Lang135; will be replaced.; 교체됩니다.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; 관리자가 제공한 경로를 붙여넣거나 파일을 선택하세요.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; 선택한 콘텐츠를 다른 사용자와 공유하세요. 탭을 선택하거나 새 탭 이름을 입력하세요.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; 다른 사용자가 사용할 수 있는 클라우드나 네트워크 드라이브로 설정을 내보냅니다.
+v5_Lang139; Search command; 명령어 검색
+v5_Lang140; Remember last input; 마지막 항목 기억
+v5_Lang141; Startup script; 스크립트 기동
+v5_Lang142
+v5_Lang143; Grid Selection; 그리드 선택
+v5_Lang144; Set columns; 컬럼 설정
+v5_Lang145; Selection type; 선택 유형
+v5_Lang146; Optional Section; 옵션 형식
+v5_Lang147; Select "Command" mode to enable more options.; 더 많은 옵션을 활성화하려면 "명령" 모드를 선택하세요.
+v5_Lang148; Use clipboard; 클립보드 사용
+v5_Lang149; Loop
+v5_Lang150; Loop count
+v5_Lang151; Default button; 버튼 초기화
+v5_Lang152; Timeout (s); 타임아웃(초)
+v5_Lang153; Required; 필수
+v5_Lang154; Letters; 문자
+v5_Lang155; Numbers; 숫자
+v5_Lang156; Email; 이메일
+v5_Lang157; Align elements horizontally; 항목 수평 정렬
+v5_Lang158; Comment; 주석
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; 활성화되었습니다.¶ 설정 창을 다시 열려면 FastKeys 트레이 아이콘을 클릭하거나 F8을 누르십시오.
+v5_Lang160; Alternative backspace method; 다른 방식의 백스페이스
+v5_Lang161; If they fit in one row; 한 개의 경우, 팝업 폭 조정
+v5_Lang162; Preview not available; 미리보기 사용 불가
+v5_Lang163; Switch View; 보기 전환
+v5_Lang164; Not supported:; 미지원:
+v5_Lang165; Selected items were saved to; 선택한 항목이 저장되었습니다
+v5_Lang166; Save Selected As; 선택한 항목을 다음 이름으로 저장
+v5_Lang167; First Letter; 첫번째 문자
+v5_Lang168; Copy to Clipboard; 클립보드로 복사
+
+[Version 6.00]
+v6_Lang01; Grid Check; 그리드 확인
+v6_Lang02; Single; 단일
+v6_Lang03; Multi; 다중
+v6_Lang04; Delimiters; 구분자
+v6_Lang05; Checked; 체크됨
+v6_Lang06; Unchecked; 체크해제
+v6_Lang07; Output; 출력
+v6_Lang08; Group output; 그룹 출력
+v6_Lang09; Repeat last command; 마지막 명령어 반복
+v6_Lang10; Double press; 두 번 누르기
+v6_Lang11; Long press; 길게 누르기
+v6_Lang12; Wait time (s); 대기 시간(초:sec)
+v6_Lang13; Recognize items; 항목 인식
+v6_Lang14; Voice Recognition; 음성 인식
+v6_Lang15; Base value; 기준 값
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday; 일|월|화|수|목|금
+v6_Lang17; Date/Time Calculation; 날짜/시간 계산
+v6_Lang18; Auto restore hook (min); 자동 hook 복원 (분:min)
+v6_Lang19; Auto reload (min); 자동 새로고침(분:min)
+v6_Lang20; If condition; 조건문 (if)
+v6_Lang21; Else; 조건문 (else)
+v6_Lang22; Case If Conditions; 조건별 분기 처리
+v6_Lang23; Are you sure you want to change the options for the

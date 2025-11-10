@@ -1,0 +1,798 @@
+﻿; English; Hindi
+; हिंदी
+; Translation by Abdul Tauhid, Anand @Webji
+
+[Gui]
+g_Lang01; Start Menu; प्रारंभ मेनू
+g_Lang02; Shortcuts; शॉर्टकट
+g_Lang03; Text Expander; पाठ विस्तारक
+g_Lang04; Auto Complete; ऑटो पूर्ण
+g_Lang05; Gestures; इशारों
+g_Lang06
+g_Lang11; New; नया
+g_Lang12; Edit; संपादित करें
+g_Lang13; Delete; हटाना
+g_Lang14; Run; रन
+g_Lang15; Active; सक्रिय
+g_Lang16; Menu; मेन्यू
+g_Lang17; Submenu; सबमेनू
+g_Lang18; Type; प्रकार
+g_Lang19; Command; आदेश
+g_Lang20; Run Type; भागो प्रकार
+g_Lang21; Key; कुंजी
+g_Lang22; Shortcut; शॉर्टकट
+g_Lang23; Description; विवरण
+g_Lang24; Window; खिड़की
+g_Lang25; String; तार
+g_Lang26; Substitute; विकल्प
+g_Lang27; Gesture; इशारा
+g_Lang28
+g_Lang31; Paused; रोके गए
+g_Lang32; Active; सक्रिय
+g_Lang33; Untitled; शीर्षकहीन
+g_Lang40
+g_Lang41; Separator; सेपरेटर
+g_Lang42; Undo; पूर्ववत करें
+g_Lang43; Redo; फिर से करना
+g_Lang44; Move Up; बढ़ाना
+g_Lang45; Move Down; नीचे की ओर
+g_Lang46; Are you sure to remove; क्या आप निकालना चाहते हैं
+g_Lang47; selected items; चयनित उत्पाद
+g_Lang50
+g_Lang51; Preferences; पसंद
+g_Lang52; Support Forum; सहयता मंच
+g_Lang53; Help; मदद
+g_Lang54; Select a file or folder; कोई फ़ाइल या फ़ोल्डर चुनें
+g_Lang55; Edit command in Editor; संपादक में कमांड संपादित करें
+g_Lang56; Select a preset command; एक प्रीसेट कमांड चुनें
+g_Lang60
+g_Lang61; Registered to; को पंजीकृत
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; परीक्षण संस्करण समाप्त हो गया है
+g_Lang63; TRIAL PERIOD.; परीक्षण अवधि।
+g_Lang64
+g_Lang71; Do you want to save changes?; क्या आप परिवर्तनों को सेव करना चाहते हैं?
+g_Lang72; Save file as...; इस रूप में फ़ाइल सहेजें ...
+g_Lang73; Do you want to save changes to; क्या आप में परिवर्तनों को सहेजना चाहते हैं
+g_Lang74; Please select FastKeys data file.; कृपया फास्टके की डेटा फ़ाइल चुनें।
+g_Lang75; Not a valid FastKeys file.; मान्य फास्टकेज़ फ़ाइल नहीं है
+g_Lang76; Save FastKeys data file as…; FastKeys डेटा फ़ाइल को इस रूप में सहेजें ...
+g_Lang78; Are you sure to overwrite existing data?; क्या आप मौजूदा डेटा को ओवरराइट करना चाहते हैं?
+g_Lang79; Select folder:; फोल्डर का चयन करें:
+g_Lang80; Duplicate entry, please correct.; डुप्लिकेट प्रविष्टि, कृपया सही करें।
+g_Lang81; File does not exist.; दस्तावेज मौजूद नहीं है।
+g_Lang82; Please select a Phrase file.; कृपया एक वाक्यांश फ़ाइल चुनें।
+g_Lang83; Please select a Wordlist file.; कृपया एक Wordlist फ़ाइल चुनें।
+g_Lang84; Too many menu entries.; बहुत अधिक मेनू प्रविष्टियां
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; ट्रिगर तुरंत
+g1_Lang03; Delete ending char; चारों ओर समाप्त हटा दें
+g1_Lang04; Don't delete string; स्ट्रिंग को हटाएं न
+g1_Lang05; Case sensitive; अक्षर संवेदनशील
+g1_Lang06; Trigger inside word; शब्द के अंदर ट्रिगर
+g1_Lang07; Send raw text; कच्चा पाठ भेजें
+g1_Lang08; Manual confirmation; मैनुअल पुष्टिकरण
+g1_Lang09
+g1_Lang11; None; कोई नहीं
+g1_Lang12; Auto Run; ऑटो रन
+g1_Lang13; Run on Startup; प्रारम्भ में चले
+g1_Lang14; Include Files; फ़ाइलें शामिल करें
+g1_Lang15; Include Subfolders; सबफ़ोल्डर्स शामिल करें
+g1_Lang16; Include Files and Subfolders; फ़ाइलें और सबफ़ोल्डर्स शामिल करें
+g1_Lang17
+g1_Lang21; Record; अभिलेख
+g1_Lang22; Record a New Gesture ; एक नया इशारा रिकॉर्ड करें
+g1_Lang23; Right Mouse Button; दायाँ माउस बटन
+g1_Lang24; key; कुंजी
+g1_Lang25; Hold; पकड़
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; और स्क्रीन पर कहीं भी इशारा बनाएं। समाप्त करने के लिए Enter या OK बटन दबाएं।
+g1_Lang28
+g1_Lang31; Abbreviation; संक्षिप्त
+g1_Lang32; Phrase; मुहावरा
+g1_Lang33; Word; शब्द
+g1_Lang34; Phrase file; वाक्यांश फ़ाइल
+g1_Lang35; Wordlist file; Wordlist फ़ाइल
+g1_Lang36
+g1_Lang41; Line; लाइन
+g1_Lang42; Column; स्तंभ
+g1_Lang43
+g1_Lang51; Advanced shortcut; उन्नत शॉर्टकट
+g1_Lang52; Modifier; संशोधक
+g1_Lang53; Optional Attributes; वैकल्पिक गुण
+g1_Lang54; Native; देशी
+g1_Lang55; Wildcard; वाइल्डकार्ड
+g1_Lang56; Hook; अंकुड़ा
+g1_Lang57; L/R only; एल / आर केवल
+g1_Lang58; Keys; चांबियाँ
+g1_Lang59; Standard; मानक
+g1_Lang60; Function keys; फ़ंक्शन कुंजियां
+g1_Lang61; Numpad; नमपैड
+g1_Lang62; Mouse; माउस
+g1_Lang63; Multimedia; मल्टीमीडिया
+g1_Lang64; Special; विशेष
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; & फ़ाइल
+m_Lang02; &Edit; और संपादित करें
+m_Lang03; &Insert; और सम्मिलित करें
+m_Lang04; &Tools; और उपकरण
+m_Lang05; &Help; &मदद
+m_Lang06; &Register; &रजिस्टर
+m_Lang07
+m_Lang11; &New; &नया
+m_Lang12; &Open; &खुला
+m_Lang13; &Save; &बचाना
+m_Lang14; Save &As; के रूप रक्षित करें
+m_Lang15; E&xit; बाहर जाएं
+m_Lang16
+m_Lang21; &Edit; और संपादित करें
+m_Lang22; &Delete; & हटाना
+m_Lang23; Re&load; पुन: लोड
+m_Lang24; &Pause; और रोकें
+m_Lang25
+m_Lang31; &Preferences; &पसंद
+m_Lang32; &Module Activation; और मॉड्यूल सक्रियण
+m_Lang33; &Auto Learn Settings; और ऑटो सेटिंग्स जानें
+m_Lang34; &Check for Updates; &अद्यतन के लिए जाँच
+m_Lang35; &Update Menu Icons; मेनू आइकन अपडेट करें और अपडेट करें
+m_Lang36
+m_Lang41; &Help; &मदद
+m_Lang42; &Support Forum; &सहयता मंच
+m_Lang43; &View Quick Tips; त्वरित युक्तियां देखें और देखें
+m_Lang44; &About; &के बारे में
+m_Lang45
+m_Lang51; Open from &Library; पुस्तकालय से खोलें
+m_Lang52; Cut; कट गया
+m_Lang53; Copy; प्रतिलिपि
+m_Lang54; Paste; चिपकाएं
+m_Lang55; Select All; सभी का चयन करे
+m_Lang56; Read Only; सिफ़ पढ़िये
+m_Lang57; Zoom in; ज़ूम इन
+m_Lang58; Zoom out; ज़ूम आउट
+m_Lang59; Default Zoom; डिफ़ॉल्ट ज़ूम
+m_Lang60; Zoom; ज़ूम
+m_Lang61; Always On Top; हमेशा शिखर पर
+m_Lang62; Line Wrap; लाइन रैप
+m_Lang63; View; राय
+m_Lang64; Open Script; ओपन स्क्रिप्ट
+
+[FastKeys]
+f_Lang01; Loading FastKeys; फास्टके की लोडिंग
+f_Lang02; Settings; सेटिंग्स
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; त्रुटि। कुछ आदेश रोक दिए गए थे। कृपया नवीनतम संपादित आदेशों की जांच करें और संभव डुप्लिकेट फ़ंक्शन को ठीक करें।
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; नेट से मेनू आइकन पुनर्प्राप्त करने में एक समस्या थी कृपया अपने इंटरनेट या फ़ायरवॉल सेटिंग्स की जांच करें। 42. तेजी से लोड करने की अनुमति देने के लिए स्वचालित डाउनलोड अक्षम कर दिया गया है। आप प्राथमिकता मेनू से स्वचालित आइकन डाउनलोड सक्षम कर सकते हैं।
+f_Lang14; Save settings before continuing?; जारी रखने से पहले सेटिंग्स सहेजें?
+f_Lang15; Add to; में जोड़े
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; फास्टके की परीक्षण संस्करण का उपयोग करने के लिए धन्यवाद। आपको केवल इस मूल्यांकन के लिए आवेदन का उपयोग करने के लिए एक लाइसेंस दिया गया है। पंजीकृत संस्करण इस सूचना को प्रदर्शित नहीं करता है
+f_Lang22; Press "Continue" to continue using trial version.; परीक्षण संस्करण का उपयोग जारी रखने के लिए "जारी रखें" दबाएं।
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; पंजीकृत फास्टके के संस्करण को सक्रिय करने के लिए पंजीकृत उपयोगकर्ता कृपया नीचे अपनी पंजीकरण और लाइसेंस जानकारी प्रदान करें। इनपुट फ़ील्ड में पंजीकरण कुंजी को कॉपी या टाइप करें और "पंजीकरण करें" क्लिक करें। .इसे एक पंजीकरण कुंजी खरीदने के लिए "खरीद" पर क्लिक करें या परीक्षण संस्करण का उपयोग जारी रखने के लिए "रद्द करें" पर क्लिक करें।
+f_Lang36
+f_Lang41; Name/Company:; आपका नाम:
+f_Lang42; Registration key:; पंजीकरण कुंजी:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; गलत पंजीकरण कुंजी। परीक्षण संस्करण का उपयोग करना!
+f_Lang46; Congratulations, you have registered FastKeys!; बधाई हो, आपने फास्टकेज़ पंजीकृत किया है!
+f_Lang47
+f_Lang51; Open Menu; मेनू खोलें
+f_Lang52; Reload; सीमा से अधिक लादना
+f_Lang53; Pause; ठहराव
+f_Lang54; Exit FastKeys; फास्टके से बाहर निकलें
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; ठीक
+b_Lang02; Cancel; रद्द करना
+b_Lang03; Save; बचाना
+b_Lang06; Select; चुनते हैं
+b_Lang07; Defaults; चूक
+b_Lang08; Register; रजिस्टर
+b_Lang11; Purchase; खरीद फरोख्त
+b_Lang12; Continue; जारी रहना
+b_Lang14; Test; परीक्षण
+b_Lang17; Open; खुला
+b_Lang18; Edit; संपादित करें
+b_Lang19; Library; पुस्तकालय
+b_Lang22; Edit File; फ़ाइल संपादित करें
+
+[Library]
+l_Lang01; Utility; उपयोगिता
+l_Lang02
+l_Lang03; Scripts; स्क्रिप्ट
+l_Lang04; Audio; ऑडियो
+l_Lang05; Games; खेल
+l_Lang06
+l_Lang11; Control Panel; कंट्रोल पैनल
+l_Lang12; System Folders; सिस्टम फ़ोल्डर
+l_Lang13; Internet Explorer; इंटरनेट एक्स्प्लोरर
+l_Lang14; System; प्रणाली
+l_Lang15; Utilities; उपयोगिताएँ
+l_Lang16; Windows; विंडोज
+l_Lang17; Shell; खोल
+l_Lang18
+l_Lang21; Keys; चांबियाँ
+l_Lang22; Cursor Position; कर्सर स्थिति
+l_Lang23; Mouse and Media; माउस और मीडिया
+l_Lang24; Date and Time; दिनांक और समय
+
+[Preferences]
+s_Lang01; General; सामान्य
+s_Lang02; Appearance; दिखावट
+s_Lang03; Functions; कार्य
+s_Lang04; Folders; फ़ोल्डर
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; ऑटो सीखना
+s_Lang10
+s_Lang11; Internet; इंटरनेट
+s_Lang12; Module Activation; मॉड्यूल सक्रियण
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; आइकन को अपडेट करने के लिए सहेजें / ठीक चुनें
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; क्या आप प्रोग्राम का उपयोग करने के लिए कुछ त्वरित सुझावों के लिए फास्टके की वेबपेज की यात्रा करना चाहते हैं?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; अपडेट्स की जांच करने में एक समस्या थी कृपया फिर से प्रयास करें, या फास्टके की वेबसाइट को मैन्युअल रूप से चेक और डाउनलोड करने के लिए देखें। स्त्रोत: स्वचालित लोड्स को तेजी से लोड करने के लिए अक्षम किया गया है।
+s_Lang25; You are using the latest version of; आप का नवीनतम संस्करण का उपयोग कर रहे हैं
+s_Lang26; A new version of FastKeys; फास्टकेज़ का एक नया संस्करण
+s_Lang27; is available.; उपलब्ध है।
+s_Lang28; Would you like to install it now?; क्या आप इसे अभी इंस्टॉल करना चाहते हैं?
+s_Lang29; Downloading FastKeys, Version; फास्टके, वर्जन डाउनलोड करना
+s_Lang30; Please wait ...; कृपया प्रतीक्षा करें ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; डाउनलोड के साथ एक समस्या थी कृपया फिर से प्रयास करें या मैन्युअल रूप से डाउनलोड करने के लिए फास्टके की वेबसाइट पर जाएं।
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; जल्दी जोड़ें
+s1_Lang02; Quick add to ; जल्दी से जोड़ें
+s1_Lang03; Ask; पूछना
+s1_Lang04; Learn Wordlist File; शब्दसूची फ़ाइल जानें
+s1_Lang05; Pause shortcut; शॉर्टकट रोकें
+s1_Lang06; General options; आम विकल्प
+s1_Lang07; Run FastKeys on startup; स्टार्टअप पर फास्टके चलाएं
+s1_Lang08; Show tray icon; ट्रे आइकन दिखाएं
+s1_Lang09; Clicking tray icon shows Start Menu; ट्रे आइकन पर क्लिक करना प्रारंभ मेनू दिखाता है
+s1_Lang10; Auto check for software updates; सॉफ़्टवेयर अद्यतनों के लिए स्वत: जांच करें
+s1_Lang11; Language; भाषा
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; ग्रिड दिखाएँ
+s2_Lang03; Show stripes; पट्टियां दिखाएं
+s2_Lang04; Show loading progress; लोडिंग की प्रगति दिखाएं
+s2_Lang05; Display Apply, Edit, Delete buttons; प्रदर्शन लागू करें, संपादित करें, हटाएं बटन
+s2_Lang06; Transparency (%); पारदर्शिता (%)
+
+[Preferences 3]
+s3_Lang01; Volume; आयतन
+s3_Lang02; Control with mouse wheel on right screen edge; दाएं स्क्रीन किनारे पर माउस व्हील के साथ नियंत्रण करें
+s3_Lang03; Volume sensitivity; वॉल्यूम संवेदनशीलता
+s3_Lang04; Auto-correct; स्वत: सुधार
+s3_Lang05; Correct sentence capitals; सही वाक्य की राजधानियां
+s3_Lang06; Correct DOuble CApitals; सही DOuble कैपिटलों
+s3_Lang07; Disable CapsLock key; कैप्स लॉक कुंजी अक्षम करें
+s3_Lang08; Memory; याद
+s3_Lang09; Optimize memory; मेमोरी ऑप्टिमाइज़ करें
+
+[Preferences 4]
+s4_Lang01; Scripts folder; लिपियों फ़ोल्डर
+s4_Lang02; Phrase files folder; वाक्यांश फ़ाइलें फ़ोल्डर
+s4_Lang03; Wordlist files folder; Wordlist फ़ाइलें फ़ोल्डर
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; मेनू शॉर्टकट
+s5_Lang02; Show menu on; पर मेनू दिखाएं
+s5_Lang03; Top edge; शीर्ष बढ़त
+s5_Lang04; Right edge; सही किनारे
+s5_Lang05; Left edge; वाम किनारे
+s5_Lang06; Bottom edge; नीचे का किनारा
+s5_Lang07; Menu options; व्यंजना सूची
+s5_Lang08; Show menu icons; मेनू आइकन दिखाएं
+s5_Lang09; Auto download website icons; ऑटो डाउनलोड वेबसाइट आइकन
+s5_Lang10; Larger icons; बड़ा आइकन
+s5_Lang11; Disable menu in full screen applications; फ़ुलस्क्रीन एप्लिकेशन में मेनू अक्षम करें
+s5_Lang12; Add settings to Start Menu; प्रारंभ मेनू में सेटिंग्स जोड़ें
+s5_Lang13; Menu delay (ms); मेनू विलंब (एमएस)
+s5_Lang14; Show recent items; हाल की आइटम दिखाएं
+s5_Lang15; Files; फ़ाइलें
+s5_Lang16; Folders; फ़ोल्डर
+s5_Lang17; Files and folders; फ़ाइलें और फ़ोल्डर्स
+s5_Lang18; Show in submenu; सबमेनू में दिखाएं
+
+[Preferences 6]
+s6_Lang01; Only active in; केवल सक्रिय
+s6_Lang02; Not active in; सक्रिय नहीं है
+
+[Preferences 7]
+s7_Lang01; Default prefix; डिफ़ॉल्ट उपसर्ग
+s7_Lang02; Ending characters; वर्णों को समाप्त करना
+s7_Lang03; Space; अंतरिक्ष
+s7_Lang04; Tab; टैब
+s7_Lang05; Enter; दर्ज
+s7_Lang06; Separator; सेपरेटर
+s7_Lang07; Clipboard; क्लिपबोर्ड
+s7_Lang08; Use clipboard if text length exceeds (char); क्लिपबोर्ड का उपयोग करें यदि टेक्स्ट की लंबाई अधिक हो जाती है (चार)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; सुझाए गए शब्द का सही मामला
+s8_Lang03; Minimum word length to show suggestion; सुझाव दिखाने के लिए न्यूनतम शब्द लंबाई
+s8_Lang04; Word suggestion list height; शब्द सुझाव सूची ऊँचाई
+s8_Lang05; Special characters; विशेष वर्ण
+s8_Lang06; (list of special alphabet characters to be recognized; (पहचान करने के लिए विशेष वर्णमाला के पात्रों की सूची
+s8_Lang07; as a part of a word); एक शब्द के एक भाग के रूप में)
+
+[Preferences 9]
+s9_Lang01; Auto learn; ऑटो सीखें
+s9_Lang02; Turn on automatic word learning; स्वत: शब्द सीखने को चालू करें
+s9_Lang03; Learn wordlist file; शब्दसूची फ़ाइल जानें
+s9_Lang04; Learning options; सीखना विकल्प
+s9_Lang05; Minimum length of learned words; सीखा शब्दों की न्यूनतम लंबाई
+s9_Lang06; Number of occurences to learn a word; एक शब्द सीखने के लिए घटनाओं की संख्या
+s9_Lang07; Save learned words as lowercase; सीखा शब्दों को लोअरकेस के रूप में सहेजें
+
+[Preferences 10]
+s10_Lang01; Gesture Key; इशारे की कुंजी
+s10_Lang02; Options; विकल्प
+s10_Lang03; Show mouse trail; माउस निशान दिखाएँ
+s10_Lang04; Play sound for no match; कोई मैच नहीं के लिए ध्वनि चलाएं
+s10_Lang05; Recognize 8 zones (advanced); 8 ज़ोन (उन्नत) को पहचानें
+s10_Lang06; Advanced; उन्नत
+s10_Lang07; Interval (ms); अंतराल (एमएस)
+s10_Lang08; Threshold (px); थ्रेशोल्ड (पीएक्स)
+s10_Lang09; Timeout (ms); टाइमआउट (एमएस)
+s10_Lang10; Initial timeout (ms); आरंभिक टाइमआउट (एमएस)
+s10_Lang11; Tolerance (%); सहनशीलता (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; फास्टके के नये संस्करणों की जांच करें
+s11_Lang02; Update; अद्यतन
+s11_Lang03; Update Start menu icons from internet; इंटरनेट से प्रारंभ मेनू आइकन अपडेट करें
+s11_Lang04; Update icons; अपडेट आइकन
+s11_Lang05; View quick tips for using FastKeys; फास्टकेज़ का उपयोग करने के लिए त्वरित युक्तियां देखें
+s11_Lang06; View quick tips; त्वरित युक्तियां देखें
+
+[Preferences 12]
+s12_Lang01; Active modules; सक्रिय मॉड्यूल
+s12_Lang03; Hide disabled modules; अक्षम मॉड्यूल छुपाएं
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; क्लिपबोर्ड प्रबंधक
+v211_Lang01; Clipboard shortcut; क्लिपबोर्ड शॉर्टकट
+v211_Lang02; History size; इतिहास आकार
+v211_Lang03; Capture images and formatting; छवियों और स्वरूपण कैप्चर करें
+v211_Lang04; Hold Ctrl key to paste without formatting; बिना स्वरूपण के पेस्ट करने के लिए Ctrl कुंजी को दबाए रखें
+v211_Lang05; Clipboard font; क्लिपबोर्ड फ़ॉन्ट
+v211_Lang06; Popups; पॉप अप
+v211_Lang07; Maximum popup width; अधिकतम पॉपअप चौड़ाई
+v211_Lang08; Show shortcut numbers; शॉर्टकट नंबर दिखाएं
+v211_Lang09; New File; नई फ़ाइल
+v211_Lang10; New Empty File; नया खाली फ़ाइल
+v211_Lang11; Backup files folder; बैकअप फ़ाइलें फ़ोल्डर
+v211_Lang12; Number of saved backups; सहेजे गए बैकअप की संख्या
+
+[Version 2.14]
+v214_Lang00; Duplicate; प्रतिलिपि
+v214_Lang01; Macro Recorder; मेक्रो रिकॉर्डर
+v214_Lang02; Record shortcut; रिकॉर्ड शॉर्टकट
+v214_Lang03; Play shortcut; शॉर्टकट चलाएं
+v214_Lang04; Recording options; रिकॉर्डिंग विकल्प
+v214_Lang05; Keyboard actions; कीबोर्ड क्रियाएं
+v214_Lang06; Mouse clicks; माउस क्लिक
+v214_Lang07; Time intervals; समय अंतराल
+v214_Lang08; Window actions; विंडो क्रियाएं
+v214_Lang09; Show virtual key names; आभासी कुंजी नाम दिखाएं
+v214_Lang10; Show save dialog after recording; रिकॉर्डिंग के बाद संवाद सहेजें
+v214_Lang20; Press; दबाएँ
+v214_Lang21; or "Record" button to start recording; या रिकॉर्डिंग शुरू करने के लिए "रिकॉर्ड" बटन
+v214_Lang22; to finish; खत्म करने के लिए
+v214_Lang23; Recording macro; मैक्रो रिकॉर्डिंग
+v214_Lang24; Recording completed; रिकॉर्डिंग पूर्ण हुई
+v214_Lang25; Recorded Macro; रिकॉर्ड मैक्रो
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; वाक्यांश फ़ाइल संक्षिप्त रूप स्ट्रिंग सक्षम करें
+v217_Lang02; New Tab; नया टैब
+v217_Lang03; Rename; नाम बदलें
+v217_Lang04; Move Left; बाएं खिसको
+v217_Lang05; Move Right; दाएँ चले
+v217_Lang06; tab; टैब
+v217_Lang07; Tab Name; टैब नाम
+
+[Version 2.19]
+v219_Lang01; More; अधिक
+v219_Lang02; Settings shortcut; सेटिंग्स शॉर्टकट
+v219_Lang04; Popups font and color; पॉपअप फ़ॉन्ट और रंग
+v219_Lang05; Color and style; रंग और शैली
+v219_Lang06; Sort; छंटाई
+v219_Lang07; Alphabetically; वर्णक्रम
+v219_Lang08; Include similar words (smart search); समान शब्द शामिल करें (स्मार्ट खोज)
+v219_Lang09; Don't learn strings; तार सीखना न करें
+v219_Lang10; Trail width and color; ट्रेल चौड़ाई और रंग
+v219_Lang11; Run as administrator; व्यवस्थापक के रूप में चलाओ
+v219_Lang12; Formatting; प्रारूपण
+v219_Lang13; Normal; साधारण
+v219_Lang14; No Icons; कोई प्रतीक नहीं
+v219_Lang15; Small; छोटा
+v219_Lang16; Apply; लागू करें
+
+[Version 2.20]
+v220_Lang02; Icon size; आइकन का आकार
+v220_Lang04; Break menu at separator; विभाजक पर ब्रेक मेनू
+v220_Lang05; Increase line spacing; लाइन रिक्ति को बढ़ाएं
+v220_Lang06; Selection color; चयन रंग
+v220_Lang07; Invert selection text color; चयन पाठ का रंग उलटा
+v220_Lang08; Show clipboard items; क्लिपबोर्ड आइटम दिखाएं
+
+[Version 2.22]
+v222_Lang01; Selection keys; चयन कुंजी
+v222_Lang02; Number; संख्या
+v222_Lang03; Insert mode; सम्मिलित करें मोड
+v222_Lang04; Show line numbers; लाइन नंबर दिखाएं
+v222_Lang05
+v222_Lang06; More options; अधिक विकल्प
+v222_Lang07; Fewer options; कम विकल्प
+v222_Lang08; Always show more options; हमेशा अधिक विकल्प दिखाएं
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; एक मेनू के तहत ले जाएँ
+v300_Lang02; System Variables; सिस्टम चर
+v300_Lang03; Macros; मैक्रो
+v300_Lang04; Manual Text Input; मैनुअल टेक्स्ट इनपुट फील्ड
+v300_Lang05; File Contents; फ़ाइल सामग्री
+v300_Lang06; Name; चर का नाम
+v300_Lang07; Paragraph Options; अनुच्छेद विकल्प
+v300_Lang08; Spacing; अंतर
+v300_Lang09; Before; से पहले
+v300_Lang10; After; बाद
+v300_Lang11; Line spacing; पंक्ति रिक्ति
+v300_Lang12; Reload shortcut; शॉर्टकट पुनः लोड करें
+v300_Lang13; Paste delay (ms); पेस्ट देरी (एमएस)
+v300_Lang14; No formatting; कोई स्वरूपण नहीं है
+v300_Lang15; Rich Text; अमीर पाठ
+v300_Lang16; HTML; एचटीएमएल
+v300_Lang17; Hold Shift key to paste without closing; बिना बंद किए पेस्ट करने के लिए शिफ्ट की को दबाए रखें
+v300_Lang18; Window Information; विंडो सूचना
+v300_Lang19; Insert Another Item; एक और आइटम डालें
+v300_Lang20; Filter; फ़िल्टर
+v300_Lang21; Selection Form; इनपुट चयन फ़ॉर्म
+v300_Lang22; Selections; चयन
+v300_Lang23; Preview; पूर्वावलोकन
+v304_Lang01; Title; विधवा शीर्षक
+v304_Lang02; Class; कक्षा
+v304_Lang03; Process; प्रक्रिया
+v304_Lang04; Position (x, y); स्थिति (एक्स, वाई)
+v304_Lang05; Size (w, h); आकार (डब्ल्यू, एच)
+v304_Lang06; Control; नियंत्रण कक्षा एनएन
+v304_Lang07; Text; टेक्स्ट
+v304_Lang08; Mouse Position; माउस स्थिति
+v304_Lang09; Color; रंग
+v304_Lang10; Insert Image; चित्र डालें
+v304_Lang11; Display suggestions as you type (Auto Complete settings); आपके लिखते समय सुझाव प्रदर्शित करें (ऑटो पूर्ण सेटिंग्स)
+v304_Lang12; Shift; खिसक जाना
+v304_Lang13; Include words containing the string; स्ट्रिंग वाले शब्दों को शामिल करें
+v304_Lang14; Enable column sorting; कॉलम सॉर्टिंग सक्षम करें
+v304_Lang15; Description separator; विवरण विभाजक
+v304_Lang16; Copy to Start Menu; प्रारंभ मेनू की कॉपी करें
+v304_Lang17; Key delay (ms); कुंजी देरी (एमएस)
+v304_Lang18; Key delays only active in; कुंजी देरी केवल सक्रिय है
+v304_Lang19; Display options; प्रदर्शित विकल्प
+v304_Lang20; New from Library; लाइब्रेरी से नया
+v304_Lang21; Variable name contains illegal characters:; चर नाम में अवैध वर्ण हैं:
+v304_Lang22; User Variables; उपयोगकर्ता चर
+v304_Lang23; Usage Statistics; उपयोग आंकड़े
+v304_Lang24; Times executed; बार निष्पादित
+v304_Lang25; Keystrokes saved; कीस्ट्रोक सहेजे गए
+v304_Lang26; Time savings; समय बचत
+v304_Lang27; Session; अधिवेशन
+v304_Lang28; Track usage statistics; उपयोग के आँकड़े ट्रैक करें
+v304_Lang29; Typing speed (wpm); टाइपिंग स्पीड (डब्ल्यूपीएम)
+v304_Lang30; Hourly wage; प्रति घंटा मजदूरी
+v304_Lang31; Insert Command Code; कमांड कोड सम्मिलित करें
+v304_Lang32; Command Name; कमांड का नाम
+v304_Lang33; Enable; सक्षम करें
+v304_Lang34; Disable; अक्षम
+v304_Lang35; Enable random text generation syntax (Spintax); यादृच्छिक पाठ पीढ़ी वाक्यविन्यास सक्षम करें (Spintax)
+v304_Lang36; Font; फ़ॉन्ट
+v304_Lang37; Adjust to typed case; टाइप किए गए मामले में समायोजित करें
+v304_Lang38; Condition; शर्त
+v304_Lang39; Condition Name; शर्त का नाम
+v304_Lang40; Allow duplicates; डुप्लिकेट की अनुमति दें
+v304_Lang42; Append; जोड़ना
+v304_Lang43; Include descriptions; विवरण शामिल करें
+v304_Lang44; Delimited Text File; सीमांकित पाठ फ़ाइल
+v304_Lang45; Microsoft Excel; माइक्रोसॉफ्ट एक्सेल
+v304_Lang46; AutoHotkey v1 Script; ऑटोहोटकी स्क्रिप्ट
+v304_Lang47; Import ; आयात
+v304_Lang48; Import to; आयात करने के लिए
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); डेलिमिटर (अंतिम)
+v400_Lang02; Format; स्वरूप
+v400_Lang03; Sounds; ध्वनि
+v400_Lang04; Show title bar; शीर्षकबार दिखाएं
+v400_Lang05; Break into columns; कॉलम को तोड़ना
+v400_Lang06; Clipboard capture; क्लिपबोर्ड कैप्चर
+v400_Lang07; Macro record/play; मैक्रो रिकॉर्ड / प्ले
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); रिच टेक्स्ट के लिए क्लिपबोर्ड का उपयोग करें (पुन: संपादन की आवश्यकता है)
+v400_Lang09; Module; मॉड्यूल
+v400_Lang10; Restore Backup; पुनर्स्थापित
+v400_Lang11; Backup file; बैकअप फ़ाइल
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; क्या आप वाकई डेटा के पिछले संस्करण को पुनर्स्थापित करना चाहते हैं? ¶¶ यह सभी वर्तमान सेटिंग्स को अधिलेखित कर देगा
+v400_Lang13; Shadow type; छाया प्रकार
+v400_Lang14; Save history; इतिहास सहेजें
+v400_Lang15; Control Click; कण्ट्रोल + क्लिक 
+v400_Lang16; Key delays; देरी से कुंजी  
+v400_Lang17; Key press duration (ms); कुंजी दबाने में देरी
+v400_Lang18; Dialog delay (ms); डायलॉग देरी (मिलिसेकंड में)
+v400_Lang19; Focus change delay (ms); फोकस बदलने में देरी(मिलिसेकंड में)
+v400_Lang20; Force window focus; सशक्त खिड़की ध्यान
+v400_Lang21; Current Tab; वर्तमान टैब
+v400_Lang22; Top edge zone (L-R %); शीर्ष बढ़त क्षेत्र (बाएं से दाएं)
+v400_Lang23; Mode; प्रकार
+v400_Lang24; Click; क्लिक
+v400_Lang25; Calculate math expressions; गणित के भावों की गणना
+v400_Lang26; Continuous calculation (instead of pressing =); निरंतर गणना (दबाने के बजाय =)
+v400_Lang27; Show thousands separator; हजारों विभाजक दिखाएं
+v400_Lang28; Round (decimals); दौर (दशमलव)
+v400_Lang29; File path; फ़ाइल पथ
+v400_Lang30; Result; परिणाम
+v400_Lang31; Find; खोज
+v400_Lang32; Find Next; अगला ढूंढो
+v400_Lang33; Search description; विवरण खोजें
+v400_Lang34; Restrictions; प्रतिबंध
+v400_Lang35; Backup; बैकअप
+v400_Lang36; Encrypt with password; पासवर्ड से एन्क्रिप्ट करें
+v400_Lang37; Password; पासवर्ड
+v400_Lang38; Verify; पुष्टि 
+v400_Lang39; Data Protection; डेटा सुरक्षा
+v400_Lang40; Encrypt file; फ़ाइल एन्क्रिप्ट करें
+v400_Lang41; Remember on this computer; इस कंप्यूटर पर याद रखें
+v400_Lang42; Protect backups; बैकअप सुरक्षित रखें
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; महत्वपूर्ण: यदि आप पासवर्ड भूल जाते हैं, तो आप डेटा का उपयोग नहीं कर पाएंगे। सक्रियण से पहले बनाई गई बैकअप फ़ाइलें संरक्षित नहीं हैं। वाक्यांश और शब्दसूची फ़ाइलें संरक्षित नहीं हैं।
+v400_Lang44; Support Mail; मेल का समर्थन करें
+v400_Lang45; The password is incorrect, please try again.; पासवर्ड गलत है। कृपया पुन: प्रयास करें।
+v400_Lang46; Quick find; जल्दी खोजें
+v400_Lang48; Search current typed word; वर्तमान टाइप किया हुआ शब्द खोजें
+v400_Lang49; Calculator; कैलकुलेटर
+v400_Lang50; Show suggestion; सुझाव दिखाएं
+v400_Lang51; Special characters; विशेष वर्ण
+v400_Lang52; Online Documentation; ऑनलाइन प्रलेखन
+v400_Lang53; Print; छापें
+v400_Lang54; Automatic spacing; स्वचालित रिक्ति
+v400_Lang55; Remove text margin; टेक्स्ट मार्जिन निकालें
+v400_Lang56; Menu icon; मेनू आइकन
+v400_Lang57; Remove vertical lines; ऊर्ध्वाधर लाइनें हटाएं 
+v400_Lang58; Enable modifiers (!+^#); संशोधक सक्षम करें (! + ^ #)
+v400_Lang59; Position above the caret; कार्यवाहक के ऊपर की स्थिति
+v400_Lang60; Properties; गुण
+v400_Lang61; Round time to; समय को पूर्ण करें
+v400_Lang62; days; दिन
+v400_Lang63; business days; व्यापार के दिन
+v400_Lang64; hours; घंटे
+v400_Lang65; minutes; मिनट
+v400_Lang66; months; महीने
+v400_Lang67; years; वर्ष
+v400_Lang70; Update order on paste; पेस्ट पर आदेश का अद्यतन करें
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; क्या आप वाकई एक नई सेटिंग फ़ाइल बनाना चाहते हैं? आपकी वर्तमान सेटिंग हटाई नहीं जाएंगी - अपनी सेटिंग्स को फिर से खोलने के लिए फ़ाइल / ओपन का उपयोग करें।
+v400_Lang72; Position; पद
+v400_Lang73; Below the caret; देखभाल के नीचे
+v400_Lang74; Above the caret; ऊपर की देखभाल
+v400_Lang75; Alternative position; वैकल्पिक स्थिति
+v400_Lang76; Mouse cursor; माउस कर्सर
+v400_Lang77; Centered; केंद्रित
+v400_Lang78; Tray; ट्रे
+v400_Lang89; Upgrade to Professional; अपग्रेड टू प्रोफेशनल
+v400_Lang90; Shared settings; साझा सेटिंग्स
+v400_Lang91; Team; टीम
+v400_Lang92; Shared file; साझा की गई फ़ाइल
+v400_Lang93; Edit shared file; साझा फ़ाइल संपादित करें
+v400_Lang94; Shared file editing.; फ़ाइल संपादन साझा किया गया।
+v400_Lang95; Shared file saved, returning to normal mode.; साझा की गई फ़ाइल सहेज ली गई, सामान्य मोड में वापस आ गई।
+v400_Lang96; Information; जानकारी
+v400_Lang97; SHARED; साझा
+v400_Lang98; Remember popup position; पॉपअप स्थिति याद रखें
+v400_Lang99; Prefixes; उपसर्गों
+v426_Lang01; Default suffix; डिफ़ॉल्ट प्रत्यय
+v426_Lang02; Exclusions; बहिष्कार
+
+[Version 5.00]
+v5_Lang01; Default text; डिफ़ॉल्ट पाठ
+v5_Lang02; No output; उत्पादन नही
+v5_Lang03; Open Web Page; वेब पेज खोलें
+v5_Lang04; Run Program; प्रोग्राम चलाओ
+v5_Lang05; Open File; खुली फाइल
+v5_Lang06; Open Folder; फोल्डर खोलो
+v5_Lang07; Create Mail; मेल बनाएँ
+v5_Lang08; Activate Window; विंडो सक्रिय करें
+v5_Lang09; To; सेवा
+v5_Lang10; CC; सीसी
+v5_Lang11; BCC; बीसीसी
+v5_Lang12; Subject; विषय
+v5_Lang13; Attachments; संलग्नक
+v5_Lang14; Message body; संदेश का मुख्य हिस्सा
+v5_Lang15; Send automatically; स्वचालित रूप से भेजें
+v5_Lang16; Default; चूक
+v5_Lang17; Address (URL); पता (URL)
+v5_Lang18; Folder; फ़ोल्डर
+v5_Lang19; Custom; रिवाज
+v5_Lang20; Browser path; ब्राउज़र पथ
+v5_Lang21; Working directory; कार्यकारी डाइरेक्टरी
+v5_Lang22; Maximized; अधिकतम
+v5_Lang23; Minimized; कम से कम
+v5_Lang24; Wait until program closes; कार्यक्रम बंद होने तक प्रतीक्षा करें
+v5_Lang25; Browser; ब्राउज़र
+v5_Lang26; Table Selection; चयन तालिका
+v5_Lang27; Text File Lookup; पाठ फ़ाइल लुकअप
+v5_Lang28; Excel File Lookup; एक्सेल फाइल लुकअप
+v5_Lang29; Lookup; देखो
+v5_Lang30; Table; टेबल
+v5_Lang31; Return column(s); कॉलम लौटाएँ
+v5_Lang32; Table file; टेबल फ़ाइल
+v5_Lang33; Sheet; चादर
+v5_Lang34; Cell range; सेल रेंज
+v5_Lang35; Column no.; कॉलम नं।
+v5_Lang36; Equals; बराबर
+v5_Lang37; User Input; उपयोगकर्ता का निवेश
+v5_Lang38
+v5_Lang39; Output separator; आउटपुट विभाजक
+v5_Lang40; Force query; बल का प्रश्न
+v5_Lang41; Insert column; कॉलम डालें
+v5_Lang42; Delete column; कॉलम हटाएं
+v5_Lang43; Excel Data Range; एक्सेल डेटा रेंज
+v5_Lang44; Insert Data; डेटा डालें
+v5_Lang45; Input; इनपुट
+v5_Lang46; Automation; स्वचालन
+v5_Lang47; Customize Menus; मेनू को अनुकूलित करें
+v5_Lang48; Show icons; आइकन दिखाएं
+v5_Lang49; Favourite macros; पसंदीदा मैक्रोज़
+v5_Lang50; Toolbar; उपकरण पट्टी
+v5_Lang51; More settings; अधिक सेटिंग
+v5_Lang52; Tiles; टाइल्स
+v5_Lang53; Icon and text below; नीचे आइकन और पाठ
+v5_Lang54; Icon and text right; आइकन और पाठ सही
+v5_Lang55; Icon; आइकन
+v5_Lang56; Tile size (W/H px); टाइल का आकार (W / H px)
+v5_Lang57; Padding (px); पैडिंग (px)
+v5_Lang58; Grid; ग्रिड
+v5_Lang59; Grid size (Rows/Columns); ग्रिड आकार (पंक्तियाँ / कॉलम)
+v5_Lang60; Order; गण
+v5_Lang61; Outside margin (px); बाहर का मार्जिन (px)
+v5_Lang62; Background color; पृष्ठभूमि का रंग
+v5_Lang63; Vertical; खड़ा
+v5_Lang64; Horizontal; क्षैतिज
+v5_Lang65; Display Edit, Delete buttons; प्रदर्शन संपादित करें, बटन हटाएं
+v5_Lang66; Theme; विषय
+v5_Lang67; Calculation; गणना
+v5_Lang68; Save table as; तालिका के रूप में सहेजें
+v5_Lang69; Insert Another Field; एक और फ़ील्ड डालें
+v5_Lang70; Macro; मैक्रो
+v5_Lang71; Column width; स्तंभ की चौड़ाई
+v5_Lang72; Popup width (px); पॉपअप चौड़ाई (px)
+v5_Lang73; Edit shared file; साझा फ़ाइल संपादित करें
+v5_Lang74; Recent changes; हाल में हुए बदलाव
+v5_Lang75; Yes; हाँ
+v5_Lang76; No; नहीं न
+v5_Lang77; Bold; साहसिक
+v5_Lang78; Italic; तिरछा
+v5_Lang79; Underline; रेखांकन
+v5_Lang80; Align Left; बाये को करी
+v5_Lang81; Center; केन्द्र
+v5_Lang82; Align Right; सही संरेखित
+v5_Lang83; Justify; जस्टिफाई
+v5_Lang84; Increase Font Size; फॉन का आकार बढ़ाएं
+v5_Lang85; Decrease Font Size; कमी फ़ॉन्ट आकार
+v5_Lang86; Bullets; बुलेट
+v5_Lang87; Numbering; नंबरिंग
+v5_Lang88; Decrease Indent; समान का आर्डर कम करें
+v5_Lang89; Increase Indent; बढ़ते हुए अंतर में
+v5_Lang90; Date; तारीख
+v5_Lang91; Time; समय
+v5_Lang92; User; उपयोगकर्ता
+v5_Lang93; Changes; परिवर्तन
+v5_Lang94; Include spaces; रिक्त स्थान शामिल करें
+v5_Lang95; Number of items; मदों की संख्या
+v5_Lang96; Output format; आउटपुट स्वरूप
+v5_Lang97; Output if empty; खाली होने पर आउटपुट
+v5_Lang98; Trim spaces; ट्रिम स्पेस
+v5_Lang99; All; सब
+v5_Lang100; Adapt case; अनुकूल मामला
+v5_Lang101; Uppercase; अपरकेस
+v5_Lang102; Lowercase; छोटे
+v5_Lang103; Find and replace; ढूँढें और बदलें
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; क्या आप इस टैब की प्राथमिकताओं को उनके डिफ़ॉल्ट मानों पर रीसेट करना चाहेंगे?
+v5_Lang105; Reset ALL preferences; सभी प्राथमिकताएँ रीसेट करें
+v5_Lang106; Multi line; मल्टी लाइन
+v5_Lang107; Tables folder; टेबल्स फ़ोल्डर
+v5_Lang108; Input Format; इनपुट प्रारूप
+v5_Lang109; Digits; केवल अंक
+v5_Lang110; All matches; सभी मैच हुए
+v5_Lang111; Neutral color icon; तटस्थ रंग आइकन
+v5_Lang112; Auto save; स्वतः सेव
+v5_Lang113; Video tutorials; विडियो ट्यूटोरियल
+v5_Lang114; Message Box; सदेश बॉक्स
+v5_Lang115; Buttons; बटन
+v5_Lang116; Stop; रोकें
+v5_Lang117; Any key; कोई भी कुंजी
+v5_Lang118; Relative to window; Window के अनुसार
+v5_Lang119; Keyboard; कीबोर्ड
+v5_Lang120; Open Shared File; साझा की हुई फाइल खोलें
+v5_Lang121; Share; साझा करे
+v5_Lang122; Export; निर्यात करें
+v5_Lang123; Send Link; लिंक भेजें
+v5_Lang124; If item exists; अगर आइटम मौजूद है
+v5_Lang125; Skip; छोड़ें
+v5_Lang126; Replace; प्रतिस्थापित करें
+v5_Lang127; Select tabs; टैब सेलेक्ट करें
+v5_Lang130; File already exists.; फाइल पहले से मौजूद है
+v5_Lang131; Are you sure?; क्या आप निश्चित है?
+v5_Lang132; item(s) will be shared.; वस्तु शेयर हो जायेगा
+v5_Lang133; duplicate(s) found; नक़ल आइटम मिला
+v5_Lang134; will be skipped.; छोड़ा जायेगा
+v5_Lang135; will be replaced.; प्रतिस्थापित किया जायेगा
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; अपने व्यवस्थापक से प्राप्त पथ को नीचे दिए गए फ़ील्ड में पेस्ट करें या फ़ाइल का चयन करें
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; चयनित सामग्री को अन्य उपयोगकर्ताओं के साथ साझा करें। मौजूदा टैब चुनें या नया टैब नाम दर्ज करें।
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; सेटिंग्स को क्लाउड या नेटवर्क स्थान पर निर्यात करें जहां अन्य उपयोगकर्ता इसे एक्सेस कर सकें
+v5_Lang139; Search command; कमांड ढूंढे
+v5_Lang140; Remember last input; अंतिम इनपुट याद रखें
+v5_Lang141; Startup script; स्टार्टअप स्क्रिप्ट
+v5_Lang142
+v5_Lang143; Grid Selection; ग्रिड चुनाव
+v5_Lang144; Set columns; कॉलम सेट करें
+v5_Lang145; Selection type; चुनाव के प्रकार
+v5_Lang146; Optional Section; विकल्पीय चुनाव
+v5_Lang147; Select "Command" mode to enable more options.; अधिक विकल्प के लिए "कमांड " मोड चुने
+v5_Lang148; Use clipboard; क्लिपबोर्ड उपयोग करें
+v5_Lang149; Loop; लूप
+v5_Lang150; Loop count; लूप की संख्या
+v5_Lang151; Default button; डिफ़ॉल्ट बटन
+v5_Lang152; Timeout (s); टाइमआउट
+v5_Lang153; Required; अवश्यक
+v5_Lang154; Letters; अक्षर
+v5_Lang155; Numbers; संख्या
+v5_Lang156; Email; ईमेल
+v5_Lang157; Align elements horizontally; तत्वों को क्षैतिज रूप से संरेखित करें
+v5_Lang158; Comment; टिप्पणी
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; सक्रिय है।¶सेटिंग्स विंडो को फिर से खोलने के लिए फास्टकीज़ ट्रे आइकन पर क्लिक करें, या F8 दबाएँ
+v5_Lang160; Alternative backspace method; वैकल्पिक बैकस्पेस विधि
+v5_Lang161; If they fit in one row; यदि वे एक पंक्ति में फिट हो जाएं
+v5_Lang162; Preview not available; पूर्वावलोकन उपलब्ध नहीं है
+v5_Lang163; Switch View; दृश्य स्विच करें
+v5_Lang164; Not supported:
+v5_Lang165; Selected items were saved to; चयनित आइटम यहां सहेजे गए
+v5_Lang166; Save Selected As; चयनित को सहेजें
+v5_Lang167; First Letter; पहली अक्षर
+v5_Lang168; Copy to Clipboard; क्लिपबोर्ड में कॉपी करें
+
+[Version 6.00]
+v6_Lang01; Grid Check; ग्रिड चेक
+v6_Lang02; Single; एकल
+v6_Lang03; Multi; बहु
+v6_Lang04; Delimiters; सीमांकक
+v6_Lang05; Checked; चेक किए गए
+v6_Lang06; Unchecked; बिना चेक किए गए
+v6_Lang07; Output; उत्पादन
+v6_Lang08; Group output; दल उत्पादन
+v6_Lang09; Repeat last command; अंतिम कमांड को दोहराए
+v6_Lang10; Double press; दो बार दबाएँ
+v6_Lang11; Long press; लम्बा दबाये
+v6_Lang12; Wait time (s); प्रतीक्षा समय (से)
+v6_Lang13; Recognize items; पहचानी गयी आइटम
+v6_Lang14; Voice Recognition; आवाज़ पहचान
+v6_Lang15; Base value; आधार मूल्य
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday; रविवार|सोमवार|मंगलवार|बुधवार|गुरुवार|शुक्रवार
+v6_Lang17; Date/Time Calculation; दिनांक/समय गणना
+v6_Lang18; Auto restore hook (min); ऑटो रीस्टोर हुक (न्यूनतम)
+v6_Lang19; Auto reload (min); स्वचालित पुनः लोड (मिनट)
+v6_Lang20; If condition; अगर परिस्थिति
+v6_Lang21; Else; अन्य
+v6_Lang22; Case If Conditions
+v6_Lang23; Are you sure you want to change the options for the

@@ -1,0 +1,798 @@
+﻿; English; Chinese Simplified
+; Chinese Simplified
+; Translation by 梦幻のFF, xhzkp
+; https://space.bilibili.com/2803
+[Gui]
+g_Lang01; Start Menu; 开始菜单
+g_Lang02; Shortcuts; 快捷方式
+g_Lang03; Text Expander; 文本扩展
+g_Lang04; Auto Complete; 自动完成
+g_Lang05; Gestures; 手势
+g_Lang06
+g_Lang11; New; 新建
+g_Lang12; Edit; 编辑
+g_Lang13; Delete; 删除
+g_Lang14; Run; 运行
+g_Lang15; Active; 活动
+g_Lang16; Menu; 菜单
+g_Lang17; Submenu; 子菜单
+g_Lang18; Type; 模式
+g_Lang19; Command; 指令
+g_Lang20; Run Type; 运行模式
+g_Lang21; Key; 按键
+g_Lang22; Shortcut; 快捷方式
+g_Lang23; Description; 描述
+g_Lang24; Window; 窗口
+g_Lang25; String; 字符串
+g_Lang26; Substitute; 代替
+g_Lang27; Gesture; 手势
+g_Lang28
+g_Lang31; Paused; 暂停
+g_Lang32; Active; 活动
+g_Lang33; Untitled; 未命名
+g_Lang40
+g_Lang41; Separator; 分隔符
+g_Lang42; Undo; 撤销
+g_Lang43; Redo; 重做
+g_Lang44; Move Up; 上移
+g_Lang45; Move Down; 下移
+g_Lang46; Are you sure to remove; 你确定移除
+g_Lang47; selected items; 选择项目
+g_Lang50
+g_Lang51; Preferences; 偏好
+g_Lang52; Support Forum; 支持论坛
+g_Lang53; Help; 帮助
+g_Lang54; Select a file or folder; 选择一个文件或文件夹
+g_Lang55; Edit command in Editor; 在编辑器中编辑指令
+g_Lang56; Select a preset command; 选择一个预设指令
+g_Lang60
+g_Lang61; Registered to; 注册给
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; 试用版已过期.
+g_Lang63; TRIAL PERIOD.; 试用期.
+g_Lang64
+g_Lang71; Do you want to save changes?; 你想现在保存变更?
+g_Lang72; Save file as...; 另存为...
+g_Lang73; Do you want to save changes to; 你想现在保存变更到
+g_Lang74; Please select FastKeys data file.; 请选择FastKeys数据文件.
+g_Lang75; Not a valid FastKeys file.; 不是有效的FastKeys文件.
+g_Lang76; Save FastKeys data file as…; 保存FastKeys数据文件到…
+g_Lang78; Are you sure to overwrite existing data?; 确定覆盖现有数据?
+g_Lang79; Select folder:; 选择文件夹:
+g_Lang80; Duplicate entry, please correct.; 存在重复项, 请更正.
+g_Lang81; File does not exist.; 文件不存在.
+g_Lang82; Please select a Phrase file.; 请选择短语文件.
+g_Lang83; Please select a Wordlist file.; 请选择词汇表文件.
+g_Lang84; Too many menu entries.; 菜单入口过多.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; 立即触发
+g1_Lang03; Delete ending char; 删除结尾字符
+g1_Lang04; Don't delete string; 不要删除字符串
+g1_Lang05; Case sensitive; 大小写敏感
+g1_Lang06; Trigger inside word; 触发内部词语
+g1_Lang07; Send raw text; 发送原始文本
+g1_Lang08; Manual confirmation; 手动确认
+g1_Lang09
+g1_Lang11; None; 无
+g1_Lang12; Auto Run; 自动运行
+g1_Lang13; Run on Startup; 自启动运行
+g1_Lang14; Include Files; 包含文件
+g1_Lang15; Include Subfolders; 包含子文件夹
+g1_Lang16; Include Files and Subfolders; 包含文件和子文件夹
+g1_Lang17
+g1_Lang21; Record; 录制
+g1_Lang22; Record a New Gesture ; 录制新手势
+g1_Lang23; Right Mouse Button; 鼠标右键
+g1_Lang24; key; 键
+g1_Lang25; Hold; 按住
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; 以及在屏幕任意处画出手势, 点击 回车 或 确定 按钮来完成.
+g1_Lang28
+g1_Lang31; Abbreviation; 缩写
+g1_Lang32; Phrase; 短语
+g1_Lang33; Word; 文字
+g1_Lang34; Phrase file; 短语文件
+g1_Lang35; Wordlist file; 词汇表文件
+g1_Lang36
+g1_Lang41; Line; 行
+g1_Lang42; Column; 列
+g1_Lang43
+g1_Lang51; Advanced shortcut; 高级快捷方式
+g1_Lang52; Modifier; 调节
+g1_Lang53; Optional Attributes; 附加属性
+g1_Lang54; Native; 原生
+g1_Lang55; Wildcard; 通配符
+g1_Lang56; Hook; 钩子
+g1_Lang57; L/R only; 仅鼠标左右键
+g1_Lang58; Keys; 按键
+g1_Lang59; Standard; 标准
+g1_Lang60; Function keys; 功能键
+g1_Lang61; Numpad; 数字小键盘
+g1_Lang62; Mouse; 鼠标
+g1_Lang63; Multimedia; 多媒体
+g1_Lang64; Special; 特殊
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; 文件(&F)
+m_Lang02; &Edit; 编辑(&E)
+m_Lang03; &Insert; 插入(&I)
+m_Lang04; &Tools; 工具(&T)
+m_Lang05; &Help; 帮助(&H)
+m_Lang06; &Register; 注册(&R)
+m_Lang07
+m_Lang11; &New; 新建(&N)
+m_Lang12; &Open; 打开(&O)
+m_Lang13; &Save; 保存(&S)
+m_Lang14; Save &As; 另存为(&A)
+m_Lang15; E&xit; 退出(&X)
+m_Lang16
+m_Lang21; &Edit; 编辑(&E)
+m_Lang22; &Delete; 删除(&D)
+m_Lang23; Re&load; 重新载入(&L)
+m_Lang24; &Pause; 暂停(&P)
+m_Lang25
+m_Lang31; &Preferences; 偏好(&P)
+m_Lang32; &Module Activation; 激活模块(&M)
+m_Lang33; &Auto Learn Settings; 自学习设定(&A)
+m_Lang34; &Check for Updates; 检测更新(&C)
+m_Lang35; &Update Menu Icons; 更新菜单图标(&U)
+m_Lang36
+m_Lang41; &Help; 帮助(&H)
+m_Lang42; &Support Forum; 支持论坛(&S)
+m_Lang43; &View Quick Tips; 查看快捷小窍门(&V)
+m_Lang44; &About; 关于
+m_Lang45
+m_Lang51; Open from &Library; 从库打开(&L)
+m_Lang52; Cut; 剪切
+m_Lang53; Copy; 复制
+m_Lang54; Paste; 粘贴
+m_Lang55; Select All; 全选
+m_Lang56; Read Only; 只读
+m_Lang57; Zoom in; 放大
+m_Lang58; Zoom out; 缩小
+m_Lang59; Default Zoom; 默认缩放
+m_Lang60; Zoom; 缩放
+m_Lang61; Always On Top; 置顶
+m_Lang62; Line Wrap; 自动换行
+m_Lang63; View; 查看
+m_Lang64; Open Script; 打开脚本
+
+[FastKeys]
+f_Lang01; Loading FastKeys; 载入FastKeys
+f_Lang02; Settings; 设置
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; 错误. 部分指令已中止.¶¶请确认最后编辑的指令并更正可能重复的功能.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; 从网络获取图标失败, 请检查网络和防火墙设定.¶¶为了快速加载, 自动检查更新已关闭. 你可以在偏好中打开自动下载图标功能.
+f_Lang14; Save settings before continuing?; 在继续前先保存设置?
+f_Lang15; Add to; 添加到
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; 感谢使用FastKeys试用版. 你已获得一个本软件的试用权限. 注册版本不会提示这条信息.
+f_Lang22; Press "Continue" to continue using trial version.; 点击 "继续" 来继续试用本软件.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; 已注册用户请在下面填写取得的注册信息来激活完整功能. 复制或手动输入注册码在文本框内然后点击 "注册".¶¶点击 "购买" 来购买一个激活码或点击 "取消" 来继续使用试用版.
+f_Lang36
+f_Lang41; Name/Company:; 名字:
+f_Lang42; Registration key:; 注册码:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; 注册码有误. 请再试一次。
+f_Lang46; Congratulations, you have registered FastKeys!; 恭喜, 你成功注册了FastKeys!
+f_Lang47
+f_Lang51; Open Menu; 打开菜单
+f_Lang52; Reload; 重新载入
+f_Lang53; Pause; 暂停
+f_Lang54; Exit FastKeys; 退出FastKeys
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; 确定
+b_Lang02; Cancel; 取消
+b_Lang03; Save; 保存
+b_Lang06; Select; 选择
+b_Lang07; Defaults; 默认
+b_Lang08; Register; 注册
+b_Lang11; Purchase; 购买
+b_Lang12; Continue; 继续
+b_Lang14; Test; 测试
+b_Lang17; Open; 打开
+b_Lang18; Edit; 编辑
+b_Lang19; Library; 库
+b_Lang22; Edit File; 编辑文件
+
+[Library]
+l_Lang01; Utility; 实用工具
+l_Lang02
+l_Lang03; Scripts; 脚本
+l_Lang04; Audio; 音频
+l_Lang05; Games; 游戏
+l_Lang06
+l_Lang11; Control Panel; 控制面板
+l_Lang12; System Folders; 系统文件夹
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; 系统
+l_Lang15; Utilities; 实用工具
+l_Lang16; Windows; Windows
+l_Lang17; Shell; 外壳
+l_Lang18
+l_Lang21; Keys; 按键
+l_Lang22; Cursor Position; 鼠标指针位置
+l_Lang23; Mouse and Media; 鼠标和媒体
+l_Lang24; Date and Time; 日期和时间
+
+[Preferences]
+s_Lang01; General; 通用
+s_Lang02; Appearance; 外观
+s_Lang03; Functions; 功能
+s_Lang04; Folders; 文件夹
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; 自动学习
+s_Lang10
+s_Lang11; Internet; 互联网
+s_Lang12; Module Activation; 模块激活
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; 选择 保存/确定 来更新图标.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; 你想访问FastKeys主页来查看软件使用的快捷小窍门?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; 检查更新出错. 请重试, 或访问FastKeys网站检查并手动下载.¶¶为了快速加载, 自动检查更新已关闭.
+s_Lang25; You are using the latest version of; 你正在使用最终版的
+s_Lang26; A new version of FastKeys; 一个FastKeys的新版本
+s_Lang27; is available.; 已存在.
+s_Lang28; Would you like to install it now?; 打算现在安装吗?
+s_Lang29; Downloading FastKeys, Version; 下载FastKeys中, 版本
+s_Lang30; Please wait ...; 请等待 ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; 下载发生错误. 请重试或访问FastKeys网站手动下载.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; 快速添加
+s1_Lang02; Quick add to ; 快速添加到
+s1_Lang03; Ask; 询问
+s1_Lang04; Learn Wordlist File; 学习词汇表文件
+s1_Lang05; Pause shortcut; 暂停快捷方式
+s1_Lang06; General options; 通用设置
+s1_Lang07; Run FastKeys on startup; 系统启动时自动运行FastKeys
+s1_Lang08; Show tray icon; 显示托盘图标
+s1_Lang09; Clicking tray icon shows Start Menu; 点击托盘图标打开开始菜单
+s1_Lang10; Auto check for software updates; 自动检查软件更新
+s1_Lang11; Language; 语言
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; 显示网格
+s2_Lang03; Show stripes; 显示条纹
+s2_Lang04; Show loading progress; 显示读取进度
+s2_Lang05; Display Apply, Edit, Delete buttons; 显示 应用, 编辑, 删除 按钮
+s2_Lang06; Transparency (%); 透明度 (%)
+
+[Preferences 3]
+s3_Lang01; Volume; 音量
+s3_Lang02; Control with mouse wheel on right screen edge; 在屏幕右边缘用鼠标滚轮控制
+s3_Lang03; Volume sensitivity; 音量灵敏度
+s3_Lang04; Auto-correct; 自动更正
+s3_Lang05; Correct sentence capitals; 更正大小写
+s3_Lang06; Correct DOuble CApitals; 更正双字符大写(Correct DOuble CApitals)
+s3_Lang07; Disable CapsLock key; 禁用CapsLock按键
+s3_Lang08; Memory; 内存
+s3_Lang09; Optimize memory; 优化内存
+
+[Preferences 4]
+s4_Lang01; Scripts folder; 脚本文件夹
+s4_Lang02; Phrase files folder; 短语文件夹
+s4_Lang03; Wordlist files folder; 词汇表文件夹
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; 菜单快捷方式
+s5_Lang02; Show menu on; 显示菜单在
+s5_Lang03; Top edge; 顶部边缘
+s5_Lang04; Right edge; 右边缘
+s5_Lang05; Left edge; 左边缘
+s5_Lang06; Bottom edge; 底部边缘
+s5_Lang07; Menu options; 菜单设置
+s5_Lang08; Show menu icons; 显示菜单图标
+s5_Lang09; Auto download website icons; 自动下载网站图标
+s5_Lang10; Larger icons; 大图标
+s5_Lang11; Disable menu in full screen applications; 运行全屏程序时关闭菜单
+s5_Lang12; Add settings to Start Menu; 添加设置到开始菜单
+s5_Lang13; Menu delay (ms); 菜单延时 (ms)
+s5_Lang14; Show recent items; 显示最近项
+s5_Lang15; Files; 文件
+s5_Lang16; Folders; 文件夹
+s5_Lang17; Files and folders; 文件和文件夹
+s5_Lang18; Show in submenu; 在子菜单中显示
+
+[Preferences 6]
+s6_Lang01; Only active in; 仅可用于
+s6_Lang02; Not active in; 不可用于
+
+[Preferences 7]
+s7_Lang01; Default prefix; 默认前缀
+s7_Lang02; Ending characters; 末尾字符
+s7_Lang03; Space; Space
+s7_Lang04; Tab; Tab
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; 分隔符
+s7_Lang07; Clipboard; 剪贴板
+s7_Lang08; Use clipboard if text length exceeds (char); 使用剪贴板如果文字超过了 (字符)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; 更正为建议词(Correct case of suggested word)
+s8_Lang03; Minimum word length to show suggestion; 最小显示建议的单词长度
+s8_Lang04; Word suggestion list height; 单词建议列表高度
+s8_Lang05; Special characters; 特殊字符
+s8_Lang06; (list of special alphabet characters to be recognized; (要识别的特殊字母字符列表
+s8_Lang07; as a part of a word); 作为一个词的一部分)
+
+[Preferences 9]
+s9_Lang01; Auto learn; 自动学习
+s9_Lang02; Turn on automatic word learning; 启用自动单词学习
+s9_Lang03; Learn wordlist file; 学习词汇表文件
+s9_Lang04; Learning options; 学习选项
+s9_Lang05; Minimum length of learned words; 最小学习单词长度
+s9_Lang06; Number of occurences to learn a word; 学习单词出现次数
+s9_Lang07; Save learned words as lowercase; 用小写来保存学习词汇
+
+[Preferences 10]
+s10_Lang01; Gesture Key; 手势键
+s10_Lang02; Options; 选项
+s10_Lang03; Show mouse trail; 显示鼠标轨迹
+s10_Lang04; Play sound for no match; 不匹配时播放声音
+s10_Lang05; Recognize 8 zones (advanced); 识别8个区域 (高级)
+s10_Lang06; Advanced; 高级
+s10_Lang07; Interval (ms); 间隔 (ms)
+s10_Lang08; Threshold (px); 临界 (像素)
+s10_Lang09; Timeout (ms); 超时 (ms)
+s10_Lang10; Initial timeout (ms); 初始超时 (ms)
+s10_Lang11; Tolerance (%); 宽容度 (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; 检查FastKeys的新版本
+s11_Lang02; Update; 更新
+s11_Lang03; Update Start menu icons from internet; 从网络上更新开始菜单图标
+s11_Lang04; Update icons; 更新图标
+s11_Lang05; View quick tips for using FastKeys; 查看使用FastKeys的快捷小窍门
+s11_Lang06; View quick tips; 查看快捷小窍门
+
+[Preferences 12]
+s12_Lang01; Active modules; 激活模块
+s12_Lang03; Hide disabled modules; 隐藏禁用模块
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; 剪贴板管理器
+v211_Lang01; Clipboard shortcut; 剪贴板快捷方式
+v211_Lang02; History size; 历史大小
+v211_Lang03; Capture images and formatting; 捕捉图像并格式化
+v211_Lang04; Hold Ctrl key to paste without formatting; 按住Ctrl键进行无格式粘贴
+v211_Lang05; Clipboard font; 剪贴板字体
+v211_Lang06; Popups; 弹出
+v211_Lang07; Maximum popup width; 最大弹出宽度
+v211_Lang08; Show shortcut numbers; 显示快捷方式编号
+v211_Lang09; New File; 新文件
+v211_Lang10; New Empty File; 新的空文件
+v211_Lang11; Backup files folder; 备份文件的文件夹
+v211_Lang12; Number of saved backups; 保存备份的数目
+
+[Version 2.14]
+v214_Lang00; Duplicate; 副本
+v214_Lang01; Macro Recorder; 宏录制
+v214_Lang02; Record shortcut; 录制快捷方式
+v214_Lang03; Play shortcut; 运行快捷方式
+v214_Lang04; Recording options; 录制设置
+v214_Lang05; Keyboard actions; 键盘动作
+v214_Lang06; Mouse clicks; 鼠标点击
+v214_Lang07; Time intervals; 时间间隔
+v214_Lang08; Window actions; 窗口动作
+v214_Lang09; Show virtual key names; 显示虚拟键名
+v214_Lang10; Show save dialog after recording; 录制完成后显示保存对话框
+v214_Lang20; Press; 点击
+v214_Lang21; or "Record" button to start recording; 或 "录制" 按钮来开始录制
+v214_Lang22; to finish; 来完成
+v214_Lang23; Recording macro; 宏录制中
+v214_Lang24; Recording completed; 录制完成
+v214_Lang25; Recorded Macro; 已录制的宏
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; 启用短语文件缩写字符串
+v217_Lang02; New Tab; 新标签页
+v217_Lang03; Rename; 重命名
+v217_Lang04; Move Left; 左移
+v217_Lang05; Move Right; 右移
+v217_Lang06; tab; tab
+v217_Lang07; Tab Name; 标签页名称
+
+[Version 2.19]
+v219_Lang01; More; 更多
+v219_Lang02; Settings shortcut; 设置快捷方式
+v219_Lang04; Popups font and color; 弹出字体和颜色
+v219_Lang05; Color and style; 颜色和风格
+v219_Lang06; Sort; 排序
+v219_Lang07; Alphabetically; 按字母顺序排列
+v219_Lang08; Include similar words (smart search); 包含相似单词 (智能搜索)
+v219_Lang09; Don't learn strings; 不学习字符串
+v219_Lang10; Trail width and color; 拖曳宽度和颜色
+v219_Lang11; Run as administrator; 以管理员权限运行
+v219_Lang12; Formatting; 格式化
+v219_Lang13; Normal; 正常
+v219_Lang14; No Icons; 无图标
+v219_Lang15; Small; 小图标
+v219_Lang16; Apply; 应用
+
+[Version 2.20]
+v220_Lang02; Icon size; 图标尺寸
+v220_Lang04; Break menu at separator; 分隔符菜单
+v220_Lang05; Increase line spacing; 增加行间距
+v220_Lang06; Selection color; 选择颜色
+v220_Lang07; Invert selection text color; 反选文字颜色
+v220_Lang08; Show clipboard items; 显示剪贴板内容
+
+[Version 2.22]
+v222_Lang01; Selection keys; 选择按键
+v222_Lang02; Number; 数字编号
+v222_Lang03; Insert mode; 插入模式
+v222_Lang04; Show line numbers; 显示行数字
+v222_Lang05
+v222_Lang06; More options; 更多选项
+v222_Lang07; Fewer options; 更少选项
+v222_Lang08; Always show more options; 总显示更多选项
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; 在菜单下移动
+v300_Lang02; System Variables; 系统变量
+v300_Lang03; Macros; 宏
+v300_Lang04; Manual Text Input; 手动文字输入区域
+v300_Lang05; File Contents; 文件内容
+v300_Lang06; Name; 变量名
+v300_Lang07; Paragraph Options; 段落选项
+v300_Lang08; Spacing; 间隔
+v300_Lang09; Before; 之前
+v300_Lang10; After; 之后
+v300_Lang11; Line spacing; 行间隔
+v300_Lang12; Reload shortcut; 重新载入快捷方式
+v300_Lang13; Paste delay (ms); 延时粘贴 (ms)
+v300_Lang14; No formatting; 无格式
+v300_Lang15; Rich Text; 富文本(Rich Text)
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; 按住Shift键来不关闭粘贴(paste without closing)
+v300_Lang18; Window Information; 窗口信息
+v300_Lang19; Insert Another Item; 插入另一项
+v300_Lang20; Filter; 过滤
+v300_Lang21; Selection Form; 输入选择
+v300_Lang22; Selections; 选择
+v300_Lang23; Preview; 预览
+v304_Lang01; Title; 窗口标题
+v304_Lang02; Class; 类
+v304_Lang03; Process; 进程
+v304_Lang04; Position (x, y); 坐标 (x, y)
+v304_Lang05; Size (w, h); 尺寸 (宽, 高)
+v304_Lang06; Control; 实体类NN
+v304_Lang07; Text; 文本
+v304_Lang08; Mouse Position; 鼠标坐标
+v304_Lang09; Color; 颜色
+v304_Lang10; Insert Image; 插入图像
+v304_Lang11; Display suggestions as you type (Auto Complete settings); 按类型显示建议 (自动完成设置)
+v304_Lang12; Shift; Shift
+v304_Lang13; Include words containing the string; 包括包含以下字符串的单词
+v304_Lang14; Enable column sorting; 启用列排序
+v304_Lang15; Description separator; 描述分隔符
+v304_Lang16; Copy to Start Menu; 复制到开始菜单
+v304_Lang17; Key delay (ms); 按键延时 (ms)
+v304_Lang18; Key delays only active in; 按键延时仅可用于
+v304_Lang19; Display options; 显示设置
+v304_Lang20; New from Library; 从库新建
+v304_Lang21; Variable name contains illegal characters:; 变量名包含非法字符:
+v304_Lang22; User Variables; 用户变量
+v304_Lang23; Usage Statistics; 使用统计
+v304_Lang24; Times executed; 执行时间
+v304_Lang25; Keystrokes saved; 已保存击键
+v304_Lang26; Time savings; 节约时间
+v304_Lang27; Session; 线程
+v304_Lang28; Track usage statistics; 跟踪使用情况统计
+v304_Lang29; Typing speed (wpm); 输入速度 (wpm)
+v304_Lang30; Hourly wage; 小时工资
+v304_Lang31; Insert Command Code; 插入指令代码
+v304_Lang32; Command Name; 指令名
+v304_Lang33; Enable; 启用
+v304_Lang34; Disable; 禁用
+v304_Lang35; Enable random text generation syntax (Spintax); 启用随机文本生成语法 (Spintax)
+v304_Lang36; Font; 字体
+v304_Lang37; Adjust to typed case; 调整类型的情况(Adjust to typed case)
+v304_Lang38; Condition; 条件
+v304_Lang39; Condition Name; 条件名
+v304_Lang40; Allow duplicates; 允许副本
+v304_Lang42; Append; 追加
+v304_Lang43; Include descriptions; 包含描述
+v304_Lang44; Delimited Text File; 限制的文本文件
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; AutoHotkey v1 脚本
+v304_Lang47; Import ; 导入
+v304_Lang48; Import to; 导入到
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); 定界符 (最后)
+v400_Lang02; Format; 格式
+v400_Lang03; Sounds; 声音
+v400_Lang04; Show title bar; 显示标题栏
+v400_Lang05; Break into columns; Break to columns(无滚动条时使用更大的输入窗口适应屏幕)
+v400_Lang06; Clipboard capture; 捕捉剪贴板
+v400_Lang07; Macro record/play; 录制/播放 宏
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); 为富文本使用剪贴板 (需要重编辑 re-edit)
+v400_Lang09; Module; 模块
+v400_Lang10; Restore Backup; 恢复
+v400_Lang11; Backup file; 备份文件
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; 你确定要恢复上个版本的数据?¶¶这会覆盖所有当前的设定.
+v400_Lang13; Shadow type; 阴影类型
+v400_Lang14; Save history; 保存历史
+v400_Lang15; Control Click; 单击控件
+v400_Lang16; Key delays; 按键延时
+v400_Lang17; Key press duration (ms); 按键持续时间
+v400_Lang18; Dialog delay (ms); 对话框延迟
+v400_Lang19; Focus change delay (ms); 焦点变化延迟
+v400_Lang20; Force window focus; 强制激活窗口
+v400_Lang21; Current Tab; 当前标签页
+v400_Lang22; Top edge zone (L-R %); 顶部区域
+v400_Lang23; Mode; 模式
+v400_Lang24; Click; 单击
+v400_Lang25; Calculate math expressions; 计算数学表达式
+v400_Lang26; Continuous calculation (instead of pressing =); 连续计算
+v400_Lang27; Show thousands separator; 显示千位分隔符
+v400_Lang28; Round (decimals); 回合（小数）
+v400_Lang29; File path; 文件路径
+v400_Lang30; Result; 结果
+v400_Lang31; Find; 查找
+v400_Lang32; Find Next; 查找下一个
+v400_Lang33; Search description; 搜索描述
+v400_Lang34; Restrictions; 限制
+v400_Lang35; Backup; 备份
+v400_Lang36; Encrypt with password; 使用密码加密
+v400_Lang37; Password; 密码
+v400_Lang38; Verify; 校验
+v400_Lang39; Data Protection; 数据保护
+v400_Lang40; Encrypt file; 加密文件
+v400_Lang41; Remember on this computer; 在本机上保存密码
+v400_Lang42; Protect backups; 保护备份
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; 重要提示：如果忘记密码，您将无法访问数据。激活前创建的备份文件不受保护。短语和词汇表文件不受保护。
+v400_Lang44; Support Mail; 支持邮箱
+v400_Lang45; The password is incorrect, please try again.; 密码错误，请重试！
+v400_Lang46; Quick find; 快速查找
+v400_Lang48; Search current typed word; 搜索当前键入的单词
+v400_Lang49; Calculator; 计算器
+v400_Lang50; Show suggestion; 显示建议
+v400_Lang51; Special characters; 特殊字符
+v400_Lang52; Online Documentation; 在线文档
+v400_Lang53; Print; 打印
+v400_Lang54; Automatic spacing; 自动间距
+v400_Lang55; Remove text margin; 删除文字边距
+v400_Lang56; Menu icon; 菜单图标
+v400_Lang57; Remove vertical lines; 删除垂直线
+v400_Lang58; Enable modifiers (!+^#); 启用修饰符
+v400_Lang59; Position above the caret; 位于插入符号上方
+v400_Lang60; Properties; 属性
+v400_Lang61; Round time to; 回合时间
+v400_Lang62; days; 天数
+v400_Lang63; business days; 工作日
+v400_Lang64; hours; 小时
+v400_Lang65; minutes; 分钟
+v400_Lang66; months; 月份
+v400_Lang67; years; 年份
+v400_Lang70; Update order on paste; 粘贴时更新顺序
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; 您确定要创建新的设置文件吗？您的当前设置不会被删除 - 使用文件/打开再次打开您的设置文件。
+v400_Lang72; Position; 位置
+v400_Lang73; Below the caret; 符号下方插入
+v400_Lang74; Above the caret; 符号上方插入
+v400_Lang75; Alternative position; 替代位置
+v400_Lang76; Mouse cursor; 鼠标光标
+v400_Lang77; Centered; 中心
+v400_Lang78; Tray; 托盘
+v400_Lang89; Upgrade to Professional; 升级到专业版
+v400_Lang90; Shared settings; 共享设置
+v400_Lang91; Team; 团队
+v400_Lang92; Shared file; 共享文件
+v400_Lang93; Edit shared file; 编辑共享文件
+v400_Lang94; Shared file editing.; 共享文件编辑。
+v400_Lang95; Shared file saved, returning to normal mode.; 共享文件已保存，返回正常模式。
+v400_Lang96; Information; 信息
+v400_Lang97; SHARED; 共享
+v400_Lang98; Remember popup position; 记住弹出位置
+v400_Lang99; Prefixes; 前缀
+v426_Lang01; Default suffix; 默认后缀
+v426_Lang02; Exclusions; 排除
+
+[Version 5.00]
+v5_Lang01; Default text; 默认文本
+v5_Lang02; No output; 无输出
+v5_Lang03; Open Web Page; 打开网页
+v5_Lang04; Run Program; 运行程序
+v5_Lang05; Open File; 打开文件
+v5_Lang06; Open Folder; 打开文件夹
+v5_Lang07; Create Mail; 新建邮件
+v5_Lang08; Activate Window; 激活窗口
+v5_Lang09; To; 收件人
+v5_Lang10; CC; 抄送
+v5_Lang11; BCC; 密送
+v5_Lang12; Subject; 主题
+v5_Lang13; Attachments; 附件
+v5_Lang14; Message body; 信息内容
+v5_Lang15; Send automatically; 自动发送
+v5_Lang16; Default; 默认
+v5_Lang17; Address (URL); URL地址
+v5_Lang18; Folder; 文件夹
+v5_Lang19; Custom; 自定义
+v5_Lang20; Browser path; 浏览器路径
+v5_Lang21; Working directory; 工作目录
+v5_Lang22; Maximized; 最大化
+v5_Lang23; Minimized; 最小化
+v5_Lang24; Wait until program closes; 等待直到程序关闭
+v5_Lang25; Browser; 浏览器
+v5_Lang26; Table Selection; 选择表
+v5_Lang27; Text File Lookup; 文本文件查找
+v5_Lang28; Excel File Lookup; Excel文件查找
+v5_Lang29; Lookup; 查找
+v5_Lang30; Table; 表格
+v5_Lang31; Return column(s); 返回列
+v5_Lang32; Table file; 表格文件
+v5_Lang33; Sheet; 工作表
+v5_Lang34; Cell range; 单元格范围
+v5_Lang35; Column no.; 列No.
+v5_Lang36; Equals; 相等
+v5_Lang37; User Input; 用户输入
+v5_Lang38
+v5_Lang39; Output separator; 输出分隔符
+v5_Lang40; Force query; 强制查询
+v5_Lang41; Insert column; 插入列
+v5_Lang42; Delete column; 删除列
+v5_Lang43; Excel Data Range; Excel数据范围
+v5_Lang44; Insert Data; 插入数据
+v5_Lang45; Input; 输入
+v5_Lang46; Automation; 自动化
+v5_Lang47; Customize Menus; 自定义菜单
+v5_Lang48; Show icons; 显示图标
+v5_Lang49; Favourite macros; 收藏宏
+v5_Lang50; Toolbar; 工具栏
+v5_Lang51; More settings; 更多设置
+v5_Lang52; Tiles; 平铺
+v5_Lang53; Icon and text below; 下方显示图标和文本
+v5_Lang54; Icon and text right; 右方显示图标和文本
+v5_Lang55; Icon; 图标
+v5_Lang56; Tile size (W/H px); 平铺尺寸 (宽/高 px)
+v5_Lang57; Padding (px); 内边距(px)
+v5_Lang58; Grid; 网格
+v5_Lang59; Grid size (Rows/Columns); 网格尺寸 (行/列)
+v5_Lang60; Order; 顺序
+v5_Lang61; Outside margin (px); 外边距(px)
+v5_Lang62; Background color; 背景色
+v5_Lang63; Vertical; 垂直
+v5_Lang64; Horizontal; 水平
+v5_Lang65; Display Edit, Delete buttons; 显示 编辑,删除 按钮
+v5_Lang66; Theme; 主题
+v5_Lang67; Calculation; 计算
+v5_Lang68; Save table as; 保存表格为
+v5_Lang69; Insert Another Field; 插入另一个区域
+v5_Lang70; Macro; 宏
+v5_Lang71; Column width; 列宽度
+v5_Lang72; Popup width (px); 弹出宽度(px)
+v5_Lang73; Edit shared file; 编辑共享文件
+v5_Lang74; Recent changes; 历史变更
+v5_Lang75; Yes; 是
+v5_Lang76; No; 否
+v5_Lang77; Bold; 粗体
+v5_Lang78; Italic; 斜体
+v5_Lang79; Underline; 下划线
+v5_Lang80; Align Left; 左对齐
+v5_Lang81; Center; 居中
+v5_Lang82; Align Right; 右对齐
+v5_Lang83; Justify; 两端对齐
+v5_Lang84; Increase Font Size; 增加文字尺寸
+v5_Lang85; Decrease Font Size; 减少文字尺寸
+v5_Lang86; Bullets; 无序列表
+v5_Lang87; Numbering; 有序列表
+v5_Lang88; Decrease Indent; 减少缩进
+v5_Lang89; Increase Indent; 增加缩进
+v5_Lang90; Date; 日期
+v5_Lang91; Time; 时间
+v5_Lang92; User; 用户
+v5_Lang93; Changes; 变更
+v5_Lang94; Include spaces; 包含空格
+v5_Lang95; Number of items; 项目数
+v5_Lang96; Output format; 输出格式
+v5_Lang97; Output if empty; 空文件也输出
+v5_Lang98; Trim spaces; 去除空格
+v5_Lang99; All; 全部
+v5_Lang100; Adapt case; 适应大小写
+v5_Lang101; Uppercase; 大写
+v5_Lang102; Lowercase; 小写
+v5_Lang103; Find and replace; 查找及替换
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; 确定初始化该页面设置吗?
+v5_Lang105; Reset ALL preferences; 重置全部设置
+v5_Lang106; Multi line; 多行
+v5_Lang107; Tables folder; 表格文件夹
+v5_Lang108; Input Format; 输入格式
+v5_Lang109; Digits; 数字
+v5_Lang110; All matches; 全部匹配
+v5_Lang111; Neutral color icon; 素色图标
+v5_Lang112; Auto save; 自动保存
+v5_Lang113; Video tutorials; 视频教程
+v5_Lang114; Message Box; 消息框
+v5_Lang115; Buttons; 按钮
+v5_Lang116; Stop; 停止
+v5_Lang117; Any key; 任意键
+v5_Lang118; Relative to window; 相对窗口
+v5_Lang119; Keyboard; 键盘
+v5_Lang120; Open Shared File; 打开共享文件
+v5_Lang121; Share; 分享
+v5_Lang122; Export; 导出
+v5_Lang123; Send Link; 发送链接
+v5_Lang124; If item exists; 如果项目存在
+v5_Lang125; Skip; 跳过
+v5_Lang126; Replace; 替换
+v5_Lang127; Select tabs; 选择标签
+v5_Lang130; File already exists.; 文件已存在.
+v5_Lang131; Are you sure?; 确认吗?
+v5_Lang132; item(s) will be shared.; 内容将被共享.
+v5_Lang133; duplicate(s) found; 找到重复项
+v5_Lang134; will be skipped.; 将被跳过.
+v5_Lang135; will be replaced.; 将被替换.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; 把管理员处收到的路径粘贴到下面的字段中或选择文件.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; 与其他用户共享选定内容. 选择现有标签或输入新标签名.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; 导出设置到云端或网络上让其他用户可以访问.
+v5_Lang139; Search command; 搜索指令
+v5_Lang140; Remember last input; 记住上次输入
+v5_Lang141; Startup script; 启动脚本
+v5_Lang142
+v5_Lang143; Grid Selection; 网格选择
+v5_Lang144; Set columns; 设置列
+v5_Lang145; Selection type; 选择类型
+v5_Lang146; Optional Section; 可选部分
+v5_Lang147; Select "Command" mode to enable more options.; 选择"指令"模式以启用更多选项.
+v5_Lang148; Use clipboard; 使用剪贴板
+v5_Lang149; Loop; 循环
+v5_Lang150; Loop count; 循环次数
+v5_Lang151; Default button; 默认按钮
+v5_Lang152; Timeout (s); 超时(秒)
+v5_Lang153; Required; 必填
+v5_Lang154; Letters; 字母
+v5_Lang155; Numbers; 数字
+v5_Lang156; Email; 电子邮件
+v5_Lang157; Align elements horizontally; 水平对齐元素
+v5_Lang158; Comment; 评论
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; 已激活。¶要再次打开设置窗口, 请点击FastKeys托盘图标或按F8.
+v5_Lang160; Alternative backspace method; 替代退格方法
+v5_Lang161; If they fit in one row; 如果它们适合一行
+v5_Lang162; Preview not available; 预览不可用
+v5_Lang163; Switch View; 切换视图
+v5_Lang164; Not supported:; 不支持:
+v5_Lang165; Selected items were saved to; 已保存选定项到
+v5_Lang166; Save Selected As; 将选定项另存为
+v5_Lang167; First Letter; 首字母
+v5_Lang168; Copy to Clipboard; 复制到剪贴板
+
+[Version 6.00]
+v6_Lang01; Grid Check; 网格检查
+v6_Lang02; Single; 单一
+v6_Lang03; Multi; 多重
+v6_Lang04; Delimiters; 分隔符
+v6_Lang05; Checked; 已选中
+v6_Lang06; Unchecked; 未选中
+v6_Lang07; Output; 输出
+v6_Lang08; Group output; 分组输出
+v6_Lang09; Repeat last command; 重复上一个命令
+v6_Lang10; Double press; 双击
+v6_Lang11; Long press; 长按
+v6_Lang12; Wait time (s); 等待时间(秒)
+v6_Lang13; Recognize items; 识别项目
+v6_Lang14; Voice Recognition; 语音识别
+v6_Lang15; Base value; 基础值
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday; 星期日|星期一|星期二|星期三|星期四|星期五
+v6_Lang17; Date/Time Calculation; 日期/时间计算
+v6_Lang18; Auto restore hook (min); 自动恢复钩子(分钟)
+v6_Lang19; Auto reload (min); 自动重新加载(分钟)
+v6_Lang20; If condition; 如果条件
+v6_Lang21; Else; 否则
+v6_Lang22; Case If Conditions; 条件分支
+v6_Lang23; Are you sure you want to change the options for the

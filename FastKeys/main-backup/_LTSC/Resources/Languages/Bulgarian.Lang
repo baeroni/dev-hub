@@ -1,0 +1,798 @@
+﻿; English; Bulgarian
+; Български
+; Translation by Martinpz97
+
+[Gui]
+g_Lang01; Start Menu; Старт меню
+g_Lang02; Shortcuts; Преки пътища
+g_Lang03; Text Expander; Разширител на текст
+g_Lang04; Auto Complete; Авт. завършване
+g_Lang05; Gestures; Жестове
+g_Lang06
+g_Lang11; New; Нов
+g_Lang12; Edit; Редактиране
+g_Lang13; Delete; Изтрий
+g_Lang14; Run; Включи
+g_Lang15; Active; Активен
+g_Lang16; Menu; Меню
+g_Lang17; Submenu; Подменю
+g_Lang18; Type; Тип
+g_Lang19; Command; Команда
+g_Lang20; Run Type; Тип изпълнение
+g_Lang21; Key; Ключ
+g_Lang22; Shortcut; Пряк път
+g_Lang23; Description; Описание
+g_Lang24; Window; Прозорец
+g_Lang25; String; Поредица
+g_Lang26; Substitute; Заместител
+g_Lang27; Gesture; Жест
+g_Lang28
+g_Lang31; Paused; Пауза
+g_Lang32; Active; Активен
+g_Lang33; Untitled; Без заглавие
+g_Lang40
+g_Lang41; Separator; Разделител
+g_Lang42; Undo; Отмени
+g_Lang43; Redo; Повтори
+g_Lang44; Move Up; Преместване нагоре
+g_Lang45; Move Down; Преместване надолу
+g_Lang46; Are you sure to remove; Сигурни ли сте да премахнете
+g_Lang47; selected items; избрани елементи
+g_Lang50
+g_Lang51; Preferences; Предпочитания
+g_Lang52; Support Forum; Форум за поддръжка
+g_Lang53; Help; Помощ
+g_Lang54; Select a file or folder; Изберете файл или папка
+g_Lang55; Edit command in Editor; Команда за редактиране в редактора
+g_Lang56; Select a preset command; Изберете предварително зададена команда
+g_Lang60
+g_Lang61; Registered to; Регистриран на
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; ПРОБНАТА ВЕРСИЯ ИЗТЕЧЕ.
+g_Lang63; TRIAL PERIOD.; ПРОБЕН ПЕРИОД.
+g_Lang64
+g_Lang71; Do you want to save changes?; Искате ли да запазите промените?
+g_Lang72; Save file as...; Запазване на файла като...
+g_Lang73; Do you want to save changes to; Искате ли да запазите промените в
+g_Lang74; Please select FastKeys data file.; Моля, изберете файл с данни FastKeys.
+g_Lang75; Not a valid FastKeys file.; Не е валиден файл FastKeys.
+g_Lang76; Save FastKeys data file as…; Запазете файла с данни FastKeys като...
+g_Lang78; Are you sure to overwrite existing data?; Наистина ли ще презапишете съществуващите данни?
+g_Lang79; Select folder:; Изберете папка:
+g_Lang80; Duplicate entry, please correct.; Дублиран запис, моля коригирайте.
+g_Lang81; File does not exist.; Файлът не съществува.
+g_Lang82; Please select a Phrase file.; Моля, изберете файл с фраза.
+g_Lang83; Please select a Wordlist file.; Моля, изберете файл със списък с думи.
+g_Lang84; Too many menu entries.; Твърде много записи в менюто.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; Задействайте незабавно
+g1_Lang03; Delete ending char; Изтриване на завършващия знак
+g1_Lang04; Don't delete string; Не изтривайте поредица
+g1_Lang05; Case sensitive; Различаващ главни от малки букви
+g1_Lang06; Trigger inside word; Задействайте вътрешната дума
+g1_Lang07; Send raw text; Изпратете суров текст
+g1_Lang08; Manual confirmation; Ръчно потвърждение
+g1_Lang09
+g1_Lang11; None; Нито един
+g1_Lang12; Auto Run; Автоматично изпълнение
+g1_Lang13; Run on Startup; Стартирайте при стартиране
+g1_Lang14; Include Files; Включете файлове
+g1_Lang15; Include Subfolders; Включете подпапки
+g1_Lang16; Include Files and Subfolders; Включете файлове и подпапки
+g1_Lang17
+g1_Lang21; Record; Запис
+g1_Lang22; Record a New Gesture ; Запишете нов жест
+g1_Lang23; Right Mouse Button; Десен бутон на мишката
+g1_Lang24; key; ключ
+g1_Lang25; Hold; Задръжте
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; и нарисувайте жест навсякъде на екрана. Натиснете Enter или OK, за да завършите.
+g1_Lang28
+g1_Lang31; Abbreviation; Съкращение
+g1_Lang32; Phrase; Фраза
+g1_Lang33; Word; Дума
+g1_Lang34; Phrase file; Фаза с фрази
+g1_Lang35; Wordlist file; Файл от списъка с думи
+g1_Lang36
+g1_Lang41; Line; Линия
+g1_Lang42; Column; Колона
+g1_Lang43
+g1_Lang51; Advanced shortcut; Разширен пряк път
+g1_Lang52; Modifier; Модификатор
+g1_Lang53; Optional Attributes; Незадължителни Aтрибути
+g1_Lang54; Native; Местен
+g1_Lang55; Wildcard; Уайлдкард
+g1_Lang56; Hook; Прихващане
+g1_Lang57; L/R only; Само L/R
+g1_Lang58; Keys; Клавиши
+g1_Lang59; Standard; Стандартен
+g1_Lang60; Function keys; Функционални Kлавиши
+g1_Lang61; Numpad; Numpad
+g1_Lang62; Mouse; Мишка
+g1_Lang63; Multimedia; Мултимедия
+g1_Lang64; Special; Специален
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &Файл
+m_Lang02; &Edit; &Редактиране
+m_Lang03; &Insert; &Вмъкване
+m_Lang04; &Tools; &Инструменти
+m_Lang05; &Help; &Помощ
+m_Lang06; &Register; &Регистрирай
+m_Lang07
+m_Lang11; &New; &Нов
+m_Lang12; &Open; &Отворете
+m_Lang13; &Save; &Запази
+m_Lang14; Save &As; Запази &Като
+m_Lang15; E&xit; И&зход
+m_Lang16
+m_Lang21; &Edit; &Редактиране
+m_Lang22; &Delete; &Изтрий
+m_Lang23; Re&load; Повторно з&ареждане
+m_Lang24; &Pause; &Пауза
+m_Lang25
+m_Lang31; &Preferences; &Предпочитания
+m_Lang32; &Module Activation; &Активиране на модул
+m_Lang33; &Auto Learn Settings; &Настройки за Автоматично обучение
+m_Lang34; &Check for Updates; &Провери за актуализации
+m_Lang35; &Update Menu Icons; &Актуализирай Икони на Менюто
+m_Lang36
+m_Lang41; &Help; &Помощ
+m_Lang42; &Support Forum; &Форум за поддръжка
+m_Lang43; &View Quick Tips; &Вижте бързи съвети
+m_Lang44; &About; &Относно
+m_Lang45
+m_Lang51; Open from &Library; Отваря се от &Библиотека
+m_Lang52; Cut; Изрязване
+m_Lang53; Copy; Копиране
+m_Lang54; Paste; Постави
+m_Lang55; Select All; Избери всичко
+m_Lang56; Read Only; Само за четене
+m_Lang57; Zoom in; Увеличи
+m_Lang58; Zoom out; Отдалечи
+m_Lang59; Default Zoom; Мащабиране по подразбиране
+m_Lang60; Zoom; Мащабиране
+m_Lang61; Always On Top; Винаги отгоре
+m_Lang62; Line Wrap; Опаковане на линии
+m_Lang63; View; Изглед
+m_Lang64; Open Script; Отворете скрипта
+
+[FastKeys]
+f_Lang01; Loading FastKeys; Зареждане на FastKeys
+f_Lang02; Settings; Настройки
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; ГРЕШКА. Някои команди бяха спрени. Моля, проверете последните редактирани команди и коригирайте възможните дубликати или синтактични грешки.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; Възникна проблем при извличането на иконите на менюто от мрежата. Моля, проверете настройките си за интернет или защитна стена. ¶¶Автоматичните изтегляния са деактивирани, за да позволят по-бързо зареждане. Можете да активирате Авт изтегляне на икони от менюто Предпочитания.
+f_Lang14; Save settings before continuing?; Да се ​​запазят ли настройките, преди да продължите?
+f_Lang15; Add to; Добави към
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Благодарим ви, че използвате пробно издание на FastKeys. Получен ви е лиценз да използвате това приложение само за оценка. Регистрираната версия не показва това известие.
+f_Lang22; Press "Continue" to continue using trial version.; Натиснете "Напред", за да продължите да използвате пробна версия.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Регистрираните потребители, моля, предоставете вашата информация за регистрация и лиценз по-долу, за да активирате пълната версия на FastKeys. Копирайте или въведете регистрационния ключ в полето за въвеждане и кликнете върху „Регистрация“ .¶¶Кликнете върху „Покупка“, за да закупите регистрационен ключ, или върху „Отказ“, за да продължите да използвате пробната версия.
+f_Lang36
+f_Lang41; Name/Company:; Име/Фирма:
+f_Lang42; Registration key:; Ключ за регистрация:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Грешен регистрационен ключ. Моля, опитайте отново.
+f_Lang46; Congratulations, you have registered FastKeys!; Поздравления, регистрирали сте FastKeys!
+f_Lang47
+f_Lang51; Open Menu; Отворете менюто
+f_Lang52; Reload; Презаредете
+f_Lang53; Pause; Пауза
+f_Lang54; Exit FastKeys; Излезте от FastKeys
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; Добре
+b_Lang02; Cancel; Отказ
+b_Lang03; Save; Запазете
+b_Lang06; Select; Изберете
+b_Lang07; Defaults; По подразбиране
+b_Lang08; Register; Регистрирай
+b_Lang11; Purchase; Покупка
+b_Lang12; Continue; Продължи
+b_Lang14; Test; Тест
+b_Lang17; Open; Отворете
+b_Lang18; Edit; Редактиране
+b_Lang19; Library; Библиотека
+b_Lang22; Edit File; Редактиране на файл
+
+[Library]
+l_Lang01; Utility; Полезност
+l_Lang02
+l_Lang03; Scripts; Скриптове
+l_Lang04; Audio; Аудио
+l_Lang05; Games; Игри
+l_Lang06
+l_Lang11; Control Panel; Контролен панел
+l_Lang12; System Folders; Системни папки
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; Система
+l_Lang15; Utilities; Помощни програми
+l_Lang16; Windows; Windows
+l_Lang17; Shell; Shell
+l_Lang18
+l_Lang21; Keys; Клавиши
+l_Lang22; Cursor Position; Позиция на курсора
+l_Lang23; Mouse and Media; Мишка и Медия
+l_Lang24; Date and Time; Дата и Час
+
+[Preferences]
+s_Lang01; General; Общи
+s_Lang02; Appearance; Външен вид
+s_Lang03; Functions; Функции
+s_Lang04; Folders; Папки
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; Авт Обучение
+s_Lang10
+s_Lang11; Internet; Интернет
+s_Lang12; Module Activation; Активиране на модул
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Изберете OK/Запази, за да актуализирате иконите.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Искате ли да посетите уеб страницата на FastKeys за няколко бързи съвета за използването на програмата?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; Възникна проблем при проверката за актуализации. Моля, опитайте отново или посетете уебсайта на FastKeys, за да проверите и изтеглите ръчно. ¶¶ Автоматичните проверки са деактивирани, за да позволят по-бързо зареждане.
+s_Lang25; You are using the latest version of; Използвате последната версия на
+s_Lang26; A new version of FastKeys; Нова версия на FastKeys
+s_Lang27; is available.; е на разположение.
+s_Lang28; Would you like to install it now?; Искате ли да го инсталирате сега?
+s_Lang29; Downloading FastKeys, Version; Изтегляне на FastKeys, версия
+s_Lang30; Please wait ...; Моля Изчакай ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; Имаше проблем със изтеглянето. Моля, опитайте отново или посетете уебсайта на FastKeys, за да изтеглите ръчно.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; Бързо добавяне
+s1_Lang02; Quick add to ; Бързо добавяне към
+s1_Lang03; Ask; Питай
+s1_Lang04; Learn Wordlist File; Научете Списък с думи (файл)
+s1_Lang05; Pause shortcut; Пряк път на пауза
+s1_Lang06; General options; Общи опции
+s1_Lang07; Run FastKeys on startup; Стартирай FastKeys при пускане на системата
+s1_Lang08; Show tray icon; Показване на трай иконата
+s1_Lang09; Clicking tray icon shows Start Menu; Щракването върху трай иконата, показва менюто "Старт"
+s1_Lang10; Auto check for software updates; Автоматична проверка за актуализации на софтуера
+s1_Lang11; Language; Език
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Показване на мрежи
+s2_Lang03; Show stripes; Покажете ивици
+s2_Lang04; Show loading progress; Показване на напредъка при зареждане
+s2_Lang05; Display Apply, Edit, Delete buttons; Покажи Клавишите Прилагане, Редактиране и Изтриване
+s2_Lang06; Transparency (%); Прозрачност (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Сила на звука
+s3_Lang02; Control with mouse wheel on right screen edge; Контролирайте с колело на мишката в десния край на екрана
+s3_Lang03; Volume sensitivity; Сила на звука
+s3_Lang04; Auto-correct; Авт коригиране
+s3_Lang05; Correct sentence capitals; Правилни главни изречения
+s3_Lang06; Correct DOuble CApitals; Коригирайте ДВойни ГЛавни БУкви
+s3_Lang07; Disable CapsLock key; Деактивирай клавиша CapsLock
+s3_Lang08; Memory; Памет
+s3_Lang09; Optimize memory; Оптимизирай паметта
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Папка за скриптове
+s4_Lang02; Phrase files folder; Папка за Фразови файлове
+s4_Lang03; Wordlist files folder; Папка за Списък с Думи
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Преки пътища към менюто
+s5_Lang02; Show menu on; Показване на менюто в
+s5_Lang03; Top edge; Горен край
+s5_Lang04; Right edge; Десен край
+s5_Lang05; Left edge; Ляв край
+s5_Lang06; Bottom edge; Долен край
+s5_Lang07; Menu options; Опции на менюто
+s5_Lang08; Show menu icons; Показване на иконите на менюто
+s5_Lang09; Auto download website icons; Авт изтегляне на икони на уебсайтове
+s5_Lang10; Larger icons; По-големи икони
+s5_Lang11; Disable menu in full screen applications; Деактивирайте менюто в приложения на цял екран
+s5_Lang12; Add settings to Start Menu; Добавете настройки към менюто "Старт"
+s5_Lang13; Menu delay (ms); Забавяне на менюто (ms)
+s5_Lang14; Show recent items; Покажи последни елементи
+s5_Lang15; Files; Файлове
+s5_Lang16; Folders; Папки
+s5_Lang17; Files and folders; Файлове и папки
+s5_Lang18; Show in submenu; Показване в подменюто
+
+[Preferences 6]
+s6_Lang01; Only active in; Активно само в
+s6_Lang02; Not active in; Не е активен през
+
+[Preferences 7]
+s7_Lang01; Default prefix; Префикс по подразбиране
+s7_Lang02; Ending characters; Крайни знаци
+s7_Lang03; Space; Space
+s7_Lang04; Tab; Tab
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; Разделител
+s7_Lang07; Clipboard; Клипборд
+s7_Lang08; Use clipboard if text length exceeds (char); Изп. клипборда, ако дълж. надвишава (букви)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; Правилен регистър на предложената дума
+s8_Lang03; Minimum word length to show suggestion; Мин. дължина на думата за показ. на предлож.
+s8_Lang04; Word suggestion list height; Височина на списъка с предложения за думи
+s8_Lang05; Special characters; Специални символи
+s8_Lang06; (list of special alphabet characters to be recognized; (списък със специални символи от азбуката, които трябва да бъдат разпознати
+s8_Lang07; as a part of a word); като част от дума)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Авт обучение
+s9_Lang02; Turn on automatic word learning; Включете Автто обучение на думи
+s9_Lang03; Learn wordlist file; Научи списък с думи
+s9_Lang04; Learning options; Опции за обучение
+s9_Lang05; Minimum length of learned words; Минимална дължина на научените думи
+s9_Lang06; Number of occurences to learn a word; Брой случаи, за да научите дума
+s9_Lang07; Save learned words as lowercase; Запазете научените думи с малки букви
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Ключ за жестове
+s10_Lang02; Options; Настроики
+s10_Lang03; Show mouse trail; Показване на следа от мишката
+s10_Lang04; Play sound for no match; Възпроизвеждане на звук без съвпадение
+s10_Lang05; Recognize 8 zones (advanced); Разпознаване на 8 зони (напреднали)
+s10_Lang06; Advanced; Разширено
+s10_Lang07; Interval (ms); Интервал (ms)
+s10_Lang08; Threshold (px); Праг (px)
+s10_Lang09; Timeout (ms); Време за изчакване (ms)
+s10_Lang10; Initial timeout (ms); Първонач. изч. (ms)
+s10_Lang11; Tolerance (%); Толеранс (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Проверете за нови версии на FastKeys
+s11_Lang02; Update; Актуализиране
+s11_Lang03; Update Start menu icons from internet; Актуализирай иконите на менюто "Старт" от инт.
+s11_Lang04; Update icons; Актуализирай икони
+s11_Lang05; View quick tips for using FastKeys; Вижте бързи съвети за използване на FastKeys
+s11_Lang06; View quick tips; Вижте бързи съвети
+
+[Preferences 12]
+s12_Lang01; Active modules; Активни модули
+s12_Lang03; Hide disabled modules; Скриване на деактивирани модули
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Clipboard Manager
+v211_Lang01; Clipboard shortcut; Пряк път към клипборда
+v211_Lang02; History size; Размер на историята
+v211_Lang03; Capture images and formatting; Заснемайте изображения и форматиране
+v211_Lang04; Hold Ctrl key to paste without formatting; Задръжте клавиша Ctrl, за да поставите без форматиране
+v211_Lang05; Clipboard font; Шрифт на клипборда
+v211_Lang06; Popups; Изскачащи прозорци
+v211_Lang07; Maximum popup width; Макс. шир. на изск. проз.
+v211_Lang08; Show shortcut numbers; Показване на номера за пряк път
+v211_Lang09; New File; Нов файл
+v211_Lang10; New Empty File; Нов празен файл
+v211_Lang11; Backup files folder; Папка за архивни файлове
+v211_Lang12; Number of saved backups; Брой резервни копия
+
+[Version 2.14]
+v214_Lang00; Duplicate; Дубликат
+v214_Lang01; Macro Recorder; Макро рекордер
+v214_Lang02; Record shortcut; Запис на пряк път
+v214_Lang03; Play shortcut; Пусни пряк път
+v214_Lang04; Recording options; Опции за запис
+v214_Lang05; Keyboard actions; Действия с клавиатурата
+v214_Lang06; Mouse clicks; Щраквания с мишка
+v214_Lang07; Time intervals; Интервали от време
+v214_Lang08; Window actions; Действия с прозореца
+v214_Lang09; Show virtual key names; Показване на имена на виртуални Клавиши
+v214_Lang10; Show save dialog after recording; Показване на диалоговия прозорец за запис след запис
+v214_Lang20; Press; Натиснете
+v214_Lang21; or "Record" button to start recording; или бутон „Запис“, за да започнете да записвате
+v214_Lang22; to finish; да свърша
+v214_Lang23; Recording macro; Макрос за запис
+v214_Lang24; Recording completed; Записът завърши
+v214_Lang25; Recorded Macro; Записан макрос
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Активиране на поредица на съкращението на файла с фрази
+v217_Lang02; New Tab; Нов прозорец
+v217_Lang03; Rename; Преименувайте
+v217_Lang04; Move Left; Мръдни на ляво
+v217_Lang05; Move Right; Премести се надясно
+v217_Lang06; tab; раздел
+v217_Lang07; Tab Name; Име на раздела
+
+[Version 2.19]
+v219_Lang01; More; Повече
+v219_Lang02; Settings shortcut; Преки пътища за настройки
+v219_Lang04; Popups font and color; Изскачащи шрифтове и цвят
+v219_Lang05; Color and style; Цвят и стил
+v219_Lang06; Sort; Сортиране
+v219_Lang07; Alphabetically; По азбучен ред
+v219_Lang08; Include similar words (smart search); Включете подобни думи (интелигентно търсене)
+v219_Lang09; Don't learn strings; Не научавайте поредици
+v219_Lang10; Trail width and color; Ширина и цвят на пътеката
+v219_Lang11; Run as administrator; Изпълни като администратор
+v219_Lang12; Formatting; Форматиране
+v219_Lang13; Normal; Нормално
+v219_Lang14; No Icons; Без икони
+v219_Lang15; Small; Малък
+v219_Lang16; Apply; Приложи
+
+[Version 2.20]
+v220_Lang02; Icon size; Размер на иконата
+v220_Lang04; Break menu at separator; Меню за почивка в разделителя
+v220_Lang05; Increase line spacing; Увеличете разстоянието между редовете
+v220_Lang06; Selection color; Селекционен цвят
+v220_Lang07; Invert selection text color; Обърнете цвета на текста на селекцията
+v220_Lang08; Show clipboard items; Показване на елементи в клипборда
+
+[Version 2.22]
+v222_Lang01; Selection keys; Клавиши за избор
+v222_Lang02; Number; Брой
+v222_Lang03; Insert mode; Режим на вмъкване
+v222_Lang04; Show line numbers; Показване на номера на редове
+v222_Lang05
+v222_Lang06; More options; Повече опций
+v222_Lang07; Fewer options; По-малко опции
+v222_Lang08; Always show more options; Винаги показвайте повече опции
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Преместване под меню
+v300_Lang02; System Variables; Системни променливи
+v300_Lang03; Macros; Макроси
+v300_Lang04; Manual Text Input; Ръчно въвеждане на текст
+v300_Lang05; File Contents; Съдържание на файла
+v300_Lang06; Name; Име
+v300_Lang07; Paragraph Options; Опции за абзац
+v300_Lang08; Spacing; Разстояние
+v300_Lang09; Before; Преди
+v300_Lang10; After; След
+v300_Lang11; Line spacing; Междуредие
+v300_Lang12; Reload shortcut; Презареди пряк път
+v300_Lang13; Paste delay (ms); Забавяне на поставяне (ms)
+v300_Lang14; No formatting; Без форматиране
+v300_Lang15; Rich Text; Богат текст
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Задръжте клавиша Shift за поставяне, без да затваряте
+v300_Lang18; Window Information; Информация за Прозореца
+v300_Lang19; Insert Another Item; Поставете Друг елемент
+v300_Lang20; Filter; Филтър
+v300_Lang21; Selection Form; Формуляр за подбор
+v300_Lang22; Selections; Избори
+v300_Lang23; Preview; Визуализация
+v304_Lang01; Title; Заглавие
+v304_Lang02; Class; Клас
+v304_Lang03; Process; Процес
+v304_Lang04; Position (x, y); Позиция (x, y)
+v304_Lang05; Size (w, h); Размер (Ш, В)
+v304_Lang06; Control; Контрол
+v304_Lang07; Text; Текст
+v304_Lang08; Mouse Position; Позиция на мишката
+v304_Lang09; Color; Цвят
+v304_Lang10; Insert Image; Вмъкване на изображение
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Показвайте предложения, докато пишете (настройки за Автоматично Завършване)
+v304_Lang12; Shift; Shift
+v304_Lang13; Include words containing the string; Включете думи, съдържащи поредици
+v304_Lang14; Enable column sorting; Активиране на сортирането на колони
+v304_Lang15; Description separator; Разделител за описание
+v304_Lang16; Copy to Start Menu; Копирайте в менюто "Старт"
+v304_Lang17; Key delay (ms); Забавяне на Клавиш (ms)
+v304_Lang18; Key delays only active in; Забавяния на клавиши само в
+v304_Lang19; Display options; Опции за показване
+v304_Lang20; New from Library; Ново от библиотеката
+v304_Lang21; Variable name contains illegal characters:; Името на променливата съдържа незаконни символи:
+v304_Lang22; User Variables; Потребителски променливи
+v304_Lang23; Usage Statistics; Статистика на употребата
+v304_Lang24; Times executed; Изпълнени пъти
+v304_Lang25; Keystrokes saved; Клавишите са запазени
+v304_Lang26; Time savings; Спестяване на време
+v304_Lang27; Session; Сесия
+v304_Lang28; Track usage statistics; Проследявайте статистиката за използването
+v304_Lang29; Typing speed (wpm); Скорост на писане (wpm)
+v304_Lang30; Hourly wage; Почасово заплащане
+v304_Lang31; Insert Command Code; Поставете команден код
+v304_Lang32; Command Name; Име на командата
+v304_Lang33; Enable; Активирай
+v304_Lang34; Disable; Деактивирай
+v304_Lang35; Enable random text generation syntax (Spintax); Активиране на синтаксис за произволно генериране на текст (Spintax)
+v304_Lang36; Font; Шрифт
+v304_Lang37; Adjust to typed case; Приспособяване към написания пример
+v304_Lang38; Condition; Състояние
+v304_Lang39; Condition Name; Име на условието
+v304_Lang40; Allow duplicates; Разрешаване на дубликати
+v304_Lang42; Append; Добавете
+v304_Lang43; Include descriptions; Включете описания
+v304_Lang44; Delimited Text File; Разграничен текстов файл
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; AutoHotkey v1 Скрипт
+v304_Lang47; Import ; Импортиране
+v304_Lang48; Import to; Импортиране в
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Разделител (последен)
+v400_Lang02; Format; Формат
+v400_Lang03; Sounds; Звучи
+v400_Lang04; Show title bar; Показване на заглавната лента
+v400_Lang05; Break into columns; Разбиване на колони
+v400_Lang06; Clipboard capture; Заснемане на клипборда
+v400_Lang07; Macro record/play; Макро запис / възпр.
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Използвайте клипборда за обогатен текст (изисква повторно редактиране)
+v400_Lang09; Module; Модул
+v400_Lang10; Restore Backup; Възстанови архива
+v400_Lang11; Backup file; Архивен файл
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Наистина ли искате да възстановите предишната версия на данните? Is Това ще замени всички текущи настройки.
+v400_Lang13; Shadow type; Тип сянка
+v400_Lang14; Save history; Запазване на историята
+v400_Lang15; Control Click; Щракнете върху Control
+v400_Lang16; Key delays; Ключови закъснения
+v400_Lang17; Key press duration (ms); Продълж. на натискане на клавиша (ms)
+v400_Lang18; Dialog delay (ms); Закъснение на диалоговия прозорец (ms)
+v400_Lang19; Focus change delay (ms); Забавяне на промяна на фокуса (ms)
+v400_Lang20; Force window focus; Принудително фокусиране на прозореца
+v400_Lang21; Current Tab; Текущ раздел
+v400_Lang22; Top edge zone (L-R %); Зона на горния ръб (L-R%)
+v400_Lang23; Mode; Режим
+v400_Lang24; Click; Щракнете
+v400_Lang25; Calculate math expressions; Изчислете математически изрази
+v400_Lang26; Continuous calculation (instead of pressing =); Непрекъснато изчисление (вместо натискане =)
+v400_Lang27; Show thousands separator; Показване на разделител за хиляди
+v400_Lang28; Round (decimals); Кръгла (десетични знаци)
+v400_Lang29; File path; Файлова пътека
+v400_Lang30; Result; Резултат
+v400_Lang31; Find; Намери
+v400_Lang32; Find Next; Намери следващо
+v400_Lang33; Search description; Търсене описание
+v400_Lang34; Restrictions; Ограничения
+v400_Lang35; Backup; Архивиране
+v400_Lang36; Encrypt with password; Шифроване с парола
+v400_Lang37; Password; Парола
+v400_Lang38; Verify; Проверете
+v400_Lang39; Data Protection; Защита на данни
+v400_Lang40; Encrypt file; Шифроване на файл
+v400_Lang41; Remember on this computer; Не забравяйте на този компютър
+v400_Lang42; Protect backups; Защитете архивите
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; ВАЖНО: ¶Ако забравите паролата, няма да имате достъп до данните. Архивните файлове, създадени преди активирането, не са защитени. Файловете с фрази и списъци с думи не са защитени.
+v400_Lang44; Support Mail; Поща за поддръжка
+v400_Lang45; The password is incorrect, please try again.; Паролата е неправилна, моля, опитайте отново.
+v400_Lang46; Quick find; Бързо намиране
+v400_Lang48; Search current typed word; Търсене на текущата въведена дума
+v400_Lang49; Calculator; Калкулатор
+v400_Lang50; Show suggestion; Показване на предложение
+v400_Lang51; Special characters; Специални символи
+v400_Lang52; Online Documentation; Онлайн документация
+v400_Lang53; Print; Печат
+v400_Lang54; Automatic spacing; Автоматично разстояние
+v400_Lang55; Remove text margin; Премахване на полето за текст
+v400_Lang56; Menu icon; Икона на менюто
+v400_Lang57; Remove vertical lines; Премахнете вертикалните линии
+v400_Lang58; Enable modifiers (!+^#); Активиране на модификаторите (! + ^ #)
+v400_Lang59; Position above the caret; Позиция над каретката
+v400_Lang60; Properties; Свойства
+v400_Lang61; Round time to; Кръгло време до
+v400_Lang62; days; Дни
+v400_Lang63; business days; Работни дни
+v400_Lang64; hours; часа
+v400_Lang65; minutes; минути
+v400_Lang66; months; месеци
+v400_Lang67; years; години
+v400_Lang70; Update order on paste; Актуализирайте реда за поставяне
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; Наистина ли искате да създадете нов файл с настройки?¶¶Вашите текущи настройки няма да бъдат изтрити - използвайте File / Open, за да отворите отново файла с настройки.
+v400_Lang72; Position; Позиция
+v400_Lang73; Below the caret; Под каретата
+v400_Lang74; Above the caret; Над каретата
+v400_Lang75; Alternative position; Алтернативна позиция
+v400_Lang76; Mouse cursor; Курсор на мишката
+v400_Lang77; Centered; Центрирано
+v400_Lang78; Tray; Трай
+v400_Lang89; Upgrade to Professional; Надстройте до Professional
+v400_Lang90; Shared settings; Споделени настройки
+v400_Lang91; Team; Екип
+v400_Lang92; Shared file; Споделен файл
+v400_Lang93; Edit shared file; Редактирай споделения файл
+v400_Lang94; Shared file editing.; Споделено редактиране на файлове.
+v400_Lang95; Shared file saved, returning to normal mode.; Споделеният файл е запазен, връща се в нормален режим.
+v400_Lang96; Information; Информация
+v400_Lang97; SHARED; СПОДЕЛЕНО
+v400_Lang98; Remember popup position; Запомнете изскачащата позиция
+v400_Lang99; Prefixes; Префикси
+v426_Lang01; Default suffix; Суфикс по подразбиране
+v426_Lang02; Exclusions; Изключения
+
+[Version 5.00]
+v5_Lang01; Default text; Текст по подразбиране
+v5_Lang02; No output; Няма изход
+v5_Lang03; Open Web Page; Отворете уеб страницата
+v5_Lang04; Run Program; Стартирайте програма
+v5_Lang05; Open File; Отвори файл
+v5_Lang06; Open Folder; Отворена папка
+v5_Lang07; Create Mail; Създаване на поща
+v5_Lang08; Activate Window; Активирайте прозореца
+v5_Lang09; To; Да се
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; Предмет
+v5_Lang13; Attachments; Прикачени файлове
+v5_Lang14; Message body; Тяло на съобщението
+v5_Lang15; Send automatically; Изпрати Автоматично
+v5_Lang16; Default; По подразбиране
+v5_Lang17; Address (URL); Адрес (URL)
+v5_Lang18; Folder; Папка
+v5_Lang19; Custom; Персонализиран
+v5_Lang20; Browser path; Път на браузъра
+v5_Lang21; Working directory; Работна директория
+v5_Lang22; Maximized; Увеличен
+v5_Lang23; Minimized; Минимизиран
+v5_Lang24; Wait until program closes; Изчакайте, докато програмата се затвори
+v5_Lang25; Browser; Браузър
+v5_Lang26; Table Selection; Таблица за подбор
+v5_Lang27; Text File Lookup; Търсене на текстови файлове
+v5_Lang28; Excel File Lookup; Търсене на файлове в Excel
+v5_Lang29; Lookup; Погледни нагоре
+v5_Lang30; Table; Таблица
+v5_Lang31; Return column(s); Връщане на колона(и)
+v5_Lang32; Table file; Файл на таблица
+v5_Lang33; Sheet; Лист
+v5_Lang34; Cell range; Обхват на клетките
+v5_Lang35; Column no.; Колона No.
+v5_Lang36; Equals; Равно на
+v5_Lang37; User Input; Въвеждане от потребителя
+v5_Lang38
+v5_Lang39; Output separator; Изходен сепаратор
+v5_Lang40; Force query; Принудителна заявка
+v5_Lang41; Insert column; Вмъкване на колона
+v5_Lang42; Delete column; Изтриване на колона
+v5_Lang43; Excel Data Range; Обхват на Данните в Excel
+v5_Lang44; Insert Data; Вмъкване на Данни
+v5_Lang45; Input; Вход
+v5_Lang46; Automation; Автоматизация
+v5_Lang47; Customize Menus; Персонализирайте менютата
+v5_Lang48; Show icons; Показване на икони
+v5_Lang49; Favourite macros; Любими макроси
+v5_Lang50; Toolbar; Лента с инструменти
+v5_Lang51; More settings; Още настройки
+v5_Lang52; Tiles; Фаянсови плочки
+v5_Lang53; Icon and text below; Икона и текст по-долу
+v5_Lang54; Icon and text right; Икона и текст вдясно
+v5_Lang55; Icon; Икона
+v5_Lang56; Tile size (W/H px); Размер на плочката (Ш/В px)
+v5_Lang57; Padding (px); Подплата (px)
+v5_Lang58; Grid; Решетка
+v5_Lang59; Grid size (Rows/Columns); Размер на мрежата (редове / колони)
+v5_Lang60; Order; Поръчка
+v5_Lang61; Outside margin (px); Външен марж (px)
+v5_Lang62; Background color; Цвят на фона
+v5_Lang63; Vertical; Вертикален
+v5_Lang64; Horizontal; Хоризонтално
+v5_Lang65; Display Edit, Delete buttons; Показване на Клавиши Редактиране, Изтриване
+v5_Lang66; Theme; Тема
+v5_Lang67; Calculation; Изчисляване
+v5_Lang68; Save table as; Запазване на таблицата като
+v5_Lang69; Insert Another Field; Поставете друго поле
+v5_Lang70; Macro; Макро
+v5_Lang71; Column width; Ширина на колоната
+v5_Lang72; Popup width (px); Ширина на изскачащия прозорец (px)
+v5_Lang73; Edit shared file; Редакт. споделен. файл
+v5_Lang74; Recent changes; Последни промени
+v5_Lang75; Yes; Да
+v5_Lang76; No; Не
+v5_Lang77; Bold; Удебелен
+v5_Lang78; Italic; Курсив
+v5_Lang79; Underline; Подчертайте
+v5_Lang80; Align Left; Подравняване вляво
+v5_Lang81; Center; Център
+v5_Lang82; Align Right; Подравнете вдясно
+v5_Lang83; Justify; Оправдавам
+v5_Lang84; Increase Font Size; Увеличете размера на шрифта
+v5_Lang85; Decrease Font Size; Намалете размера на шрифта
+v5_Lang86; Bullets; Куршуми
+v5_Lang87; Numbering; Номериране
+v5_Lang88; Decrease Indent; Намаляване на отстъп
+v5_Lang89; Increase Indent; Увеличете отстъп
+v5_Lang90; Date; Дата
+v5_Lang91; Time; Време
+v5_Lang92; User; Потребител
+v5_Lang93; Changes; Промени
+v5_Lang94; Include spaces; Включете интервали
+v5_Lang95; Number of items; Брой елементи
+v5_Lang96; Output format; Изходен формат
+v5_Lang97; Output if empty; Изход, ако е празен
+v5_Lang98; Trim spaces; Подрежете пространствата
+v5_Lang99; All; всичко
+v5_Lang100; Adapt case; Адаптирайте калъф
+v5_Lang101; Uppercase; Главна буква
+v5_Lang102; Lowercase; Малка буква
+v5_Lang103; Find and replace; Намерете и заменете
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; Искате ли да нулирате предпочитанията в този раздел до стойностите им по подразбиране?
+v5_Lang105; Reset ALL preferences; Нулирайте ВСИЧКИ предпочитания
+v5_Lang106; Multi line; Многоредова
+v5_Lang107; Tables folder; Папка за Таблици
+v5_Lang108; Input Format; Входен формат
+v5_Lang109; Digits; Цифри
+v5_Lang110; All matches; Всички мачове
+v5_Lang111; Neutral color icon; Икона за неутрален цвят
+v5_Lang112; Auto save; Автоматично запазване
+v5_Lang113; Video tutorials; Видео уроци
+v5_Lang114; Message Box; Кутия за съобщения
+v5_Lang115; Buttons; Клавиши
+v5_Lang116; Stop; Стоп
+v5_Lang117; Any key; Някой клавиш
+v5_Lang118; Relative to window; Спрямо прозореца
+v5_Lang119; Keyboard; Клавиатура
+v5_Lang120; Open Shared File; Отвори Споделения Файл
+v5_Lang121; Share; Сподели
+v5_Lang122; Export; Експорт
+v5_Lang123; Send Link; Изпрати Линк
+v5_Lang124; If item exists; Ако елемента съществува
+v5_Lang125; Skip; Пропусни
+v5_Lang126; Replace; Замести
+v5_Lang127; Select tabs; Изберете раздели
+v5_Lang130; File already exists.; Файлът вече съществува.
+v5_Lang131; Are you sure?; Сигурен ли си?
+v5_Lang132; item(s) will be shared.; Елемента/тите ще бъдат споделени.
+v5_Lang133; duplicate(s) found; намерен е дубликат/и
+v5_Lang134; will be skipped.; ще бъде пропуснат.
+v5_Lang135; will be replaced.; ще бъде заместен.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; Поставете пътя, получен от вашия администратор, в полето по-долу или изберете файла.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; Споделете избраното съдържание с други потребители. Изберете съществуващия раздел или въведете име на нов раздел.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; Експортирайте настройките в облак или мрежово устройство, където могат да бъдат достъпни от други потребители.
+v5_Lang139; Search command; Търси команда
+v5_Lang140; Remember last input; Запомни последното въведено
+v5_Lang141; Startup script; Стартиране на скрипта
+v5_Lang142
+v5_Lang143; Grid Selection; Решетно избиране
+v5_Lang144; Set columns; Задай колони
+v5_Lang145; Selection type; Тип селекция
+v5_Lang146; Optional Section; Незадължителен раздел
+v5_Lang147; Select "Command" mode to enable more options.; Изберете „Команден“ режим, за да активирате повече опции.
+v5_Lang148; Use clipboard; Използвайте клипборда
+v5_Lang149; Loop; Цикъл
+v5_Lang150; Loop count; Брой цикли
+v5_Lang151; Default button; Бутон по подразбиране
+v5_Lang152; Timeout (s); Време за изчакване
+v5_Lang153; Required; Задължително
+v5_Lang154; Letters; Букви
+v5_Lang155; Numbers; Цифри
+v5_Lang156; Email; Имейл
+v5_Lang157; Align elements horizontally; Подравни елементите хоризонтално
+v5_Lang158; Comment; Коментар
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; е активен.¶ За да отворите отново прозореца за настройки Щракнете върху трай иконата на FastKeys, или Натиснете F8.
+v5_Lang160; Alternative backspace method; Алтернативен метод за обратно пространство
+v5_Lang161; If they fit in one row; Ако се поберат в един ред
+v5_Lang162; Preview not available; Прегледът не е наличен
+v5_Lang163; Switch View; Превключи изгледа
+v5_Lang164; Not supported:; Не се поддържа:
+v5_Lang165; Selected items were saved to; Избраните елементи бяха запазени в
+v5_Lang166; Save Selected As; Запази Избраното Като
+v5_Lang167; First Letter; Първа Буква
+v5_Lang168; Copy to Clipboard; Копиране в клипборда
+
+[Version 6.00]
+v6_Lang01; Grid Check; Избери Решетка
+v6_Lang02; Single; Само/Еденично
+v6_Lang03; Multi; Няколко
+v6_Lang04; Delimiters; Разделители
+v6_Lang05; Checked; Проверено
+v6_Lang06; Unchecked; Непроверено
+v6_Lang07; Output; Изход
+v6_Lang08; Group output; Групов изход
+v6_Lang09; Repeat last command; Повтори последна команда
+v6_Lang10; Double press; Двойно натискане
+v6_Lang11; Long press; Продължително натискане
+v6_Lang12; Wait time (s); Време за изчакване (s)
+v6_Lang13; Recognize items; Разпознавайте предмети
+v6_Lang14; Voice Recognition; Гласово разпознаване
+v6_Lang15; Base value; Базова стойност
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday; Неделя|Понеделник|Вторник|Сряда|Четвъртък|Петък
+v6_Lang17; Date/Time Calculation; Изчисляване на Дата/Час
+v6_Lang18; Auto restore hook (min); Кука за авт. прихващане (м)
+v6_Lang19; Auto reload (min); Авт презареждане (м)
+v6_Lang20; If condition; Ако условието
+v6_Lang21; Else; Друго
+v6_Lang22; Case If Conditions; Случай "Ако" Условия
+v6_Lang23; Are you sure you want to change the options for the

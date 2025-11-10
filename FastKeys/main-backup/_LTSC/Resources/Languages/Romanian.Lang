@@ -1,0 +1,798 @@
+﻿; English; Romanian
+; română
+; Translation by Cristi-Marian Angheluță
+
+[Gui]
+g_Lang01; Start Menu; Start Menu
+g_Lang02; Shortcuts; Scurtături
+g_Lang03; Text Expander; Text expander
+g_Lang04; Auto Complete; Auto completare
+g_Lang05; Gestures; Gesturi
+g_Lang06
+g_Lang11; New; New
+g_Lang12; Edit; Edit
+g_Lang13; Delete; Ștergere
+g_Lang14; Run; Rulează
+g_Lang15; Active; Activ
+g_Lang16; Menu; Meniu
+g_Lang17; Submenu; Submeniu
+g_Lang18; Type; Type
+g_Lang19; Command; Comandă
+g_Lang20; Run Type; Rulează type
+g_Lang21; Key; Key
+g_Lang22; Shortcut; Scurtătură
+g_Lang23; Description; Descriere
+g_Lang24; Window; Fereastră
+g_Lang25; String; Șir de caractere
+g_Lang26; Substitute; Înlocuire
+g_Lang27; Gesture; Gest
+g_Lang28
+g_Lang31; Paused; Paused
+g_Lang32; Active; Active
+g_Lang33; Untitled; Fără titlu
+g_Lang40
+g_Lang41; Separator; Separator
+g_Lang42; Undo; Undo
+g_Lang43; Redo; Redo
+g_Lang44; Move Up; Mută sus
+g_Lang45; Move Down; Mută jos
+g_Lang46; Are you sure to remove; Sunteți sigur că doriți să ștergeți
+g_Lang47; selected items; itemi selectați
+g_Lang50
+g_Lang51; Preferences; Preferințe
+g_Lang52; Support Forum; Forum suport
+g_Lang53; Help; Ajutor
+g_Lang54; Select a file or folder; Selectează un fișier sau un folder
+g_Lang55; Edit command in Editor; Editează comanda în Editor
+g_Lang56; Select a preset command; Selectează o comandă pre-stabilită
+g_Lang60
+g_Lang61; Registered to; Înregistrat către
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; VERSIUNEA DE ÎNCERCARE A EXPIRAT.
+g_Lang63; TRIAL PERIOD.; PERIOADA DE ÎNCERCARE
+g_Lang64
+g_Lang71; Do you want to save changes?; Doriți să salvați modificările?
+g_Lang72; Save file as...; Salvează fișierul că..
+g_Lang73; Do you want to save changes to; Doriți să salvați modificările către
+g_Lang74; Please select FastKeys data file.; Selectează fișierul FastKeys
+g_Lang75; Not a valid FastKeys file.; Nu este un fișier FastKeys valid
+g_Lang76; Save FastKeys data file as…; Salvează fișierul FastKeys că..
+g_Lang78; Are you sure to overwrite existing data?; Sunteți sigur că doriți să suprascrieti datele existente?
+g_Lang79; Select folder:; Selectați folderul
+g_Lang80; Duplicate entry, please correct.; Intrare duplicată, corectează.
+g_Lang81; File does not exist.; Fișierul nu există
+g_Lang82; Please select a Phrase file.; Selectează un fișier Phrase.
+g_Lang83; Please select a Wordlist file.; Selectează un fișier Wordlist.
+g_Lang84; Too many menu entries.; Prea multe intrări în meniu.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; Rulează imediat
+g1_Lang03; Delete ending char; Șterge caracterul de la sfârșit
+g1_Lang04; Don't delete string; Nu șterge string-ul
+g1_Lang05; Case sensitive; Case sensitive
+g1_Lang06; Trigger inside word; Rulează în interiorul cuvântului
+g1_Lang07; Send raw text; Trimite text brut
+g1_Lang08; Manual confirmation; Confirmare manuală
+g1_Lang09
+g1_Lang11; None; None
+g1_Lang12; Auto Run; Rulează automat
+g1_Lang13; Run on Startup; Rulează la pornire
+g1_Lang14; Include Files; Include fișiere
+g1_Lang15; Include Subfolders; Include subfoldere
+g1_Lang16; Include Files and Subfolders; Include fișiere și subfoldere
+g1_Lang17
+g1_Lang21; Record; Înregistrare
+g1_Lang22; Record a New Gesture ; Înregistrează un gest nou
+g1_Lang23; Right Mouse Button; Buton mouse dreapta
+g1_Lang24; key; key
+g1_Lang25; Hold; menține apăsat
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; și desenează un gest oriunde pe ecran. Apasă Enter sau butonul OK pentru a finaliza.
+g1_Lang28
+g1_Lang31; Abbreviation; Abreviere
+g1_Lang32; Phrase; Phrase
+g1_Lang33; Word; Word
+g1_Lang34; Phrase file; Phrase list
+g1_Lang35; Wordlist file; Fișier Wordlist
+g1_Lang36
+g1_Lang41; Line; Linie
+g1_Lang42; Column; Coloană
+g1_Lang43
+g1_Lang51; Advanced shortcut; Scurtătură avansată
+g1_Lang52; Modifier; Modifier
+g1_Lang53; Optional Attributes; Atribute opționale
+g1_Lang54; Native; Nativ
+g1_Lang55; Wildcard; Wildcard
+g1_Lang56; Hook; Hook
+g1_Lang57; L/R only; Doar L/R
+g1_Lang58; Keys; Taste
+g1_Lang59; Standard; Standard
+g1_Lang60; Function keys; Taste funcționale
+g1_Lang61; Numpad; Numpad
+g1_Lang62; Mouse; Mouse
+g1_Lang63; Multimedia; Multimedia
+g1_Lang64; Special; Special
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &Fișier
+m_Lang02; &Edit; &Editare
+m_Lang03; &Insert; &Inserare
+m_Lang04; &Tools; &Unelte
+m_Lang05; &Help; &Ajutor
+m_Lang06; &Register; &Înregistrare
+m_Lang07
+m_Lang11; &New; &Nou
+m_Lang12; &Open; &Deschidere
+m_Lang13; &Save; &Salvare
+m_Lang14; Save &As; Salvează &Că
+m_Lang15; E&xit; &Ieșire
+m_Lang16
+m_Lang21; &Edit; &Editare
+m_Lang22; &Delete; &Ștergere
+m_Lang23; Re&load; &Reîncărcare
+m_Lang24; &Pause; &Pauză
+m_Lang25
+m_Lang31; &Preferences; &Preferințe
+m_Lang32; &Module Activation; &Activare modul
+m_Lang33; &Auto Learn Settings; &Setări auto-învățare
+m_Lang34; &Check for Updates; &Caută update-uri
+m_Lang35; &Update Menu Icons; &Update icoane meniu
+m_Lang36
+m_Lang41; &Help; &Ajutor
+m_Lang42; &Support Forum; &Forum suport
+m_Lang43; &View Quick Tips; &Vezi quick tips
+m_Lang44; &About; &Despre
+m_Lang45
+m_Lang51; Open from &Library; Deschide din &Librărie
+m_Lang52; Cut; &Cut
+m_Lang53; Copy; &Copy
+m_Lang54; Paste; &Paste
+m_Lang55; Select All; Selectează tot
+m_Lang56; Read Only; Read only
+m_Lang57; Zoom in; Zoom în
+m_Lang58; Zoom out; Zoom out
+m_Lang59; Default Zoom; Zoom Default
+m_Lang60; Zoom; Zoom
+m_Lang61; Always On Top; Deasupra tuturor ferestrelor
+m_Lang62; Line Wrap; Line Wrap
+m_Lang63; View; View
+m_Lang64; Open Script; Deschide script
+
+[FastKeys]
+f_Lang01; Loading FastKeys; FastKeys se încarca
+f_Lang02; Settings; Setări
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; EROARE. Unele Comenzi au fost oprite. ¶¶Verifică ultimele comenzi editate și corectează posibilele duplicate sau erori de sintaxă.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; A existat o problema la descărcarea icoanelor de meniu de pe internet. Verifică internetul sau setările firewall-ului.¶¶Descărcarea automata a fost dezactivată pentru a permite încărcarea mai rapidă. Poți re-activa descărcarea automată a icoanelor din meniul Preferințe.
+f_Lang14; Save settings before continuing?; Salvează setările înainte să continui?
+f_Lang15; Add to; Adaugă la
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Vă mulțumim pentru că folosiți o versiune FastKeys trial. V-a fost acordată o licență pentru a evalua aplicația. Versiunea înregistrată nu arată această notificare.
+f_Lang22; Press "Continue" to continue using trial version.; Apasă "Continue" pentru a continua să folosești versiunea trial.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Daca sunteți utilizator înregistrat introduceți informațiile mai jos pentru a activa versiunea FastKeys full. Copiază sau scrie cheia de înregistrare în câmpul de introducere și apasă "Înregistrare".¶¶Apasă "Cumpărare" pentru a cumpăra o cheie de înregistrare sau apasă "Anulare" pentru a continua cu versiunea trial.
+f_Lang36
+f_Lang41; Name/Company:; Nume/Companie
+f_Lang42; Registration key:; Cheie de înregistrare
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Cheie de înregistrare greșită. Încearcă din nou.
+f_Lang46; Congratulations, you have registered FastKeys!; Felicitări, ați înregistrat FastKeys!
+f_Lang47
+f_Lang51; Open Menu; Deschide meniu
+f_Lang52; Reload; Reîncărcare
+f_Lang53; Pause; Pauza
+f_Lang54; Exit FastKeys; Ieși din FastKeys
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; OK
+b_Lang02; Cancel; Anulare
+b_Lang03; Save; Salvare
+b_Lang06; Select; Selectează
+b_Lang07; Defaults; Defaults
+b_Lang08; Register; Înregistrare
+b_Lang11; Purchase; Cumpărare
+b_Lang12; Continue; Continuare
+b_Lang14; Test; Testare
+b_Lang17; Open; Deschidere
+b_Lang18; Edit; Editare
+b_Lang19; Library; Librărie
+b_Lang22; Edit File; Editează fișier
+
+[Library]
+l_Lang01; Utility; Utilități
+l_Lang02
+l_Lang03; Scripts; Scripturi
+l_Lang04; Audio; Audio
+l_Lang05; Games; Jocuri
+l_Lang06
+l_Lang11; Control Panel; Panou de control
+l_Lang12; System Folders; Foldere sistem
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; Sistem
+l_Lang15; Utilities; Utilități
+l_Lang16; Windows; Windows
+l_Lang17; Shell; Shell
+l_Lang18
+l_Lang21; Keys; Taste
+l_Lang22; Cursor Position; Poziție cursor
+l_Lang23; Mouse and Media; Mouse și Media
+l_Lang24; Date and Time; Dată și Timp
+
+[Preferences]
+s_Lang01; General; General
+s_Lang02; Appearance; Aspect
+s_Lang03; Functions; Funcții
+s_Lang04; Folders; Foldere
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; Auto Învățare
+s_Lang10
+s_Lang11; Internet; Internet
+s_Lang12; Module Activation; Activare Modul
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Selectează OK/Salvare pentru a updata icoanele.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Doriți să vizitați pagina FastKeys pentru indicații despre folosirea programului?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; A fost o problema la căutarea de update-uri. Încearcă din nou, sau vizitează pagina FastKeys pentru a descărca update-ul manual.¶¶Căutările automate au fost dezactivate pentru a permite descărcarea mai rapida.
+s_Lang25; You are using the latest version of; Folosești ultima versiune de
+s_Lang26; A new version of FastKeys; O nouă versiune de Fastkeys
+s_Lang27; is available.; este disponibilă
+s_Lang28; Would you like to install it now?; Doriți să o instalați acum?
+s_Lang29; Downloading FastKeys, Version; Se descarcă FastKeys, Versiunea
+s_Lang30; Please wait ...; Vă rugam așteptați ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; A apărut o problema cu descărcarea. Încercați din nou sau vizitați pagina FastKeys pentru descărcare manuală.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; Adaugă rapid
+s1_Lang02; Quick add to ; Adaugă rapid la
+s1_Lang03; Ask; Întreabă
+s1_Lang04; Learn Wordlist File; Învață fișierul WordList
+s1_Lang05; Pause shortcut; Scurtătură Pauză
+s1_Lang06; General options; Opțiuni generale
+s1_Lang07; Run FastKeys on startup; Rulează FastKeys la startup
+s1_Lang08; Show tray icon; Arată icoana în tray
+s1_Lang09; Clicking tray icon shows Start Menu; Click pe icoana din tray deschide Start Menu
+s1_Lang10; Auto check for software updates; Căutare automată a update-urilor
+s1_Lang11; Language; Limbă
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Arată grid-uri
+s2_Lang03; Show stripes; Arată dungi
+s2_Lang04; Show loading progress; Arată progres încărcare
+s2_Lang05; Display Apply, Edit, Delete buttons; Arată butoanele Aplică, Editează și Șterge
+s2_Lang06; Transparency (%); Transparență (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Volum
+s3_Lang02; Control with mouse wheel on right screen edge; Control volum cu mouse wheel în marginea din dreapta a ecranului
+s3_Lang03; Volume sensitivity; Sensitivitate volum
+s3_Lang04; Auto-correct; Auto-correct
+s3_Lang05; Correct sentence capitals; Corectare majuscule propoziții
+s3_Lang06; Correct DOuble CApitals; Corectare MAjuscule DUble
+s3_Lang07; Disable CapsLock key; Dezactivare tasta CapsLock
+s3_Lang08; Memory; Memorie
+s3_Lang09; Optimize memory; Optimizare memorie
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Folder scripturi
+s4_Lang02; Phrase files folder; Folder fișiere Phrase
+s4_Lang03; Wordlist files folder; Folder fișiere WordList
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Scurtătură meniu
+s5_Lang02; Show menu on; Arată meniu pe
+s5_Lang03; Top edge; Marginea de sus
+s5_Lang04; Right edge; Marginea din dreapta
+s5_Lang05; Left edge; Marginea din stânga
+s5_Lang06; Bottom edge; Marginea de jos
+s5_Lang07; Menu options; Opțiuni meniu
+s5_Lang08; Show menu icons; Arată icoane meniu
+s5_Lang09; Auto download website icons; Descărcare automată icoane website
+s5_Lang10; Larger icons; Icoane mari
+s5_Lang11; Disable menu in full screen applications; Dezactivare meniu în aplicații fullscreen
+s5_Lang12; Add settings to Start Menu; Adaugă setări la Start Menu
+s5_Lang13; Menu delay (ms); Delay meniu (ms)
+s5_Lang14; Show recent items; Arată itemi recenți
+s5_Lang15; Files; Fișiere
+s5_Lang16; Folders; Foldere
+s5_Lang17; Files and folders; Fișiere și foldere
+s5_Lang18; Show in submenu; Arată în submeniu
+
+[Preferences 6]
+s6_Lang01; Only active in; Activ doar în
+s6_Lang02; Not active in; Inactiv în
+
+[Preferences 7]
+s7_Lang01; Default prefix; Prefix default
+s7_Lang02; Ending characters; Caractere de sfârșit
+s7_Lang03; Space; Space
+s7_Lang04; Tab; Tab
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; Separator
+s7_Lang07; Clipboard; Clipboard
+s7_Lang08; Use clipboard if text length exceeds (char); Folosește clipboard dacă lungimea textului depășește (caracter)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; Corectare majusculule cuvânt sugerat
+s8_Lang03; Minimum word length to show suggestion; Lungime minimă pentru a arăta autosugestii
+s8_Lang04; Word suggestion list height; Înălțime listă sugestii cuvinte
+s8_Lang05; Special characters; Caractere speciale
+s8_Lang06; (list of special alphabet characters to be recognized; (listă caractere alfabetice speciale care să fie recunoscute
+s8_Lang07; as a part of a word); că parte a unui cuvânt)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Auto învățare
+s9_Lang02; Turn on automatic word learning; Pornește învățarea automată a cuvintelor
+s9_Lang03; Learn wordlist file; Învață fișier WordList
+s9_Lang04; Learning options; Opțiuni învățare
+s9_Lang05; Minimum length of learned words; Lungime minimă a cuvintelor învățate
+s9_Lang06; Number of occurences to learn a word; Număr de apariții pentru a învăța un cuvânt
+s9_Lang07; Save learned words as lowercase; Salveza cuvintele învățate cu litere mici
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Tastă gesturi
+s10_Lang02; Options; Opțiuni
+s10_Lang03; Show mouse trail; Arată codiță mouse
+s10_Lang04; Play sound for no match; Redă un sunet când nu se recunoaște
+s10_Lang05; Recognize 8 zones (advanced); Recunoaște 8 zone (avansat)
+s10_Lang06; Advanced; Avansat
+s10_Lang07; Interval (ms); Interval (ms)
+s10_Lang08; Threshold (px); Prag (px)
+s10_Lang09; Timeout (ms); Timeout (ms)
+s10_Lang10; Initial timeout (ms); Timeout inițial (ms)
+s10_Lang11; Tolerance (%); Toleranță (px)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Caută versiuni noi de FastKeys
+s11_Lang02; Update; Update
+s11_Lang03; Update Start menu icons from internet; Update icoane Start menu de pe internet
+s11_Lang04; Update icons; Update icoane
+s11_Lang05; View quick tips for using FastKeys; Vezi quick tips pentru utilizarea FastKeys
+s11_Lang06; View quick tips; Vezi quick tips
+
+[Preferences 12]
+s12_Lang01; Active modules; Module active
+s12_Lang03; Hide disabled modules; Ascunde module dezactivate
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Manager clipboard
+v211_Lang01; Clipboard shortcut; Scurtătură clipboard
+v211_Lang02; History size; Mărime istoric
+v211_Lang03; Capture images and formatting; Capturează imagini și formatare
+v211_Lang04; Hold Ctrl key to paste without formatting; Menține apăsată tasta Ctrl pentru a face paste fără formatare
+v211_Lang05; Clipboard font; Font clipboard
+v211_Lang06; Popups; Popups
+v211_Lang07; Maximum popup width; Lățime maximă popup
+v211_Lang08; Show shortcut numbers; Arată numere scurtături
+v211_Lang09; New File; Fișier nou
+v211_Lang10; New Empty File; Fișier gol nou
+v211_Lang11; Backup files folder; Back-up folder fișiere
+v211_Lang12; Number of saved backups; Număr de back-up-uri salvate
+
+[Version 2.14]
+v214_Lang00; Duplicate; Duplicare
+v214_Lang01; Macro Recorder; Recorder Macro
+v214_Lang02; Record shortcut; Inregistare scurtătură
+v214_Lang03; Play shortcut; Redare scurtătură
+v214_Lang04; Recording options; Opțiuni înregistrare
+v214_Lang05; Keyboard actions; Acțiuni tastatură
+v214_Lang06; Mouse clicks; Click-uri mouse
+v214_Lang07; Time intervals; Intervale de timp
+v214_Lang08; Window actions; Acțiuni ferestre
+v214_Lang09; Show virtual key names; Arată nume taste virtuale
+v214_Lang10; Show save dialog after recording; Arata dialog salvare după înregistrare
+v214_Lang20; Press; Apasă
+v214_Lang21; or "Record" button to start recording; sau butonul "Înregistrare" pentru a începe înregistrarea
+v214_Lang22; to finish; pentru a finaliza
+v214_Lang23; Recording macro; Înregistrare macro
+v214_Lang24; Recording completed; Înregistrare finalizată
+v214_Lang25; Recorded Macro; Macro înregistrat
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Activează string de abreviere fișier Phrase
+v217_Lang02; New Tab; Tab nou
+v217_Lang03; Rename; Redenumire
+v217_Lang04; Move Left; Muta la stangă
+v217_Lang05; Move Right; Muta la dreapta
+v217_Lang06; tab; tab
+v217_Lang07; Tab Name; Nume Tab
+
+[Version 2.19]
+v219_Lang01; More; More
+v219_Lang02; Settings shortcut; Scurtătură setări
+v219_Lang04; Popups font and color; Pop-up font și culoare
+v219_Lang05; Color and style; Culoare și stil
+v219_Lang06; Sort; Sortare
+v219_Lang07; Alphabetically; Alfabetic
+v219_Lang08; Include similar words (smart search); Include cuvinte similare (smart search)
+v219_Lang09; Don't learn strings; Nu învăța string-uri
+v219_Lang10; Trail width and color; Lățime și culoare urmă
+v219_Lang11; Run as administrator; Rulează că administrator
+v219_Lang12; Formatting; Formatare
+v219_Lang13; Normal; Normal
+v219_Lang14; No Icons; Fără icoane
+v219_Lang15; Small; Mic
+v219_Lang16; Apply; Aplică
+
+[Version 2.20]
+v220_Lang02; Icon size; Mărime icoană
+v220_Lang04; Break menu at separator; Împarte meniul la separator
+v220_Lang05; Increase line spacing; Mărește spațiere linii
+v220_Lang06; Selection color; Culoare selecție
+v220_Lang07; Invert selection text color; Inversează culoare selecție text
+v220_Lang08; Show clipboard items; Arată itemi clipboard
+
+[Version 2.22]
+v222_Lang01; Selection keys; Taste selecție
+v222_Lang02; Number; Număr
+v222_Lang03; Insert mode; Mod inserare
+v222_Lang04; Show line numbers; Arată numere linie
+v222_Lang05
+v222_Lang06; More options; Mai multe opțiuni
+v222_Lang07; Fewer options; Mai puține opțiuni
+v222_Lang08; Always show more options; Întotdeauna arată mai multe opțiuni
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Mută sub un meniu
+v300_Lang02; System Variables; Variabile sistem
+v300_Lang03; Macros; Macro-uri
+v300_Lang04; Manual Text Input; Introducere text manuală
+v300_Lang05; File Contents; Conținut fișier
+v300_Lang06; Name; Nume
+v300_Lang07; Paragraph Options; Opțiuni paragraf
+v300_Lang08; Spacing; Spațiere
+v300_Lang09; Before; Înainte
+v300_Lang10; After; După
+v300_Lang11; Line spacing; Spațiere linii
+v300_Lang12; Reload shortcut; Reîncărcare scurtătură
+v300_Lang13; Paste delay (ms); Delay paste (ms)
+v300_Lang14; No formatting; Fără formatare
+v300_Lang15; Rich Text; Rich text
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Apasă SHIFT pentru a face paste fără a închide
+v300_Lang18; Window Information; Informație fereastra
+v300_Lang19; Insert Another Item; Introdu alt item
+v300_Lang20; Filter; Filtru
+v300_Lang21; Selection Form; Formular selecție
+v300_Lang22; Selections; Selecții
+v300_Lang23; Preview; Preview
+v304_Lang01; Title; Titlu
+v304_Lang02; Class; Clasă
+v304_Lang03; Process; Proces
+v304_Lang04; Position (x, y); Poziție (x, y)
+v304_Lang05; Size (w, h); Mărime (w, h)
+v304_Lang06; Control; Control
+v304_Lang07; Text; Text
+v304_Lang08; Mouse Position; Poziție Mouse
+v304_Lang09; Color; Culoare
+v304_Lang10; Insert Image; Inserare imagine
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Arată sugestii în timpul scrierii (Setări Auto-Complete)
+v304_Lang12; Shift; Shift
+v304_Lang13; Include words containing the string; Include cuvinte care conțîn stringul
+v304_Lang14; Enable column sorting; Activare sortare coloane
+v304_Lang15; Description separator; Separator descriere
+v304_Lang16; Copy to Start Menu; Copiere către Start Menu
+v304_Lang17; Key delay (ms); Delay taste (ms)
+v304_Lang18; Key delays only active in; Delay taste activ doar în
+v304_Lang19; Display options; Opțiuni vizualizare
+v304_Lang20; New from Library; Nou din Librărie
+v304_Lang21; Variable name contains illegal characters:; Nume variabilă conține caractere ilegale:
+v304_Lang22; User Variables; Variabile Utilizator
+v304_Lang23; Usage Statistics; Statistici folosire
+v304_Lang24; Times executed; Număr execuții
+v304_Lang25; Keystrokes saved; Apăsări taste salvate
+v304_Lang26; Time savings; Timp salvat
+v304_Lang27; Session; Sesiune
+v304_Lang28; Track usage statistics; Urmărește statistici utilizare
+v304_Lang29; Typing speed (wpm); Viteză scriere (cpm)
+v304_Lang30; Hourly wage; Salariu pe oră
+v304_Lang31; Insert Command Code; Inserează cod comandă
+v304_Lang32; Command Name; Nume comandă
+v304_Lang33; Enable; Activare
+v304_Lang34; Disable; Dezactivare
+v304_Lang35; Enable random text generation syntax (Spintax); Activare sintaxă generare text random (Spintax)
+v304_Lang36; Font; Font
+v304_Lang37; Adjust to typed case; Ajustare la capitalizare scriere
+v304_Lang38; Condition; Condiție
+v304_Lang39; Condition Name; Nume Condiție
+v304_Lang40; Allow duplicates; Permite duplicate
+v304_Lang42; Append; Adaugă
+v304_Lang43; Include descriptions; Include descrieri
+v304_Lang44; Delimited Text File; Fișier Text Delimitat
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; Script AutoHotkey v1
+v304_Lang47; Import ; Import
+v304_Lang48; Import to; Import to
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Delimitator (Ultimul)
+v400_Lang02; Format; Format
+v400_Lang03; Sounds; Sunete
+v400_Lang04; Show title bar; Arată bara de titlu
+v400_Lang05; Break into columns; Împarte în coloane
+v400_Lang06; Clipboard capture; Capturare clipboard
+v400_Lang07; Macro record/play; Înregistrare/redare macro
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Folosește clipboard pentru Rich Text (necesită re-editare)
+v400_Lang09; Module; Modul
+v400_Lang10; Restore Backup; Restaurare Back-up
+v400_Lang11; Backup file; Fișier back-up
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Sigur doriți restaurarea la versiunea anterioară?¶¶Setările actuale vor fi suprascrise.
+v400_Lang13; Shadow type; Tip umbră
+v400_Lang14; Save history; Salvare istoric
+v400_Lang15; Control Click; Click Control
+v400_Lang16; Key delays; Delay taste
+v400_Lang17; Key press duration (ms); Durata apăsare taste (ms)
+v400_Lang18; Dialog delay (ms); Delay dialog (ms)
+v400_Lang19; Focus change delay (ms); Delay schimbare focus (ms)
+v400_Lang20; Force window focus; Forțează focus fereastra
+v400_Lang21; Current Tab; Tab curent
+v400_Lang22; Top edge zone (L-R %); Zonă margine de sus (L-R %)
+v400_Lang23; Mode; Mod
+v400_Lang24; Click; Click
+v400_Lang25; Calculate math expressions; Calculează expresii matematice
+v400_Lang26; Continuous calculation (instead of pressing =); Calcul continuu (fără a apasă =)
+v400_Lang27; Show thousands separator; Arată separator mii
+v400_Lang28; Round (decimals); Rotunjire (zecimale)
+v400_Lang29; File path; Adresă fișier
+v400_Lang30; Result; Rezultat
+v400_Lang31; Find; Căutare
+v400_Lang32; Find Next; Caută următorul
+v400_Lang33; Search description; Descriere căutare
+v400_Lang34; Restrictions; Restricții
+v400_Lang35; Backup; Backup
+v400_Lang36; Encrypt with password; Criptare cu parolă
+v400_Lang37; Password; Parolă
+v400_Lang38; Verify; Verificare
+v400_Lang39; Data Protection; Protecție date
+v400_Lang40; Encrypt file; Criptare fișier
+v400_Lang41; Remember on this computer; Ține minte pe acest computer
+v400_Lang42; Protect backups; Protejare back-up-uri
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; IMPORTANT:¶Daca uitați parola, nu veți mai putea accesa datele. Fișierele de backup create înainte de activare nu sunt protejate. Fișierele Phrase și Wordlist nu sunt protejate.
+v400_Lang44; Support Mail; Mail suport
+v400_Lang45; The password is incorrect, please try again.; Parola este incorectă, încearcă din nou
+v400_Lang46; Quick find; Căutare rapidă
+v400_Lang48; Search current typed word; Caută cuvântul tastat curent
+v400_Lang49; Calculator; Calculator
+v400_Lang50; Show suggestion; Arată sugestie
+v400_Lang51; Special characters; Caractere speciale
+v400_Lang52; Online Documentation; Documentație Online
+v400_Lang53; Print; Print
+v400_Lang54; Automatic spacing; Spațiere automată
+v400_Lang55; Remove text margin; Elimină margine text
+v400_Lang56; Menu icon; Icoană meniu
+v400_Lang57; Remove vertical lines; Elimină linii verticale
+v400_Lang58; Enable modifiers (!+^#); Activare modificatori (!+^#)
+v400_Lang59; Position above the caret; Poziționare deasupra semnului de omisiune
+v400_Lang60; Properties; Proprietăți
+v400_Lang61; Round time to; Rotunjire timp la
+v400_Lang62; days; zile
+v400_Lang63; business days; zile lucrătoare
+v400_Lang64; hours; ore
+v400_Lang65; minutes; minute
+v400_Lang66; months; luni
+v400_Lang67; years; ani
+v400_Lang70; Update order on paste; Updatare ordine la paste
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; Sigur creați un nou fișier de setări?¶¶Setările actuale nu vor fi șterse - Folosiți File/Deschidere pentru a deschide fișierul de setări din nou.
+v400_Lang72; Position; Poziție
+v400_Lang73; Below the caret; Sub semnul de omisiune
+v400_Lang74; Above the caret; Deasupra semnului de omisiune
+v400_Lang75; Alternative position; Poziție alternativă
+v400_Lang76; Mouse cursor; Mută cursor
+v400_Lang77; Centered; Centrat
+v400_Lang78; Tray; Tray
+v400_Lang89; Upgrade to Professional; Upgrade la Professional
+v400_Lang90; Shared settings; Setări shared
+v400_Lang91; Team; Echipă
+v400_Lang92; Shared file; Fișier shared
+v400_Lang93; Edit shared file; Editare fișier shared
+v400_Lang94; Shared file editing.; Editare fișier shared
+v400_Lang95; Shared file saved, returning to normal mode.; Fișier shared salvat, revenire la mod normal.
+v400_Lang96; Information; Informație
+v400_Lang97; SHARED; SHARED
+v400_Lang98; Remember popup position; Retine poziție pop-up
+v400_Lang99; Prefixes; Prefixe
+v426_Lang01; Default suffix; Sufixe default
+v426_Lang02; Exclusions; Excluderi
+
+[Version 5.00]
+v5_Lang01; Default text; Text default
+v5_Lang02; No output; Fără output
+v5_Lang03; Open Web Page; Deschidere pagină web
+v5_Lang04; Run Program; Rulează program
+v5_Lang05; Open File; Deschidere fișier
+v5_Lang06; Open Folder; Deschidere Folder
+v5_Lang07; Create Mail; Creează Mail
+v5_Lang08; Activate Window; Activează Fereastră
+v5_Lang09; To; To
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; Subiect
+v5_Lang13; Attachments; Atașamente
+v5_Lang14; Message body; Corp mesaj
+v5_Lang15; Send automatically; Trimite automat
+v5_Lang16; Default; Default
+v5_Lang17; Address (URL); Adresă (URL)
+v5_Lang18; Folder; Folder
+v5_Lang19; Custom; Custom
+v5_Lang20; Browser path; Cale browser
+v5_Lang21; Working directory; Director de lucru
+v5_Lang22; Maximized; Maximizat
+v5_Lang23; Minimized; Minimizat
+v5_Lang24; Wait until program closes; Așteaptă până la închiderea programului
+v5_Lang25; Browser; Browser
+v5_Lang26; Table Selection; Tabel Selecție
+v5_Lang27; Text File Lookup; Căutare Fișier Text
+v5_Lang28; Excel File Lookup; Căutare Fișier Excel
+v5_Lang29; Lookup; Căutare
+v5_Lang30; Table; Tabel
+v5_Lang31; Return column(s); Returnează coloane
+v5_Lang32; Table file; Fișier table
+v5_Lang33; Sheet; Sheet
+v5_Lang34; Cell range; Range celule
+v5_Lang35; Column no.; Nr. coloană
+v5_Lang36; Equals; Egal
+v5_Lang37; User Input; Input utilizator
+v5_Lang38
+v5_Lang39; Output separator; Separator output
+v5_Lang40; Force query; Forțează querry
+v5_Lang41; Insert column; Inserează coloană
+v5_Lang42; Delete column; Șterge coloană
+v5_Lang43; Excel Data Range; Excel Data Range
+v5_Lang44; Insert Data; Inserează date
+v5_Lang45; Input; Input
+v5_Lang46; Automation; Automatizare
+v5_Lang47; Customize Menus; Customizare Meniuri
+v5_Lang48; Show icons; Arată icoane
+v5_Lang49; Favourite macros; Macrou-uri favorite
+v5_Lang50; Toolbar; Toolbar
+v5_Lang51; More settings; Mai multe setări
+v5_Lang52; Tiles; Pavele
+v5_Lang53; Icon and text below; Icoane și text dedesubt
+v5_Lang54; Icon and text right; Icoane și text la dreapta
+v5_Lang55; Icon; Icoană
+v5_Lang56; Tile size (W/H px); Mărime pavelă (W/H px)
+v5_Lang57; Padding (px); Margine (px)
+v5_Lang58; Grid; Grid
+v5_Lang59; Grid size (Rows/Columns); Mărime grid (Rânduri/Coloane)
+v5_Lang60; Order; Ordine
+v5_Lang61; Outside margin (px); Margine exterioară (px)
+v5_Lang62; Background color; Culoare fundal
+v5_Lang63; Vertical; Vertical
+v5_Lang64; Horizontal; Orizontal
+v5_Lang65; Display Edit, Delete buttons; Afișează butoanele Display, Edit
+v5_Lang66; Theme; Temă
+v5_Lang67; Calculation; Calcul
+v5_Lang68; Save table as; Salvează tabel că
+v5_Lang69; Insert Another Field; Inserează alt câmp
+v5_Lang70; Macro; Macro
+v5_Lang71; Column width; Lățime coloană
+v5_Lang72; Popup width (px); Lățime popup (px)
+v5_Lang73; Edit shared file; Editare fișier shared
+v5_Lang74; Recent changes; Modificări recente
+v5_Lang75; Yes; Da
+v5_Lang76; No; Nu
+v5_Lang77; Bold; Bold
+v5_Lang78; Italic; Italic
+v5_Lang79; Underline; Underline
+v5_Lang80; Align Left; Aliniere la stânga
+v5_Lang81; Center; Centru
+v5_Lang82; Align Right; Aliniere la dreapta
+v5_Lang83; Justify; Justify
+v5_Lang84; Increase Font Size; Font mai mare
+v5_Lang85; Decrease Font Size; Font mai mic
+v5_Lang86; Bullets; Bullets
+v5_Lang87; Numbering; Numerotare
+v5_Lang88; Decrease Indent; Micșorare indentare
+v5_Lang89; Increase Indent; Mărire indentare
+v5_Lang90; Date; Data
+v5_Lang91; Time; Timp
+v5_Lang92; User; Ușer
+v5_Lang93; Changes; Modificări
+v5_Lang94; Include spaces; Include spații
+v5_Lang95; Number of items; Număr de itemi
+v5_Lang96; Output format; Format output
+v5_Lang97; Output if empty; Output dacă este gol
+v5_Lang98; Trim spaces; Decupare spații
+v5_Lang99; All; Toate
+v5_Lang100; Adapt case; Adaptare capitalizare
+v5_Lang101; Uppercase; Uppercase
+v5_Lang102; Lowercase; Lowercase
+v5_Lang103; Find and replace; Căutare și înlocuire
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; Doriți să resetați preferințele acestui tab cu valorile default?
+v5_Lang105; Reset ALL preferences; Resetare TOATE preferințe
+v5_Lang106; Multi line; Linii multiple
+v5_Lang107; Tables folder; Folder tabele
+v5_Lang108; Input Format; Formatare input
+v5_Lang109; Digits; Cifre
+v5_Lang110; All matches; Toate potrivirile
+v5_Lang111; Neutral color icon; Icoană culoare neutră
+v5_Lang112; Auto save; Salvare automată
+v5_Lang113; Video tutorials; Tutoriale video
+v5_Lang114; Message Box; Căsuță mesaj
+v5_Lang115; Buttons; Butoane
+v5_Lang116; Stop; Stop
+v5_Lang117; Any key; Orice tasta
+v5_Lang118; Relative to window; Relativ la fereastră
+v5_Lang119; Keyboard; Tastatură
+v5_Lang120; Open Shared File; Deschide Fișier Shared
+v5_Lang121; Share; Share
+v5_Lang122; Export; Export
+v5_Lang123; Send Link; Trimite link
+v5_Lang124; If item exists; Dacă itemul există
+v5_Lang125; Skip; Sari peste
+v5_Lang126; Replace; Înlocuire
+v5_Lang127; Select tabs; Selectează taburi
+v5_Lang130; File already exists.; Fișierul există deja
+v5_Lang131; Are you sure?; Sunteți sigur?
+v5_Lang132; item(s) will be shared.; itemii vor fi trimiși
+v5_Lang133; duplicate(s) found; s-au găsit duplicate
+v5_Lang134; will be skipped.; vă fi sărit
+v5_Lang135; will be replaced.; vă fi înlocuit
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; Faceți paste la calea primită de la administrator în câmpul de mai jos sau selectați fișierul.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; Trimiteți acest conținut altor utilizatori. Selectați tabul existent sau introduceți un nou tab.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; Exportați setările către o locație din cloud sau din rețea unde pot fi accesate de alti utilizatori.
+v5_Lang139; Search command; Căutare comandă
+v5_Lang140; Remember last input; Ține minte ultimul input
+v5_Lang141; Startup script
+v5_Lang142
+v5_Lang143; Grid Selection
+v5_Lang144; Set columns
+v5_Lang145; Selection type
+v5_Lang146; Optional Section
+v5_Lang147; Select "Command" mode to enable more options.
+v5_Lang148; Use clipboard
+v5_Lang149; Loop
+v5_Lang150; Loop count
+v5_Lang151; Default button
+v5_Lang152; Timeout (s)
+v5_Lang153; Required
+v5_Lang154; Letters
+v5_Lang155; Numbers
+v5_Lang156; Email
+v5_Lang157; Align elements horizontally
+v5_Lang158; Comment
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.; este activ.¶Pentru a deschide fereastra de Setări din nou selectați icoana Fastkeys din bara, sau apăsăți F8.
+v5_Lang160; Alternative backspace method
+v5_Lang161; If they fit in one row
+v5_Lang162; Preview not available
+v5_Lang163; Switch View
+v5_Lang164; Not supported:
+v5_Lang165; Selected items were saved to
+v5_Lang166; Save Selected As
+v5_Lang167; First Letter
+v5_Lang168; Copy to Clipboard
+
+[Version 6.00]
+v6_Lang01; Grid Check
+v6_Lang02; Single
+v6_Lang03; Multi
+v6_Lang04; Delimiters
+v6_Lang05; Checked
+v6_Lang06; Unchecked
+v6_Lang07; Output
+v6_Lang08; Group output
+v6_Lang09; Repeat last command
+v6_Lang10; Double press
+v6_Lang11; Long press
+v6_Lang12; Wait time (s)
+v6_Lang13; Recognize items
+v6_Lang14; Voice Recognition
+v6_Lang15; Base value
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday
+v6_Lang17; Date/Time Calculation
+v6_Lang18; Auto restore hook (min)
+v6_Lang19; Auto reload (min)
+v6_Lang20; If condition
+v6_Lang21; Else
+v6_Lang22; Case If Conditions
+v6_Lang23; Are you sure you want to change the options for the

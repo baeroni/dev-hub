@@ -1,0 +1,798 @@
+﻿; English; Swedish
+; svenska
+; Translation by Dennis M Wallentin, Muhammed Gültekin
+
+[Gui]
+g_Lang01; Start Menu; Startmeny
+g_Lang02; Shortcuts; Genvägar
+g_Lang03; Text Expander; Förkortningar
+g_Lang04; Auto Complete; Autokomplettering
+g_Lang05; Gestures; Muskommandon
+g_Lang06
+g_Lang11; New; Ny
+g_Lang12; Edit; Redigera
+g_Lang13; Delete; Ta bort
+g_Lang14; Run; Kör
+g_Lang15; Active; Aktiv
+g_Lang16; Menu; Meny
+g_Lang17; Submenu; Undermeny
+g_Lang18; Type; Typ
+g_Lang19; Command; Kommando
+g_Lang20; Run Type; Kör Typ
+g_Lang21; Key; Nyckel
+g_Lang22; Shortcut; Genväg
+g_Lang23; Description; Beskrivning
+g_Lang24; Window; Fönster
+g_Lang25; String; Sträng
+g_Lang26; Substitute; Ersättning
+g_Lang27; Gesture; Muskommando
+g_Lang28
+g_Lang31; Paused; Pausad
+g_Lang32; Active; Aktiv
+g_Lang33; Untitled; Ingen titel
+g_Lang40
+g_Lang41; Separator; Separator
+g_Lang42; Undo; Ĺngra
+g_Lang43; Redo; Upprepa
+g_Lang44; Move Up; Flytta upp
+g_Lang45; Move Down; Flytta ned
+g_Lang46; Are you sure to remove; Är du säker på att ta bort
+g_Lang47; selected items; valda objekt
+g_Lang50
+g_Lang51; Preferences; Preferenser
+g_Lang52; Support Forum; Support Forum
+g_Lang53; Help; Hjälp
+g_Lang54; Select a file or folder; Välj en fil eller mapp
+g_Lang55; Edit command in Editor; Redigera kommando i Editorn
+g_Lang56; Select a preset command; Välj förinställt kommando
+g_Lang60
+g_Lang61; Registered to; Registrerad till
+g_Lang62; THE TRIAL VERSION HAS EXPIRED.; DEMOVERSIONENS TID HAR GÅTT UT.
+g_Lang63; TRIAL PERIOD.; DEMOPERIOD
+g_Lang64
+g_Lang71; Do you want to save changes?; Vill du spara ändringarna?
+g_Lang72; Save file as...; Spara fil som...
+g_Lang73; Do you want to save changes to; Vill du spara ändringarna till
+g_Lang74; Please select FastKeys data file.; Vänligen välj en FastKey datafil.
+g_Lang75; Not a valid FastKeys file.; Inte en giltig FastKey fil.
+g_Lang76; Save FastKeys data file as…; Spara FastKey data fil som...
+g_Lang78; Are you sure to overwrite existing data?; Är du säker på att skriva över existerande data?
+g_Lang79; Select folder:; Välj mapp:
+g_Lang80; Duplicate entry, please correct.; Dubblett, vänligen rätta till.
+g_Lang81; File does not exist.; Fil existerar inte.
+g_Lang82; Please select a Phrase file.; Vänligen välj en Frasfil.
+g_Lang83; Please select a Wordlist file.; Vänligen välj en Ordlistafil.
+g_Lang84; Too many menu entries.; För många menydubbletter.
+
+[Gui Options]
+g1_Lang01
+g1_Lang02; Trigger immediately; Trigga omedelbar
+g1_Lang03; Delete ending char; Ta bort slutande tecken
+g1_Lang04; Don't delete string; Ta inte bort sträng
+g1_Lang05; Case sensitive; Skiftlägeskänsliga
+g1_Lang06; Trigger inside word; Trigga inuti ord
+g1_Lang07; Send raw text; Skicka råtext
+g1_Lang08; Manual confirmation; Manuell bekräftelse
+g1_Lang09
+g1_Lang11; None; Ingen
+g1_Lang12; Auto Run; Autokörning
+g1_Lang13; Run on Startup; Kör vid start
+g1_Lang14; Include Files; Inkludera Filer
+g1_Lang15; Include Subfolders; Inkludera undermappar
+g1_Lang16; Include Files and Subfolders; Inkludera Filer och undermappar
+g1_Lang17
+g1_Lang21; Record; Inspelning
+g1_Lang22; Record a New Gesture ; Spela in ny musrörelse
+g1_Lang23; Right Mouse Button; Högra musknappen
+g1_Lang24; key; tangent
+g1_Lang25; Hold; Håll
+g1_Lang26; and draw a gesture anywhere on the screen. Press Enter or OK button to finish.; och rita en musrörelse varsomhelst på skärmen. För att avsluta tryck på Enter eller Ok knappen.
+g1_Lang28
+g1_Lang31; Abbreviation; Förkortning
+g1_Lang32; Phrase; Fras
+g1_Lang33; Word; Ord
+g1_Lang34; Phrase file; Frasfil
+g1_Lang35; Wordlist file; Ordlistafil
+g1_Lang36
+g1_Lang41; Line; Linje
+g1_Lang42; Column; Kolumn
+g1_Lang43
+g1_Lang51; Advanced shortcut; Avancerad genväg
+g1_Lang52; Modifier; Modifierare
+g1_Lang53; Optional Attributes; Ytterligare attributer
+g1_Lang54; Native; Ursprunglig
+g1_Lang55; Wildcard; Jokertecken
+g1_Lang56; Hook; Häkta
+g1_Lang57; L/R only; endast L/R
+g1_Lang58; Keys; Tangenter
+g1_Lang59; Standard; Standard
+g1_Lang60; Function keys; Funktionstangenter
+g1_Lang61; Numpad; Numerisk
+g1_Lang62; Mouse; Mus
+g1_Lang63; Multimedia; Multimedia
+g1_Lang64; Special; Special
+g1_Lang65
+
+[Menu]
+m_Lang01; &File; &Fil
+m_Lang02; &Edit; &Redigera
+m_Lang03; &Insert; &Infoga
+m_Lang04; &Tools; &Verktyg
+m_Lang05; &Help; &Hjälp
+m_Lang06; &Register; &Registrering
+m_Lang07
+m_Lang11; &New; &Ny
+m_Lang12; &Open; &Öppna
+m_Lang13; &Save; &Spara
+m_Lang14; Save &As; Spara &Som
+m_Lang15; E&xit; &Avsluta
+m_Lang16
+m_Lang21; &Edit; &Redigera
+m_Lang22; &Delete; &Ta bort
+m_Lang23; Re&load; &Omstart
+m_Lang24; &Pause; &Paus
+m_Lang25
+m_Lang31; &Preferences; &Preferenser
+m_Lang32; &Module Activation; A&ktivera Modul
+m_Lang33; &Auto Learn Settings; I&nställningar autolärande
+m_Lang34; &Check for Updates; &Sök efter uppdateringar
+m_Lang35; &Update Menu Icons; &Uppdatera Menyikonerna
+m_Lang36
+m_Lang41; &Help; &Hjälp
+m_Lang42; &Support Forum; &Supportforum
+m_Lang43; &View Quick Tips; &Visa Snabbtips
+m_Lang44; &About; &Om
+m_Lang45
+m_Lang51; Open from &Library; Öppna från &Bibliotek
+m_Lang52; Cut; Klipp ut
+m_Lang53; Copy; Kopiera
+m_Lang54; Paste; Klistra in
+m_Lang55; Select All; Välj Alla
+m_Lang56; Read Only; Läsrättigheter
+m_Lang57; Zoom in; Zooma in
+m_Lang58; Zoom out; Zooma ut
+m_Lang59; Default Zoom; Default Zoom
+m_Lang60; Zoom; Zooma
+m_Lang61; Always On Top; Alltid längst Fram
+m_Lang62; Line Wrap; Radbyte
+m_Lang63; View; Vy
+m_Lang64; Open Script; Öppna Skript
+
+[FastKeys]
+f_Lang01; Loading FastKeys; Startar FastKeys
+f_Lang02; Settings; Inställningar
+f_Lang03
+f_Lang11; ERROR. Some Commands were stopped.¶¶Please check latest edited commands and correct possible duplicates or syntax errors.; FEL: Några kommandon blev stoppade. Vänligen kontrollera senaste redigerade kommandon och korrigera eventuella dubbletter eller syntaxfel.
+f_Lang12
+f_Lang13; There was a problem retrieving menu icons from the net. Please check your internet or firewall settings.¶¶Automatic downloads have been disabled to allow faster loading. You can enable automatic icon download from the Preferences menu.; Det uppstod ett problem med att hämta menyikoner från internet. Vänligen kontrollera dina internet- eller brandväggsinställningar. Automatisk hämtning har inaktiverats för att tillåta snabbare inläsning. Du kan aktivera automatisk hämtning från menyn med preferenser.
+f_Lang14; Save settings before continuing?; Spara inställning innan du fortsätter?
+f_Lang15; Add to; Lägg till
+f_Lang16
+f_Lang21; Thank you for using trial edition of FastKeys. You have been granted a license to use this application for evaluation only. The registered version does not display this notice.; Tack för att du använder testversionen av FastKeys. Du har endast licens för att använda programmet som utvärderingsversion. Registrerad version av programmet visar inte detta meddelande.
+f_Lang22; Press "Continue" to continue using trial version.; Tryck på "Fortsätt" för att fortsätta använda testversionen.
+f_Lang23
+f_Lang31; Registered users please provide your registration and license information below to activate the full FastKeys version. Copy or type the registration key into the input field and click "Register".¶¶Click "Purchase" to buy a registration key or click "Cancel" to continue using the trial version.; Registrerad användare: ange din registrering o licensinformation nedan för att aktivera den fullständiga version av FastKeys. Kopiera eller skriv in registreringsnyckeln i inmatningsfältet och klicka pĺ "Registrera". Klicka på "Köp" för att köpa en registreringsnyckel eller klicka på "Avbryt" för att fortsätta att använda testversionen.
+f_Lang36
+f_Lang41; Name/Company:; Namn/Företag:
+f_Lang42; Registration key:; Registreringnyckel:
+f_Lang43
+f_Lang45; Wrong registration key. Please try again.; Felaktig registreringnyckel. Var god försök igen.
+f_Lang46; Congratulations, you have registered FastKeys!; Grattis! Du har registrerat FastKeys!
+f_Lang47
+f_Lang51; Open Menu; Öppna meny
+f_Lang52; Reload; Starta om
+f_Lang53; Pause; Paus
+f_Lang54; Exit FastKeys; Avsluta FastKeys
+f_Lang55
+
+[Buttons]
+b_Lang01; OK; OK
+b_Lang02; Cancel; Avbryt
+b_Lang03; Save; Spara
+b_Lang06; Select; Välj
+b_Lang07; Defaults; Defaults
+b_Lang08; Register; Registrera
+b_Lang11; Purchase; Köp
+b_Lang12; Continue; Fortsätt
+b_Lang14; Test; Test
+b_Lang17; Open; Öppna
+b_Lang18; Edit; Redigera
+b_Lang19; Library; Bibliotek
+b_Lang22; Edit File; Redigeringsfil
+
+[Library]
+l_Lang01; Utility; Verktyg
+l_Lang02
+l_Lang03; Scripts; Skript
+l_Lang04; Audio; Ljud
+l_Lang05; Games; Spel
+l_Lang06
+l_Lang11; Control Panel; Kontrollpanel
+l_Lang12; System Folders; Systemmappar
+l_Lang13; Internet Explorer; Internet Explorer
+l_Lang14; System; System
+l_Lang15; Utilities; Verktyg
+l_Lang16; Windows; Windows
+l_Lang17; Shell; Shell
+l_Lang18
+l_Lang21; Keys; Tangenter
+l_Lang22; Cursor Position; Markörposition
+l_Lang23; Mouse and Media; Mus och Media
+l_Lang24; Date and Time; Datum och Tid
+
+[Preferences]
+s_Lang01; General; Allmänt
+s_Lang02; Appearance; Utseende
+s_Lang03; Functions; Funktioner
+s_Lang04; Folders; Mappar
+s_Lang05
+s_Lang06
+s_Lang07
+s_Lang08
+s_Lang09; Auto Learning; Autoinlärning
+s_Lang10
+s_Lang11; Internet; Internet
+s_Lang12; Module Activation; Modulaktivering
+s_Lang13
+s_Lang21
+s_Lang22; Select OK/Save to update icons.; Välj OK/Spara för att uppdatera ikonerna.
+s_Lang23; Would you like to visit FastKeys webpage for few quick tips on using the program?; Vill du besöka FastKeys hemsida för tips om hur man använder programmet?
+s_Lang24; There was a problem checking for updates. Please try again, or visit FastKeys website to check and download manually.¶¶Automatic checks have been disabled to allow faster loading.; Det uppstod ett problem vid sökning efter uppdateringar. Försök igen eller besök FastKeys hemsida för att kontrollera och läsa in manuellt. Automatisk kontroll av uppdateringar har inaktiverats för att möjliggöra snabbare inläsning.
+s_Lang25; You are using the latest version of; Du använder den senaste versionen av
+s_Lang26; A new version of FastKeys; En ny version av FastKeys
+s_Lang27; is available.; är tillgänglig.
+s_Lang28; Would you like to install it now?; Vill du installera den nu?
+s_Lang29; Downloading FastKeys, Version; Hämtar FastKeys, Version
+s_Lang30; Please wait ...; Vänligen vänta ...
+s_Lang31; There was a problem with the download. Please try again or visit FastKeys website to download manually.; Det uppstod ett problem med hämtningen. Försök igen eller besök FastKeys hemsida för manuell hämtning av programvaran.
+s_Lang32
+
+[Preferences 1]
+s1_Lang01; Quick-add; Lägg snabbt till
+s1_Lang02; Quick add to ; Lägg snabbt till
+s1_Lang03; Ask; Frĺga
+s1_Lang04; Learn Wordlist File; Lära om Ordlistefilen
+s1_Lang05; Pause shortcut; Pausa genväg
+s1_Lang06; General options; Allmänna alternativ
+s1_Lang07; Run FastKeys on startup; Starta FastKeys vid start av datorn.
+s1_Lang08; Show tray icon; Visa ikon i aktivitetsfältet
+s1_Lang09; Clicking tray icon shows Start Menu; Vid klickning pĺ ikonen i aktivitetsfältet visas Startmenyn.
+s1_Lang10; Auto check for software updates; Automatisk kontroll för uppdateringeringar av programvaran.
+s1_Lang11; Language; Sprĺk
+
+[Preferences 2]
+s2_Lang01
+s2_Lang02; Show grids; Visa nätstrukturen
+s2_Lang03; Show stripes; Visa linjerna
+s2_Lang04; Show loading progress; Visa startutvecklingen
+s2_Lang05; Display Apply, Edit, Delete buttons; Visa Tillämpa, Redigera, Ta bort knapparna
+s2_Lang06; Transparency (%); Genomskinlighet (%)
+
+[Preferences 3]
+s3_Lang01; Volume; Enhet
+s3_Lang02; Control with mouse wheel on right screen edge; Kontroll med mushjulet på höger skärmkanten
+s3_Lang03; Volume sensitivity; Volymkänslighet
+s3_Lang04; Auto-correct; Autokorrigering
+s3_Lang05; Correct sentence capitals; Korrigera meningens versaler
+s3_Lang06; Correct DOuble CApitals; Korriger DUbbla VErsaler
+s3_Lang07; Disable CapsLock key; Inaktivera CAPS Lock-tangenten
+s3_Lang08; Memory; Minnet
+s3_Lang09; Optimize memory; Optimera minnet
+
+[Preferences 4]
+s4_Lang01; Scripts folder; Skriptmapp
+s4_Lang02; Phrase files folder; Frasfilens mapp
+s4_Lang03; Wordlist files folder; Ordlistfilens mapp
+
+[Preferences 5]
+s5_Lang01; Menu shortcut; Meny genväg
+s5_Lang02; Show menu on; Visa menyn
+s5_Lang03; Top edge; Överkant
+s5_Lang04; Right edge; Högerkant
+s5_Lang05; Left edge; Vänsterkant
+s5_Lang06; Bottom edge; Underkant
+s5_Lang07; Menu options; Menyalternativ
+s5_Lang08; Show menu icons; Visa Ikonmenyn
+s5_Lang09; Auto download website icons; Autohämta hemsidans ikoner
+s5_Lang10; Larger icons; Stora ikoner
+s5_Lang11; Disable menu in full screen applications; Inaktivera meny i helskärmsapplikationer
+s5_Lang12; Add settings to Start Menu; Lägg till inställningar till Startmenyn
+s5_Lang13; Menu delay (ms); Menyfördröjning (millisekunder)
+s5_Lang14; Show recent items; Visa senaste objekt
+s5_Lang15; Files; Filer
+s5_Lang16; Folders; Mappar
+s5_Lang17; Files and folders; Filer och mappar
+s5_Lang18; Show in submenu; Visa i undermenyn
+
+[Preferences 6]
+s6_Lang01; Only active in; Endast aktiv i
+s6_Lang02; Not active in; Inte aktiv i
+
+[Preferences 7]
+s7_Lang01; Default prefix; Default prefix
+s7_Lang02; Ending characters; Sluttecken
+s7_Lang03; Space; Mellanslag
+s7_Lang04; Tab; Flik
+s7_Lang05; Enter; Enter
+s7_Lang06; Separator; Separator
+s7_Lang07; Clipboard; Urklipp
+s7_Lang08; Use clipboard if text length exceeds (char); Använd urklipp om textlängden överstiger (tecken)
+
+[Preferences 8]
+s8_Lang01
+s8_Lang02; Correct case of suggested word; Korrekt fall föreslagna ord
+s8_Lang03; Minimum word length to show suggestion; Minsta ordlängd för att visa förslag
+s8_Lang04; Word suggestion list height; Antal förslag Ordlistan
+s8_Lang05; Special characters; Specialtecken
+s8_Lang06; (list of special alphabet characters to be recognized; (lista av speciella alfabetstecken som ska ses
+s8_Lang07; as a part of a word); som del av ord)
+
+[Preferences 9]
+s9_Lang01; Auto learn; Autoinlärning
+s9_Lang02; Turn on automatic word learning; Slĺ pĺ autordlärande
+s9_Lang03; Learn wordlist file; Inlärning Ordlista
+s9_Lang04; Learning options; Inlärningsalternativ
+s9_Lang05; Minimum length of learned words; Minilängd inlärda ord
+s9_Lang06; Number of occurences to learn a word; Antal tillfällen för inlärning av ett ord
+s9_Lang07; Save learned words as lowercase; Spara inlärda ord som gemener
+
+[Preferences 10]
+s10_Lang01; Gesture Key; Muskommandotangent
+s10_Lang02; Options; Alternativ
+s10_Lang03; Show mouse trail; Visa musrörelse
+s10_Lang04; Play sound for no match; Spela ljud vid ingen matchning
+s10_Lang05; Recognize 8 zones (advanced); Känna igen 8 zoner (avancerat)
+s10_Lang06; Advanced; Avancerat
+s10_Lang07; Interval (ms); Intervall (ms)
+s10_Lang08; Threshold (px); Tröskel (px)
+s10_Lang09; Timeout (ms); Timeout (ms)
+s10_Lang10; Initial timeout (ms); Initial timeout (ms)
+s10_Lang11; Tolerance (%); Tolerans (%)
+
+[Preferences 11]
+s11_Lang01; Check for new versions of FastKeys; Kontrollera om ny version av FastKeys existerar
+s11_Lang02; Update; Uppdatera
+s11_Lang03; Update Start menu icons from internet; Uppdatera Start Menyns ikoner från Internet
+s11_Lang04; Update icons; Uppdatera ikoner
+s11_Lang05; View quick tips for using FastKeys; Visa snabbtips för användning av FastKeys
+s11_Lang06; View quick tips; Visa snabbtips
+
+[Preferences 12]
+s12_Lang01; Active modules; Aktiv module
+s12_Lang03; Hide disabled modules; Dölj inaktiverade moduler
+
+
+[New Versions]
+
+[Version 2.11]
+v211_Lang00; Clipboard Manager; Inställningar Urklipp
+v211_Lang01; Clipboard shortcut; Genväg Urklipp
+v211_Lang02; History size; Historisk storlek
+v211_Lang03; Capture images and formatting; Ta bilder och formatering
+v211_Lang04; Hold Ctrl key to paste without formatting; Hĺll ned Ctrl-tangenten för att klistra in utan formatering
+v211_Lang05; Clipboard font; Font Urklipp
+v211_Lang06; Popups; Popupfönster
+v211_Lang07; Maximum popup width; Maximal bredd popupfönster
+v211_Lang08; Show shortcut numbers; Visa genväg Antal
+v211_Lang09; New File; Ny Fil
+v211_Lang10; New Empty File; Ny tom Fil
+v211_Lang11; Backup files folder; Sökväg backup av mappar
+v211_Lang12; Number of saved backups; Antal sparade backups
+
+[Version 2.14]
+v214_Lang00; Duplicate; Duplicera
+v214_Lang01; Macro Recorder; Makrospelare
+v214_Lang02; Record shortcut; Genväg Inspelning
+v214_Lang03; Play shortcut; Genväg Spela
+v214_Lang04; Recording options; Alternativ för spelning
+v214_Lang05; Keyboard actions; Tangentbordsĺtgärder
+v214_Lang06; Mouse clicks; Musklickar
+v214_Lang07; Time intervals; Tidsintervall
+v214_Lang08; Window actions; Fönsterĺtgärder
+v214_Lang09; Show virtual key names; Visa virtuella tangentnamn
+v214_Lang10; Show save dialog after recording; Visa spara-dialog efter inspelning
+v214_Lang20; Press; Tryck
+v214_Lang21; or "Record" button to start recording; eller "Inspelnings" tangent för att starta inspelning
+v214_Lang22; to finish; för att avsluta
+v214_Lang23; Recording macro; Inspelningsmakro
+v214_Lang24; Recording completed; Inspelning fulländad
+v214_Lang25; Recorded Macro; Inspelat makro
+
+[Version 2.17]
+v217_Lang01; Enable Phrase file abbreviation string; Aktivera frasfilen förkortningar
+v217_Lang02; New Tab; Ny Flik
+v217_Lang03; Rename; Ändra namn
+v217_Lang04; Move Left; Flytta Vänster
+v217_Lang05; Move Right; Flytta Höger
+v217_Lang06; tab; Flik
+v217_Lang07; Tab Name; Fliknamn
+
+[Version 2.19]
+v219_Lang01; More; Mer
+v219_Lang02; Settings shortcut; Genväg inställningar
+v219_Lang04; Popups font and color; Popupfönster fonter och färger
+v219_Lang05; Color and style; Färg och stil
+v219_Lang06; Sort; Sortering
+v219_Lang07; Alphabetically; Alfabetiskt
+v219_Lang08; Include similar words (smart search); Inkludera liknande ord (smart sökning)
+v219_Lang09; Don't learn strings; Icke lärtextsträngar
+v219_Lang10; Trail width and color; Trail bredd och färg
+v219_Lang11; Run as administrator; Använd Administratörsrollen
+v219_Lang12; Formatting; Formatering
+v219_Lang13; Normal; Normal
+v219_Lang14; No Icons; Inga Ikoner
+v219_Lang15; Small; Små
+v219_Lang16; Apply; Tillämpa
+
+[Version 2.20]
+v220_Lang02; Icon size; Ikons storlek
+v220_Lang04; Break menu at separator; Brytmeny som separator
+v220_Lang05; Increase line spacing; Öka radavstĺnd
+v220_Lang06; Selection color; Färgväljare
+v220_Lang07; Invert selection text color; Invertera urval textfärg
+v220_Lang08; Show clipboard items; Visa urklipps innehĺll
+
+[Version 2.22]
+v222_Lang01; Selection keys; Valtangenter
+v222_Lang02; Number; Antal
+v222_Lang03; Insert mode; Infogningsläge
+v222_Lang04; Show line numbers; Visa radnummer
+v222_Lang05
+v222_Lang06; More options; Fler alternativ
+v222_Lang07; Fewer options; Färre alternativ
+v222_Lang08; Always show more options; Visa alltid fler alternativ
+
+[Version 3.00]
+v300_Lang01; Move Under a Menu; Flytta under en meny
+v300_Lang02; System Variables; System Variabler
+v300_Lang03; Macros; Makron
+v300_Lang04; Manual Text Input; Manuellt textinmatningsfält
+v300_Lang05; File Contents; Filinnehĺll
+v300_Lang06; Name; Namn
+v300_Lang07; Paragraph Options; Alternativ Paragrafer
+v300_Lang08; Spacing; Mellanrum
+v300_Lang09; Before; Före
+v300_Lang10; After; Efter
+v300_Lang11; Line spacing; Radavstånd
+v300_Lang12; Reload shortcut; Starta om Genväg
+v300_Lang13; Paste delay (ms); Fördröj klistra in (ms)
+v300_Lang14; No formatting; Ingen formatering
+v300_Lang15; Rich Text; Rich Text
+v300_Lang16; HTML; HTML
+v300_Lang17; Hold Shift key to paste without closing; Hĺll ned Skift-tangenten för att klistra in utan att stänga
+v300_Lang18; Window Information; Fönsterinformation
+v300_Lang19; Insert Another Item; Infoga ytterligare kommando
+v300_Lang20; Filter; Filter
+v300_Lang21; Selection Form; Val av inputformulär
+v300_Lang22; Selections; Val
+v300_Lang23; Preview; Förhansgranskning
+v304_Lang01; Title; Fönstertitel
+v304_Lang02; Class; Klass
+v304_Lang03; Process; Behandla
+v304_Lang04; Position (x, y); Position (x, y)
+v304_Lang05; Size (w, h); Storlek (b, h)
+v304_Lang06; Control; Objekt
+v304_Lang07; Text; Text
+v304_Lang08; Mouse Position; Musposition
+v304_Lang09; Color; Färg
+v304_Lang10; Insert Image; Infoga Bild
+v304_Lang11; Display suggestions as you type (Auto Complete settings); Visningsförslag medan du skriver (Autokomplettera)
+v304_Lang12; Shift; Skift
+v304_Lang13; Include words containing the string; Inkludera ord som innehĺller textsträngen
+v304_Lang14; Enable column sorting; Aktivera kolumnsortering
+v304_Lang15; Description separator; Beskrivning separator
+v304_Lang16; Copy to Start Menu; Kopiea till Startmenyn
+v304_Lang17; Key delay (ms); Tangentfördröjning (ms)
+v304_Lang18; Key delays only active in; Tangentfördröjning är enbart aktiv i
+v304_Lang19; Display options; Skärmalternativ
+v304_Lang20; New from Library; Nytt frĺn Biblioteket
+v304_Lang21; Variable name contains illegal characters:; Variabelnamn innehĺller otillĺtna tecken:
+v304_Lang22; User Variables; Användarvariabler
+v304_Lang23; Usage Statistics; Användningsstatistik
+v304_Lang24; Times executed; Utförda mängd
+v304_Lang25; Keystrokes saved; Sparade tangenttryckningar
+v304_Lang26; Time savings; Tidsbesparingar
+v304_Lang27; Session; Session
+v304_Lang28; Track usage statistics; Spåra användningsstatistik
+v304_Lang29; Typing speed (wpm); Skrivhastighet (wpm)
+v304_Lang30; Hourly wage; Timlön
+v304_Lang31; Insert Command Code; Infoga kommandokod
+v304_Lang32; Command Name; Komandonamn
+v304_Lang33; Enable; Aktivera
+v304_Lang34; Disable; Avaktivera
+v304_Lang35; Enable random text generation syntax (Spintax); Aktivera slumpmässig text generering syntax (Spintax)
+v304_Lang36; Font; Typsnitt
+v304_Lang37; Adjust to typed case; Justera till skriven skiftläge
+v304_Lang38; Condition; Omständighet
+v304_Lang39; Condition Name; Omständighet Namn
+v304_Lang40; Allow duplicates; Tillåt dubletter
+v304_Lang42; Append; Bifoga
+v304_Lang43; Include descriptions; Inkludera beskrivningar
+v304_Lang44; Delimited Text File; Avgränsad textfil
+v304_Lang45; Microsoft Excel; Microsoft Excel
+v304_Lang46; AutoHotkey v1 Script; AutoHotkey v1 Skript
+v304_Lang47; Import ; Importera
+v304_Lang48; Import to; Importera till
+
+[Version 4.00]
+v400_Lang01; Delimiter (Last); Avgränsare (sista)
+v400_Lang02; Format; Format
+v400_Lang03; Sounds; Låtar
+v400_Lang04; Show title bar; Visa titelfältet
+v400_Lang05; Break into columns; Bryt in till kolumner
+v400_Lang06; Clipboard capture; Fånga urklipp
+v400_Lang07; Macro record/play; Makro inspelning/uppspelning
+v400_Lang08; Use clipboard for Rich Text (requires re-edit); Använd urklipp för Rich Text (kräver omredigering)
+v400_Lang09; Module; Modul
+v400_Lang10; Restore Backup; Återställa säkerhetskopiering
+v400_Lang11; Backup file; Säkerhetskopieringsfil
+v400_Lang12; Are you sure you want to restore the previous version of the data?¶¶This will overwrite all current settings.; Är du säker på att du vill återställa den tidigare versionen av data?¶¶Detta kommer att skriva över alla nuvarande inställningar.
+v400_Lang13; Shadow type; Skuggtyp
+v400_Lang14; Save history; Spara historik
+v400_Lang15; Control Click; Kontrollklick
+v400_Lang16; Key delays; Tangent förseningar
+v400_Lang17; Key press duration (ms); Trycktid på tangenten (ms)
+v400_Lang18; Dialog delay (ms); Fördröjning av dialog (ms)
+v400_Lang19; Focus change delay (ms); Fördröjning av fokusändring (ms)
+v400_Lang20; Force window focus; Tvinga fokus för fönstret
+v400_Lang21; Current Tab; Aktuell flik
+v400_Lang22; Top edge zone (L-R %); Övre kantzon (L-R %)
+v400_Lang23; Mode; Läge
+v400_Lang24; Click; Klicka
+v400_Lang25; Calculate math expressions; Beräkna matematiska uttryck
+v400_Lang26; Continuous calculation (instead of pressing =); Kontinuerlig beräkning (i stället för att trycka på =)
+v400_Lang27; Show thousands separator; Visa tusentalsavgränsare
+v400_Lang28; Round (decimals); Avrunda (decimaler)
+v400_Lang29; File path; Filväg
+v400_Lang30; Result; Resultat
+v400_Lang31; Find; Hitta
+v400_Lang32; Find Next; Hitta nästa
+v400_Lang33; Search description; Sök beskrivning
+v400_Lang34; Restrictions; Begränsningar
+v400_Lang35; Backup; Säkerhetskopiering
+v400_Lang36; Encrypt with password; Kryptera med lösenord
+v400_Lang37; Password; Lösenord
+v400_Lang38; Verify; Verifiera
+v400_Lang39; Data Protection; Dataskydd
+v400_Lang40; Encrypt file; Kryptera fil
+v400_Lang41; Remember on this computer; Kom ihåg på den här datorn
+v400_Lang42; Protect backups; Skydda säkerhetskopior
+v400_Lang43; IMPORTANT:¶If you forget the password, you won't be able to access the data. Backup files created before the activation are not protected. Phrase and Wordlist files are not protected.; VIKTIGT:¶Om du glömmer lösenordet kan du inte komma åt datafiler. Säkerhetskopior som skapats före aktiveringen skyddas inte. Filer med fraser och ordlistor är inte skyddade.
+v400_Lang44; Support Mail; Kundtjänst Email
+v400_Lang45; The password is incorrect, please try again.; Lösenordet är felaktigt, försök igen.
+v400_Lang46; Quick find; Snabbt hitta
+v400_Lang48; Search current typed word; Sök efter aktuellt skriven ord
+v400_Lang49; Calculator; Kalkylator
+v400_Lang50; Show suggestion; Visa förslag
+v400_Lang51; Special characters; Speciella karaktärer
+v400_Lang52; Online Documentation; Online Dokumentering
+v400_Lang53; Print; Skriva ut
+v400_Lang54; Automatic spacing; Automatisk avstånd.
+v400_Lang55; Remove text margin; Ta bort textmarginalen
+v400_Lang56; Menu icon; Menyikonen
+v400_Lang57; Remove vertical lines; Ta bort vertikala linjer
+v400_Lang58; Enable modifiers (!+^#); Ta bort vertikala linjer (!+^#)
+v400_Lang59; Position above the caret; Position ovanför snitseln
+v400_Lang60; Properties; Egenskaper
+v400_Lang61; Round time to; Runda tiden till
+v400_Lang62; days; dagar
+v400_Lang63; business days; arbetsdagar
+v400_Lang64; hours; timmar
+v400_Lang65; minutes; minuter
+v400_Lang66; months; månader
+v400_Lang67; years; år
+v400_Lang70; Update order on paste; Uppdatera ordning vid inklistring
+v400_Lang71; Are you sure you want to create a new settings file?¶¶Your current settings will not be deleted - use File/Open to open your settings file again.; Är du säker på att du vill skapa en ny inställningsfil?¶¶Dina nuvarande inställningar kommer inte att raderas - använd Fil/Öppna för att öppna dina inställningsfil igen.
+v400_Lang72; Position; Position
+v400_Lang73; Below the caret; Under snedstrecket
+v400_Lang74; Above the caret; Ovanför snedstrecket
+v400_Lang75; Alternative position; Alternativ position
+v400_Lang76; Mouse cursor; Muspekare
+v400_Lang77; Centered; Centrerad
+v400_Lang78; Tray; Bricka
+v400_Lang89; Upgrade to Professional; Uppgradera till Professional
+v400_Lang90; Shared settings; Delade inställningar
+v400_Lang91; Team; Team
+v400_Lang92; Shared file; Delad fil
+v400_Lang93; Edit shared file; Redigera delad fil
+v400_Lang94; Shared file editing.; Delad filredigering.
+v400_Lang95; Shared file saved, returning to normal mode.; Delad fil sparat, återgår till normalt läge.
+v400_Lang96; Information; Information
+v400_Lang97; SHARED; DELAD
+v400_Lang98; Remember popup position; Kom ihåg popup-positionen
+v400_Lang99; Prefixes; Prefix
+v426_Lang01; Default suffix; Standardsuffix
+v426_Lang02; Exclusions; Exkluderande
+
+[Version 5.00]
+v5_Lang01; Default text; Standardtext
+v5_Lang02; No output; Ingen utmatning
+v5_Lang03; Open Web Page; Öppna webbsida
+v5_Lang04; Run Program; Kör Program
+v5_Lang05; Open File; Öppna Fil
+v5_Lang06; Open Folder; Öppna Mapp
+v5_Lang07; Create Mail; Skapa Email
+v5_Lang08; Activate Window; Aktivera Fönster
+v5_Lang09; To; Till
+v5_Lang10; CC; CC
+v5_Lang11; BCC; BCC
+v5_Lang12; Subject; Ämne
+v5_Lang13; Attachments; Bilagor
+v5_Lang14; Message body; Meddelandetext
+v5_Lang15; Send automatically; Skicka automatiskt
+v5_Lang16; Default; Standard
+v5_Lang17; Address (URL); Adress (URL)
+v5_Lang18; Folder; Mapp
+v5_Lang19; Custom; Anpassad
+v5_Lang20; Browser path; Sökväg till webbläsaren
+v5_Lang21; Working directory; Arbetskatalog
+v5_Lang22; Maximized; Maximerad
+v5_Lang23; Minimized; Minimerad
+v5_Lang24; Wait until program closes; Vänta tills programmet avslutas
+v5_Lang25; Browser; Webbläsare
+v5_Lang26; Table Selection; Urvalstabell
+v5_Lang27; Text File Lookup; Sökning av textfiler
+v5_Lang28; Excel File Lookup; Excel-filsökning
+v5_Lang29; Lookup; Sök på
+v5_Lang30; Table; Tabell
+v5_Lang31; Return column(s); Returnera kolumn(er)
+v5_Lang32; Table file; Tabellfil
+v5_Lang33; Sheet; Ark
+v5_Lang34; Cell range; Cellområde
+v5_Lang35; Column no.; Kolumn nummer
+v5_Lang36; Equals; Motsvarar
+v5_Lang37; User Input; Användarinmatning
+v5_Lang38
+v5_Lang39; Output separator; Utgångsseparator
+v5_Lang40; Force query; Tvinga förfrågan
+v5_Lang41; Insert column; Infoga kolumn
+v5_Lang42; Delete column; Ta bort kolumn
+v5_Lang43; Excel Data Range; Excel-dataintervall
+v5_Lang44; Insert Data; Infoga data
+v5_Lang45; Input; Inmatning
+v5_Lang46; Automation; Automatisering
+v5_Lang47; Customize Menus; Anpassa menyer
+v5_Lang48; Show icons; Visa ikoner
+v5_Lang49; Favourite macros; Favoritmakros
+v5_Lang50; Toolbar; Verktygsfält
+v5_Lang51; More settings; Fler inställningar
+v5_Lang52; Tiles; Plattor
+v5_Lang53; Icon and text below; Ikon och text nedan
+v5_Lang54; Icon and text right; Ikon och text till höger
+v5_Lang55; Icon; Ikon
+v5_Lang56; Tile size (W/H px); Plattor storlek (W/H px)
+v5_Lang57; Padding (px); Utfyllnad (px)
+v5_Lang58; Grid; Rutnät
+v5_Lang59; Grid size (Rows/Columns); Rutstorlek (rader/kolumner)
+v5_Lang60; Order; Ordra
+v5_Lang61; Outside margin (px); Yttre marginal (px)
+v5_Lang62; Background color; Bakgrundsfärg
+v5_Lang63; Vertical; Vertikal
+v5_Lang64; Horizontal; Horisontell
+v5_Lang65; Display Edit, Delete buttons; Visa knapparna Redigera, Radera
+v5_Lang66; Theme; Tema
+v5_Lang67; Calculation; Kalkylation
+v5_Lang68; Save table as; Spara tabellen som
+v5_Lang69; Insert Another Field; Infoga ett annat fält
+v5_Lang70; Macro; Makro
+v5_Lang71; Column width; Kolumnbredd
+v5_Lang72; Popup width (px); Bredd för popup-fönster (px)
+v5_Lang73; Edit shared file; Redigera delad fil
+v5_Lang74; Recent changes; Senaste ändringar
+v5_Lang75; Yes; Ja
+v5_Lang76; No; Nej
+v5_Lang77; Bold; Fet
+v5_Lang78; Italic; Kursivt
+v5_Lang79; Underline; Understrykning
+v5_Lang80; Align Left; Anpassa till vänster
+v5_Lang81; Center; Mitt
+v5_Lang82; Align Right; Anpassa till höger
+v5_Lang83; Justify; Rättfärdiga
+v5_Lang84; Increase Font Size; Öka teckenstorleken
+v5_Lang85; Decrease Font Size; Minska teckenstorleken
+v5_Lang86; Bullets; Kulor
+v5_Lang87; Numbering; Numrering
+v5_Lang88; Decrease Indent; Minska indraget
+v5_Lang89; Increase Indent; Öka indraget
+v5_Lang90; Date; Datum
+v5_Lang91; Time; Tid
+v5_Lang92; User; Användare
+v5_Lang93; Changes; Ändringar
+v5_Lang94; Include spaces; Inkludera mellanslag
+v5_Lang95; Number of items; Antal artiklar
+v5_Lang96; Output format; Utskriftsformat
+v5_Lang97; Output if empty; Utskrift om den är tom
+v5_Lang98; Trim spaces; Trimma utrymmen
+v5_Lang99; All; alla
+v5_Lang100; Adapt case; Anpassa fallet
+v5_Lang101; Uppercase; Stora bokstäver
+v5_Lang102; Lowercase; Små bokstäver
+v5_Lang103; Find and replace; Hitta och ersätta
+v5_Lang104; Would you like to reset the preferences on this tab to their default values?; Vill du återställa inställningarna på den här fliken till standardvärdena?
+v5_Lang105; Reset ALL preferences; Återställ ALLA inställningar
+v5_Lang106; Multi line; Flerlinje
+v5_Lang107; Tables folder; Tabell mapp
+v5_Lang108; Input Format; Inmatningsformat
+v5_Lang109; Digits; Siffror
+v5_Lang110; All matches; Alla matchningar
+v5_Lang111; Neutral color icon; Neutral färgikon
+v5_Lang112; Auto save; Spara automatiskt
+v5_Lang113; Video tutorials; Videohandledning
+v5_Lang114; Message Box; Meddelandebox
+v5_Lang115; Buttons; Knappar
+v5_Lang116; Stop; Stopp
+v5_Lang117; Any key; Vilken tangent som helst
+v5_Lang118; Relative to window; I förhållande till fönster
+v5_Lang119; Keyboard; Tangentbord
+v5_Lang120; Open Shared File; Öppna Delad Fil
+v5_Lang121; Share; Dela
+v5_Lang122; Export; Exportera
+v5_Lang123; Send Link; Skicka Länk
+v5_Lang124; If item exists; Om objektet finns
+v5_Lang125; Skip; Hoppa över
+v5_Lang126; Replace; Ersätt
+v5_Lang127; Select tabs; Välj flikar
+v5_Lang130; File already exists.; Filen finns redan.
+v5_Lang131; Are you sure?; Är du säker?
+v5_Lang132; item(s) will be shared.; artiklarna kommer att delas.
+v5_Lang133; duplicate(s) found; dubblett(er) hittades
+v5_Lang134; will be skipped.; kommer att hoppas över.
+v5_Lang135; will be replaced.; kommer at ersättas.
+v5_Lang136; Paste the path received from your administrator into the field below or select the file.; Klistra in sökvägen från administratören i fältet nedan eller välj filen.
+v5_Lang137; Share selected content with other users. Select the existing tab or enter a new tab name.; Dela utvalt innehåll med andra användare. Välj den befintliga fliken eller ange ett nytt namn på fliken.
+v5_Lang138; Export settings to a cloud or network location where it can be accessed by other users.; Exportera inställningar till en moln- eller nätverksplats där andra användare kan komma åt dem.
+v5_Lang139; Search command; Sök kommando
+v5_Lang140; Remember last input; Kom ihåg den senaste inmatningen
+v5_Lang141; Startup script; Startskript för uppstart
+v5_Lang142
+v5_Lang143; Grid Selection; Val av rutnät
+v5_Lang144; Set columns; Ange kolumner
+v5_Lang145; Selection type; Typ av urval
+v5_Lang146; Optional Section; Frivilligt avsnitt
+v5_Lang147; Select "Command" mode to enable more options.; Välj "Kommando" för att få fler alternativ.
+v5_Lang148; Use clipboard; Använd urklipp
+v5_Lang149; Loop; Loopa
+v5_Lang150; Loop count; Antal loopar
+v5_Lang151; Default button; Standardknapp
+v5_Lang152; Timeout (s); Timeout (s)
+v5_Lang153; Required; Krävs
+v5_Lang154; Letters; Bokstäver
+v5_Lang155; Numbers; Nummer
+v5_Lang156; Email; Email
+v5_Lang157; Align elements horizontally; Anpassa horisontellt
+v5_Lang158; Comment
+v5_Lang159; is active.¶To open Settings window again click FastKeys Tray icon, or press F8.
+v5_Lang160; Alternative backspace method
+v5_Lang161; If they fit in one row
+v5_Lang162; Preview not available
+v5_Lang163; Switch View
+v5_Lang164; Not supported:
+v5_Lang165; Selected items were saved to
+v5_Lang166; Save Selected As
+v5_Lang167; First Letter
+v5_Lang168; Copy to Clipboard
+
+[Version 6.00]
+v6_Lang01; Grid Check
+v6_Lang02; Single
+v6_Lang03; Multi
+v6_Lang04; Delimiters
+v6_Lang05; Checked
+v6_Lang06; Unchecked
+v6_Lang07; Output
+v6_Lang08; Group output
+v6_Lang09; Repeat last command
+v6_Lang10; Double press
+v6_Lang11; Long press
+v6_Lang12; Wait time (s)
+v6_Lang13; Recognize items
+v6_Lang14; Voice Recognition
+v6_Lang15; Base value
+v6_Lang16; Sunday|Monday|Tuesday|Wednesday|Thursday|Friday
+v6_Lang17; Date/Time Calculation
+v6_Lang18; Auto restore hook (min)
+v6_Lang19; Auto reload (min)
+v6_Lang20; If condition
+v6_Lang21; Else
+v6_Lang22; Case If Conditions
+v6_Lang23; Are you sure you want to change the options for the
